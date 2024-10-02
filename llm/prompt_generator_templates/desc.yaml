@@ -1,0 +1,9 @@
+hr_rep-values.yaml:
+    actor: HR Representative
+    target: Explain the company's core values to a new employee.
+sales_rep-products.yaml:
+    actor: Sales Representative
+    target: Pitch a product to a potential customer.
+teacher-class_curriculum.yaml:
+    actor: Teacher
+    target: Create a class curriculum for students.
