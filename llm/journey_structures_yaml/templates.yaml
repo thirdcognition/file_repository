@@ -1,0 +1,2993 @@
+Software Engineer:
+- Introduction to the Company & Team:
+  - Company Values and Mission:
+    - description: Understand our company's core values and how they impact decision-making.
+      end_of_day: 1
+    - description: Learn about our mission and its alignment with team goals.
+      end_of_day: 1
+    Meet the Leadership Team:
+    - description: Introduction to key leadership members and their roles.
+      end_of_day: 2
+    - description: Schedule a meet-and-greet session with your department head.
+      end_of_day: 2
+    Team Structure and Roles:
+    - description: Overview of the team's organizational structure.
+      end_of_day: 3
+    - description: Learn about individual responsibilities and key collaborators.
+      end_of_day: 3
+  Familiarize with Our Product Development Lifecycle:
+  - Product Roadmap Overview:
+    - description: Understand the current and upcoming product roadmap.
+      end_of_day: 4
+    Feature Development Phases:
+    - description: Introduction to our iterative development cycle and feature prioritization.
+      end_of_day: 4
+    - description: Learn the different phases involved from ideation to deployment.
+      end_of_day: 5
+    Collaboration Across Teams:
+    - description: Understand the dynamics between product, engineering, and QA teams.
+      end_of_day: 6
+    - description: Overview of the tools used for cross-functional collaboration.
+      end_of_day: 6
+  Overview of Our Tech Stack:
+  - Key Technologies We Use:
+    - description: Familiarize yourself with the primary languages, frameworks, and
+        libraries we use.
+      end_of_day: 7
+    Language and Framework Preferences:
+    - description: Understand why we choose certain languages and frameworks for specific
+        projects.
+      end_of_day: 8
+    Integrations and APIs:
+    - description: Learn about the APIs and integrations critical to our product functionality.
+      end_of_day: 8
+  Familiarize with Our Codebase:
+  - Key Repositories and Code Structure:
+    - description: Overview of main repositories and folder structures.
+      end_of_day: 9
+    Code Navigation and Search:
+    - description: Learn the best practices for navigating and searching within our
+        codebase.
+      end_of_day: 10
+  Introduction to Our Development Tools and Environments:
+  - Local Development Setup:
+    - description: Guide to setting up your local development environment.
+      end_of_day: 11
+    Development IDEs and Extensions:
+    - description: Recommended IDEs and productivity-boosting extensions we use.
+      end_of_day: 12
+    Testing Environments:
+    - description: Introduction to the various testing environments available and
+        how to access them.
+      end_of_day: 12
+  Understanding Our Version Control and Branching Strategy:
+  - GitFlow Practices:
+    - description: Learn the fundamentals of our GitFlow branching model.
+      end_of_day: 13
+    Branching and Merging Guidelines:
+    - description: Best practices for creating and merging branches within our projects.
+      end_of_day: 14
+    Release Versioning:
+    - description: Understand how we version releases and manage production deployments.
+      end_of_day: 14
+  Our Code Review Process:
+  - Peer Review Guidelines:
+    - description: Understand the steps for conducting a peer review and submitting
+        your code for review.
+      end_of_day: 15
+    Code Review Tools:
+    - description: Introduction to the code review tools we use and how to navigate
+        them.
+      end_of_day: 16
+    Feedback Etiquette:
+    - description: Learn how to give and receive constructive feedback during code
+        reviews.
+      end_of_day: 17
+  Agile and Scrum Methodologies at Our Company:
+  - Sprint Planning and Estimations:
+    - description: The procedure of sprint planning and how it's done.
+      end_of_day: 18
+    - description: How the sprint story points estimation procedure works in our team.
+      end_of_day: 18
+    Daily Stand-ups:
+    - description: Understanding the goals and format of daily stand-ups in our agile
+        process.
+      end_of_day: 19
+    Retrospectives and Process Improvement:
+    - description: How we conduct retrospectives to improve team processes.
+      end_of_day: 20
+  Security Best Practices in Our Development Process:
+  - Handling Sensitive Data:
+    - description: Best practices for handling sensitive data securely in our codebase.
+      end_of_day: 21
+    OWASP Top 10 Vulnerabilities:
+    - description: Overview of the OWASP Top 10 vulnerabilities and how we address
+        them.
+      end_of_day: 22
+    Dependency and Vulnerability Management:
+    - description: Learn how we manage dependencies and address vulnerabilities in
+        our projects.
+      end_of_day: 23
+  Collaborating with Our Product and QA Teams:
+  - Cross-functional Meetings:
+    - description: Understand the purpose and structure of cross-functional meetings
+        between development, product, and QA.
+      end_of_day: 24
+    Feature Specification Reviews:
+    - description: Learn how we review feature specifications collaboratively with
+        product teams.
+      end_of_day: 25
+    Bug Prioritization and Triage:
+    - description: Understand how bugs are triaged and prioritized across teams.
+      end_of_day: 26
+  Our Testing and Debugging Procedures:
+  - Unit and Integration Testing:
+    - description: Understand our approach to unit and integration testing.
+      end_of_day: 27
+    Debugging Tools and Techniques:
+    - description: Learn about debugging tools and techniques for common issues in
+        our codebase.
+      end_of_day: 28
+    Test Automation Practices:
+    - description: Introduction to the automated tests we use and how they fit into
+        our CI/CD process.
+      end_of_day: 29
+  Our Continuous Integration/Continuous Deployment (CI/CD) Pipeline:
+  - CI/CD Workflow Overview:
+    - description: Overview of the CI/CD pipeline and how it integrates with our codebase.
+      end_of_day: 30
+    Pipeline Monitoring:
+    - description: Learn how to monitor and troubleshoot issues in the CI/CD pipeline.
+      end_of_day: 31
+    Deployment Rollback Procedures:
+    - description: Understand how to perform a deployment rollback in case of issues.
+      end_of_day: 31
+  Ongoing Learning and Development Resources at Our Company:
+  - Access to Learning Platforms:
+    - description: Learn about internal and external learning resources available
+        to you.
+      end_of_day: 31
+    Internal Knowledge Sharing Sessions:
+    - description: How to participate in and contribute to our internal knowledge-sharing
+        sessions.
+      end_of_day: 31
+    Mentorship and Coaching Opportunities:
+    - description: Explore mentorship and coaching opportunities within the team.
+      end_of_day: 31
+DevOps Engineer:
+- Introduction to the Company & Team:
+  - Company Goals and Vision:
+    - description: Understand the company's long-term goals and how they align with
+        the DevOps function.
+      end_of_day: 1
+    DevOps Team Structure:
+    - description: Learn about the DevOps team's structure and individual responsibilities.
+      end_of_day: 2
+    Cross-team Collaborations:
+    - description: Overview of how the DevOps team collaborates with other technical
+        and non-technical teams.
+      end_of_day: 2
+  Familiarize with Our System Architecture:
+  - Microservices Architecture Overview:
+    - description: Understand our microservices architecture and how services communicate.
+      end_of_day: 3
+    Cloud Infrastructure Setup:
+    - description: Overview of our cloud infrastructure setup and key services used.
+      end_of_day: 4
+    Service Dependencies:
+    - description: Learn about service dependencies and how they are managed across
+        teams.
+      end_of_day: 5
+  Overview of Our Cloud Infrastructure:
+  - Cloud Providers and Services:
+    - description: Introduction to the cloud providers we use and the services they
+        offer.
+      end_of_day: 6
+    Resource Scaling and Management:
+    - description: Understand how we manage cloud resources and scale based on demand.
+      end_of_day: 7
+    Cost Optimization Strategies:
+    - description: Learn about strategies we employ to optimize cloud infrastructure
+        costs.
+      end_of_day: 8
+  Our Automation Tools and Processes:
+  - CI/CD Automation Tools:
+    - description: Introduction to the automation tools used in our CI/CD pipeline.
+      end_of_day: 9
+    Automated Monitoring Solutions:
+    - description: Learn about the automated monitoring solutions used to ensure system
+        health.
+      end_of_day: 10
+    Deployment Automation:
+    - description: Understand how deployments are automated and monitored in our environment.
+      end_of_day: 11
+  Managing Our CI/CD Pipelines:
+  - Pipeline Configuration and Setup:
+    - description: Step-by-step guide on configuring and setting up CI/CD pipelines.
+      end_of_day: 12
+    Automated Testing and Validation:
+    - description: Learn how automated testing is integrated into our CI/CD pipeline.
+      end_of_day: 13
+    Deployment Environments:
+    - description: Overview of deployment environments and how they are managed.
+      end_of_day: 14
+  Monitoring and Incident Management in Our Company:
+  - Alerting and Notification Systems:
+    - description: Learn about the alerting and notification systems in place for
+        incident management.
+      end_of_day: 15
+    Incident Response and Resolution:
+    - description: Understand how incidents are triaged and resolved in a timely manner.
+      end_of_day: 16
+    Post-Incident Reviews:
+    - description: Overview of how we conduct post-incident reviews to improve future
+        processes.
+      end_of_day: 17
+  Our Configuration Management and Deployment Tools:
+  - Ansible and Terraform:
+    - description: Introduction to Ansible and Terraform for configuration management
+        and deployment.
+      end_of_day: 18
+    Containerization (Docker/Kubernetes):
+    - description: Overview of how we use Docker and Kubernetes for container management.
+      end_of_day: 19
+    Infrastructure as Code (IaC) Principles:
+    - description: Learn the principles of Infrastructure as Code (IaC) and how we
+        apply them.
+      end_of_day: 20
+  Security and Compliance in Our Infrastructure:
+  - Cloud Security Best Practices:
+    - description: Overview of best practices for securing cloud infrastructure.
+      end_of_day: 21
+    Data Encryption Techniques:
+    - description: Learn about data encryption techniques we use to secure sensitive
+        data.
+      end_of_day: 22
+    Compliance with Regulatory Standards:
+    - description: Understand the regulatory standards we comply with and how DevOps
+        supports them.
+      end_of_day: 23
+  Collaborating with Our Development Teams:
+  - Infrastructure-as-Code Best Practices:
+    - description: Best practices for collaborating with development teams on Infrastructure-as-Code.
+      end_of_day: 24
+    Pipeline Adjustments for Development Needs:
+    - description: Learn how to adjust pipelines based on development needs and requirements.
+      end_of_day: 25
+    Communication Channels and Escalations:
+    - description: Overview of communication channels and escalation protocols between
+        DevOps and development teams.
+      end_of_day: 26
+  Our Disaster Recovery Procedures:
+  - Backup and Restore Strategies:
+    - description: Learn about our backup and restore strategies for disaster recovery.
+      end_of_day: 27
+    Disaster Simulation Drills:
+    - description: Understand how disaster simulation drills are conducted and their
+        importance.
+      end_of_day: 28
+    Failover and Recovery Plans:
+    - description: Overview of our failover and recovery plans in case of major incidents.
+      end_of_day: 29
+  Performance Optimization Techniques at Our Company:
+  - Load Balancing Strategies:
+    - description: Learn how load balancing is used to optimize performance.
+      end_of_day: 30
+    Resource Allocation and Tuning:
+    - description: Understand resource allocation techniques and how tuning improves
+        system performance.
+      end_of_day: 30
+    Optimizing Application Performance:
+    - description: Overview of strategies for optimizing application performance in
+        production.
+      end_of_day: 30
+  Version Control and Infrastructure as Code (IaC) in Our Company:
+  - IaC Tools and Frameworks:
+    - description: Introduction to the tools and frameworks we use for managing infrastructure
+        as code.
+      end_of_day: 31
+    Git-Based Infrastructure Management:
+    - description: Learn how we manage infrastructure using Git-based version control.
+      end_of_day: 31
+    Versioning Best Practices:
+    - description: Understand best practices for versioning in IaC environments.
+      end_of_day: 31
+  Ongoing Learning and Development Resources at Our Company:
+  - DevOps Certification Resources:
+    - description: Access to resources for obtaining relevant DevOps certifications.
+      end_of_day: 31
+    Knowledge Sharing Sessions:
+    - description: Learn about internal knowledge-sharing sessions and how to contribute.
+      end_of_day: 31
+    Industry Conferences and Workshops:
+    - description: Information on industry conferences and workshops relevant to DevOps
+        engineers.
+      end_of_day: 31
+Data Scientist:
+- Introduction to the Company & Team:
+  - Data Team Structure and Roles:
+    - description: Understand the structure of the data team and the roles of key
+        members.
+      end_of_day: 1
+    Meet Key Stakeholders:
+    - description: Introduction to the key stakeholders you will collaborate with
+        for data projects.
+      end_of_day: 2
+    Introduction to Cross-Functional Teams:
+    - description: Learn about cross-functional teams and how the data team interacts
+        with them.
+      end_of_day: 3
+  Familiarize with Our Data Strategy:
+  - Data-Driven Decision-Making:
+    - description: Understand how data drives business decisions in our company.
+      end_of_day: 4
+    Long-term Data Strategy and Goals:
+    - description: Overview of the company's long-term data strategy and key objectives.
+      end_of_day: 5
+    Business Insights Through Data:
+    - description: Learn how to derive actionable business insights from data.
+      end_of_day: 6
+  Overview of Our Data Sources and Pipelines:
+  - Key Data Sources:
+    - description: Familiarize yourself with the primary data sources used within
+        the company.
+      end_of_day: 7
+    Data Ingestion Processes:
+    - description: Learn the processes involved in data ingestion and transformation.
+      end_of_day: 8
+    Data Pipeline Architecture:
+    - description: Understand the architecture of our data pipelines and key components.
+      end_of_day: 9
+  Our Data Collection and Cleaning Processes:
+  - Data Quality and Validation Techniques:
+    - description: Learn about the techniques we use to ensure data quality and validate
+        data accuracy.
+      end_of_day: 10
+    Automated Data Cleaning Tools:
+    - description: Introduction to the automated tools used for data cleaning in our
+        workflows.
+      end_of_day: 11
+    Manual vs Automated Data Cleaning:
+    - description: Understand the balance between manual and automated data cleaning
+        processes.
+      end_of_day: 12
+  Our Data Storage and Management Systems:
+  - Cloud-based Storage Solutions:
+    - description: Overview of our cloud-based storage solutions and their advantages.
+      end_of_day: 13
+    Data Warehousing:
+    - description: Learn about our data warehousing infrastructure and best practices.
+      end_of_day: 14
+    Data Partitioning and Retention Policies:
+    - description: Understand our data partitioning strategies and data retention
+        policies.
+      end_of_day: 15
+  Introduction to Our Key Data Tools and Libraries:
+  - Python, R, and Other Tools:
+    - description: Introduction to the programming languages and tools commonly used
+        by our data team.
+      end_of_day: 16
+    Machine Learning Libraries:
+    - description: Overview of key machine learning libraries such as scikit-learn
+        and TensorFlow.
+      end_of_day: 17
+    Data Visualization Tools:
+    - description: Learn about the data visualization tools we use, including Power
+        BI and Tableau.
+      end_of_day: 18
+  Data Security and Privacy at Our Company:
+  - Data Anonymization and Pseudonymization:
+    - description: Learn about techniques for anonymizing and pseudonymizing sensitive
+        data.
+      end_of_day: 19
+    Compliance with Data Regulations:
+    - description: Understand the key data regulations (GDPR/CCPA) and how we comply
+        with them.
+      end_of_day: 20
+    Access Control for Sensitive Data:
+    - description: Introduction to access control measures for managing sensitive
+        data.
+      end_of_day: 21
+  Our Statistical Analysis and Modeling Approaches:
+  - Descriptive and Predictive Modeling:
+    - description: Overview of the descriptive and predictive modeling approaches
+        we use.
+      end_of_day: 22
+    Statistical Significance Testing:
+    - description: Learn about methods for statistical significance testing in our
+        data analysis.
+      end_of_day: 23
+    Model Evaluation Techniques:
+    - description: Understand the techniques used to evaluate model performance.
+      end_of_day: 24
+  Collaborating with Our Engineering and Product Teams:
+  - Joint Product Development Meetings:
+    - description: Learn how the data team collaborates with engineering and product
+        teams in joint meetings.
+      end_of_day: 25
+    Feature and Data Alignment:
+    - description: Understand how features and data are aligned to product goals.
+      end_of_day: 26
+    Feedback Loops from Engineering:
+    - description: Overview of feedback loops from engineering to data science for
+        continuous improvement.
+      end_of_day: 27
+  Our Company's Reporting and Visualization Standards:
+  - Standard Reporting Templates:
+    - description: Learn about the standard reporting templates used across the company.
+      end_of_day: 28
+    Data Storytelling Techniques:
+    - description: Understand the techniques we use for effective data storytelling.
+      end_of_day: 29
+    Visualization Tools and Best Practices:
+    - description: Overview of the best practices for data visualization and tools
+        used.
+      end_of_day: 29
+  Machine Learning Deployment and Monitoring in Our Company:
+  - Model Deployment Frameworks:
+    - description: Introduction to the frameworks we use for deploying machine learning
+        models.
+      end_of_day: 30
+    ML Model Monitoring and Maintenance:
+    - description: Learn how we monitor and maintain machine learning models in production.
+      end_of_day: 31
+    Model Versioning:
+    - description: Understand how model versioning is handled within our deployment
+        process.
+      end_of_day: 31
+  Ongoing Learning and Research Opportunities at Our Company:
+  - Data Science Research Projects:
+    - description: Learn about opportunities to contribute to ongoing data science
+        research projects.
+      end_of_day: 31
+    Participation in Industry Meetups:
+    - description: Opportunities to attend and participate in industry meetups and
+        conferences.
+      end_of_day: 31
+    Access to Online Learning Platforms:
+    - description: Learn about access to online learning platforms for continuous
+        development.
+      end_of_day: 31
+  Our Data Governance and Compliance Policies:
+  - Internal Data Governance Guidelines:
+    - description: Overview of internal data governance guidelines and their importance.
+      end_of_day: 31
+    Compliance with GDPR/CCPA:
+    - description: Understand how the company ensures compliance with GDPR and CCPA
+        regulations.
+      end_of_day: 31
+    Ethical Use of Data:
+    - description: Learn about the company's policies on the ethical use of data.
+      end_of_day: 31
+UX/UI Designer:
+- Introduction to the Company & Team:
+  - Design Team Structure:
+    - description: Understand the structure of the design team and individual responsibilities.
+      end_of_day: 1
+    Meet Cross-Functional Teams:
+    - description: Introduction to the cross-functional teams you will collaborate
+        with.
+      end_of_day: 2
+    Our Design Workflow:
+    - description: Overview of our design workflow and how it integrates with product
+        and development teams.
+      end_of_day: 2
+  Familiarize with Our Product Vision:
+  - Product Roadmap and Strategy:
+    - description: Understand the product roadmap and how design aligns with the overall
+        strategy.
+      end_of_day: 3
+    Target Users and Personas:
+    - description: Learn about the key target users and personas our designs cater
+        to.
+      end_of_day: 4
+    Long-Term Design Goals:
+    - description: Overview of the long-term design goals and their impact on the
+        product.
+      end_of_day: 5
+  Our Design System and Guidelines:
+  - UI Components and Patterns:
+    - description: Introduction to our design system and commonly used UI components.
+      end_of_day: 6
+    Branding Guidelines:
+    - description: Understand our branding guidelines and how they influence design.
+      end_of_day: 7
+    Consistency Across Platforms:
+    - description: Learn about ensuring design consistency across various platforms
+        and devices.
+      end_of_day: 7
+  Understanding Our User Research and Personas:
+  - User Research Methods:
+    - description: Overview of the user research methods we use to gather insights.
+      end_of_day: 8
+    Creating and Updating Personas:
+    - description: Learn how we create and maintain user personas based on research
+        findings.
+      end_of_day: 9
+    Analyzing User Behavior:
+    - description: Introduction to techniques for analyzing user behavior to inform
+        design decisions.
+      end_of_day: 10
+  Our Product and User Flows:
+  - User Journey Mapping:
+    - description: Learn how to map user journeys and understand key user touchpoints.
+      end_of_day: 11
+    Wireflow and Interaction Design:
+    - description: Overview of wireflows and interaction design principles for building
+        user-centric products.
+      end_of_day: 12
+    Usability Testing Feedback:
+    - description: Learn how to conduct usability testing and gather actionable feedback.
+      end_of_day: 13
+  Familiarize with Our Wireframing and Prototyping Tools:
+  - Prototyping Software Overview:
+    - description: Introduction to the prototyping software we use, such as Figma
+        and Sketch.
+      end_of_day: 14
+    Creating Interactive Prototypes:
+    - description: Learn how to create interactive prototypes to visualize user flows.
+      end_of_day: 15
+    Feedback and Iteration Process:
+    - description: Overview of how we gather feedback on prototypes and iterate based
+        on user input.
+      end_of_day: 16
+  Collaborating with Our Product and Development Teams:
+  - Handing Off Designs:
+    - description: Learn how to hand off designs to the development team effectively.
+      end_of_day: 17
+    Design and Development Syncs:
+    - description: Understand the importance of syncing with development teams throughout
+        the design process.
+      end_of_day: 18
+    Iterating Based on Developer Feedback:
+    - description: Overview of how design iterations are informed by developer feedback.
+      end_of_day: 19
+  Our Accessibility Guidelines and Best Practices:
+  - WCAG Guidelines Overview:
+    - description: Introduction to WCAG guidelines and how we ensure accessibility
+        compliance.
+      end_of_day: 20
+    Accessible Design Patterns:
+    - description: Learn about accessible design patterns and their application in
+        our products.
+      end_of_day: 21
+    Testing for Accessibility Compliance:
+    - description: Overview of tools and processes for testing design accessibility
+        compliance.
+      end_of_day: 21
+  Familiarize with Our Visual Design Principles:
+  - Color Theory and Contrast:
+    - description: Understand the principles of color theory and contrast in design.
+      end_of_day: 22
+    Typography and Hierarchy:
+    - description: Learn how to apply typography and hierarchy principles to create
+        effective designs.
+      end_of_day: 23
+    Iconography Standards:
+    - description: Overview of iconography standards and how they contribute to consistent
+        visual design.
+      end_of_day: 24
+  Introduction to Our UI Design Tools:
+  - UI Design Software (Figma, Sketch, etc.):
+    - description: Introduction to the UI design software we use and their features.
+      end_of_day: 25
+    Designing for Responsive Layouts:
+    - description: Learn how to design for responsive layouts across different devices.
+      end_of_day: 26
+    Collaborating on Design Files:
+    - description: Understand best practices for collaborating on design files within
+        our team.
+      end_of_day: 27
+  User Testing and Feedback Collection at Our Company:
+  - Moderated vs Unmoderated Testing:
+    - description: Overview of the differences between moderated and unmoderated testing.
+      end_of_day: 28
+    Gathering and Synthesizing Feedback:
+    - description: Learn how to gather and synthesize feedback from user testing.
+      end_of_day: 29
+    Iterating on Design Based on Feedback:
+    - description: Understand how to iterate on designs based on feedback from users
+        and stakeholders.
+      end_of_day: 29
+  Our Design Review and Approval Process:
+  - Design Critique Sessions:
+    - description: Learn how to participate in and contribute to design critique sessions.
+      end_of_day: 30
+    Final Review and Sign-Off:
+    - description: Overview of the process for final design review and sign-off by
+        stakeholders.
+      end_of_day: 30
+    Stakeholder Presentation:
+    - description: Understand how to present designs to stakeholders and gather final
+        feedback.
+      end_of_day: 30
+  Ongoing Learning and Design Trends in Our Company:
+  - Design Trend Workshops:
+    - description: Learn about design trend workshops and opportunities for continuous
+        learning.
+      end_of_day: 31
+    Access to Design Resources:
+    - description: Overview of the design resources available for ongoing professional
+        development.
+      end_of_day: 31
+    Continuous Feedback and Growth:
+    - description: Understand the feedback loops in place to ensure continuous growth
+        as a designer.
+      end_of_day: 31
+QA Engineer:
+- Introduction to the Company & Team:
+  - QA Team Structure:
+    - description: Understand the structure of the QA team and individual roles.
+      end_of_day: 1
+    Meet the Development Teams:
+    - description: Introduction to the development teams you'll be working closely
+        with.
+      end_of_day: 2
+    Cross-Team Collaboration Processes:
+    - description: Overview of how QA collaborates with development, product, and
+        design teams.
+      end_of_day: 2
+  Familiarize with Our QA Processes:
+  - Testing Lifecycle Overview:
+    - description: Understand the full lifecycle of testing from planning to release.
+      end_of_day: 3
+    Bug Reporting Standards:
+    - description: Learn the standards for reporting bugs and issues in the system.
+      end_of_day: 4
+    Defining Quality Metrics:
+    - description: Overview of key quality metrics used to evaluate software performance.
+      end_of_day: 5
+  Overview of Our Testing Tools:
+  - Automated Testing Tools:
+    - description: Introduction to the automated testing tools used by our QA team.
+      end_of_day: 6
+    Manual Testing Frameworks:
+    - description: Overview of the manual testing frameworks and when they are applied.
+      end_of_day: 7
+    Test Reporting Tools:
+    - description: Learn about the tools used for generating test reports and tracking
+        results.
+      end_of_day: 7
+  Collaborating with Our Development Teams:
+  - Agile Collaboration and Standups:
+    - description: Understand the role of QA in Agile ceremonies such as standups
+        and retrospectives.
+      end_of_day: 8
+    Test Case Review with Developers:
+    - description: Learn how to collaborate with developers during test case review
+        sessions.
+      end_of_day: 9
+    Feedback Loop for Test Results:
+    - description: Overview of how test results are communicated and fed back into
+        development.
+      end_of_day: 9
+  Our Bug Tracking and Issue Resolution Process:
+  - JIRA Ticketing System:
+    - description: Learn how to navigate and use the JIRA ticketing system for bug
+        tracking.
+      end_of_day: 10
+    Bug Prioritization and Escalation:
+    - description: Understand how bugs are prioritized and escalated for resolution.
+      end_of_day: 11
+    Issue Triage Process:
+    - description: Overview of the process for triaging and resolving reported issues.
+      end_of_day: 12
+  Introduction to Our Testing Framework and Automation:
+  - Selenium and Test Automation:
+    - description: Introduction to the Selenium framework and its use in automated
+        testing.
+      end_of_day: 13
+    Regression Testing Suite:
+    - description: Overview of the regression testing suite and how it's maintained.
+      end_of_day: 14
+    Automated Test Reporting:
+    - description: Learn how automated test results are reported and analyzed.
+      end_of_day: 15
+  Manual vs. Automated Testing at Our Company:
+  - Defining Manual vs Automated Scenarios:
+    - description: Understand when to use manual vs automated testing in our processes.
+      end_of_day: 16
+    When to Use Each Testing Approach:
+    - description: Learn the criteria for selecting the appropriate testing approach
+        for a given task.
+      end_of_day: 17
+    Balancing Speed and Thoroughness:
+    - description: Overview of strategies for balancing speed and thoroughness in
+        testing.
+      end_of_day: 17
+  Security Testing in Our Company:
+  - Penetration Testing Overview:
+    - description: Introduction to penetration testing and its importance in security
+        validation.
+      end_of_day: 18
+    Vulnerability Assessment Tools:
+    - description: Learn about the tools used for vulnerability assessment in our
+        infrastructure.
+      end_of_day: 19
+    Ensuring Secure Development Practices:
+    - description: Understand how QA contributes to ensuring secure development practices.
+      end_of_day: 20
+  Performance and Load Testing at Our Company:
+  - Performance Test Scenarios:
+    - description: Learn about the scenarios used in performance testing.
+      end_of_day: 21
+    Load Testing Tools and Metrics:
+    - description: Overview of the tools and metrics used for load testing and performance
+        analysis.
+      end_of_day: 22
+    Performance Optimization Techniques:
+    - description: Learn the techniques used to optimize system performance based
+        on testing results.
+      end_of_day: 23
+  Version Control in Our QA Process:
+  - Test Case Versioning:
+    - description: Understand how test cases are versioned and maintained.
+      end_of_day: 24
+    Managing Test Repositories:
+    - description: Learn about managing test repositories and ensuring consistency.
+      end_of_day: 25
+    Tracking Changes in Test Frameworks:
+    - description: Overview of how changes in test frameworks are tracked and implemented.
+      end_of_day: 25
+  Continuous Testing in Our CI/CD Pipeline:
+  - Integration of Testing into CI:
+    - description: Learn how testing is integrated into the continuous integration
+        (CI) process.
+      end_of_day: 26
+    Automated Test Triggers:
+    - description: Overview of automated triggers for running tests during CI/CD pipelines.
+      end_of_day: 27
+    Pipeline Monitoring for Failures:
+    - description: Understand how to monitor pipelines and troubleshoot test failures.
+      end_of_day: 28
+  Ongoing Learning and Development Resources at Our Company:
+  - QA Certifications and Resources:
+    - description: Learn about available certifications and resources for QA professionals.
+      end_of_day: 29
+    QA Team Knowledge Sharing:
+    - description: Overview of internal knowledge-sharing practices within the QA
+        team.
+      end_of_day: 30
+    Internal QA Workshops:
+    - description: Learn about internal workshops designed to enhance QA skills and
+        techniques.
+      end_of_day: 31
+Product Manager:
+- Introduction to the Company & Team:
+  - Meet Key Stakeholders:
+    - description: Introduction to key stakeholders and their roles in the product
+        lifecycle.
+      end_of_day: 1
+    Understanding Company Culture and Values:
+    - description: Learn about the company's culture and values, and how they align
+        with product strategy.
+      end_of_day: 2
+    Product Team Structure and Roles:
+    - description: Understand the structure of the product team and individual roles.
+      end_of_day: 2
+  Familiarize with Our Product Vision and Roadmap:
+  - Product Strategy Overview:
+    - description: Overview of the product strategy and how it drives decision-making.
+      end_of_day: 3
+    Current and Future Roadmap:
+    - description: Learn about the current and future roadmap for our products.
+      end_of_day: 4
+    Competitive Landscape:
+    - description: Understand the competitive landscape and how it impacts our product
+        roadmap.
+      end_of_day: 5
+  Overview of Our Product Development Lifecycle:
+  - From Concept to Launch:
+    - description: Learn about the process of taking a product from concept to launch.
+      end_of_day: 6
+    Feature Prioritization and Timelines:
+    - description: Understand how features are prioritized and their timelines for
+        delivery.
+      end_of_day: 7
+    Cross-team Collaboration:
+    - description: Overview of collaboration between product, design, and engineering
+        teams throughout the lifecycle.
+      end_of_day: 8
+  Collaborating with Our Engineering and Design Teams:
+  - Handing Off Product Specs:
+    - description: Learn how to effectively hand off product specifications to engineering
+        and design teams.
+      end_of_day: 9
+    Design-Development-Product Alignment:
+    - description: Understand how to maintain alignment between design, development,
+        and product teams.
+      end_of_day: 10
+    Feedback Loops and Iteration:
+    - description: Overview of the feedback loops between teams and how iterations
+        are managed.
+      end_of_day: 11
+  Understanding Our Customer Needs and Market Research:
+  - Customer Persona Development:
+    - description: Learn how to develop customer personas based on research and feedback.
+      end_of_day: 12
+    Market Trends and Competitor Analysis:
+    - description: Overview of market trends and how competitor analysis informs our
+        product decisions.
+      end_of_day: 13
+    Customer Feedback Integration:
+    - description: Understand how customer feedback is integrated into the product
+        development process.
+      end_of_day: 14
+  Our Prioritization Frameworks:
+  - Kano Model:
+    - description: Introduction to the Kano Model and how it is used for feature prioritization.
+      end_of_day: 15
+    RICE Scoring:
+    - description: Learn how RICE scoring is applied to prioritize features and tasks.
+      end_of_day: 16
+    MoSCoW Prioritization:
+    - description: Overview of MoSCoW prioritization and how it's used in our projects.
+      end_of_day: 17
+  Agile Methodologies at Our Company:
+  - Product Role in Agile:
+    - description: Learn the role of product managers in Agile methodologies.
+      end_of_day: 18
+    Backlog Refinement and Prioritization:
+    - description: Understand how backlog refinement and prioritization is managed
+        within our Agile framework.
+      end_of_day: 19
+    Sprint Review and Feedback:
+    - description: Overview of sprint reviews and how feedback is collected and acted
+        upon.
+      end_of_day: 20
+  Defining Product Requirements and Specifications for Our Company:
+  - User Stories and Epics:
+    - description: Learn how to write user stories and epics that define product requirements.
+      end_of_day: 21
+    Writing Clear and Concise Specs:
+    - description: Understand how to write clear and concise product specifications.
+      end_of_day: 22
+    Acceptance Criteria and Definition of Done:
+    - description: Overview of defining acceptance criteria and what constitutes 'done'
+        for features.
+      end_of_day: 23
+  Our Product Metrics and KPIs:
+  - Key Success Metrics:
+    - description: Learn about the key metrics used to measure product success.
+      end_of_day: 24
+    Tracking and Analyzing Product Performance:
+    - description: Understand how product performance is tracked and analyzed using
+        metrics.
+      end_of_day: 25
+    KPIs for Growth and Engagement:
+    - description: Overview of KPIs used to measure growth and user engagement.
+      end_of_day: 26
+  Our Product Launch and Post-Launch Processes:
+  - Launch Strategy and Coordination:
+    - description: Learn about the strategy and coordination involved in a successful
+        product launch.
+      end_of_day: 27
+    Post-Launch Feedback Collection:
+    - description: Understand how feedback is collected post-launch to improve future
+        iterations.
+      end_of_day: 28
+    Post-Launch Performance Tracking:
+    - description: Overview of tracking product performance post-launch and responding
+        to issues.
+      end_of_day: 29
+  Managing Stakeholders at Our Company:
+  - Aligning Stakeholder Expectations:
+    - description: Learn strategies for aligning stakeholder expectations with product
+        goals.
+      end_of_day: 30
+    Communicating Progress and Risks:
+    - description: Understand how to communicate progress and potential risks to stakeholders.
+      end_of_day: 30
+    Conflict Resolution Techniques:
+    - description: Overview of techniques for resolving conflicts with stakeholders.
+      end_of_day: 30
+  Feedback Loops and Iteration in Our Product Development:
+  - Continuous Improvement:
+    - description: Learn about the continuous improvement processes in product development.
+      end_of_day: 31
+    Capturing and Utilizing Feedback:
+    - description: Understand how feedback is captured and utilized to iterate on
+        the product.
+      end_of_day: 31
+    Iterating Based on Feedback:
+    - description: Overview of how product features and functionalities are iterated
+        upon based on feedback.
+      end_of_day: 31
+  Ongoing Learning and Industry Trends in Our Company:
+  - Industry Reports and Publications:
+    - description: Access to industry reports and publications relevant to product
+        management.
+      end_of_day: 31
+    Networking and Conferences:
+    - description: Learn about opportunities to attend networking events and industry
+        conferences.
+      end_of_day: 31
+    Learning Platforms for Product Managers:
+    - description: Overview of learning platforms available to product managers for
+        ongoing professional development.
+      end_of_day: 31
+Technical Program Manager:
+- Introduction to the Company & Team:
+  - Meet the Leadership Team:
+    - description: Introduction to the leadership team and their role in program success.
+      end_of_day: 1
+    Understanding Program Goals:
+    - description: Overview of program goals and their alignment with company objectives.
+      end_of_day: 2
+    Key Program Stakeholders:
+    - description: Introduction to key stakeholders involved in the program and their
+        responsibilities.
+      end_of_day: 3
+  Familiarize with Our Program Objectives:
+  - Key Deliverables and Milestones:
+    - description: Understand the key deliverables and milestones of the program.
+      end_of_day: 4
+    Strategic Program Objectives:
+    - description: Learn about the strategic objectives of the program and how they
+        align with broader business goals.
+      end_of_day: 5
+    Alignment with Business Goals:
+    - description: Overview of how the program objectives are aligned with the company's
+        long-term business goals.
+      end_of_day: 6
+  Agile Project Management at Our Company:
+  - Agile Program Management Overview:
+    - description: Understand how Agile principles are applied at the program level.
+      end_of_day: 7
+    Tracking Agile Metrics:
+    - description: Learn the metrics used to track progress in Agile projects.
+      end_of_day: 8
+    Program Increment (PI) Planning:
+    - description: Overview of how Program Increment (PI) planning is conducted.
+      end_of_day: 9
+  Collaborating with Our Engineering and Product Teams:
+  - Inter-team Collaboration:
+    - description: Learn how the program management team collaborates with engineering
+        and product teams.
+      end_of_day: 10
+    Synchronizing Program and Product Roadmaps:
+    - description: Understand the process of synchronizing the program and product
+        roadmaps to ensure alignment.
+      end_of_day: 11
+    Managing Cross-functional Dependencies:
+    - description: Overview of managing cross-functional dependencies across teams.
+      end_of_day: 12
+  Our Risk Management and Mitigation Strategies:
+  - Identifying Program Risks:
+    - description: Learn about the process of identifying potential risks in the program.
+      end_of_day: 13
+    Risk Mitigation Plans:
+    - description: Understand the strategies for mitigating program risks.
+      end_of_day: 14
+    Escalation and Contingency Planning:
+    - description: Overview of escalation paths and contingency planning for high-impact
+        risks.
+      end_of_day: 15
+  Tools and Software for Project Management at Our Company:
+  - JIRA and Confluence for Program Tracking:
+    - description: Introduction to how JIRA and Confluence are used for tracking program
+        progress.
+      end_of_day: 16
+    Project Management Dashboards:
+    - description: Learn about the dashboards used to visualize project progress and
+        key metrics.
+      end_of_day: 17
+    Collaboration and Communication Tools:
+    - description: Overview of tools used for cross-team communication and collaboration.
+      end_of_day: 18
+  Tracking Progress and Reporting at Our Company:
+  - Program Status Reports:
+    - description: Learn how to create and present program status reports to stakeholders.
+      end_of_day: 19
+    Burnup and Burndown Charts:
+    - description: Understand how burnup and burndown charts are used to track progress.
+      end_of_day: 20
+    Stakeholder Progress Updates:
+    - description: Overview of how progress updates are communicated to stakeholders.
+      end_of_day: 21
+  Stakeholder Management and Communication in Our Company:
+  - Stakeholder Communication Plans:
+    - description: Learn how to develop and execute stakeholder communication plans.
+      end_of_day: 22
+    Regular Program Briefings:
+    - description: Understand the frequency and structure of regular program briefings
+        with stakeholders.
+      end_of_day: 23
+    Managing Stakeholder Expectations:
+    - description: Overview of strategies for managing and aligning stakeholder expectations.
+      end_of_day: 24
+  Resource Allocation and Budgeting at Our Company:
+  - Allocating Resources Across Teams:
+    - description: Learn about resource allocation and managing team capacity across
+        multiple teams.
+      end_of_day: 25
+    Program Budgeting and Forecasting:
+    - description: Understand the process for budgeting and forecasting for program
+        needs.
+      end_of_day: 26
+    Resource Adjustments and Rebalancing:
+    - description: Overview of how resources are rebalanced based on shifting priorities.
+      end_of_day: 27
+  Our Project Metrics and KPIs:
+  - Measuring Program Success:
+    - description: Learn about the key metrics used to measure program success.
+      end_of_day: 28
+    Tracking Program Health:
+    - description: Understand how to track the overall health of the program using
+        defined KPIs.
+      end_of_day: 29
+    KPIs for Delivery and Quality:
+    - description: Overview of KPIs used to measure delivery timelines and quality.
+      end_of_day: 29
+  Change Management Processes at Our Company:
+  - Managing Scope Changes:
+    - description: Learn how to manage scope changes within the program.
+      end_of_day: 30
+    Change Impact Analysis:
+    - description: Understand how to assess the impact of changes on program objectives
+        and timelines.
+      end_of_day: 30
+    Stakeholder Sign-offs:
+    - description: Overview of the sign-off process for changes from key stakeholders.
+      end_of_day: 30
+  Ongoing Learning and Development Resources at Our Company:
+  - Certifications and Training Programs:
+    - description: Learn about available certifications and training programs for
+        program managers.
+      end_of_day: 31
+    Program Management Conferences:
+    - description: Overview of industry conferences and networking opportunities for
+        program managers.
+      end_of_day: 31
+    Internal Knowledge Sharing Sessions:
+    - description: Understand how internal knowledge-sharing sessions help with continuous
+        development.
+      end_of_day: 31
+Scrum Master:
+- Introduction to the Company & Team:
+  - Meet the Scrum Team Members:
+    - description: Introduction to the Scrum team members and their roles.
+      end_of_day: 1
+    Understanding Company Structure:
+    - description: Overview of the company's structure and how it impacts Scrum teams.
+      end_of_day: 2
+    Introduction to Scrum Master Role:
+    - description: Understand the key responsibilities and expectations for the Scrum
+        Master role.
+      end_of_day: 3
+  Familiarize with Agile Principles at Our Company:
+  - Agile Manifesto Overview:
+    - description: Learn the principles of the Agile Manifesto and how they guide
+        our practices.
+      end_of_day: 4
+    Agile Values and Principles in Practice:
+    - description: Understand how Agile values and principles are implemented in day-to-day
+        work.
+      end_of_day: 5
+    Adapting Agile in Our Company:
+    - description: Overview of how Agile practices are adapted to fit the company's
+        unique needs.
+      end_of_day: 6
+  Scrum Methodology at Our Company:
+  - Scrum Framework Overview:
+    - description: Understand the Scrum framework and its application in our company.
+      end_of_day: 7
+    Scrum Ceremonies and Their Importance:
+    - description: Learn about the key Scrum ceremonies and their significance.
+      end_of_day: 8
+    Scrum Roles and Responsibilities:
+    - description: Overview of the roles and responsibilities within the Scrum team.
+      end_of_day: 9
+  Roles and Responsibilities in Scrum at Our Company:
+  - Product Owner vs Scrum Master:
+    - description: Understand the differences between the roles of the Product Owner
+        and Scrum Master.
+      end_of_day: 10
+    Development Team Roles:
+    - description: Learn about the roles and responsibilities of the development team.
+      end_of_day: 11
+    Supporting Self-Organizing Teams:
+    - description: Overview of how the Scrum Master supports self-organizing teams.
+      end_of_day: 12
+  Facilitating Scrum Ceremonies in Our Company:
+  - Daily Stand-ups:
+    - description: Learn how to facilitate daily stand-ups effectively.
+      end_of_day: 13
+    Sprint Planning and Review:
+    - description: Overview of facilitating sprint planning and review sessions.
+      end_of_day: 14
+    Retrospectives and Continuous Improvement:
+    - description: Understand how retrospectives are conducted to drive continuous
+        improvement.
+      end_of_day: 15
+  Sprint Planning and Execution at Our Company:
+  - Creating Sprint Backlog:
+    - description: Learn how to create and prioritize a sprint backlog.
+      end_of_day: 16
+    Defining Sprint Goals:
+    - description: Understand how to define clear and achievable sprint goals.
+      end_of_day: 17
+    Ensuring Successful Sprint Execution:
+    - description: Overview of how to ensure successful execution of sprints.
+      end_of_day: 18
+  Collaborating with Our Product and Development Teams:
+  - Facilitating Cross-team Communication:
+    - description: Understand how to facilitate communication between product and
+        development teams.
+      end_of_day: 19
+    Collaborating on Product Backlog:
+    - description: Learn how to collaborate effectively on managing the product backlog.
+      end_of_day: 20
+    Resolving Inter-team Conflicts:
+    - description: Overview of strategies for resolving conflicts between teams.
+      end_of_day: 21
+  Tracking Progress and Metrics in Our Scrum Teams:
+  - Velocity and Burndown Charts:
+    - description: Learn how to track team progress using velocity and burndown charts.
+      end_of_day: 22
+    Tracking Team Progress:
+    - description: Understand the methods used to track progress across the Scrum
+        team.
+      end_of_day: 23
+    Measuring Team Effectiveness:
+    - description: Overview of metrics used to measure team effectiveness in Scrum.
+      end_of_day: 24
+  Removing Roadblocks for Our Teams:
+  - Identifying and Resolving Impediments:
+    - description: Learn how to identify and resolve impediments that block the team's
+        progress.
+      end_of_day: 25
+    Supporting Team Through Challenges:
+    - description: Understand how to support the team through technical or process
+        challenges.
+      end_of_day: 26
+    Escalating Critical Issues:
+    - description: Overview of when and how to escalate critical issues that require
+        external support.
+      end_of_day: 27
+  Continuous Improvement and Retrospectives at Our Company:
+  - Conducting Effective Retrospectives:
+    - description: Learn how to conduct retrospectives that lead to actionable improvements.
+      end_of_day: 28
+    Identifying Areas for Improvement:
+    - description: Understand how to identify areas for improvement in the team's
+        processes.
+      end_of_day: 29
+    Implementing Process Improvements:
+    - description: Overview of how process improvements are implemented based on retrospective
+        feedback.
+      end_of_day: 29
+  Agile Tools and Software at Our Company:
+  - Scrum Management Tools:
+    - description: Learn about the tools we use to manage Scrum projects, such as
+        JIRA.
+      end_of_day: 30
+    Real-time Tracking Software:
+    - description: Overview of software used for real-time tracking of sprint progress.
+      end_of_day: 30
+    Collaboration and Communication Platforms:
+    - description: Understand the platforms we use for communication and collaboration
+        within Scrum teams.
+      end_of_day: 30
+  Ongoing Learning and Development Resources at Our Company:
+  - Scrum Master Certifications:
+    - description: Learn about available Scrum Master certifications for further professional
+        development.
+      end_of_day: 31
+    Agile and Scrum Conferences:
+    - description: Overview of industry conferences and events focused on Agile and
+        Scrum.
+      end_of_day: 31
+    Internal Agile Workshops:
+    - description: Understand the internal workshops available for deepening Agile
+        and Scrum knowledge.
+      end_of_day: 31
+IT Support Specialist:
+- Introduction to the Company & Team:
+  - Meet the IT Support Team:
+    - description: Introduction to the IT support team and their roles in the company.
+      end_of_day: 1
+    Key Stakeholders and End Users:
+    - description: Learn about the key stakeholders and end users IT support interacts
+        with.
+      end_of_day: 2
+    Understanding IT Support Goals:
+    - description: Understand the main goals and objectives of the IT support team.
+      end_of_day: 3
+  Familiarize with Our Internal Systems and Infrastructure:
+  - Internal Systems Overview:
+    - description: Get an overview of the internal systems used within the company.
+      end_of_day: 4
+    Company Networks and Servers:
+    - description: Learn about the company's network architecture and server infrastructure.
+      end_of_day: 5
+    Cloud Services and Integrations:
+    - description: Understand the cloud services and integrations that support company
+        operations.
+      end_of_day: 6
+  Common Issues and Troubleshooting at Our Company:
+  - Most Frequently Reported Issues:
+    - description: Familiarize yourself with the most common IT issues reported by
+        end users.
+      end_of_day: 7
+    Standard Troubleshooting Processes:
+    - description: Learn the standard troubleshooting processes for resolving technical
+        issues.
+      end_of_day: 8
+    Issue Prioritization:
+    - description: Understand how IT support prioritizes issues based on severity
+        and impact.
+      end_of_day: 9
+  Collaborating with Our Engineering and Operations Teams:
+  - Inter-team Communication:
+    - description: Learn how to effectively communicate with engineering and operations
+        teams.
+      end_of_day: 10
+    Coordinating Incident Response:
+    - description: Understand the process for coordinating incident response across
+        teams.
+      end_of_day: 11
+    Sharing Technical Knowledge:
+    - description: Overview of how technical knowledge is shared between teams to
+        improve support processes.
+      end_of_day: 12
+  Our Support Tools and Ticketing System:
+  - Ticket Management Software:
+    - description: Learn about the ticket management software used to track support
+        requests.
+      end_of_day: 13
+    Logging and Tracking Support Tickets:
+    - description: Understand the processes for logging and tracking support tickets.
+      end_of_day: 14
+    Issue Escalation Process:
+    - description: Overview of the process for escalating critical issues to higher
+        levels of support.
+      end_of_day: 15
+  Incident Management and Escalation Process at Our Company:
+  - Incident Response Procedures:
+    - description: Learn the steps involved in incident response at the company.
+      end_of_day: 16
+    Escalating Critical Incidents:
+    - description: Understand when and how to escalate critical incidents for timely
+        resolution.
+      end_of_day: 17
+    Post-Incident Reviews:
+    - description: Overview of post-incident reviews and how they help improve future
+        responses.
+      end_of_day: 18
+  Our Network and Systems Security:
+  - Network Security Overview:
+    - description: Understand the basics of network security within the company.
+      end_of_day: 19
+    Managing Firewall and VPN Access:
+    - description: Learn about managing firewall settings and VPN access for remote
+        employees.
+      end_of_day: 20
+    Security Vulnerability Response:
+    - description: Overview of the processes for responding to security vulnerabilities
+        in the network.
+      end_of_day: 21
+  Our Software and Hardware Setup Procedures:
+  - Standard Setup for New Employees:
+    - description: Learn the procedures for setting up software and hardware for new
+        employees.
+      end_of_day: 22
+    Software Installation Protocols:
+    - description: Understand the protocols for installing and configuring software
+        for users.
+      end_of_day: 23
+    Managing Hardware Inventory:
+    - description: Overview of how the IT team manages hardware inventory and tracks
+        equipment.
+      end_of_day: 24
+  User Account and Permissions Management at Our Company:
+  - Managing User Accounts:
+    - description: Learn how to create and manage user accounts within the company's
+        systems.
+      end_of_day: 25
+    Granting and Revoking Permissions:
+    - description: Understand how to grant or revoke access permissions for users.
+      end_of_day: 26
+    Active Directory and User Policies:
+    - description: Overview of Active Directory management and user policy enforcement.
+      end_of_day: 27
+  Our Company Policies on IT Security:
+  - Password Management Guidelines:
+    - description: Learn about password management guidelines to ensure security compliance.
+      end_of_day: 28
+    Data Protection Policies:
+    - description: Understand the company's data protection policies and how they
+        apply to IT support.
+      end_of_day: 29
+    Security Auditing Procedures:
+    - description: Overview of the security auditing procedures used to maintain system
+        security.
+      end_of_day: 29
+  Performance Monitoring Tools at Our Company:
+  - Monitoring Network Performance:
+    - description: Learn how to monitor the network performance using the company's
+        tools.
+      end_of_day: 30
+    Server and System Health Checks:
+    - description: Understand how to perform server and system health checks regularly.
+      end_of_day: 30
+    Alerting and Logging Tools:
+    - description: Overview of the tools used for alerting and logging system issues.
+      end_of_day: 30
+  Backup and Disaster Recovery Procedures at Our Company:
+  - Data Backup Processes:
+    - description: Learn about the data backup processes to ensure data integrity.
+      end_of_day: 31
+    System Recovery Protocols:
+    - description: Understand the protocols for recovering systems in the event of
+        a failure.
+      end_of_day: 31
+    Disaster Recovery Drills:
+    - description: Overview of how disaster recovery drills are conducted to test
+        preparedness.
+      end_of_day: 31
+  Ongoing Learning and Certification Opportunities at Our Company:
+  - IT Support Certifications:
+    - description: Learn about the certification programs available for IT support
+        staff.
+      end_of_day: 31
+    Continuous Learning Programs:
+    - description: Overview of the company's continuous learning programs to enhance
+        skills.
+      end_of_day: 31
+    Participation in IT Conferences:
+    - description: Understand how IT support staff can participate in industry conferences
+        and events.
+      end_of_day: 31
+Cloud Engineer:
+- Introduction to the Company & Team:
+  - Meet the Cloud Engineering Team:
+    - description: Introduction to the cloud engineering team and their roles.
+      end_of_day: 1
+    Cloud Architecture Stakeholders:
+    - description: Learn about the key stakeholders involved in cloud architecture
+        decisions.
+      end_of_day: 2
+    Cross-functional Teams:
+    - description: Understand how cloud engineers collaborate with cross-functional
+        teams.
+      end_of_day: 3
+  Familiarize with Our Cloud Architecture:
+  - Cloud Infrastructure Overview:
+    - description: Get an overview of the company's cloud infrastructure and key components.
+      end_of_day: 4
+    Hybrid and Multi-Cloud Strategies:
+    - description: Understand the company's strategies for hybrid and multi-cloud
+        environments.
+      end_of_day: 5
+    Cloud Networking:
+    - description: Learn about the networking setups within the cloud infrastructure.
+      end_of_day: 6
+  Overview of Our Cloud Service Providers (e.g., AWS, Azure):
+  - Cloud Provider Selection Criteria:
+    - description: Learn how the company selects cloud service providers based on
+        needs and performance.
+      end_of_day: 7
+    AWS/Azure Services Overview:
+    - description: Understand the key services provided by AWS/Azure and how they
+        are utilized.
+      end_of_day: 8
+    Service Pricing and Management:
+    - description: Overview of cloud service pricing models and how to manage costs
+        effectively.
+      end_of_day: 9
+  Our Cloud Security Best Practices:
+  - Identity and Access Management:
+    - description: Learn about best practices for identity and access management in
+        the cloud.
+      end_of_day: 10
+    Encryption and Data Protection:
+    - description: Understand the strategies used for encrypting and protecting data
+        in the cloud.
+      end_of_day: 11
+    Securing Cloud Networks:
+    - description: Overview of securing cloud networks to prevent unauthorized access.
+      end_of_day: 12
+  Our Infrastructure as Code (IaC) Approach:
+  - IaC Tools and Frameworks:
+    - description: Learn about the tools and frameworks used for Infrastructure as
+        Code (IaC).
+      end_of_day: 13
+    Versioning and Change Management:
+    - description: Understand how versioning and change management are handled in
+        IaC.
+      end_of_day: 14
+    Best Practices for IaC:
+    - description: Overview of best practices for managing cloud infrastructure through
+        code.
+      end_of_day: 15
+  Containerization and Orchestration Tools at Our Company:
+  - Docker and Kubernetes Overview:
+    - description: Learn about Docker and Kubernetes and their roles in container
+        orchestration.
+      end_of_day: 16
+    Container Orchestration:
+    - description: Understand how containers are orchestrated for deployment and scaling.
+      end_of_day: 17
+    Best Practices for Container Security:
+    - description: Overview of best practices for securing containers in the cloud.
+      end_of_day: 18
+  Monitoring and Logging in Our Cloud Environments:
+  - Cloud Monitoring Tools:
+    - description: Learn about the tools used to monitor cloud infrastructure performance.
+      end_of_day: 19
+    Log Management Systems:
+    - description: Understand how log management systems help track cloud activities.
+      end_of_day: 20
+    Alerting and Incident Response:
+    - description: Overview of how alerts are configured and incidents are responded
+        to in the cloud.
+      end_of_day: 21
+  Cost Optimization Strategies at Our Company:
+  - Monitoring Cloud Costs:
+    - description: Learn how to monitor cloud usage and costs effectively.
+      end_of_day: 22
+    Optimizing Resource Usage:
+    - description: Understand strategies for optimizing resource usage in the cloud
+        to reduce costs.
+      end_of_day: 23
+    Cost-effective Cloud Architecture:
+    - description: Overview of designing cost-effective cloud architectures for scalability.
+      end_of_day: 24
+  Collaborating with Our Development and DevOps Teams:
+  - Aligning Cloud Infrastructure with Development:
+    - description: Learn how to align cloud infrastructure with the needs of the development
+        team.
+      end_of_day: 25
+    Supporting DevOps in Cloud Deployments:
+    - description: Understand how cloud engineers support DevOps in continuous deployments.
+      end_of_day: 26
+    Troubleshooting Cloud-related Issues:
+    - description: Overview of how cloud engineers troubleshoot and resolve cloud-related
+        issues.
+      end_of_day: 27
+  Our CI/CD in Cloud Environments:
+  - CI/CD Pipeline Integration:
+    - description: Learn about integrating cloud infrastructure with CI/CD pipelines.
+      end_of_day: 28
+    Continuous Delivery in the Cloud:
+    - description: Understand how continuous delivery is managed in cloud environments.
+      end_of_day: 29
+    Deploying to Cloud with Automation:
+    - description: Overview of automated deployment processes for cloud-based applications.
+      end_of_day: 29
+  Our Data Storage and Backup Solutions:
+  - Cloud Storage Solutions:
+    - description: Learn about the different cloud storage solutions used within the
+        company.
+      end_of_day: 30
+    Backup and Recovery Processes:
+    - description: Understand the processes for backing up and recovering data in
+        the cloud.
+      end_of_day: 30
+    Data Archiving Strategies:
+    - description: Overview of strategies for long-term data archiving and retention
+        in the cloud.
+      end_of_day: 30
+  Our Disaster Recovery in Cloud Systems:
+  - Failover and Recovery Plans:
+    - description: Learn about failover strategies and recovery plans for cloud systems.
+      end_of_day: 31
+    Disaster Recovery Drills:
+    - description: Understand how disaster recovery drills are conducted in cloud
+        environments.
+      end_of_day: 31
+    Cloud-specific Recovery Solutions:
+    - description: Overview of recovery solutions specific to cloud platforms.
+      end_of_day: 31
+  Ongoing Learning and Certification Opportunities at Our Company:
+  - Cloud Certifications:
+    - description: Learn about available certifications for cloud engineers, such
+        as AWS or Azure.
+      end_of_day: 31
+    Internal Learning Platforms:
+    - description: Overview of internal learning platforms to enhance cloud skills.
+      end_of_day: 31
+    Industry Conferences and Meetups:
+    - description: Understand opportunities to attend cloud-focused conferences and
+        meetups.
+      end_of_day: 31
+Sales Engineer:
+- Introduction to the Company & Team:
+  - Meet the Sales Team:
+    - description: Introduction to the sales team members and their respective roles.
+      end_of_day: 1
+    Understanding Company Structure and Goals:
+    - description: Overview of the company structure and how sales aligns with business
+        goals.
+      end_of_day: 2
+    Introduction to Key Sales Stakeholders:
+    - description: Learn about key stakeholders in the sales process and their responsibilities.
+      end_of_day: 3
+  Familiarize with Our Products and Solutions:
+  - Product Overview and Key Features:
+    - description: Understand the key features and benefits of our products.
+      end_of_day: 4
+    Solution Selling and Use Cases:
+    - description: Learn about the solution selling approach and how to apply product
+        use cases to customer needs.
+      end_of_day: 5
+    Product Benefits for Different Customer Segments:
+    - description: Overview of how our product benefits vary across different customer
+        segments.
+      end_of_day: 6
+  Our Technical Overview of Product Features:
+  - Deep Dive into Product Architecture:
+    - description: Understand the technical architecture of our products and how they
+        are designed.
+      end_of_day: 7
+    Technical Specifications and Integrations:
+    - description: Learn about the technical specifications and how our products integrate
+        with other systems.
+      end_of_day: 8
+    Product Performance and Scalability:
+    - description: Overview of product performance benchmarks and scalability options.
+      end_of_day: 9
+  Familiarize with Our Sales Tools and CRM:
+  - CRM Overview and Usage:
+    - description: Learn how to navigate and use the company's CRM for managing leads
+        and opportunities.
+      end_of_day: 10
+    Sales Automation Tools:
+    - description: Understand the sales automation tools available to streamline your
+        workflow.
+      end_of_day: 11
+    Tracking Sales Pipelines:
+    - description: Overview of tracking sales pipelines and monitoring deal progress.
+      end_of_day: 12
+  Understanding Our Customer Pain Points:
+  - Identifying Customer Needs:
+    - description: Learn how to identify and assess customer needs during the sales
+        process.
+      end_of_day: 13
+    Common Industry Challenges:
+    - description: Understand common challenges faced by customers in the industry
+        and how our solutions address them.
+      end_of_day: 14
+    Solutions for Customer Pain Points:
+    - description: Overview of the key solutions we offer to resolve specific customer
+        pain points.
+      end_of_day: 15
+  Collaborating with Our Product and Development Teams:
+  - Communicating Customer Feedback to Product:
+    - description: Learn how to effectively communicate customer feedback to the product
+        team for improvements.
+      end_of_day: 16
+    Working Together on Custom Solutions:
+    - description: Understand how to collaborate with the product and development
+        teams to create custom solutions for clients.
+      end_of_day: 17
+    Aligning Sales and Product Development:
+    - description: Overview of how sales and product development align to ensure customer
+        satisfaction.
+      end_of_day: 18
+  Creating Product Demos and Presentations for Our Solutions:
+  - Demo Creation Best Practices:
+    - description: Learn best practices for creating engaging product demos.
+      end_of_day: 19
+    Presentation Tools and Techniques:
+    - description: Understand how to use various presentation tools and techniques
+        to deliver compelling product demonstrations.
+      end_of_day: 20
+    Tailoring Demos for Specific Clients:
+    - description: Overview of how to tailor product demos to meet the specific needs
+        of different clients.
+      end_of_day: 21
+  Our Product Integration and Configuration Process:
+  - Product Implementation Guidelines:
+    - description: Learn about the guidelines for implementing and configuring products
+        for clients.
+      end_of_day: 22
+    Custom Configurations for Clients:
+    - description: Understand how to customize product configurations based on client
+        requirements.
+      end_of_day: 23
+    Integration with Existing Systems:
+    - description: Overview of how to integrate our solutions with a client’s existing
+        systems and infrastructure.
+      end_of_day: 24
+  Security and Compliance in Our Sales Solutions:
+  - Understanding Security Features:
+    - description: Learn about the key security features of our products.
+      end_of_day: 25
+    Compliance with Industry Standards:
+    - description: Understand how our solutions comply with industry standards and
+        regulations.
+      end_of_day: 26
+    Communicating Security to Clients:
+    - description: Overview of how to effectively communicate product security features
+        to clients.
+      end_of_day: 27
+  Our Negotiation and Contracting Process:
+  - Contracting and Legal Requirements:
+    - description: Learn the legal requirements and processes for contracting with
+        clients.
+      end_of_day: 28
+    Negotiation Tactics:
+    - description: Understand the best negotiation tactics to close deals effectively.
+      end_of_day: 29
+    Finalizing Deals and Contracts:
+    - description: Overview of the steps to finalize contracts and close deals.
+      end_of_day: 29
+  Handling Customer Feedback in Our Company:
+  - Collecting and Analyzing Feedback:
+    - description: Learn how to collect and analyze feedback from customers.
+      end_of_day: 30
+    Implementing Product Improvements:
+    - description: Understand how feedback is used to improve products and services.
+      end_of_day: 30
+    Maintaining Long-term Relationships:
+    - description: Overview of how to maintain and strengthen long-term customer relationships.
+      end_of_day: 30
+  Our Sales Metrics and KPIs:
+  - Sales Quota Tracking:
+    - description: Learn how to track and achieve your sales quotas.
+      end_of_day: 31
+    Pipeline Velocity:
+    - description: Understand how to monitor pipeline velocity and close deals faster.
+      end_of_day: 31
+    Customer Satisfaction Scores:
+    - description: Overview of how customer satisfaction is measured and improved.
+      end_of_day: 31
+  Ongoing Learning and Industry Trends at Our Company:
+  - Industry Certifications and Learning:
+    - description: Learn about industry certifications and continuous learning opportunities
+        for sales engineers.
+      end_of_day: 31
+    Staying Updated with Market Trends:
+    - description: Understand how to stay informed about the latest market trends
+        and updates.
+      end_of_day: 31
+    Sales Process Improvements:
+    - description: Overview of how to continuously improve your sales process and
+        techniques.
+      end_of_day: 31
+Digital Marketing Specialist:
+- Introduction to the Company & Team:
+  - Meet the Marketing Team:
+    - description: Introduction to the marketing team members and their roles.
+      end_of_day: 1
+    Company Vision and Branding:
+    - description: Learn about the company vision and how it aligns with our brand
+        strategy.
+      end_of_day: 2
+    Introduction to Cross-functional Teams:
+    - description: Understand how marketing collaborates with other teams to achieve
+        business goals.
+      end_of_day: 3
+  Familiarize with Our Marketing Strategy:
+  - Marketing Campaign Planning:
+    - description: Learn the steps involved in planning and executing marketing campaigns.
+      end_of_day: 4
+    Brand Positioning and Messaging:
+    - description: Understand our brand positioning and messaging strategies.
+      end_of_day: 5
+    Marketing Objectives and KPIs:
+    - description: Overview of the marketing objectives and KPIs used to track success.
+      end_of_day: 6
+  Overview of Our Marketing Channels and Tactics:
+  - Digital vs Traditional Channels:
+    - description: Learn about the difference between digital and traditional marketing
+        channels.
+      end_of_day: 7
+    Multi-channel Marketing Strategies:
+    - description: Understand how to implement multi-channel marketing strategies
+        to reach target audiences.
+      end_of_day: 8
+    Content Marketing vs Paid Advertising:
+    - description: Overview of content marketing and paid advertising tactics and
+        when to use them.
+      end_of_day: 9
+  Marketing Tools and Software at Our Company:
+  - Marketing Automation Platforms:
+    - description: Learn about the marketing automation platforms we use for campaign
+        management.
+      end_of_day: 10
+    Analytics and Reporting Tools:
+    - description: Understand how to use analytics tools to track marketing performance.
+      end_of_day: 11
+    Social Media Management Tools:
+    - description: Overview of the social media management tools used for content
+        scheduling and monitoring.
+      end_of_day: 12
+  Our SEO and SEM Best Practices:
+  - Keyword Research Techniques:
+    - description: Learn how to conduct keyword research for SEO and SEM campaigns.
+      end_of_day: 13
+    On-page vs Off-page SEO:
+    - description: Understand the difference between on-page and off-page SEO and
+        their impact on rankings.
+      end_of_day: 14
+    Optimizing Paid Search Campaigns:
+    - description: Overview of how to optimize paid search campaigns for maximum ROI.
+      end_of_day: 15
+  Managing Our Social Media Strategies:
+  - Social Media Content Creation:
+    - description: Learn the process of creating engaging social media content.
+      end_of_day: 16
+    Engagement and Community Building:
+    - description: Understand how to build and maintain an active social media community.
+      end_of_day: 17
+    Measuring Social Media ROI:
+    - description: Overview of how to measure the ROI of social media efforts.
+      end_of_day: 18
+  Email Campaigns and Automation in Our Company:
+  - Email Campaign Tools:
+    - description: Learn about the tools we use to create and manage email campaigns.
+      end_of_day: 19
+    Creating Automated Drip Campaigns:
+    - description: Understand how to create automated drip campaigns to nurture leads.
+      end_of_day: 20
+    Measuring Email Campaign Success:
+    - description: Overview of how to measure the success of email campaigns.
+      end_of_day: 21
+  Content Marketing and Creation Guidelines at Our Company:
+  - Blog and Article Writing Best Practices:
+    - description: Learn best practices for writing blogs and articles to support
+        content marketing efforts.
+      end_of_day: 22
+    Visual Content Creation:
+    - description: Understand the process of creating visual content such as infographics
+        and videos.
+      end_of_day: 23
+    Aligning Content with SEO Goals:
+    - description: Overview of how to align content creation with SEO goals for better
+        search visibility.
+      end_of_day: 24
+  Collaborating with Our Sales and Product Teams:
+  - Aligning Marketing with Sales Objectives:
+    - description: Learn how to align marketing campaigns with sales objectives to
+        drive revenue.
+      end_of_day: 25
+    Supporting Product Launches:
+    - description: Understand how marketing supports product launches and drives product
+        awareness.
+      end_of_day: 26
+    Generating Sales-qualified Leads:
+    - description: Overview of how marketing efforts generate and qualify leads for
+        the sales team.
+      end_of_day: 27
+  Our Marketing Analytics and Reporting:
+  - Tracking Campaign Performance:
+    - description: Learn how to track and measure the performance of marketing campaigns.
+      end_of_day: 28
+    Google Analytics and Attribution:
+    - description: Understand how to use Google Analytics for tracking user behavior
+        and campaign attribution.
+      end_of_day: 29
+    Marketing Dashboard Overview:
+    - description: Overview of the marketing dashboards used to monitor key metrics.
+      end_of_day: 30
+  Customer Segmentation and Targeting in Our Company:
+  - Defining Customer Personas:
+    - description: Learn how to define and create customer personas based on market
+        research.
+      end_of_day: 31
+    Targeting Specific Customer Segments:
+    - description: Understand how to target specific customer segments with tailored
+        messaging.
+      end_of_day: 31
+    Optimizing Campaigns Based on Segmentation:
+    - description: Overview of how to optimize marketing campaigns based on customer
+        segmentation data.
+      end_of_day: 31
+  Ongoing Learning and Industry Trends in Our Company:
+  - Marketing Certifications and Courses:
+    - description: Learn about the certifications and courses available for digital
+        marketing specialists.
+      end_of_day: 31
+    Staying Updated with Digital Marketing Trends:
+    - description: Understand how to stay informed about the latest trends in digital
+        marketing.
+      end_of_day: 31
+    Internal Marketing Workshops:
+    - description: Overview of the internal workshops available for continuous marketing
+        skill development.
+      end_of_day: 31
+Customer Success Manager:
+- Introduction to the Company & Team:
+  - Meet the Customer Success Team:
+    - description: Introduction to the Customer Success team members and their roles.
+      end_of_day: 1
+    Company Values and Customer Focus:
+    - description: Learn about the company's values and how they translate to customer-focused
+        strategies.
+      end_of_day: 2
+    Introduction to Key Accounts:
+    - description: Overview of key customer accounts and their strategic importance.
+      end_of_day: 3
+  Familiarize with Our Customer Success Processes:
+  - Customer Onboarding Steps:
+    - description: Learn the steps involved in onboarding new customers to ensure
+        a smooth start.
+      end_of_day: 4
+    Customer Journey Mapping:
+    - description: Understand how to map the customer journey to provide proactive
+        support.
+      end_of_day: 5
+    Proactive vs Reactive Support:
+    - description: Overview of the differences between proactive and reactive customer
+        support and when to use each.
+      end_of_day: 6
+  Understanding Our Customer Needs and Challenges:
+  - Conducting Customer Discovery:
+    - description: Learn how to conduct effective customer discovery to understand
+        needs and goals.
+      end_of_day: 7
+    Analyzing Customer Behavior:
+    - description: Overview of tools and techniques for analyzing customer behavior
+        and engagement.
+      end_of_day: 8
+    Common Challenges in Our Customer Base:
+    - description: Understand the common challenges faced by our customer base and
+        how we address them.
+      end_of_day: 9
+  Collaborating with Our Sales and Product Teams:
+  - Ensuring Smooth Handover from Sales:
+    - description: Learn the process for ensuring a seamless handover from the sales
+        team to customer success.
+      end_of_day: 10
+    Communicating Customer Feedback:
+    - description: Understand how to communicate customer feedback to the product
+        and development teams.
+      end_of_day: 11
+    Aligning on Product Roadmaps:
+    - description: Overview of how customer success aligns with product development
+        to meet customer needs.
+      end_of_day: 12
+  Familiarize with Our Account Management Tools:
+  - Customer Success Platforms:
+    - description: Learn about the customer success platforms we use for tracking
+        and managing customer relationships.
+      end_of_day: 13
+    Tracking Customer Engagement:
+    - description: Understand how to track customer engagement to measure success
+        and identify risks.
+      end_of_day: 14
+    Managing Customer Data:
+    - description: Overview of how customer data is managed and used to improve relationships.
+      end_of_day: 15
+  Our Customer Engagement Strategies:
+  - Hosting Customer Webinars:
+    - description: Learn best practices for hosting webinars that engage and educate
+        customers.
+      end_of_day: 16
+    Customer Check-in Meetings:
+    - description: Understand the structure and purpose of regular customer check-in
+        meetings.
+      end_of_day: 17
+    Nurturing Long-term Relationships:
+    - description: Overview of strategies for nurturing long-term relationships with
+        key customers.
+      end_of_day: 18
+  Handling Customer Feedback in Our Company:
+  - Collecting Feedback via Surveys:
+    - description: Learn how to create and distribute surveys to collect valuable
+        customer feedback.
+      end_of_day: 19
+    Escalating Critical Issues:
+    - description: Understand when and how to escalate critical customer issues to
+        other departments.
+      end_of_day: 20
+    Implementing Feedback into Solutions:
+    - description: Overview of how customer feedback is implemented into product and
+        service improvements.
+      end_of_day: 21
+  Our Renewals and Upselling Techniques:
+  - Renewal Playbooks and Tactics:
+    - description: Learn the playbooks and tactics we use to ensure customer renewals.
+      end_of_day: 22
+    Identifying Upsell Opportunities:
+    - description: Understand how to identify and act on opportunities to upsell additional
+        products or services.
+      end_of_day: 23
+    Customer Retention Strategies:
+    - description: Overview of strategies used to retain customers and reduce churn.
+      end_of_day: 24
+  Familiarize with Our Technical Product Knowledge:
+  - Understanding Product Features:
+    - description: Gain an understanding of the key features of our products and how
+        they benefit customers.
+      end_of_day: 25
+    Technical Training for Success Managers:
+    - description: Overview of the technical training available to customer success
+        managers to support customers better.
+      end_of_day: 26
+    Supporting Customers with Technical Issues:
+    - description: Learn how to support customers with basic technical issues and
+        when to escalate.
+      end_of_day: 27
+  Our Customer Support Process:
+  - Tiered Support Systems:
+    - description: Understand how our tiered support system works and when to escalate
+        customer issues.
+      end_of_day: 28
+    Escalation Processes for Complex Issues:
+    - description: Learn the process for escalating complex technical issues to the
+        appropriate teams.
+      end_of_day: 29
+    Collaborating with Support Teams:
+    - description: Overview of how customer success collaborates with support teams
+        to resolve issues.
+      end_of_day: 29
+  Customer Success Metrics and KPIs at Our Company:
+  - Net Promoter Score (NPS):
+    - description: Learn about Net Promoter Score (NPS) and how it is used to measure
+        customer satisfaction.
+      end_of_day: 30
+    Customer Churn Rate:
+    - description: Understand how customer churn is measured and what strategies can
+        be used to reduce it.
+      end_of_day: 30
+    Customer Lifetime Value (CLV):
+    - description: Overview of Customer Lifetime Value (CLV) and its importance in
+        long-term planning.
+      end_of_day: 30
+  Ongoing Learning and Relationship Building at Our Company:
+  - Industry Best Practices for Customer Success:
+    - description: Learn about industry best practices for customer success management.
+      end_of_day: 31
+    Networking and Customer Success Communities:
+    - description: Understand how to network and engage with customer success communities
+        to stay updated.
+      end_of_day: 31
+    Continuous Learning Resources:
+    - description: Overview of the learning resources available to customer success
+        managers for continuous development.
+      end_of_day: 31
+Financial Analyst:
+- Introduction to the Company & Team:
+  - Meet the Finance Team:
+    - description: Introduction to the finance team members and their roles in the
+        organization.
+      end_of_day: 1
+    Understanding Company Structure and Goals:
+    - description: Learn about the company's structure and how financial planning
+        aligns with overall goals.
+      end_of_day: 2
+    Introduction to Key Financial Stakeholders:
+    - description: Overview of the key financial stakeholders and their roles in decision-making.
+      end_of_day: 3
+  Familiarize with Our Company Financials:
+  - Understanding Key Financial Statements:
+    - description: Learn how to read and analyze key financial statements such as
+        income statements and balance sheets.
+      end_of_day: 4
+    Reviewing Company P&L and Balance Sheet:
+    - description: Understand how to review and interpret the company's profit and
+        loss (P&L) statement and balance sheet.
+      end_of_day: 5
+    Key Financial Ratios and Analysis:
+    - description: Overview of key financial ratios and how they are used in financial
+        analysis.
+      end_of_day: 6
+  Our Financial Reporting Tools:
+  - Reporting and Analysis Platforms:
+    - description: Learn about the platforms and tools used for financial reporting
+        and analysis.
+      end_of_day: 7
+    Financial Data Visualization Tools:
+    - description: Understand how to use data visualization tools to present financial
+        information effectively.
+      end_of_day: 8
+    Automated Financial Reporting:
+    - description: Overview of how automated reporting processes are used to streamline
+        financial reporting.
+      end_of_day: 9
+  Our Budgeting and Forecasting Process:
+  - Annual Budget Planning:
+    - description: Learn about the annual budgeting process and how financial projections
+        are made.
+      end_of_day: 10
+    Forecasting Techniques:
+    - description: Understand different forecasting techniques used to predict financial
+        performance.
+      end_of_day: 11
+    Tracking Budget vs Actual Performance:
+    - description: Overview of how budget vs actual performance is tracked and reported.
+      end_of_day: 12
+  Collaborating with Our Sales and Operations Teams:
+  - Sales and Revenue Forecasting:
+    - description: Learn how financial analysts collaborate with sales to forecast
+        revenue.
+      end_of_day: 13
+    Aligning Operations with Financial Goals:
+    - description: Understand how operations align with financial goals to ensure
+        cost-effectiveness.
+      end_of_day: 14
+    Tracking Operational Expenses:
+    - description: Overview of how operational expenses are tracked and analyzed for
+        cost-saving opportunities.
+      end_of_day: 15
+  Our Expense Management and Reporting:
+  - Expense Reporting Tools:
+    - description: Learn about the tools used for tracking and managing expenses across
+        departments.
+      end_of_day: 16
+    Managing Departmental Budgets:
+    - description: Understand how departmental budgets are managed and aligned with
+        company goals.
+      end_of_day: 17
+    Approvals and Audit Trails:
+    - description: Overview of the process for expense approvals and maintaining audit
+        trails.
+      end_of_day: 18
+  Revenue Recognition and Compliance at Our Company:
+  - Understanding Revenue Recognition Policies:
+    - description: Learn about the revenue recognition policies in place and how they
+        comply with accounting standards.
+      end_of_day: 19
+    Ensuring GAAP Compliance:
+    - description: Understand how the company ensures compliance with Generally Accepted
+        Accounting Principles (GAAP).
+      end_of_day: 20
+    Managing Deferred Revenue:
+    - description: Overview of how deferred revenue is managed and reported.
+      end_of_day: 21
+  Our Financial Metrics and KPIs:
+  - Measuring Profitability and Margins:
+    - description: Learn how profitability and margins are measured and reported.
+      end_of_day: 22
+    Tracking Return on Investment (ROI):
+    - description: Understand how ROI is tracked for various projects and investments.
+      end_of_day: 23
+    Working Capital Analysis:
+    - description: Overview of how working capital is analyzed to ensure liquidity
+        and operational efficiency.
+      end_of_day: 24
+  Cost Optimization Strategies at Our Company:
+  - Identifying Cost-saving Opportunities:
+    - description: Learn how to identify cost-saving opportunities across the organization.
+      end_of_day: 25
+    Analyzing Operational Efficiency:
+    - description: Understand how to analyze operational efficiency to reduce costs
+        and improve performance.
+      end_of_day: 26
+    Vendor Negotiation and Procurement:
+    - description: Overview of strategies for negotiating with vendors to reduce procurement
+        costs.
+      end_of_day: 27
+  Investment and Risk Analysis at Our Company:
+  - Capital Allocation and Investment Strategies:
+    - description: Learn about the company's capital allocation strategies and investment
+        opportunities.
+      end_of_day: 28
+    Risk Assessment and Mitigation:
+    - description: Understand how to assess financial risks and develop mitigation
+        strategies.
+      end_of_day: 29
+    Portfolio Management:
+    - description: Overview of how the company manages its investment portfolio to
+        achieve financial goals.
+      end_of_day: 29
+  Handling Financial Audits at Our Company:
+  - Internal and External Audit Processes:
+    - description: Learn about the internal and external audit processes and their
+        importance.
+      end_of_day: 30
+    Preparing for Audits:
+    - description: Understand how to prepare financial documents and reports for audits.
+      end_of_day: 30
+    Addressing Audit Findings:
+    - description: Overview of how audit findings are addressed and corrective actions
+        are taken.
+      end_of_day: 30
+  Our Taxation and Legal Compliance:
+  - Understanding Tax Obligations:
+    - description: Learn about the company's tax obligations and how taxes are calculated.
+      end_of_day: 31
+    Filing Tax Returns and Documentation:
+    - description: Understand how tax returns are filed and what documentation is
+        required.
+      end_of_day: 31
+    Complying with Local and International Laws:
+    - description: Overview of how the company complies with local and international
+        tax laws.
+      end_of_day: 31
+  Ongoing Learning and Industry Trends in Our Company:
+  - Financial Certifications and Training:
+    - description: Learn about the certifications and training opportunities available
+        for financial analysts.
+      end_of_day: 31
+    Staying Updated with Financial Regulations:
+    - description: Understand how to stay informed about changes in financial regulations
+        and standards.
+      end_of_day: 31
+    Attending Finance Industry Conferences:
+    - description: Overview of industry conferences and events that offer networking
+        and learning opportunities.
+      end_of_day: 31
+HR Manager:
+- Introduction to the Company & Team:
+  - Meet the HR Team:
+    - description: Introduction to the HR team members and their roles.
+      end_of_day: 1
+    Company Culture and Values:
+    - description: Understand the company's culture and core values and how they influence
+        HR policies.
+      end_of_day: 2
+    Introduction to HR Leadership:
+    - description: Overview of the HR leadership team and their responsibilities.
+      end_of_day: 3
+  Familiarize with Our HR Policies and Procedures:
+  - Employee Handbook Overview:
+    - description: Learn about the key policies outlined in the employee handbook.
+      end_of_day: 4
+    HR Compliance and Legal Obligations:
+    - description: Understand the company's legal obligations and compliance requirements
+        in HR practices.
+      end_of_day: 5
+    Policies on Workplace Conduct and Ethics:
+    - description: Overview of policies related to workplace conduct and ethical behavior.
+      end_of_day: 6
+  Our Employee Onboarding and Offboarding Process:
+  - New Hire Onboarding Process:
+    - description: Learn the steps involved in onboarding new employees, including
+        paperwork and training.
+      end_of_day: 7
+    Exit Interview and Offboarding Procedures:
+    - description: Understand the exit interview process and offboarding procedures
+        for departing employees.
+      end_of_day: 8
+    Managing Employee Transitions:
+    - description: Overview of managing transitions, including promotions, transfers,
+        and role changes.
+      end_of_day: 9
+  HR Tools and Systems at Our Company:
+  - HR Information Systems (HRIS):
+    - description: Learn about the HR information systems used for managing employee
+        data.
+      end_of_day: 10
+    Payroll and Benefits Management Tools:
+    - description: Understand the tools used to manage payroll, benefits, and employee
+        compensation.
+      end_of_day: 11
+    Employee Self-Service Portals:
+    - description: Overview of the self-service portals available for employees to
+        manage their own data.
+      end_of_day: 12
+  Our Employee Relations and Conflict Management Process:
+  - Mediation and Conflict Resolution:
+    - description: Learn how to mediate and resolve conflicts between employees.
+      end_of_day: 13
+    Employee Grievance Handling:
+    - description: Understand the process for handling employee grievances and complaints.
+      end_of_day: 14
+    Creating a Positive Work Environment:
+    - description: Overview of strategies to foster a positive work environment and
+        employee satisfaction.
+      end_of_day: 15
+  Performance Management and Appraisals in Our Company:
+  - Performance Review Cycles:
+    - description: Learn about the performance review cycle and how feedback is delivered.
+      end_of_day: 16
+    Setting Goals and KPIs for Employees:
+    - description: Understand how to set measurable goals and KPIs for employee performance.
+      end_of_day: 17
+    Managing Underperformance:
+    - description: Overview of strategies for addressing and managing underperformance.
+      end_of_day: 18
+  Our Compensation and Benefits Overview:
+  - Salary Structure and Incentives:
+    - description: Learn about the company's salary structure and incentive programs.
+      end_of_day: 19
+    Health and Wellness Benefits:
+    - description: Understand the health and wellness benefits offered to employees.
+      end_of_day: 20
+    Retirement Plans and Perks:
+    - description: Overview of retirement plans and additional perks available to
+        employees.
+      end_of_day: 21
+  Compliance with Labor Laws at Our Company:
+  - Understanding Employment Laws:
+    - description: Learn about local employment laws and regulations the company adheres
+        to.
+      end_of_day: 22
+    Ensuring Compliance with Local Regulations:
+    - description: Understand how the company ensures compliance with local and national
+        labor laws.
+      end_of_day: 23
+    Managing Workplace Safety and Compliance:
+    - description: Overview of the policies and procedures to ensure workplace safety
+        and compliance.
+      end_of_day: 24
+  Collaborating with Our Finance and Operations Teams:
+  - Aligning HR Budgets with Finance:
+    - description: Learn how HR collaborates with finance to align budgets and manage
+        costs.
+      end_of_day: 25
+    Operational Support for HR Initiatives:
+    - description: Understand the support provided by operations for HR initiatives,
+        such as office management and logistics.
+      end_of_day: 26
+    Ensuring Smooth Communication Across Departments:
+    - description: Overview of communication channels used to ensure smooth collaboration
+        between HR, finance, and operations.
+      end_of_day: 27
+  Diversity and Inclusion Initiatives at Our Company:
+  - Promoting Workplace Diversity:
+    - description: Learn about initiatives in place to promote diversity in hiring
+        and workplace culture.
+      end_of_day: 28
+    Inclusive Hiring Practices:
+    - description: Understand how the company ensures inclusive hiring practices and
+        removes biases.
+      end_of_day: 29
+    Employee Resource Groups (ERGs):
+    - description: Overview of employee resource groups and their role in fostering
+        inclusivity.
+      end_of_day: 29
+  Learning and Development Programs at Our Company:
+  - Career Development Programs:
+    - description: Learn about career development programs available to employees
+        for growth and advancement.
+      end_of_day: 30
+    Training and Upskilling Initiatives:
+    - description: Understand the training and upskilling opportunities available
+        for employees.
+      end_of_day: 30
+    Management and Leadership Training:
+    - description: Overview of training programs designed for management and leadership
+        development.
+      end_of_day: 30
+  Recruitment and Talent Management in Our Company:
+  - End-to-end Recruitment Process:
+    - description: Learn about the recruitment process, from job posting to candidate
+        selection.
+      end_of_day: 31
+    Talent Retention Strategies:
+    - description: Understand the strategies used to retain top talent within the
+        company.
+      end_of_day: 31
+    Succession Planning and Internal Promotions:
+    - description: Overview of how the company manages succession planning and internal
+        promotions.
+      end_of_day: 31
+  Ongoing Learning and Industry Trends in Our Company:
+  - HR Certifications and Courses:
+    - description: Learn about HR certifications and courses available for professional
+        development.
+      end_of_day: 31
+    Staying Updated on HR Laws:
+    - description: Understand how to stay updated with changing HR laws and regulations.
+      end_of_day: 31
+    Attending HR Conferences and Events:
+    - description: Overview of HR conferences and events that provide learning and
+        networking opportunities.
+      end_of_day: 31
+Operations Manager:
+- Introduction to the Company & Team:
+  - Meet the Operations Leadership:
+    - description: Introduction to the operations leadership team and their roles.
+      end_of_day: 1
+    Understanding Company Goals and Operations Role:
+    - description: Understand the company's goals and the role operations plays in
+        achieving them.
+      end_of_day: 2
+    Team Structure and Key Stakeholders:
+    - description: Overview of the operations team structure and key stakeholders
+        involved in decision-making.
+      end_of_day: 3
+  Familiarize with Our Operations Strategy:
+  - Operations Strategy Overview:
+    - description: Learn about the company's overall operations strategy and key objectives.
+      end_of_day: 4
+    Short-Term vs Long-Term Operational Goals:
+    - description: Understand the difference between short-term and long-term operational
+        goals.
+      end_of_day: 5
+    Aligning Operations with Business Strategy:
+    - description: Overview of how the operations team aligns its strategy with the
+        company's broader business goals.
+      end_of_day: 6
+  Overview of Our Internal Systems and Tools:
+  - Key Operational Software:
+    - description: Learn about the software tools used for managing operations and
+        workflow.
+      end_of_day: 7
+    Automation Tools and Processes:
+    - description: Understand how automation tools are used to streamline operations
+        processes.
+      end_of_day: 8
+    Tracking and Reporting Systems:
+    - description: Overview of the systems used for tracking operational performance
+        and generating reports.
+      end_of_day: 9
+  Collaborating with Our Sales and Engineering Teams:
+  - Inter-departmental Communication:
+    - description: Learn how operations communicates and collaborates with sales and
+        engineering teams.
+      end_of_day: 10
+    Aligning Operations with Sales Targets:
+    - description: Understand how operations aligns resources to meet sales targets
+        and business objectives.
+      end_of_day: 11
+    Supporting Engineering with Resource Needs:
+    - description: Overview of how operations supports the engineering team with resources
+        and logistics.
+      end_of_day: 12
+  Our Process Optimization Techniques:
+  - Lean and Six Sigma Principles:
+    - description: Learn about Lean and Six Sigma principles and how they are applied
+        to process optimization.
+      end_of_day: 13
+    Identifying and Eliminating Inefficiencies:
+    - description: Understand how inefficiencies are identified and eliminated to
+        improve operational efficiency.
+      end_of_day: 14
+    Continuous Improvement Practices:
+    - description: Overview of the continuous improvement practices used to enhance
+        operations.
+      end_of_day: 15
+  Resource Allocation and Budgeting at Our Company:
+  - Resource Planning and Forecasting:
+    - description: Learn how resources are planned and forecasted to meet operational
+        needs.
+      end_of_day: 16
+    Budget Management and Allocation:
+    - description: Understand how budgets are managed and allocated for operations
+        projects.
+      end_of_day: 17
+    Monitoring Resource Utilization:
+    - description: Overview of how resource utilization is monitored and optimized.
+      end_of_day: 18
+  Our Risk Management and Compliance Procedures:
+  - Identifying Operational Risks:
+    - description: Learn how operational risks are identified and assessed.
+      end_of_day: 19
+    Compliance with Industry Standards:
+    - description: Understand how the company ensures compliance with industry regulations
+        and standards.
+      end_of_day: 20
+    Mitigation and Contingency Plans:
+    - description: Overview of mitigation and contingency plans for managing operational
+        risks.
+      end_of_day: 21
+  Our Operations Metrics and Reporting:
+  - Key Performance Indicators (KPIs):
+    - description: Learn about the key performance indicators (KPIs) used to track
+        operational performance.
+      end_of_day: 22
+    Operations Dashboard Overview:
+    - description: Understand how the operations dashboard is used to monitor key
+        metrics.
+      end_of_day: 23
+    Tracking Performance and Efficiency:
+    - description: Overview of how performance and efficiency are tracked and reported.
+      end_of_day: 24
+  Supply Chain Management at Our Company:
+  - Managing Supplier Relationships:
+    - description: Learn how supplier relationships are managed to ensure a reliable
+        supply chain.
+      end_of_day: 25
+    Inventory Management and Optimization:
+    - description: Understand the principles of inventory management and how to optimize
+        stock levels.
+      end_of_day: 26
+    Ensuring Supply Chain Resilience:
+    - description: Overview of strategies used to ensure supply chain resilience in
+        the face of disruptions.
+      end_of_day: 27
+  Vendor and Partner Management in Our Company:
+  - Vendor Selection Criteria:
+    - description: Learn about the criteria used to select vendors and partners for
+        the company.
+      end_of_day: 28
+    Managing Contracts and Negotiations:
+    - description: Understand how vendor contracts are managed and negotiations are
+        conducted.
+      end_of_day: 29
+    Monitoring Vendor Performance:
+    - description: Overview of how vendor performance is monitored to ensure quality
+        and reliability.
+      end_of_day: 29
+  Handling Customer and Employee Feedback at Our Company:
+  - Collecting and Analyzing Feedback:
+    - description: Learn how customer and employee feedback is collected and analyzed
+        to improve operations.
+      end_of_day: 30
+    Implementing Process Improvements:
+    - description: Understand how feedback is used to drive process improvements.
+      end_of_day: 30
+    Feedback Integration into Operations Strategy:
+    - description: Overview of how feedback is integrated into the company's operations
+        strategy.
+      end_of_day: 30
+  Ongoing Learning and Process Improvement at Our Company:
+  - Operational Certifications and Training:
+    - description: Learn about certifications and training programs available for
+        operations managers.
+      end_of_day: 31
+    Continuous Learning Programs:
+    - description: Understand the continuous learning programs in place to help operations
+        managers stay updated.
+      end_of_day: 31
+    Staying Updated with Operations Trends:
+    - description: Overview of industry trends and how operations managers stay informed.
+      end_of_day: 31
+CTO (Chief Technology Officer):
+- Introduction to the Company & Team:
+  - Meet the Leadership Team:
+    - description: Introduction to the company's leadership team and their respective
+        roles.
+      end_of_day: 1
+    Company Vision and Technology Alignment:
+    - description: Understand the company's vision and how technology aligns with
+        business goals.
+      end_of_day: 2
+    Introduction to Key Stakeholders:
+    - description: Overview of key stakeholders and their role in technology decision-making.
+      end_of_day: 3
+  Ensuring Cross-Functional Alignment:
+  - Ensuring Cross-Functional Alignment:
+    - description: Learn how to ensure alignment between product, engineering, and
+        technology teams.
+      end_of_day: 4
+    Setting Engineering Priorities:
+    - description: Understand how engineering priorities are set in alignment with
+        product and business goals.
+      end_of_day: 5
+    Supporting Product Development:
+    - description: Overview of the CTO’s role in supporting product development and
+        innovation.
+      end_of_day: 6
+  Our Budgeting and Resource Allocation Process:
+  - Technology Budget Planning:
+    - description: Learn how to plan and allocate budgets for technology initiatives.
+      end_of_day: 7
+    Resource Allocation Across Teams:
+    - description: Understand how resources are allocated across engineering, R&D,
+        and technical teams.
+      end_of_day: 8
+    Monitoring R&D Expenditures:
+    - description: Overview of how R&D expenditures are monitored and controlled for
+        efficiency.
+      end_of_day: 9
+  Hiring and Talent Management in Our Company:
+  - Technical Hiring Strategies:
+    - description: Learn the strategies for hiring top technical talent and building
+        high-performing teams.
+      end_of_day: 10
+    Developing Tech Talent:
+    - description: Understand the importance of developing and nurturing tech talent
+        for long-term growth.
+      end_of_day: 11
+    Employee Retention and Career Growth:
+    - description: Overview of employee retention strategies and fostering career
+        growth within the tech team.
+      end_of_day: 12
+  Technology Stack Decisions at Our Company:
+  - Evaluating New Technologies:
+    - description: Learn how to evaluate and adopt new technologies to stay ahead
+        of the competition.
+      end_of_day: 13
+    Selecting and Implementing Tech Stack:
+    - description: Understand the decision-making process for selecting the company's
+        tech stack.
+      end_of_day: 14
+    Balancing Innovation with Stability:
+    - description: Overview of how to balance adopting new innovations with maintaining
+        system stability.
+      end_of_day: 15
+  Security and Compliance Oversight in Our Company:
+  - Overseeing Cybersecurity Initiatives:
+    - description: Learn how the CTO oversees cybersecurity initiatives to protect
+        company assets.
+      end_of_day: 16
+    Ensuring Compliance with Regulations:
+    - description: Understand the regulatory compliance requirements related to technology.
+      end_of_day: 17
+    Managing Security Audits:
+    - description: Overview of how security audits are managed to ensure compliance
+        and risk mitigation.
+      end_of_day: 18
+  Our Risk Management and Incident Response Strategies:
+  - Identifying and Mitigating Technology Risks:
+    - description: Learn how to identify and mitigate technology-related risks.
+      end_of_day: 19
+    Incident Response Procedures:
+    - description: Understand the procedures for responding to and managing technology
+        incidents.
+      end_of_day: 20
+    Crisis Management and Communication:
+    - description: Overview of crisis management strategies and how to communicate
+        during technology crises.
+      end_of_day: 21
+  Stakeholder Management at Our Company:
+  - Communicating Technology Strategy to Stakeholders:
+    - description: Learn how to effectively communicate the technology strategy to
+        both internal and external stakeholders.
+      end_of_day: 22
+    Aligning Stakeholder Expectations:
+    - description: Understand how to align stakeholder expectations with technology
+        deliverables.
+      end_of_day: 23
+    Engaging with Investors on Technology Strategy:
+    - description: Overview of how to engage with investors and communicate the value
+        of technology initiatives.
+      end_of_day: 24
+  Performance Metrics and KPIs at Our Company:
+  - Measuring Technology Success:
+    - description: Learn the key metrics used to measure the success of technology
+        initiatives.
+      end_of_day: 25
+    Tracking R&D Productivity:
+    - description: Understand how R&D productivity is tracked and measured against
+        goals.
+      end_of_day: 26
+    KPIs for Engineering Teams:
+    - description: Overview of the KPIs used to assess engineering team performance
+        and productivity.
+      end_of_day: 27
+  Ongoing Learning and Industry Trends in Our Company:
+  - Staying Updated on Emerging Technologies:
+    - description: Learn how to stay updated on emerging technologies and trends in
+        the industry.
+      end_of_day: 28
+    Industry Conferences and Networking:
+    - description: Understand the importance of attending industry conferences and
+        networking with peers.
+      end_of_day: 29
+    Continuous Learning for Technology Leaders:
+    - description: Overview of the continuous learning opportunities available for
+        technology leaders.
+      end_of_day: 30
+VP of Engineering:
+- Introduction to the Company & Team:
+  - Meet the Engineering Leadership:
+    - description: Introduction to the engineering leadership team and their responsibilities.
+      end_of_day: 1
+    Overview of Engineering Departments:
+    - description: Learn about the structure of the engineering departments and their
+        key functions.
+      end_of_day: 2
+    Understanding Key Engineering Roles:
+    - description: Overview of the key roles within the engineering team and their
+        responsibilities.
+      end_of_day: 3
+  Familiarize with Our Engineering Strategy:
+  - Engineering Strategy Alignment with Business Goals:
+    - description: Understand how the engineering strategy aligns with overall business
+        goals.
+      end_of_day: 4
+    Short-Term vs Long-Term Engineering Objectives:
+    - description: Learn about the differences between short-term and long-term engineering
+        objectives.
+      end_of_day: 5
+    Innovating Through Technology:
+    - description: Overview of how innovation is driven through technology initiatives
+        within the engineering team.
+      end_of_day: 6
+  Our Team Structure and Leadership:
+  - Organizational Structure of Engineering Teams:
+    - description: Learn about the organizational structure of the engineering teams.
+      end_of_day: 7
+    Leadership Roles and Responsibilities:
+    - description: Understand the roles and responsibilities of leaders within the
+        engineering department.
+      end_of_day: 8
+    Promoting Collaboration and Innovation:
+    - description: Overview of how collaboration and innovation are fostered within
+        engineering teams.
+      end_of_day: 9
+  Hiring and Talent Development in Our Company:
+  - Hiring High-Caliber Engineers:
+    - description: Learn the strategies for hiring high-caliber engineers to build
+        strong teams.
+      end_of_day: 10
+    Developing and Nurturing Engineering Talent:
+    - description: Understand the importance of developing and nurturing engineering
+        talent.
+      end_of_day: 11
+    Succession Planning and Leadership Development:
+    - description: Overview of succession planning and leadership development within
+        the engineering department.
+      end_of_day: 12
+  Collaborating with Our Product and Design Teams:
+  - Aligning Engineering with Product Roadmaps:
+    - description: Learn how engineering aligns with product roadmaps to support company
+        goals.
+      end_of_day: 13
+    Ensuring Design-Development Collaboration:
+    - description: Understand how to foster collaboration between design and development
+        teams.
+      end_of_day: 14
+    Supporting Cross-Functional Teams:
+    - description: Overview of how engineering supports cross-functional teams to
+        ensure project success.
+      end_of_day: 15
+  Our Engineering Metrics and KPIs:
+  - Measuring Code Quality and Efficiency:
+    - description: Learn about the metrics used to measure code quality and efficiency.
+      end_of_day: 16
+    Engineering Productivity Metrics:
+    - description: Understand the metrics used to track productivity across engineering
+        teams.
+      end_of_day: 17
+    Tracking Innovation and Development Speed:
+    - description: Overview of how innovation and development speed are tracked within
+        engineering.
+      end_of_day: 18
+  Code Quality and Security Standards at Our Company:
+  - Implementing Secure Coding Practices:
+    - description: Learn about secure coding practices and their importance in maintaining
+        code integrity.
+      end_of_day: 19
+    Ensuring Code Review Processes:
+    - description: Understand the code review processes in place to ensure high-quality
+        code.
+      end_of_day: 20
+    Compliance with Security Standards:
+    - description: Overview of how engineering ensures compliance with security standards
+        and regulations.
+      end_of_day: 21
+  Our Technical Roadmap and Prioritization Process:
+  - Setting Technical Priorities:
+    - description: Learn how technical priorities are set in alignment with business
+        objectives.
+      end_of_day: 22
+    Balancing Innovation with Technical Debt:
+    - description: Understand how engineering teams balance innovation with managing
+        technical debt.
+      end_of_day: 23
+    Tracking Roadmap Progress:
+    - description: Overview of how progress on the technical roadmap is tracked and
+        reported.
+      end_of_day: 24
+  Resource Allocation and Budgeting at Our Company:
+  - Engineering Budget Management:
+    - description: Learn about the processes for managing the engineering budget.
+      end_of_day: 25
+    Resource Planning and Allocation:
+    - description: Understand how resources are planned and allocated across engineering
+        teams.
+      end_of_day: 26
+    Balancing R&D with Maintenance:
+    - description: Overview of how R&D initiatives are balanced with maintenance and
+        operations.
+      end_of_day: 27
+  Stakeholder Management at Our Company:
+  - Communicating Engineering Progress:
+    - description: Learn how to communicate engineering progress to internal and external
+        stakeholders.
+      end_of_day: 28
+    Engaging Stakeholders in Technical Decisions:
+    - description: Understand how to engage stakeholders in key technical decisions.
+      end_of_day: 29
+    Balancing Stakeholder Expectations:
+    - description: Overview of how stakeholder expectations are balanced with engineering
+        capabilities.
+      end_of_day: 30
+  Agile Methodologies and Scrum Oversight at Our Company:
+  - Scrum Implementation Across Teams:
+    - description: Learn about the implementation of Scrum and Agile methodologies
+        across engineering teams.
+      end_of_day: 31
+    Ensuring Agile Best Practices:
+    - description: Understand the importance of ensuring Agile best practices are
+        followed.
+      end_of_day: 31
+    Continuous Process Improvements:
+    - description: Overview of how continuous improvements are made to engineering
+        processes.
+      end_of_day: 31
+  Ongoing Learning and Industry Trends in Our Company:
+  - Staying Updated with Engineering Trends:
+    - description: Learn how engineering leaders stay updated with the latest trends
+        in engineering.
+      end_of_day: 31
+    Learning and Development Programs:
+    - description: Overview of the learning and development programs available to
+        engineering leaders.
+      end_of_day: 31
+    Encouraging Engineering Certifications:
+    - description: Understand the importance of engineering certifications and how
+        to encourage them within teams.
+      end_of_day: 31
+Chief Product Officer (CPO):
+- Introduction to the Company & Team:
+  - Meet the Product Leadership:
+    - description: Introduction to the product leadership team and their responsibilities.
+      end_of_day: 1
+    Introduction to Product Team Structure:
+    - description: Overview of the structure of the product team and key roles.
+      end_of_day: 2
+    Understanding the CPO’s Role:
+    - description: Learn about the responsibilities and key objectives of the CPO
+        role in driving product strategy.
+      end_of_day: 3
+  Familiarize with Our Product Strategy and Vision:
+  - Product Vision Alignment with Company Strategy:
+    - description: Understand how the product vision aligns with the overall company
+        strategy.
+      end_of_day: 4
+    Product Roadmap and Innovation Planning:
+    - description: Learn how the product roadmap is built with a focus on innovation
+        and long-term growth.
+      end_of_day: 5
+    Defining Long-Term Product Goals:
+    - description: Overview of how long-term product goals are set and communicated.
+      end_of_day: 6
+  Collaborating with Our Engineering and Marketing Teams:
+  - Product-Engineering Collaboration:
+    - description: Learn how product and engineering teams collaborate to ensure seamless
+        product development.
+      end_of_day: 7
+    Supporting Product Marketing Strategies:
+    - description: Understand the role of the CPO in supporting marketing strategies
+        for product promotion.
+      end_of_day: 8
+    Cross-functional Team Coordination:
+    - description: Overview of how cross-functional teams are coordinated to ensure
+        product success.
+      end_of_day: 9
+  Our Product Roadmaps and Prioritization Process:
+  - Building and Communicating the Product Roadmap:
+    - description: Learn how the product roadmap is built and communicated to stakeholders.
+      end_of_day: 10
+    Setting Priorities and Managing Backlogs:
+    - description: Understand how priorities are set and backlogs are managed for
+        optimal product development.
+      end_of_day: 11
+    Balancing Innovation with Customer Needs:
+    - description: Overview of how innovation is balanced with customer needs and
+        market demands.
+      end_of_day: 12
+  Our Customer Feedback and Market Research Process:
+  - Collecting and Analyzing Customer Feedback:
+    - description: Learn how customer feedback is collected, analyzed, and integrated
+        into product development.
+      end_of_day: 13
+    Conducting Market Research:
+    - description: Understand the process of conducting market research to inform
+        product decisions.
+      end_of_day: 14
+    Integrating Feedback into Product Development:
+    - description: Overview of how customer feedback is incorporated into product
+        iterations.
+      end_of_day: 15
+  Stakeholder Communication and Management in Our Company:
+  - Managing Stakeholder Expectations:
+    - description: Learn strategies for managing stakeholder expectations during the
+        product development process.
+      end_of_day: 16
+    Communicating Product Strategy to Executives:
+    - description: Understand how to effectively communicate the product strategy
+        to executive leadership.
+      end_of_day: 17
+    Aligning Stakeholders on Product Vision:
+    - description: Overview of how stakeholders are aligned with the product vision
+        and roadmap.
+      end_of_day: 18
+  Our Product Metrics and KPIs:
+  - Tracking Product Success Metrics:
+    - description: Learn about the key metrics used to track product success and performance.
+      end_of_day: 19
+    KPIs for Customer Satisfaction and Usage:
+    - description: Understand the KPIs used to measure customer satisfaction and product
+        usage.
+      end_of_day: 20
+    Product Innovation Metrics:
+    - description: Overview of the metrics used to track innovation and product growth.
+      end_of_day: 21
+  Agile Product Development at Our Company:
+  - Ensuring Agile Development Practices:
+    - description: Learn how Agile development practices are implemented across product
+        teams.
+      end_of_day: 22
+    Collaborating with Scrum Teams:
+    - description: Understand how the CPO collaborates with Scrum teams to ensure
+        continuous product delivery.
+      end_of_day: 23
+    Iterating Based on Product Performance:
+    - description: Overview of how product performance data is used to inform product
+        iterations.
+      end_of_day: 24
+  Team Management and Structure at Our Company:
+  - Structuring Product Teams:
+    - description: Learn how product teams are structured for efficient collaboration
+        and innovation.
+      end_of_day: 25
+    Promoting Cross-functional Collaboration:
+    - description: Understand how to foster cross-functional collaboration across
+        product, engineering, and marketing teams.
+      end_of_day: 26
+    Developing Product Leadership:
+    - description: Overview of how leadership is developed within the product team
+        for long-term success.
+      end_of_day: 27
+  Our Resource Allocation and Budgeting Process:
+  - Managing Product Budgets:
+    - description: Learn about managing budgets for product development and innovation
+        projects.
+      end_of_day: 28
+    Allocating Resources for R&D:
+    - description: Understand how resources are allocated for R&D initiatives and
+        innovation.
+      end_of_day: 29
+    Monitoring Product Development Costs:
+    - description: Overview of how product development costs are tracked and managed.
+      end_of_day: 30
+  Our Product Launch Strategy:
+  - Planning and Executing Product Launches:
+    - description: Learn the steps involved in planning and executing successful product
+        launches.
+      end_of_day: 31
+    Coordinating Cross-Functional Launch Teams:
+    - description: Understand how cross-functional teams are coordinated during product
+        launches.
+      end_of_day: 31
+    Post-Launch Feedback and Iteration:
+    - description: Overview of how post-launch feedback is collected and used to iterate
+        on the product.
+      end_of_day: 31
+  Ongoing Learning and Industry Trends in Our Company:
+  - Staying Updated with Product Management Trends:
+    - description: Learn how to stay updated with the latest trends in product management
+        and innovation.
+      end_of_day: 31
+    Product Management Certifications and Training:
+    - description: Overview of certifications and training opportunities available
+        for product managers.
+      end_of_day: 31
+    Attending Industry Conferences and Workshops:
+    - description: Understand the value of attending industry conferences and workshops
+        for continued learning.
+      end_of_day: 31
+Cybersecurity Analyst:
+- Introduction to the Company & Team:
+  - Meet the Security Team:
+    - description: Introduction to the cybersecurity team members and their roles.
+      end_of_day: 1
+    Overview of Cybersecurity Leadership:
+    - description: Learn about the cybersecurity leadership team and their responsibilities.
+      end_of_day: 2
+    Introduction to Key Security Stakeholders:
+    - description: Overview of the key security stakeholders, including external partners
+        and vendors.
+      end_of_day: 3
+  Familiarize with Our Security Policies:
+  - Company Security Policies Overview:
+    - description: Learn about the company's security policies and how they protect
+        critical assets.
+      end_of_day: 4
+    Compliance with Industry Standards:
+    - description: Understand the importance of complying with industry standards
+        such as GDPR and CCPA.
+      end_of_day: 5
+    Security Best Practices at Our Company:
+    - description: Overview of security best practices followed at the company to
+        minimize risks.
+      end_of_day: 6
+  Overview of Our Security Tools and Software:
+  - Security Monitoring Tools:
+    - description: Learn about the tools used to monitor the security posture of the
+        company.
+      end_of_day: 7
+    Intrusion Detection Systems (IDS):
+    - description: Understand how Intrusion Detection Systems (IDS) are used to identify
+        potential security breaches.
+      end_of_day: 8
+    Vulnerability Management Software:
+    - description: Overview of vulnerability management software and its role in identifying
+        and mitigating risks.
+      end_of_day: 9
+  Our Incident Response Procedures:
+  - Incident Detection and Response Protocols:
+    - description: Learn the protocols for detecting and responding to security incidents
+        in real-time.
+      end_of_day: 10
+    Documenting and Reporting Incidents:
+    - description: Understand how security incidents are documented and reported to
+        relevant stakeholders.
+      end_of_day: 11
+    Post-Incident Reviews and Improvements:
+    - description: Overview of how post-incident reviews are conducted to improve
+        future responses.
+      end_of_day: 12
+  Threat Detection and Analysis in Our Company:
+  - Proactive Threat Hunting:
+    - description: Learn how to proactively hunt for potential security threats and
+        vulnerabilities.
+      end_of_day: 13
+    Analyzing Security Threats and Vulnerabilities:
+    - description: Understand the process of analyzing and assessing security threats
+        and vulnerabilities.
+      end_of_day: 14
+    Responding to Emerging Threats:
+    - description: Overview of how the company responds to emerging threats in the
+        cybersecurity landscape.
+      end_of_day: 15
+  Security Audits and Compliance at Our Company:
+  - Conducting Regular Security Audits:
+    - description: Learn how regular security audits are conducted to ensure compliance
+        and security.
+      end_of_day: 16
+    Ensuring Compliance with GDPR, CCPA, and other Regulations:
+    - description: Understand the steps taken to ensure compliance with regulations
+        such as GDPR and CCPA.
+      end_of_day: 17
+    Internal and External Audit Processes:
+    - description: Overview of the internal and external audit processes for cybersecurity.
+      end_of_day: 18
+  Collaborating with Our IT and Development Teams:
+  - Securing DevOps Pipelines:
+    - description: Learn how to secure DevOps pipelines to ensure that code and infrastructure
+        are protected.
+      end_of_day: 19
+    Ensuring Secure Software Development:
+    - description: Understand the role of the cybersecurity team in ensuring secure
+        software development practices.
+      end_of_day: 20
+    Communicating Security Requirements to Teams:
+    - description: Overview of how security requirements are communicated to IT and
+        development teams.
+      end_of_day: 21
+  Our Risk Management and Mitigation Strategies:
+  - Risk Identification and Prioritization:
+    - description: Learn how to identify and prioritize risks in the company’s cybersecurity
+        framework.
+      end_of_day: 22
+    Developing Mitigation Strategies:
+    - description: Understand how mitigation strategies are developed to minimize
+        the impact of security risks.
+      end_of_day: 23
+    Regular Risk Assessments:
+    - description: Overview of how regular risk assessments are conducted to ensure
+        ongoing protection.
+      end_of_day: 24
+  Our Vulnerability Assessments and Penetration Testing:
+  - Conducting Penetration Tests:
+    - description: Learn the steps involved in conducting penetration tests to identify
+        vulnerabilities.
+      end_of_day: 25
+    Assessing System Vulnerabilities:
+    - description: Understand how system vulnerabilities are assessed and addressed.
+      end_of_day: 26
+    Addressing Critical Security Gaps:
+    - description: Overview of how critical security gaps are identified and mitigated.
+      end_of_day: 27
+  Data Security and Privacy Regulations in Our Company:
+  - Complying with Data Privacy Laws:
+    - description: Learn about the company’s approach to complying with data privacy
+        laws and regulations.
+      end_of_day: 28
+    Data Encryption and Protection Standards:
+    - description: Understand the data encryption and protection standards used to
+        secure sensitive information.
+      end_of_day: 29
+    Managing Data Breaches:
+    - description: Overview of how data breaches are managed and reported to regulatory
+        authorities.
+      end_of_day: 30
+  Disaster Recovery and Business Continuity at Our Company:
+  - Disaster Recovery Planning:
+    - description: Learn about the disaster recovery plans in place to ensure business
+        continuity.
+      end_of_day: 31
+    Simulating Disaster Scenarios:
+    - description: Understand the importance of simulating disaster scenarios to prepare
+        for real incidents.
+      end_of_day: 31
+    Ensuring Business Continuity During Crises:
+    - description: Overview of how the company ensures business continuity during
+        crises.
+      end_of_day: 31
+  Ongoing Learning and Certification Opportunities at Our Company:
+  - Pursuing Cybersecurity Certifications:
+    - description: Learn about the available cybersecurity certifications and training
+        opportunities.
+      end_of_day: 31
+    Continuous Learning Programs:
+    - description: Understand the continuous learning programs in place to keep security
+        professionals up to date.
+      end_of_day: 31
+    Staying Updated on Emerging Threats:
+    - description: Overview of how to stay updated on emerging cybersecurity threats
+        and trends.
+      end_of_day: 31

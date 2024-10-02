@@ -1,0 +1,697 @@
+What ThirdCognition does:
+
+
+We provide teams with an AI Assistant to streamline new employee onboarding and knowledge transfer. 
+
+
+
+
+**Product Use Case Examples:**
+
+
+- **White Collar (Sales - Dynamic):** - Let’s say you are onboarding a sales representative within your team. You will work with Journey Builder to design a Journey for the sales rep, and you do it automatically by uploading documents and giving some instructions to the AI.
+Then, the sales rep will interact with the virtual buddy to go through the journey step-by-step and ask every stupid and smart question she has along the way. Of course, this is not confined to any role like sales or any industry.
+
+
+**Product Description:**
+
+
+For managers to efficiently onboard new team members and supercharge learning for existing team members, managers will use our Journey Builder to automatically build and design the best onboarding and learning journey experiences.
+
+
+Unlike other static onboarding software, our Virtual Buddy guides team members through their onboarding and learning journeys and answers any stupid or smart questions they might have.
+
+
+**Qualitative Value Proposition:**
+
+
+- Streamline knowledge transfer
+- Increase productivity
+- Reduce employee burden
+
+
+**Quantitative Value Proposition:**
+
+
+- Save salary costs of employees when they are not productive yet by making them productive faster
+- Get the employees productive from day one to avoid opportunity costs of not having employees productive on time 
+
+
+**Unique Aspects of the Product:**
+
+
+-The Journey Builder aspect and it being automatic and AI powered.
+-Virtual Buddy is initiative taking and guiding not passive question answerer (as opposed to AI chatbots like ChatGPT).
+-Facilitate the relevant interactions and connections between people and team members.
+
+
+**Startup Mission:** Empower people to succeed in the rapidly changing work life.
+
+
+**Startup Vision:**
+
+
+- Long-term: Our product will be the #1 solution for effective knowledge transfer and getting people up to speed within organizations.
+- Short-term: Make onboarding and continuous learning pleasant and structured.
+
+
+**Journey Builder Features:**
+
+
+Description: 
+An automated Journey designing tool which works with company knowledgebase and natural language command. The objective of Journey Builder is to help its users (who are team leads and managers) to seamlessly create Journeys.
+
+
+Key Features: 
+1. Connect to the company knowledge (e.g. documents, online sources, etc.)
+2. Automatic (AI-powered) creation of the Journey based on the data from company knowledge
+3. Edit of journeys via natural language command or manually
+
+
+**Virtual Buddy Features:**
+
+
+Description:
+A cross-platform AI assistant that guides the end users through their learning journey and answers all their questions along the way.
+
+
+Key Features:
+1. Taking the initiative to guide employees on their onboarding/learning journey.
+2. Answer to employees’ questions via access to company knowledgebase
+3. Taking voice and multilingual input 
+4. Facilitator of the relevant human interactions and connections within the company
+
+
+
+
+**CTAs:**
+
+
+- Customers: Let’s start our journey! (Webpage: Book a 15-min intro call)
+- Investors: Be a part of our journey!
+
+
+## Journey Builder
+
+
+The Journey Builder works on a conversation & edit basis where based on the 
+
+
+(a) conversation with the user, 
+
+
+(b) data entry like file uploads and integrations, and 
+
+
+(c) manual edits, 
+
+
+Journeys are created.
+
+
+Journeys consist of:
+
+
+1. Sections
+2. Subsections (could be multi-level)
+3. Modules
+
+
+Modules are building blocks of the journeys which accumulate into Sections and Subsections.
+
+
+There are different types of Modules, such as:
+
+
+1. Text-based Description / Introduction ( where employees should understand the info within a document or descriptive text)
+2. Checklist (where employees make sure that they have done a series of tasks that are not defined or could not be defined using other modules. Checklists are more like the "Other" option when neither of the other modules are applicable)
+3. Meet People (where employees meet with some people so that they get to know the team and get some knowledge)
+4. Calendar Event (Events other than meeting with people like intro to company seminars or entry-level people meetups)
+5. Familiarize with People (Familiarizing with people in the company and team with some descriptions about them)
+6. Familiarize with Tools (getting to know the tools that employees need to work with)
+7. Familiarize with Resources (getting to know the resources and files needed to do the work)
+8. Review & Reflection (Review, which is a summary of multiple modules or sections or subsections passed before. Like a review of the “Understand our services” section) 
+9. Case Study & Scenarios 
+10. Multiple Choice Questions 
+11. Written Answer Questions (Asking the employee some questions and wanting her to write down answers)
+12. Polls
+13. Casual Networking Meet 
+15. Multimedia (Video, Images, Audio)
+16. Administrative & account setups
+
+
+The journey creation steps in Journey Builder:
+1) journey creatio start with filling out the description of the role and the company, as well as the purpose of the journey (like new hire onboarding or project onboarding or new policy communication) and its audience (like sales team, dev team, all employees). 
+
+
+Then, based on the info above:
+
+
+2) Our AI system searches different Journey Templates and finds the proper template for the required journey. Then, it tries to populate the Journey Template with as much relevant info as is provided in step 1. Also, our AI system identifies what type of information is missing in each module that requires further user input.
+
+3) Then, the semi-populated Journey is shown to the user, and the user is asked to provide additional info for each module and then fully populate the module with relevant info. 
+
+
+4) Once every module is fully populated, the journey is ready.
+
+Point: a journey template consists of Sections (Contains: a descriptive title of section + # of subsections), Subsection (Contains: a descriptive title of subsection + # of modules), modules (Contains: Module Type + a descriptive title of module).  
+
+
+## Virtual Buddy
+
+
+The **Virtual Buddy** is the guide and AI-chatbot interface through which employees go through the Journeys created by **Journey Builder**. Virtual Buddy also answers all questions the employees might have about the Journey they are going through by accessing the files and integrations from Journey Creation phase.
+
+
+____________________________________________________________________________
+
+
+
+
+ThirdCognition Oy, a Finnish entity company, was established in June 2024, following an investment from the VC and accelerator Antler. 
+Founding team:
+Markus Haverinen: CTO, Co-founder
+Kasra Aliyon: CPO, Co-founder
+Niklas Slotte: CEO, Co-founderWhat ThirdCognition does:
+
+
+We provide teams with an AI Assistant to streamline new employee onboarding and knowledge transfer. 
+
+
+
+
+**Product Use Case Examples:**
+
+
+- **White Collar (Sales - Dynamic):** - Let’s say you are onboarding a sales representative within your team. You will work with Journey Builder to design a Journey for the sales rep, and you do it automatically by uploading documents and giving some instructions to the AI.
+Then, the sales rep will interact with the virtual buddy to go through the journey step-by-step and ask every stupid and smart question she has along the way. Of course, this is not confined to any role like sales or any industry.
+
+
+**Product Description:**
+
+
+For managers to efficiently onboard new team members and supercharge learning for existing team members, managers will use our Journey Builder to automatically build and design the best onboarding and learning journey experiences.
+
+
+Unlike other static onboarding software, our Virtual Buddy guides team members through their onboarding and learning journeys and answers any stupid or smart questions they might have.
+
+
+**Qualitative Value Proposition:**
+
+
+- Streamline knowledge transfer
+- Increase productivity
+- Reduce employee burden
+
+
+**Quantitative Value Proposition:**
+
+
+- Save salary costs of employees when they are not productive yet by making them productive faster
+- Get the employees productive from day one to avoid opportunity costs of not having employees productive on time 
+
+
+**Unique Aspects of the Product:**
+
+
+-The Journey Builder aspect and it being automatic and AI powered.
+-Virtual Buddy is initiative taking and guiding not passive question answerer (as opposed to AI chatbots like ChatGPT).
+-Facilitate the relevant interactions and connections between people and team members.
+
+
+**Startup Mission:** Empower people to succeed in the rapidly changing work life.
+
+
+**Startup Vision:**
+
+
+- Long-term: Our product will be the #1 solution for effective knowledge transfer and getting people up to speed within organizations.
+- Short-term: Make onboarding and continuous learning pleasant and structured.
+
+
+**Journey Builder Features:**
+
+
+Description: 
+An automated Journey designing tool which works with company knowledgebase and natural language command. The objective of Journey Builder is to help its users (who are team leads and managers) to seamlessly create Journeys.
+
+
+Key Features: 
+1. Connect to the company knowledge (e.g. documents, online sources, etc.)
+2. Automatic (AI-powered) creation of the Journey based on the data from company knowledge
+3. Edit of journeys via natural language command or manually
+
+
+**Virtual Buddy Features:**
+
+
+Description:
+A cross-platform AI assistant that guides the end users through their learning journey and answers all their questions along the way.
+
+
+Key Features:
+1. Taking the initiative to guide employees on their onboarding/learning journey.
+2. Answer to employees’ questions via access to company knowledgebase
+3. Taking voice and multilingual input 
+4. Facilitator of the relevant human interactions and connections within the company
+
+
+
+
+**CTAs:**
+
+
+- Customers: Let’s start our journey! (Webpage: Book a 15-min intro call)
+- Investors: Be a part of our journey!
+
+
+## Journey Builder
+
+
+The Journey Builder works on a conversation & edit basis where based on the 
+
+
+(a) conversation with the user, 
+
+
+(b) data entry like file uploads and integrations, and 
+
+
+(c) manual edits, 
+
+
+Journeys are created.
+
+
+Journeys consist of:
+
+
+1. Sections
+2. Subsections (could be multi-level)
+3. Modules
+
+
+Modules are building blocks of the journeys which accumulate into Sections and Subsections.
+
+
+There are different types of Modules, such as:
+
+
+1. Text-based Description / Introduction ( where employees should understand the info within a document or descriptive text)
+2. Checklist (where employees make sure that they have done a series of tasks that are not defined or could not be defined using other modules. Checklists are more like the "Other" option when neither of the other modules are applicable)
+3. Meet People (where employees meet with some people so that they get to know the team and get some knowledge)
+4. Calendar Event (Events other than meeting with people like intro to company seminars or entry-level people meetups)
+5. Familiarize with People (Familiarizing with people in the company and team with some descriptions about them)
+6. Familiarize with Tools (getting to know the tools that employees need to work with)
+7. Familiarize with Resources (getting to know the resources and files needed to do the work)
+8. Review & Reflection (Review, which is a summary of multiple modules or sections or subsections passed before. Like a review of the “Understand our services” section) 
+9. Case Study & Scenarios 
+10. Multiple Choice Questions 
+11. Written Answer Questions (Asking the employee some questions and wanting her to write down answers)
+12. Polls
+13. Casual Networking Meet 
+15. Multimedia (Video, Images, Audio)
+16. Administrative & account setups
+
+
+The journey creation steps in Journey Builder:
+1) journey creatio start with filling out the description of the role and the company, as well as the purpose of the journey (like new hire onboarding or project onboarding or new policy communication) and its audience (like sales team, dev team, all employees). 
+
+
+Then, based on the info above:
+
+
+2) Our AI system searches different Journey Templates and finds the proper template for the required journey. Then, it tries to populate the Journey Template with as much relevant info as is provided in step 1. Also, our AI system identifies what type of information is missing in each module that requires further user input.
+
+3) Then, the semi-populated Journey is shown to the user, and the user is asked to provide additional info for each module and then fully populate the module with relevant info. 
+
+
+4) Once every module is fully populated, the journey is ready.
+
+Point: a journey template consists of Sections (Contains: a descriptive title of section + # of subsections), Subsection (Contains: a descriptive title of subsection + # of modules), modules (Contains: Module Type + a descriptive title of module).  
+
+
+## Virtual Buddy
+
+
+The **Virtual Buddy** is the guide and AI-chatbot interface through which employees go through the Journeys created by **Journey Builder**. Virtual Buddy also answers all questions the employees might have about the Journey they are going through by accessing the files and integrations from Journey Creation phase.
+
+
+____________________________________________________________________________
+
+
+
+
+ThirdCognition Oy, a Finnish entity company, was established in June 2024, following an investment from the VC and accelerator Antler. 
+Founding team:
+Markus Haverinen: CTO, Co-founder
+Kasra Aliyon: CPO, Co-founder
+Niklas Slotte: CEO, Co-founderWhat ThirdCognition does:
+
+
+We provide teams with an AI Assistant to streamline new employee onboarding and knowledge transfer. 
+
+
+
+
+**Product Use Case Examples:**
+
+
+- **White Collar (Sales - Dynamic):** - Let’s say you are onboarding a sales representative within your team. You will work with Journey Builder to design a Journey for the sales rep, and you do it automatically by uploading documents and giving some instructions to the AI.
+Then, the sales rep will interact with the virtual buddy to go through the journey step-by-step and ask every stupid and smart question she has along the way. Of course, this is not confined to any role like sales or any industry.
+
+
+**Product Description:**
+
+
+For managers to efficiently onboard new team members and supercharge learning for existing team members, managers will use our Journey Builder to automatically build and design the best onboarding and learning journey experiences.
+
+
+Unlike other static onboarding software, our Virtual Buddy guides team members through their onboarding and learning journeys and answers any stupid or smart questions they might have.
+
+
+**Qualitative Value Proposition:**
+
+
+- Streamline knowledge transfer
+- Increase productivity
+- Reduce employee burden
+
+
+**Quantitative Value Proposition:**
+
+
+- Save salary costs of employees when they are not productive yet by making them productive faster
+- Get the employees productive from day one to avoid opportunity costs of not having employees productive on time 
+
+
+**Unique Aspects of the Product:**
+
+
+-The Journey Builder aspect and it being automatic and AI powered.
+-Virtual Buddy is initiative taking and guiding not passive question answerer (as opposed to AI chatbots like ChatGPT).
+-Facilitate the relevant interactions and connections between people and team members.
+
+
+**Startup Mission:** Empower people to succeed in the rapidly changing work life.
+
+
+**Startup Vision:**
+
+
+- Long-term: Our product will be the #1 solution for effective knowledge transfer and getting people up to speed within organizations.
+- Short-term: Make onboarding and continuous learning pleasant and structured.
+
+
+**Journey Builder Features:**
+
+
+Description: 
+An automated Journey designing tool which works with company knowledgebase and natural language command. The objective of Journey Builder is to help its users (who are team leads and managers) to seamlessly create Journeys.
+
+
+Key Features: 
+1. Connect to the company knowledge (e.g. documents, online sources, etc.)
+2. Automatic (AI-powered) creation of the Journey based on the data from company knowledge
+3. Edit of journeys via natural language command or manually
+
+
+**Virtual Buddy Features:**
+
+
+Description:
+A cross-platform AI assistant that guides the end users through their learning journey and answers all their questions along the way.
+
+
+Key Features:
+1. Taking the initiative to guide employees on their onboarding/learning journey.
+2. Answer to employees’ questions via access to company knowledgebase
+3. Taking voice and multilingual input 
+4. Facilitator of the relevant human interactions and connections within the company
+
+
+
+
+**CTAs:**
+
+
+- Customers: Let’s start our journey! (Webpage: Book a 15-min intro call)
+- Investors: Be a part of our journey!
+
+
+## Journey Builder
+
+
+The Journey Builder works on a conversation & edit basis where based on the 
+
+
+(a) conversation with the user, 
+
+
+(b) data entry like file uploads and integrations, and 
+
+
+(c) manual edits, 
+
+
+Journeys are created.
+
+
+Journeys consist of:
+
+
+1. Sections
+2. Subsections (could be multi-level)
+3. Modules
+
+
+Modules are building blocks of the journeys which accumulate into Sections and Subsections.
+
+
+There are different types of Modules, such as:
+
+
+1. Text-based Description / Introduction ( where employees should understand the info within a document or descriptive text)
+2. Checklist (where employees make sure that they have done a series of tasks that are not defined or could not be defined using other modules. Checklists are more like the "Other" option when neither of the other modules are applicable)
+3. Meet People (where employees meet with some people so that they get to know the team and get some knowledge)
+4. Calendar Event (Events other than meeting with people like intro to company seminars or entry-level people meetups)
+5. Familiarize with People (Familiarizing with people in the company and team with some descriptions about them)
+6. Familiarize with Tools (getting to know the tools that employees need to work with)
+7. Familiarize with Resources (getting to know the resources and files needed to do the work)
+8. Review & Reflection (Review, which is a summary of multiple modules or sections or subsections passed before. Like a review of the “Understand our services” section) 
+9. Case Study & Scenarios 
+10. Multiple Choice Questions 
+11. Written Answer Questions (Asking the employee some questions and wanting her to write down answers)
+12. Polls
+13. Casual Networking Meet 
+15. Multimedia (Video, Images, Audio)
+16. Administrative & account setups
+
+
+The journey creation steps in Journey Builder:
+1) journey creatio start with filling out the description of the role and the company, as well as the purpose of the journey (like new hire onboarding or project onboarding or new policy communication) and its audience (like sales team, dev team, all employees). 
+
+
+Then, based on the info above:
+
+
+2) Our AI system searches different Journey Templates and finds the proper template for the required journey. Then, it tries to populate the Journey Template with as much relevant info as is provided in step 1. Also, our AI system identifies what type of information is missing in each module that requires further user input.
+
+3) Then, the semi-populated Journey is shown to the user, and the user is asked to provide additional info for each module and then fully populate the module with relevant info. 
+
+
+4) Once every module is fully populated, the journey is ready.
+
+Point: a journey template consists of Sections (Contains: a descriptive title of section + # of subsections), Subsection (Contains: a descriptive title of subsection + # of modules), modules (Contains: Module Type + a descriptive title of module).  
+
+
+## Virtual Buddy
+
+
+The **Virtual Buddy** is the guide and AI-chatbot interface through which employees go through the Journeys created by **Journey Builder**. Virtual Buddy also answers all questions the employees might have about the Journey they are going through by accessing the files and integrations from Journey Creation phase.
+
+
+____________________________________________________________________________
+
+
+
+
+ThirdCognition Oy, a Finnish entity company, was established in June 2024, following an investment from the VC and accelerator Antler. 
+Founding team:
+Markus Haverinen: CTO, Co-founder
+Kasra Aliyon: CPO, Co-founder
+Niklas Slotte: CEO, Co-founderWhat ThirdCognition does:
+
+
+We provide teams with an AI Assistant to streamline new employee onboarding and knowledge transfer. 
+
+
+
+
+**Product Use Case Examples:**
+
+
+- **White Collar (Sales - Dynamic):** - Let’s say you are onboarding a sales representative within your team. You will work with Journey Builder to design a Journey for the sales rep, and you do it automatically by uploading documents and giving some instructions to the AI.
+Then, the sales rep will interact with the virtual buddy to go through the journey step-by-step and ask every stupid and smart question she has along the way. Of course, this is not confined to any role like sales or any industry.
+
+
+**Product Description:**
+
+
+For managers to efficiently onboard new team members and supercharge learning for existing team members, managers will use our Journey Builder to automatically build and design the best onboarding and learning journey experiences.
+
+
+Unlike other static onboarding software, our Virtual Buddy guides team members through their onboarding and learning journeys and answers any stupid or smart questions they might have.
+
+
+**Qualitative Value Proposition:**
+
+
+- Streamline knowledge transfer
+- Increase productivity
+- Reduce employee burden
+
+
+**Quantitative Value Proposition:**
+
+
+- Save salary costs of employees when they are not productive yet by making them productive faster
+- Get the employees productive from day one to avoid opportunity costs of not having employees productive on time 
+
+
+**Unique Aspects of the Product:**
+
+
+-The Journey Builder aspect and it being automatic and AI powered.
+-Virtual Buddy is initiative taking and guiding not passive question answerer (as opposed to AI chatbots like ChatGPT).
+-Facilitate the relevant interactions and connections between people and team members.
+
+
+**Startup Mission:** Empower people to succeed in the rapidly changing work life.
+
+
+**Startup Vision:**
+
+
+- Long-term: Our product will be the #1 solution for effective knowledge transfer and getting people up to speed within organizations.
+- Short-term: Make onboarding and continuous learning pleasant and structured.
+
+
+**Journey Builder Features:**
+
+
+Description: 
+An automated Journey designing tool which works with company knowledgebase and natural language command. The objective of Journey Builder is to help its users (who are team leads and managers) to seamlessly create Journeys.
+
+
+Key Features: 
+1. Connect to the company knowledge (e.g. documents, online sources, etc.)
+2. Automatic (AI-powered) creation of the Journey based on the data from company knowledge
+3. Edit of journeys via natural language command or manually
+
+
+**Virtual Buddy Features:**
+
+
+Description:
+A cross-platform AI assistant that guides the end users through their learning journey and answers all their questions along the way.
+
+
+Key Features:
+1. Taking the initiative to guide employees on their onboarding/learning journey.
+2. Answer to employees’ questions via access to company knowledgebase
+3. Taking voice and multilingual input 
+4. Facilitator of the relevant human interactions and connections within the company
+
+
+
+
+**CTAs:**
+
+
+- Customers: Let’s start our journey! (Webpage: Book a 15-min intro call)
+- Investors: Be a part of our journey!
+
+
+## Journey Builder
+
+
+The Journey Builder works on a conversation & edit basis where based on the 
+
+
+(a) conversation with the user, 
+
+
+(b) data entry like file uploads and integrations, and 
+
+
+(c) manual edits, 
+
+
+Journeys are created.
+
+
+Journeys consist of:
+
+
+1. Sections
+2. Subsections (could be multi-level)
+3. Modules
+
+
+Modules are building blocks of the journeys which accumulate into Sections and Subsections.
+
+
+There are different types of Modules, such as:
+
+
+1. Text-based Description / Introduction ( where employees should understand the info within a document or descriptive text)
+2. Checklist (where employees make sure that they have done a series of tasks that are not defined or could not be defined using other modules. Checklists are more like the "Other" option when neither of the other modules are applicable)
+3. Meet People (where employees meet with some people so that they get to know the team and get some knowledge)
+4. Calendar Event (Events other than meeting with people like intro to company seminars or entry-level people meetups)
+5. Familiarize with People (Familiarizing with people in the company and team with some descriptions about them)
+6. Familiarize with Tools (getting to know the tools that employees need to work with)
+7. Familiarize with Resources (getting to know the resources and files needed to do the work)
+8. Review & Reflection (Review, which is a summary of multiple modules or sections or subsections passed before. Like a review of the “Understand our services” section) 
+9. Case Study & Scenarios 
+10. Multiple Choice Questions 
+11. Written Answer Questions (Asking the employee some questions and wanting her to write down answers)
+12. Polls
+13. Casual Networking Meet 
+15. Multimedia (Video, Images, Audio)
+16. Administrative & account setups
+
+
+The journey creation steps in Journey Builder:
+1) journey creatio start with filling out the description of the role and the company, as well as the purpose of the journey (like new hire onboarding or project onboarding or new policy communication) and its audience (like sales team, dev team, all employees). 
+
+
+Then, based on the info above:
+
+
+2) Our AI system searches different Journey Templates and finds the proper template for the required journey. Then, it tries to populate the Journey Template with as much relevant info as is provided in step 1. Also, our AI system identifies what type of information is missing in each module that requires further user input.
+
+3) Then, the semi-populated Journey is shown to the user, and the user is asked to provide additional info for each module and then fully populate the module with relevant info. 
+
+
+4) Once every module is fully populated, the journey is ready.
+
+Point: a journey template consists of Sections (Contains: a descriptive title of section + # of subsections), Subsection (Contains: a descriptive title of subsection + # of modules), modules (Contains: Module Type + a descriptive title of module).  
+
+
+## Virtual Buddy
+
+
+The **Virtual Buddy** is the guide and AI-chatbot interface through which employees go through the Journeys created by **Journey Builder**. Virtual Buddy also answers all questions the employees might have about the Journey they are going through by accessing the files and integrations from Journey Creation phase.
+
+
+____________________________________________________________________________
+
+
+
+
+ThirdCognition Oy, a Finnish entity company, was established in June 2024, following an investment from the VC and accelerator Antler. 
+Founding team:
+Markus Haverinen: CTO, Co-founder
+Kasra Aliyon: CPO, Co-founder
+Niklas Slotte: CEO, Co-founder

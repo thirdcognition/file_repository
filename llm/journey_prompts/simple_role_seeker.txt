@@ -1,0 +1,2 @@
+User:
+First, I will give you a list of roles: {roles}, and then I will give you a job description: {text_input}. Then, I want you to give me the role (only from those in {roles}) that matches the job description (in {text_input}) the most. I want the output to only mention the role (one of the roles in {roles}) that closely matches the job description (in {text_input}). I don't want any other explanations in your output:
