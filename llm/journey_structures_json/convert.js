@@ -1,6 +1,29 @@
 // Used to convert templates.json into more structured format used by code.
 
 const fs = require("fs");
+const { title } = require("process");
+
+let usedIds = new Set();
+
+function get_id(str, uniq = true) {
+    let id = str
+        .toString()
+        .replace(/[^a-z0-9]/gi, " ")
+        .replace(/^\s+|\s+$/g, "")
+        .toLowerCase()
+        .replace(/ +/g, "_");
+
+    // Check if id has been used previously
+    while (uniq && usedIds.has(id)) {
+        // If id has been used, append a unique number to it
+        id += "_" + Math.floor(Math.random() * 1000);
+    }
+
+    // Add id to the set of used ids
+    usedIds.add(id);
+
+    return id;
+}
 
 function convert(obj, level = 0) {
     const types = ["journey", "subject", "subsubject", "module"];
@@ -13,12 +36,7 @@ function convert(obj, level = 0) {
             const child = obj[i];
             new_obj.push({
                 index: i,
-                id: child["description"]
-                    .toString()
-                    .replace(/[^a-z0-9]/gi, " ")
-                    .replace(/^\s+|\s+$/g, "")
-                    .toLowerCase()
-                    .replace(/ +/g, "_"),
+                id: get_id(child["description"]),
                 type: types[level],
                 end_of_day: child["end_of_day"],
                 title: child["description"],
@@ -27,11 +45,7 @@ function convert(obj, level = 0) {
     } else if (typeof obj === "object") {
         for (let key in obj) {
             if (obj.hasOwnProperty(key)) {
-                const new_key = key
-                    .replace(/[^a-z0-9]/gi, " ")
-                    .replace(/^\s+|\s+$/g, "")
-                    .toLowerCase()
-                    .replace(/ +/g, "_");
+                const new_key = get_id(key);
                 const new_item = {
                     index: index,
                     id: new_key,
@@ -59,19 +73,99 @@ function convert(obj, level = 0) {
     return new_obj;
 }
 
-// Read the JSON file
-fs.readFile("templates.json", "utf8", (err, data) => {
+fs.readFile("knowledge_services_roles.json", "utf8", (err, data) => {
+    mappings = {};
+    file_mappings = {};
     if (err) throw err;
 
     // Convert the JSON string to a JavaScript object
     const obj = JSON.parse(data);
+    const new_obj = [];
+    for (var key in obj) {
+        if (obj.hasOwnProperty(key)) {
+            const new_key = get_id(key);
+            const new_item = {
+                id: new_key,
+                title: key,
+            };
+            new_item["children"] = obj[key].map((item) => {
+                id = get_id(item);
+                mappings[id] = new_key;
+                return {
+                    id: id,
+                    title: item,
+                };
+            });
+            new_obj.push(new_item);
+            // new_obj.push({
+            //     id: new_key,
+            //     title: key,
+            // });
+            // const json = JSON.stringify(new_item, null, 4);
 
-    const new_obj = convert(obj);
+            // Write the JSON string to a new file
+
+            // fs.writeFile(
+            //     `./structured/${new_key}.json`,
+            //     json,
+            //     "utf8",
+            //     (err) => {
+            //         if (err) throw err;
+            //         console.log(
+            //             `The file ./structured/${new_key}.json has been saved!`
+            //         );
+            //     }
+            // );
+        }
+    }
     const json = JSON.stringify(new_obj, null, 4);
-
     // Write the JSON string to a new file
-    fs.writeFile("templates_structured.json", json, "utf8", (err) => {
+    fs.writeFile(`./structured/index.json`, json, "utf8", (err) => {
         if (err) throw err;
-        console.log("The file has been saved!");
+        console.log(`The file ./structured/index.json has been saved!`);
+    });
+
+    // fs.writeFile(`./structured/mappings.json`, mappings, "utf8", (err) => {
+    //     if (err) throw err;
+    //     console.log(`The file ./structured/mappings.json has been saved!`);
+    // });
+    usedIds = new Set();
+    // Read the JSON file
+    fs.readFile("templates.json", "utf8", (err, data) => {
+        if (err) throw err;
+
+        // Convert the JSON string to a JavaScript object
+        const obj = JSON.parse(data);
+
+        const new_obj = convert(obj);
+        new_obj.forEach((item) => {
+            delete item["index"];
+            const json = JSON.stringify(item, null, 4);
+
+            // Write the JSON string to a new file
+            mapping = mappings[item.id];
+            const dir = `./structured/${mapping}`;
+            const filename = `${dir}/${item.id}.json`;
+            file_mappings[item.id] = `${mapping}/${item.id}.json`;
+            if (!fs.existsSync(dir)) {
+                fs.mkdirSync(dir, (options = { recursive: true }));
+            }
+            fs.writeFile(filename, json, "utf8", (err) => {
+                if (err) throw err;
+                console.log(`The file ${filename} has been saved!`);
+            });
+        });
+        const json = JSON.stringify(file_mappings, null, 4);
+        fs.writeFile(
+            `./structured/mappings.json`,
+            json,
+            "utf8",
+            (err) => {
+                if (err) throw err;
+                console.log(
+                    `The file ./structured/mappings.json has been saved!`
+                );
+            }
+        );
     });
 });

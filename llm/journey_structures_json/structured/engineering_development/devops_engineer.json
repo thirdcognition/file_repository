@@ -1,0 +1,749 @@
+{
+    "id": "devops_engineer",
+    "type": "journey",
+    "title": "DevOps Engineer",
+    "end_of_day": 31,
+    "children": [
+        {
+            "index": 0,
+            "id": "introduction_to_the_company_team_579",
+            "type": "subject",
+            "title": "Introduction to the Company & Team",
+            "end_of_day": 2,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "company_goals_and_vision",
+                    "type": "subsubject",
+                    "title": "Company Goals and Vision",
+                    "end_of_day": 1,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_company_s_long_term_goals_and_how_they_align_with_the_devops_function",
+                            "type": "module",
+                            "end_of_day": 1,
+                            "title": "Understand the company's long-term goals and how they align with the DevOps function."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "devops_team_structure",
+                    "type": "subsubject",
+                    "title": "DevOps Team Structure",
+                    "end_of_day": 2,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_devops_team_s_structure_and_individual_responsibilities",
+                            "type": "module",
+                            "end_of_day": 2,
+                            "title": "Learn about the DevOps team's structure and individual responsibilities."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "cross_team_collaborations",
+                    "type": "subsubject",
+                    "title": "Cross-team Collaborations",
+                    "end_of_day": 2,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_the_devops_team_collaborates_with_other_technical_and_non_technical_teams",
+                            "type": "module",
+                            "end_of_day": 2,
+                            "title": "Overview of how the DevOps team collaborates with other technical and non-technical teams."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "id": "familiarize_with_our_system_architecture",
+            "type": "subject",
+            "title": "Familiarize with Our System Architecture",
+            "end_of_day": 5,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "microservices_architecture_overview",
+                    "type": "subsubject",
+                    "title": "Microservices Architecture Overview",
+                    "end_of_day": 3,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_our_microservices_architecture_and_how_services_communicate",
+                            "type": "module",
+                            "end_of_day": 3,
+                            "title": "Understand our microservices architecture and how services communicate."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "cloud_infrastructure_setup",
+                    "type": "subsubject",
+                    "title": "Cloud Infrastructure Setup",
+                    "end_of_day": 4,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_our_cloud_infrastructure_setup_and_key_services_used",
+                            "type": "module",
+                            "end_of_day": 4,
+                            "title": "Overview of our cloud infrastructure setup and key services used."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "service_dependencies",
+                    "type": "subsubject",
+                    "title": "Service Dependencies",
+                    "end_of_day": 5,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_service_dependencies_and_how_they_are_managed_across_teams",
+                            "type": "module",
+                            "end_of_day": 5,
+                            "title": "Learn about service dependencies and how they are managed across teams."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "id": "overview_of_our_cloud_infrastructure",
+            "type": "subject",
+            "title": "Overview of Our Cloud Infrastructure",
+            "end_of_day": 8,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "cloud_providers_and_services",
+                    "type": "subsubject",
+                    "title": "Cloud Providers and Services",
+                    "end_of_day": 6,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_cloud_providers_we_use_and_the_services_they_offer",
+                            "type": "module",
+                            "end_of_day": 6,
+                            "title": "Introduction to the cloud providers we use and the services they offer."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "resource_scaling_and_management",
+                    "type": "subsubject",
+                    "title": "Resource Scaling and Management",
+                    "end_of_day": 7,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_we_manage_cloud_resources_and_scale_based_on_demand",
+                            "type": "module",
+                            "end_of_day": 7,
+                            "title": "Understand how we manage cloud resources and scale based on demand."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "cost_optimization_strategies",
+                    "type": "subsubject",
+                    "title": "Cost Optimization Strategies",
+                    "end_of_day": 8,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_strategies_we_employ_to_optimize_cloud_infrastructure_costs",
+                            "type": "module",
+                            "end_of_day": 8,
+                            "title": "Learn about strategies we employ to optimize cloud infrastructure costs."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "id": "our_automation_tools_and_processes",
+            "type": "subject",
+            "title": "Our Automation Tools and Processes",
+            "end_of_day": 11,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "ci_cd_automation_tools",
+                    "type": "subsubject",
+                    "title": "CI/CD Automation Tools",
+                    "end_of_day": 9,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_automation_tools_used_in_our_ci_cd_pipeline",
+                            "type": "module",
+                            "end_of_day": 9,
+                            "title": "Introduction to the automation tools used in our CI/CD pipeline."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "automated_monitoring_solutions",
+                    "type": "subsubject",
+                    "title": "Automated Monitoring Solutions",
+                    "end_of_day": 10,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_automated_monitoring_solutions_used_to_ensure_system_health",
+                            "type": "module",
+                            "end_of_day": 10,
+                            "title": "Learn about the automated monitoring solutions used to ensure system health."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "deployment_automation",
+                    "type": "subsubject",
+                    "title": "Deployment Automation",
+                    "end_of_day": 11,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_deployments_are_automated_and_monitored_in_our_environment",
+                            "type": "module",
+                            "end_of_day": 11,
+                            "title": "Understand how deployments are automated and monitored in our environment."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "id": "managing_our_ci_cd_pipelines",
+            "type": "subject",
+            "title": "Managing Our CI/CD Pipelines",
+            "end_of_day": 14,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "pipeline_configuration_and_setup",
+                    "type": "subsubject",
+                    "title": "Pipeline Configuration and Setup",
+                    "end_of_day": 12,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "step_by_step_guide_on_configuring_and_setting_up_ci_cd_pipelines",
+                            "type": "module",
+                            "end_of_day": 12,
+                            "title": "Step-by-step guide on configuring and setting up CI/CD pipelines."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "automated_testing_and_validation",
+                    "type": "subsubject",
+                    "title": "Automated Testing and Validation",
+                    "end_of_day": 13,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_automated_testing_is_integrated_into_our_ci_cd_pipeline",
+                            "type": "module",
+                            "end_of_day": 13,
+                            "title": "Learn how automated testing is integrated into our CI/CD pipeline."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "deployment_environments",
+                    "type": "subsubject",
+                    "title": "Deployment Environments",
+                    "end_of_day": 14,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_deployment_environments_and_how_they_are_managed",
+                            "type": "module",
+                            "end_of_day": 14,
+                            "title": "Overview of deployment environments and how they are managed."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "id": "monitoring_and_incident_management_in_our_company",
+            "type": "subject",
+            "title": "Monitoring and Incident Management in Our Company",
+            "end_of_day": 17,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "alerting_and_notification_systems",
+                    "type": "subsubject",
+                    "title": "Alerting and Notification Systems",
+                    "end_of_day": 15,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_alerting_and_notification_systems_in_place_for_incident_management",
+                            "type": "module",
+                            "end_of_day": 15,
+                            "title": "Learn about the alerting and notification systems in place for incident management."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "incident_response_and_resolution",
+                    "type": "subsubject",
+                    "title": "Incident Response and Resolution",
+                    "end_of_day": 16,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_incidents_are_triaged_and_resolved_in_a_timely_manner",
+                            "type": "module",
+                            "end_of_day": 16,
+                            "title": "Understand how incidents are triaged and resolved in a timely manner."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "post_incident_reviews",
+                    "type": "subsubject",
+                    "title": "Post-Incident Reviews",
+                    "end_of_day": 17,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_we_conduct_post_incident_reviews_to_improve_future_processes",
+                            "type": "module",
+                            "end_of_day": 17,
+                            "title": "Overview of how we conduct post-incident reviews to improve future processes."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "id": "our_configuration_management_and_deployment_tools",
+            "type": "subject",
+            "title": "Our Configuration Management and Deployment Tools",
+            "end_of_day": 20,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "ansible_and_terraform",
+                    "type": "subsubject",
+                    "title": "Ansible and Terraform",
+                    "end_of_day": 18,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_ansible_and_terraform_for_configuration_management_and_deployment",
+                            "type": "module",
+                            "end_of_day": 18,
+                            "title": "Introduction to Ansible and Terraform for configuration management and deployment."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "containerization_docker_kubernetes",
+                    "type": "subsubject",
+                    "title": "Containerization (Docker/Kubernetes)",
+                    "end_of_day": 19,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_we_use_docker_and_kubernetes_for_container_management",
+                            "type": "module",
+                            "end_of_day": 19,
+                            "title": "Overview of how we use Docker and Kubernetes for container management."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "infrastructure_as_code_iac_principles",
+                    "type": "subsubject",
+                    "title": "Infrastructure as Code (IaC) Principles",
+                    "end_of_day": 20,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_principles_of_infrastructure_as_code_iac_and_how_we_apply_them",
+                            "type": "module",
+                            "end_of_day": 20,
+                            "title": "Learn the principles of Infrastructure as Code (IaC) and how we apply them."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "id": "security_and_compliance_in_our_infrastructure",
+            "type": "subject",
+            "title": "Security and Compliance in Our Infrastructure",
+            "end_of_day": 23,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "cloud_security_best_practices",
+                    "type": "subsubject",
+                    "title": "Cloud Security Best Practices",
+                    "end_of_day": 21,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_best_practices_for_securing_cloud_infrastructure",
+                            "type": "module",
+                            "end_of_day": 21,
+                            "title": "Overview of best practices for securing cloud infrastructure."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "data_encryption_techniques",
+                    "type": "subsubject",
+                    "title": "Data Encryption Techniques",
+                    "end_of_day": 22,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_data_encryption_techniques_we_use_to_secure_sensitive_data",
+                            "type": "module",
+                            "end_of_day": 22,
+                            "title": "Learn about data encryption techniques we use to secure sensitive data."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "compliance_with_regulatory_standards",
+                    "type": "subsubject",
+                    "title": "Compliance with Regulatory Standards",
+                    "end_of_day": 23,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_regulatory_standards_we_comply_with_and_how_devops_supports_them",
+                            "type": "module",
+                            "end_of_day": 23,
+                            "title": "Understand the regulatory standards we comply with and how DevOps supports them."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "id": "collaborating_with_our_development_teams",
+            "type": "subject",
+            "title": "Collaborating with Our Development Teams",
+            "end_of_day": 26,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "infrastructure_as_code_best_practices",
+                    "type": "subsubject",
+                    "title": "Infrastructure-as-Code Best Practices",
+                    "end_of_day": 24,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "best_practices_for_collaborating_with_development_teams_on_infrastructure_as_code",
+                            "type": "module",
+                            "end_of_day": 24,
+                            "title": "Best practices for collaborating with development teams on Infrastructure-as-Code."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "pipeline_adjustments_for_development_needs",
+                    "type": "subsubject",
+                    "title": "Pipeline Adjustments for Development Needs",
+                    "end_of_day": 25,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_adjust_pipelines_based_on_development_needs_and_requirements",
+                            "type": "module",
+                            "end_of_day": 25,
+                            "title": "Learn how to adjust pipelines based on development needs and requirements."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "communication_channels_and_escalations",
+                    "type": "subsubject",
+                    "title": "Communication Channels and Escalations",
+                    "end_of_day": 26,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_communication_channels_and_escalation_protocols_between_devops_and_development_teams",
+                            "type": "module",
+                            "end_of_day": 26,
+                            "title": "Overview of communication channels and escalation protocols between DevOps and development teams."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "id": "our_disaster_recovery_procedures",
+            "type": "subject",
+            "title": "Our Disaster Recovery Procedures",
+            "end_of_day": 29,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "backup_and_restore_strategies",
+                    "type": "subsubject",
+                    "title": "Backup and Restore Strategies",
+                    "end_of_day": 27,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_our_backup_and_restore_strategies_for_disaster_recovery",
+                            "type": "module",
+                            "end_of_day": 27,
+                            "title": "Learn about our backup and restore strategies for disaster recovery."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "disaster_simulation_drills",
+                    "type": "subsubject",
+                    "title": "Disaster Simulation Drills",
+                    "end_of_day": 28,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_disaster_simulation_drills_are_conducted_and_their_importance",
+                            "type": "module",
+                            "end_of_day": 28,
+                            "title": "Understand how disaster simulation drills are conducted and their importance."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "failover_and_recovery_plans",
+                    "type": "subsubject",
+                    "title": "Failover and Recovery Plans",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_our_failover_and_recovery_plans_in_case_of_major_incidents",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Overview of our failover and recovery plans in case of major incidents."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "id": "performance_optimization_techniques_at_our_company",
+            "type": "subject",
+            "title": "Performance Optimization Techniques at Our Company",
+            "end_of_day": 30,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "load_balancing_strategies",
+                    "type": "subsubject",
+                    "title": "Load Balancing Strategies",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_load_balancing_is_used_to_optimize_performance",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Learn how load balancing is used to optimize performance."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "resource_allocation_and_tuning",
+                    "type": "subsubject",
+                    "title": "Resource Allocation and Tuning",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_resource_allocation_techniques_and_how_tuning_improves_system_performance",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Understand resource allocation techniques and how tuning improves system performance."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "optimizing_application_performance",
+                    "type": "subsubject",
+                    "title": "Optimizing Application Performance",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_strategies_for_optimizing_application_performance_in_production",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Overview of strategies for optimizing application performance in production."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "id": "version_control_and_infrastructure_as_code_iac_in_our_company",
+            "type": "subject",
+            "title": "Version Control and Infrastructure as Code (IaC) in Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "iac_tools_and_frameworks",
+                    "type": "subsubject",
+                    "title": "IaC Tools and Frameworks",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_tools_and_frameworks_we_use_for_managing_infrastructure_as_code",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Introduction to the tools and frameworks we use for managing infrastructure as code."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "git_based_infrastructure_management",
+                    "type": "subsubject",
+                    "title": "Git-Based Infrastructure Management",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_we_manage_infrastructure_using_git_based_version_control",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn how we manage infrastructure using Git-based version control."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "versioning_best_practices",
+                    "type": "subsubject",
+                    "title": "Versioning Best Practices",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_best_practices_for_versioning_in_iac_environments",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand best practices for versioning in IaC environments."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 12,
+            "id": "ongoing_learning_and_development_resources_at_our_company_317",
+            "type": "subject",
+            "title": "Ongoing Learning and Development Resources at Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "devops_certification_resources",
+                    "type": "subsubject",
+                    "title": "DevOps Certification Resources",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "access_to_resources_for_obtaining_relevant_devops_certifications",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Access to resources for obtaining relevant DevOps certifications."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "knowledge_sharing_sessions",
+                    "type": "subsubject",
+                    "title": "Knowledge Sharing Sessions",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_internal_knowledge_sharing_sessions_and_how_to_contribute",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn about internal knowledge-sharing sessions and how to contribute."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "industry_conferences_and_workshops",
+                    "type": "subsubject",
+                    "title": "Industry Conferences and Workshops",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "information_on_industry_conferences_and_workshops_relevant_to_devops_engineers",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Information on industry conferences and workshops relevant to DevOps engineers."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

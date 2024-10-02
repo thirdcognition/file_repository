@@ -1,0 +1,749 @@
+{
+    "id": "sales_engineer",
+    "type": "journey",
+    "title": "Sales Engineer",
+    "end_of_day": 31,
+    "children": [
+        {
+            "index": 0,
+            "id": "introduction_to_the_company_team_207",
+            "type": "subject",
+            "title": "Introduction to the Company & Team",
+            "end_of_day": 3,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "meet_the_sales_team",
+                    "type": "subsubject",
+                    "title": "Meet the Sales Team",
+                    "end_of_day": 1,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_sales_team_members_and_their_respective_roles",
+                            "type": "module",
+                            "end_of_day": 1,
+                            "title": "Introduction to the sales team members and their respective roles."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "understanding_company_structure_and_goals",
+                    "type": "subsubject",
+                    "title": "Understanding Company Structure and Goals",
+                    "end_of_day": 2,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_company_structure_and_how_sales_aligns_with_business_goals",
+                            "type": "module",
+                            "end_of_day": 2,
+                            "title": "Overview of the company structure and how sales aligns with business goals."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "introduction_to_key_sales_stakeholders",
+                    "type": "subsubject",
+                    "title": "Introduction to Key Sales Stakeholders",
+                    "end_of_day": 3,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_key_stakeholders_in_the_sales_process_and_their_responsibilities",
+                            "type": "module",
+                            "end_of_day": 3,
+                            "title": "Learn about key stakeholders in the sales process and their responsibilities."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "id": "familiarize_with_our_products_and_solutions",
+            "type": "subject",
+            "title": "Familiarize with Our Products and Solutions",
+            "end_of_day": 6,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "product_overview_and_key_features",
+                    "type": "subsubject",
+                    "title": "Product Overview and Key Features",
+                    "end_of_day": 4,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_key_features_and_benefits_of_our_products",
+                            "type": "module",
+                            "end_of_day": 4,
+                            "title": "Understand the key features and benefits of our products."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "solution_selling_and_use_cases",
+                    "type": "subsubject",
+                    "title": "Solution Selling and Use Cases",
+                    "end_of_day": 5,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_solution_selling_approach_and_how_to_apply_product_use_cases_to_customer_needs",
+                            "type": "module",
+                            "end_of_day": 5,
+                            "title": "Learn about the solution selling approach and how to apply product use cases to customer needs."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "product_benefits_for_different_customer_segments",
+                    "type": "subsubject",
+                    "title": "Product Benefits for Different Customer Segments",
+                    "end_of_day": 6,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_our_product_benefits_vary_across_different_customer_segments",
+                            "type": "module",
+                            "end_of_day": 6,
+                            "title": "Overview of how our product benefits vary across different customer segments."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "id": "our_technical_overview_of_product_features",
+            "type": "subject",
+            "title": "Our Technical Overview of Product Features",
+            "end_of_day": 9,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "deep_dive_into_product_architecture",
+                    "type": "subsubject",
+                    "title": "Deep Dive into Product Architecture",
+                    "end_of_day": 7,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_technical_architecture_of_our_products_and_how_they_are_designed",
+                            "type": "module",
+                            "end_of_day": 7,
+                            "title": "Understand the technical architecture of our products and how they are designed."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "technical_specifications_and_integrations",
+                    "type": "subsubject",
+                    "title": "Technical Specifications and Integrations",
+                    "end_of_day": 8,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_technical_specifications_and_how_our_products_integrate_with_other_systems",
+                            "type": "module",
+                            "end_of_day": 8,
+                            "title": "Learn about the technical specifications and how our products integrate with other systems."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "product_performance_and_scalability",
+                    "type": "subsubject",
+                    "title": "Product Performance and Scalability",
+                    "end_of_day": 9,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_product_performance_benchmarks_and_scalability_options",
+                            "type": "module",
+                            "end_of_day": 9,
+                            "title": "Overview of product performance benchmarks and scalability options."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "id": "familiarize_with_our_sales_tools_and_crm",
+            "type": "subject",
+            "title": "Familiarize with Our Sales Tools and CRM",
+            "end_of_day": 12,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "crm_overview_and_usage",
+                    "type": "subsubject",
+                    "title": "CRM Overview and Usage",
+                    "end_of_day": 10,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_navigate_and_use_the_company_s_crm_for_managing_leads_and_opportunities",
+                            "type": "module",
+                            "end_of_day": 10,
+                            "title": "Learn how to navigate and use the company's CRM for managing leads and opportunities."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "sales_automation_tools",
+                    "type": "subsubject",
+                    "title": "Sales Automation Tools",
+                    "end_of_day": 11,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_sales_automation_tools_available_to_streamline_your_workflow",
+                            "type": "module",
+                            "end_of_day": 11,
+                            "title": "Understand the sales automation tools available to streamline your workflow."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "tracking_sales_pipelines",
+                    "type": "subsubject",
+                    "title": "Tracking Sales Pipelines",
+                    "end_of_day": 12,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_tracking_sales_pipelines_and_monitoring_deal_progress",
+                            "type": "module",
+                            "end_of_day": 12,
+                            "title": "Overview of tracking sales pipelines and monitoring deal progress."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "id": "understanding_our_customer_pain_points",
+            "type": "subject",
+            "title": "Understanding Our Customer Pain Points",
+            "end_of_day": 15,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "identifying_customer_needs",
+                    "type": "subsubject",
+                    "title": "Identifying Customer Needs",
+                    "end_of_day": 13,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_identify_and_assess_customer_needs_during_the_sales_process",
+                            "type": "module",
+                            "end_of_day": 13,
+                            "title": "Learn how to identify and assess customer needs during the sales process."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "common_industry_challenges",
+                    "type": "subsubject",
+                    "title": "Common Industry Challenges",
+                    "end_of_day": 14,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_common_challenges_faced_by_customers_in_the_industry_and_how_our_solutions_address_them",
+                            "type": "module",
+                            "end_of_day": 14,
+                            "title": "Understand common challenges faced by customers in the industry and how our solutions address them."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "solutions_for_customer_pain_points",
+                    "type": "subsubject",
+                    "title": "Solutions for Customer Pain Points",
+                    "end_of_day": 15,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_key_solutions_we_offer_to_resolve_specific_customer_pain_points",
+                            "type": "module",
+                            "end_of_day": 15,
+                            "title": "Overview of the key solutions we offer to resolve specific customer pain points."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "id": "collaborating_with_our_product_and_development_teams_225",
+            "type": "subject",
+            "title": "Collaborating with Our Product and Development Teams",
+            "end_of_day": 18,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "communicating_customer_feedback_to_product",
+                    "type": "subsubject",
+                    "title": "Communicating Customer Feedback to Product",
+                    "end_of_day": 16,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_effectively_communicate_customer_feedback_to_the_product_team_for_improvements",
+                            "type": "module",
+                            "end_of_day": 16,
+                            "title": "Learn how to effectively communicate customer feedback to the product team for improvements."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "working_together_on_custom_solutions",
+                    "type": "subsubject",
+                    "title": "Working Together on Custom Solutions",
+                    "end_of_day": 17,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_collaborate_with_the_product_and_development_teams_to_create_custom_solutions_for_clients",
+                            "type": "module",
+                            "end_of_day": 17,
+                            "title": "Understand how to collaborate with the product and development teams to create custom solutions for clients."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "aligning_sales_and_product_development",
+                    "type": "subsubject",
+                    "title": "Aligning Sales and Product Development",
+                    "end_of_day": 18,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_sales_and_product_development_align_to_ensure_customer_satisfaction",
+                            "type": "module",
+                            "end_of_day": 18,
+                            "title": "Overview of how sales and product development align to ensure customer satisfaction."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "id": "creating_product_demos_and_presentations_for_our_solutions",
+            "type": "subject",
+            "title": "Creating Product Demos and Presentations for Our Solutions",
+            "end_of_day": 21,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "demo_creation_best_practices",
+                    "type": "subsubject",
+                    "title": "Demo Creation Best Practices",
+                    "end_of_day": 19,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_best_practices_for_creating_engaging_product_demos",
+                            "type": "module",
+                            "end_of_day": 19,
+                            "title": "Learn best practices for creating engaging product demos."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "presentation_tools_and_techniques",
+                    "type": "subsubject",
+                    "title": "Presentation Tools and Techniques",
+                    "end_of_day": 20,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_use_various_presentation_tools_and_techniques_to_deliver_compelling_product_demonstrations",
+                            "type": "module",
+                            "end_of_day": 20,
+                            "title": "Understand how to use various presentation tools and techniques to deliver compelling product demonstrations."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "tailoring_demos_for_specific_clients",
+                    "type": "subsubject",
+                    "title": "Tailoring Demos for Specific Clients",
+                    "end_of_day": 21,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_to_tailor_product_demos_to_meet_the_specific_needs_of_different_clients",
+                            "type": "module",
+                            "end_of_day": 21,
+                            "title": "Overview of how to tailor product demos to meet the specific needs of different clients."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "id": "our_product_integration_and_configuration_process",
+            "type": "subject",
+            "title": "Our Product Integration and Configuration Process",
+            "end_of_day": 24,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "product_implementation_guidelines",
+                    "type": "subsubject",
+                    "title": "Product Implementation Guidelines",
+                    "end_of_day": 22,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_guidelines_for_implementing_and_configuring_products_for_clients",
+                            "type": "module",
+                            "end_of_day": 22,
+                            "title": "Learn about the guidelines for implementing and configuring products for clients."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "custom_configurations_for_clients",
+                    "type": "subsubject",
+                    "title": "Custom Configurations for Clients",
+                    "end_of_day": 23,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_customize_product_configurations_based_on_client_requirements",
+                            "type": "module",
+                            "end_of_day": 23,
+                            "title": "Understand how to customize product configurations based on client requirements."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "integration_with_existing_systems",
+                    "type": "subsubject",
+                    "title": "Integration with Existing Systems",
+                    "end_of_day": 24,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_to_integrate_our_solutions_with_a_client_s_existing_systems_and_infrastructure",
+                            "type": "module",
+                            "end_of_day": 24,
+                            "title": "Overview of how to integrate our solutions with a client’s existing systems and infrastructure."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "id": "security_and_compliance_in_our_sales_solutions",
+            "type": "subject",
+            "title": "Security and Compliance in Our Sales Solutions",
+            "end_of_day": 27,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "understanding_security_features",
+                    "type": "subsubject",
+                    "title": "Understanding Security Features",
+                    "end_of_day": 25,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_key_security_features_of_our_products",
+                            "type": "module",
+                            "end_of_day": 25,
+                            "title": "Learn about the key security features of our products."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "compliance_with_industry_standards",
+                    "type": "subsubject",
+                    "title": "Compliance with Industry Standards",
+                    "end_of_day": 26,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_our_solutions_comply_with_industry_standards_and_regulations",
+                            "type": "module",
+                            "end_of_day": 26,
+                            "title": "Understand how our solutions comply with industry standards and regulations."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "communicating_security_to_clients",
+                    "type": "subsubject",
+                    "title": "Communicating Security to Clients",
+                    "end_of_day": 27,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_to_effectively_communicate_product_security_features_to_clients",
+                            "type": "module",
+                            "end_of_day": 27,
+                            "title": "Overview of how to effectively communicate product security features to clients."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "id": "our_negotiation_and_contracting_process",
+            "type": "subject",
+            "title": "Our Negotiation and Contracting Process",
+            "end_of_day": 29,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "contracting_and_legal_requirements",
+                    "type": "subsubject",
+                    "title": "Contracting and Legal Requirements",
+                    "end_of_day": 28,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_legal_requirements_and_processes_for_contracting_with_clients",
+                            "type": "module",
+                            "end_of_day": 28,
+                            "title": "Learn the legal requirements and processes for contracting with clients."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "negotiation_tactics",
+                    "type": "subsubject",
+                    "title": "Negotiation Tactics",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_best_negotiation_tactics_to_close_deals_effectively",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Understand the best negotiation tactics to close deals effectively."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "finalizing_deals_and_contracts",
+                    "type": "subsubject",
+                    "title": "Finalizing Deals and Contracts",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_steps_to_finalize_contracts_and_close_deals",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Overview of the steps to finalize contracts and close deals."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "id": "handling_customer_feedback_in_our_company",
+            "type": "subject",
+            "title": "Handling Customer Feedback in Our Company",
+            "end_of_day": 30,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "collecting_and_analyzing_feedback",
+                    "type": "subsubject",
+                    "title": "Collecting and Analyzing Feedback",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_collect_and_analyze_feedback_from_customers",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Learn how to collect and analyze feedback from customers."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "implementing_product_improvements",
+                    "type": "subsubject",
+                    "title": "Implementing Product Improvements",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_feedback_is_used_to_improve_products_and_services",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Understand how feedback is used to improve products and services."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "maintaining_long_term_relationships",
+                    "type": "subsubject",
+                    "title": "Maintaining Long-term Relationships",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_to_maintain_and_strengthen_long_term_customer_relationships",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Overview of how to maintain and strengthen long-term customer relationships."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "id": "our_sales_metrics_and_kpis",
+            "type": "subject",
+            "title": "Our Sales Metrics and KPIs",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "sales_quota_tracking",
+                    "type": "subsubject",
+                    "title": "Sales Quota Tracking",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_track_and_achieve_your_sales_quotas",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn how to track and achieve your sales quotas."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "pipeline_velocity",
+                    "type": "subsubject",
+                    "title": "Pipeline Velocity",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_monitor_pipeline_velocity_and_close_deals_faster",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand how to monitor pipeline velocity and close deals faster."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "customer_satisfaction_scores",
+                    "type": "subsubject",
+                    "title": "Customer Satisfaction Scores",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_customer_satisfaction_is_measured_and_improved",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Overview of how customer satisfaction is measured and improved."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 12,
+            "id": "ongoing_learning_and_industry_trends_at_our_company",
+            "type": "subject",
+            "title": "Ongoing Learning and Industry Trends at Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "industry_certifications_and_learning",
+                    "type": "subsubject",
+                    "title": "Industry Certifications and Learning",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_industry_certifications_and_continuous_learning_opportunities_for_sales_engineers",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn about industry certifications and continuous learning opportunities for sales engineers."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "staying_updated_with_market_trends",
+                    "type": "subsubject",
+                    "title": "Staying Updated with Market Trends",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_stay_informed_about_the_latest_market_trends_and_updates",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand how to stay informed about the latest market trends and updates."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "sales_process_improvements",
+                    "type": "subsubject",
+                    "title": "Sales Process Improvements",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_to_continuously_improve_your_sales_process_and_techniques",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Overview of how to continuously improve your sales process and techniques."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

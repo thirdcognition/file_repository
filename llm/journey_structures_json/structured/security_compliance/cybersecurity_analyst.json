@@ -1,0 +1,692 @@
+{
+    "id": "cybersecurity_analyst",
+    "type": "journey",
+    "title": "Cybersecurity Analyst",
+    "end_of_day": 31,
+    "children": [
+        {
+            "index": 0,
+            "id": "introduction_to_the_company_team_333",
+            "type": "subject",
+            "title": "Introduction to the Company & Team",
+            "end_of_day": 3,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "meet_the_security_team",
+                    "type": "subsubject",
+                    "title": "Meet the Security Team",
+                    "end_of_day": 1,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_cybersecurity_team_members_and_their_roles",
+                            "type": "module",
+                            "end_of_day": 1,
+                            "title": "Introduction to the cybersecurity team members and their roles."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "overview_of_cybersecurity_leadership",
+                    "type": "subsubject",
+                    "title": "Overview of Cybersecurity Leadership",
+                    "end_of_day": 2,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_cybersecurity_leadership_team_and_their_responsibilities",
+                            "type": "module",
+                            "end_of_day": 2,
+                            "title": "Learn about the cybersecurity leadership team and their responsibilities."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "introduction_to_key_security_stakeholders",
+                    "type": "subsubject",
+                    "title": "Introduction to Key Security Stakeholders",
+                    "end_of_day": 3,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_key_security_stakeholders_including_external_partners_and_vendors",
+                            "type": "module",
+                            "end_of_day": 3,
+                            "title": "Overview of the key security stakeholders, including external partners and vendors."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "id": "familiarize_with_our_security_policies",
+            "type": "subject",
+            "title": "Familiarize with Our Security Policies",
+            "end_of_day": 6,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "company_security_policies_overview",
+                    "type": "subsubject",
+                    "title": "Company Security Policies Overview",
+                    "end_of_day": 4,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_company_s_security_policies_and_how_they_protect_critical_assets",
+                            "type": "module",
+                            "end_of_day": 4,
+                            "title": "Learn about the company's security policies and how they protect critical assets."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "compliance_with_industry_standards_585",
+                    "type": "subsubject",
+                    "title": "Compliance with Industry Standards",
+                    "end_of_day": 5,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_importance_of_complying_with_industry_standards_such_as_gdpr_and_ccpa",
+                            "type": "module",
+                            "end_of_day": 5,
+                            "title": "Understand the importance of complying with industry standards such as GDPR and CCPA."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "security_best_practices_at_our_company",
+                    "type": "subsubject",
+                    "title": "Security Best Practices at Our Company",
+                    "end_of_day": 6,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_security_best_practices_followed_at_the_company_to_minimize_risks",
+                            "type": "module",
+                            "end_of_day": 6,
+                            "title": "Overview of security best practices followed at the company to minimize risks."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "id": "overview_of_our_security_tools_and_software",
+            "type": "subject",
+            "title": "Overview of Our Security Tools and Software",
+            "end_of_day": 9,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "security_monitoring_tools",
+                    "type": "subsubject",
+                    "title": "Security Monitoring Tools",
+                    "end_of_day": 7,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_tools_used_to_monitor_the_security_posture_of_the_company",
+                            "type": "module",
+                            "end_of_day": 7,
+                            "title": "Learn about the tools used to monitor the security posture of the company."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "intrusion_detection_systems_ids",
+                    "type": "subsubject",
+                    "title": "Intrusion Detection Systems (IDS)",
+                    "end_of_day": 8,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_intrusion_detection_systems_ids_are_used_to_identify_potential_security_breaches",
+                            "type": "module",
+                            "end_of_day": 8,
+                            "title": "Understand how Intrusion Detection Systems (IDS) are used to identify potential security breaches."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "vulnerability_management_software",
+                    "type": "subsubject",
+                    "title": "Vulnerability Management Software",
+                    "end_of_day": 9,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_vulnerability_management_software_and_its_role_in_identifying_and_mitigating_risks",
+                            "type": "module",
+                            "end_of_day": 9,
+                            "title": "Overview of vulnerability management software and its role in identifying and mitigating risks."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "id": "our_incident_response_procedures",
+            "type": "subject",
+            "title": "Our Incident Response Procedures",
+            "end_of_day": 12,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "incident_detection_and_response_protocols",
+                    "type": "subsubject",
+                    "title": "Incident Detection and Response Protocols",
+                    "end_of_day": 10,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_protocols_for_detecting_and_responding_to_security_incidents_in_real_time",
+                            "type": "module",
+                            "end_of_day": 10,
+                            "title": "Learn the protocols for detecting and responding to security incidents in real-time."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "documenting_and_reporting_incidents",
+                    "type": "subsubject",
+                    "title": "Documenting and Reporting Incidents",
+                    "end_of_day": 11,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_security_incidents_are_documented_and_reported_to_relevant_stakeholders",
+                            "type": "module",
+                            "end_of_day": 11,
+                            "title": "Understand how security incidents are documented and reported to relevant stakeholders."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "post_incident_reviews_and_improvements",
+                    "type": "subsubject",
+                    "title": "Post-Incident Reviews and Improvements",
+                    "end_of_day": 12,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_post_incident_reviews_are_conducted_to_improve_future_responses",
+                            "type": "module",
+                            "end_of_day": 12,
+                            "title": "Overview of how post-incident reviews are conducted to improve future responses."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "id": "threat_detection_and_analysis_in_our_company",
+            "type": "subject",
+            "title": "Threat Detection and Analysis in Our Company",
+            "end_of_day": 15,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "proactive_threat_hunting",
+                    "type": "subsubject",
+                    "title": "Proactive Threat Hunting",
+                    "end_of_day": 13,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_proactively_hunt_for_potential_security_threats_and_vulnerabilities",
+                            "type": "module",
+                            "end_of_day": 13,
+                            "title": "Learn how to proactively hunt for potential security threats and vulnerabilities."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "analyzing_security_threats_and_vulnerabilities",
+                    "type": "subsubject",
+                    "title": "Analyzing Security Threats and Vulnerabilities",
+                    "end_of_day": 14,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_process_of_analyzing_and_assessing_security_threats_and_vulnerabilities",
+                            "type": "module",
+                            "end_of_day": 14,
+                            "title": "Understand the process of analyzing and assessing security threats and vulnerabilities."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "responding_to_emerging_threats",
+                    "type": "subsubject",
+                    "title": "Responding to Emerging Threats",
+                    "end_of_day": 15,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_the_company_responds_to_emerging_threats_in_the_cybersecurity_landscape",
+                            "type": "module",
+                            "end_of_day": 15,
+                            "title": "Overview of how the company responds to emerging threats in the cybersecurity landscape."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "id": "security_audits_and_compliance_at_our_company",
+            "type": "subject",
+            "title": "Security Audits and Compliance at Our Company",
+            "end_of_day": 18,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "conducting_regular_security_audits",
+                    "type": "subsubject",
+                    "title": "Conducting Regular Security Audits",
+                    "end_of_day": 16,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_regular_security_audits_are_conducted_to_ensure_compliance_and_security",
+                            "type": "module",
+                            "end_of_day": 16,
+                            "title": "Learn how regular security audits are conducted to ensure compliance and security."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "ensuring_compliance_with_gdpr_ccpa_and_other_regulations",
+                    "type": "subsubject",
+                    "title": "Ensuring Compliance with GDPR, CCPA, and other Regulations",
+                    "end_of_day": 17,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_steps_taken_to_ensure_compliance_with_regulations_such_as_gdpr_and_ccpa",
+                            "type": "module",
+                            "end_of_day": 17,
+                            "title": "Understand the steps taken to ensure compliance with regulations such as GDPR and CCPA."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "internal_and_external_audit_processes_255",
+                    "type": "subsubject",
+                    "title": "Internal and External Audit Processes",
+                    "end_of_day": 18,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_internal_and_external_audit_processes_for_cybersecurity",
+                            "type": "module",
+                            "end_of_day": 18,
+                            "title": "Overview of the internal and external audit processes for cybersecurity."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "id": "collaborating_with_our_it_and_development_teams",
+            "type": "subject",
+            "title": "Collaborating with Our IT and Development Teams",
+            "end_of_day": 21,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "securing_devops_pipelines",
+                    "type": "subsubject",
+                    "title": "Securing DevOps Pipelines",
+                    "end_of_day": 19,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_secure_devops_pipelines_to_ensure_that_code_and_infrastructure_are_protected",
+                            "type": "module",
+                            "end_of_day": 19,
+                            "title": "Learn how to secure DevOps pipelines to ensure that code and infrastructure are protected."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "ensuring_secure_software_development",
+                    "type": "subsubject",
+                    "title": "Ensuring Secure Software Development",
+                    "end_of_day": 20,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_role_of_the_cybersecurity_team_in_ensuring_secure_software_development_practices",
+                            "type": "module",
+                            "end_of_day": 20,
+                            "title": "Understand the role of the cybersecurity team in ensuring secure software development practices."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "communicating_security_requirements_to_teams",
+                    "type": "subsubject",
+                    "title": "Communicating Security Requirements to Teams",
+                    "end_of_day": 21,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_security_requirements_are_communicated_to_it_and_development_teams",
+                            "type": "module",
+                            "end_of_day": 21,
+                            "title": "Overview of how security requirements are communicated to IT and development teams."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "id": "our_risk_management_and_mitigation_strategies_451",
+            "type": "subject",
+            "title": "Our Risk Management and Mitigation Strategies",
+            "end_of_day": 24,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "risk_identification_and_prioritization",
+                    "type": "subsubject",
+                    "title": "Risk Identification and Prioritization",
+                    "end_of_day": 22,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_identify_and_prioritize_risks_in_the_company_s_cybersecurity_framework",
+                            "type": "module",
+                            "end_of_day": 22,
+                            "title": "Learn how to identify and prioritize risks in the company’s cybersecurity framework."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "developing_mitigation_strategies",
+                    "type": "subsubject",
+                    "title": "Developing Mitigation Strategies",
+                    "end_of_day": 23,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_mitigation_strategies_are_developed_to_minimize_the_impact_of_security_risks",
+                            "type": "module",
+                            "end_of_day": 23,
+                            "title": "Understand how mitigation strategies are developed to minimize the impact of security risks."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "regular_risk_assessments",
+                    "type": "subsubject",
+                    "title": "Regular Risk Assessments",
+                    "end_of_day": 24,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_regular_risk_assessments_are_conducted_to_ensure_ongoing_protection",
+                            "type": "module",
+                            "end_of_day": 24,
+                            "title": "Overview of how regular risk assessments are conducted to ensure ongoing protection."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "id": "our_vulnerability_assessments_and_penetration_testing",
+            "type": "subject",
+            "title": "Our Vulnerability Assessments and Penetration Testing",
+            "end_of_day": 27,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "conducting_penetration_tests",
+                    "type": "subsubject",
+                    "title": "Conducting Penetration Tests",
+                    "end_of_day": 25,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_steps_involved_in_conducting_penetration_tests_to_identify_vulnerabilities",
+                            "type": "module",
+                            "end_of_day": 25,
+                            "title": "Learn the steps involved in conducting penetration tests to identify vulnerabilities."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "assessing_system_vulnerabilities",
+                    "type": "subsubject",
+                    "title": "Assessing System Vulnerabilities",
+                    "end_of_day": 26,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_system_vulnerabilities_are_assessed_and_addressed",
+                            "type": "module",
+                            "end_of_day": 26,
+                            "title": "Understand how system vulnerabilities are assessed and addressed."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "addressing_critical_security_gaps",
+                    "type": "subsubject",
+                    "title": "Addressing Critical Security Gaps",
+                    "end_of_day": 27,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_critical_security_gaps_are_identified_and_mitigated",
+                            "type": "module",
+                            "end_of_day": 27,
+                            "title": "Overview of how critical security gaps are identified and mitigated."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "id": "data_security_and_privacy_regulations_in_our_company",
+            "type": "subject",
+            "title": "Data Security and Privacy Regulations in Our Company",
+            "end_of_day": 30,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "complying_with_data_privacy_laws",
+                    "type": "subsubject",
+                    "title": "Complying with Data Privacy Laws",
+                    "end_of_day": 28,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_company_s_approach_to_complying_with_data_privacy_laws_and_regulations",
+                            "type": "module",
+                            "end_of_day": 28,
+                            "title": "Learn about the company’s approach to complying with data privacy laws and regulations."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "data_encryption_and_protection_standards",
+                    "type": "subsubject",
+                    "title": "Data Encryption and Protection Standards",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_data_encryption_and_protection_standards_used_to_secure_sensitive_information",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Understand the data encryption and protection standards used to secure sensitive information."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "managing_data_breaches",
+                    "type": "subsubject",
+                    "title": "Managing Data Breaches",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_data_breaches_are_managed_and_reported_to_regulatory_authorities",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Overview of how data breaches are managed and reported to regulatory authorities."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "id": "disaster_recovery_and_business_continuity_at_our_company",
+            "type": "subject",
+            "title": "Disaster Recovery and Business Continuity at Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "disaster_recovery_planning",
+                    "type": "subsubject",
+                    "title": "Disaster Recovery Planning",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_disaster_recovery_plans_in_place_to_ensure_business_continuity",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn about the disaster recovery plans in place to ensure business continuity."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "simulating_disaster_scenarios",
+                    "type": "subsubject",
+                    "title": "Simulating Disaster Scenarios",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_importance_of_simulating_disaster_scenarios_to_prepare_for_real_incidents",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand the importance of simulating disaster scenarios to prepare for real incidents."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "ensuring_business_continuity_during_crises",
+                    "type": "subsubject",
+                    "title": "Ensuring Business Continuity During Crises",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_the_company_ensures_business_continuity_during_crises",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Overview of how the company ensures business continuity during crises."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "id": "ongoing_learning_and_certification_opportunities_at_our_company_872",
+            "type": "subject",
+            "title": "Ongoing Learning and Certification Opportunities at Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "pursuing_cybersecurity_certifications",
+                    "type": "subsubject",
+                    "title": "Pursuing Cybersecurity Certifications",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_available_cybersecurity_certifications_and_training_opportunities",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn about the available cybersecurity certifications and training opportunities."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "continuous_learning_programs_754",
+                    "type": "subsubject",
+                    "title": "Continuous Learning Programs",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_continuous_learning_programs_in_place_to_keep_security_professionals_up_to_date",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand the continuous learning programs in place to keep security professionals up to date."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "staying_updated_on_emerging_threats",
+                    "type": "subsubject",
+                    "title": "Staying Updated on Emerging Threats",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_to_stay_updated_on_emerging_cybersecurity_threats_and_trends",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Overview of how to stay updated on emerging cybersecurity threats and trends."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

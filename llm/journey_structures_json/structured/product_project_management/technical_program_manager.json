@@ -1,0 +1,692 @@
+{
+    "id": "technical_program_manager",
+    "type": "journey",
+    "title": "Technical Program Manager",
+    "end_of_day": 31,
+    "children": [
+        {
+            "index": 0,
+            "id": "introduction_to_the_company_team_346",
+            "type": "subject",
+            "title": "Introduction to the Company & Team",
+            "end_of_day": 3,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "meet_the_leadership_team_528",
+                    "type": "subsubject",
+                    "title": "Meet the Leadership Team",
+                    "end_of_day": 1,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_leadership_team_and_their_role_in_program_success",
+                            "type": "module",
+                            "end_of_day": 1,
+                            "title": "Introduction to the leadership team and their role in program success."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "understanding_program_goals",
+                    "type": "subsubject",
+                    "title": "Understanding Program Goals",
+                    "end_of_day": 2,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_program_goals_and_their_alignment_with_company_objectives",
+                            "type": "module",
+                            "end_of_day": 2,
+                            "title": "Overview of program goals and their alignment with company objectives."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "key_program_stakeholders",
+                    "type": "subsubject",
+                    "title": "Key Program Stakeholders",
+                    "end_of_day": 3,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_key_stakeholders_involved_in_the_program_and_their_responsibilities",
+                            "type": "module",
+                            "end_of_day": 3,
+                            "title": "Introduction to key stakeholders involved in the program and their responsibilities."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "id": "familiarize_with_our_program_objectives",
+            "type": "subject",
+            "title": "Familiarize with Our Program Objectives",
+            "end_of_day": 6,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "key_deliverables_and_milestones",
+                    "type": "subsubject",
+                    "title": "Key Deliverables and Milestones",
+                    "end_of_day": 4,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_key_deliverables_and_milestones_of_the_program",
+                            "type": "module",
+                            "end_of_day": 4,
+                            "title": "Understand the key deliverables and milestones of the program."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "strategic_program_objectives",
+                    "type": "subsubject",
+                    "title": "Strategic Program Objectives",
+                    "end_of_day": 5,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_strategic_objectives_of_the_program_and_how_they_align_with_broader_business_goals",
+                            "type": "module",
+                            "end_of_day": 5,
+                            "title": "Learn about the strategic objectives of the program and how they align with broader business goals."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "alignment_with_business_goals",
+                    "type": "subsubject",
+                    "title": "Alignment with Business Goals",
+                    "end_of_day": 6,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_the_program_objectives_are_aligned_with_the_company_s_long_term_business_goals",
+                            "type": "module",
+                            "end_of_day": 6,
+                            "title": "Overview of how the program objectives are aligned with the company's long-term business goals."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "id": "agile_project_management_at_our_company",
+            "type": "subject",
+            "title": "Agile Project Management at Our Company",
+            "end_of_day": 9,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "agile_program_management_overview",
+                    "type": "subsubject",
+                    "title": "Agile Program Management Overview",
+                    "end_of_day": 7,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_agile_principles_are_applied_at_the_program_level",
+                            "type": "module",
+                            "end_of_day": 7,
+                            "title": "Understand how Agile principles are applied at the program level."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "tracking_agile_metrics",
+                    "type": "subsubject",
+                    "title": "Tracking Agile Metrics",
+                    "end_of_day": 8,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_metrics_used_to_track_progress_in_agile_projects",
+                            "type": "module",
+                            "end_of_day": 8,
+                            "title": "Learn the metrics used to track progress in Agile projects."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "program_increment_pi_planning",
+                    "type": "subsubject",
+                    "title": "Program Increment (PI) Planning",
+                    "end_of_day": 9,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_program_increment_pi_planning_is_conducted",
+                            "type": "module",
+                            "end_of_day": 9,
+                            "title": "Overview of how Program Increment (PI) planning is conducted."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "id": "collaborating_with_our_engineering_and_product_teams_49",
+            "type": "subject",
+            "title": "Collaborating with Our Engineering and Product Teams",
+            "end_of_day": 12,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "inter_team_collaboration",
+                    "type": "subsubject",
+                    "title": "Inter-team Collaboration",
+                    "end_of_day": 10,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_the_program_management_team_collaborates_with_engineering_and_product_teams",
+                            "type": "module",
+                            "end_of_day": 10,
+                            "title": "Learn how the program management team collaborates with engineering and product teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "synchronizing_program_and_product_roadmaps",
+                    "type": "subsubject",
+                    "title": "Synchronizing Program and Product Roadmaps",
+                    "end_of_day": 11,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_process_of_synchronizing_the_program_and_product_roadmaps_to_ensure_alignment",
+                            "type": "module",
+                            "end_of_day": 11,
+                            "title": "Understand the process of synchronizing the program and product roadmaps to ensure alignment."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "managing_cross_functional_dependencies",
+                    "type": "subsubject",
+                    "title": "Managing Cross-functional Dependencies",
+                    "end_of_day": 12,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_managing_cross_functional_dependencies_across_teams",
+                            "type": "module",
+                            "end_of_day": 12,
+                            "title": "Overview of managing cross-functional dependencies across teams."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "id": "our_risk_management_and_mitigation_strategies",
+            "type": "subject",
+            "title": "Our Risk Management and Mitigation Strategies",
+            "end_of_day": 15,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "identifying_program_risks",
+                    "type": "subsubject",
+                    "title": "Identifying Program Risks",
+                    "end_of_day": 13,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_process_of_identifying_potential_risks_in_the_program",
+                            "type": "module",
+                            "end_of_day": 13,
+                            "title": "Learn about the process of identifying potential risks in the program."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "risk_mitigation_plans",
+                    "type": "subsubject",
+                    "title": "Risk Mitigation Plans",
+                    "end_of_day": 14,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_strategies_for_mitigating_program_risks",
+                            "type": "module",
+                            "end_of_day": 14,
+                            "title": "Understand the strategies for mitigating program risks."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "escalation_and_contingency_planning",
+                    "type": "subsubject",
+                    "title": "Escalation and Contingency Planning",
+                    "end_of_day": 15,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_escalation_paths_and_contingency_planning_for_high_impact_risks",
+                            "type": "module",
+                            "end_of_day": 15,
+                            "title": "Overview of escalation paths and contingency planning for high-impact risks."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "id": "tools_and_software_for_project_management_at_our_company",
+            "type": "subject",
+            "title": "Tools and Software for Project Management at Our Company",
+            "end_of_day": 18,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "jira_and_confluence_for_program_tracking",
+                    "type": "subsubject",
+                    "title": "JIRA and Confluence for Program Tracking",
+                    "end_of_day": 16,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_how_jira_and_confluence_are_used_for_tracking_program_progress",
+                            "type": "module",
+                            "end_of_day": 16,
+                            "title": "Introduction to how JIRA and Confluence are used for tracking program progress."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "project_management_dashboards",
+                    "type": "subsubject",
+                    "title": "Project Management Dashboards",
+                    "end_of_day": 17,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_dashboards_used_to_visualize_project_progress_and_key_metrics",
+                            "type": "module",
+                            "end_of_day": 17,
+                            "title": "Learn about the dashboards used to visualize project progress and key metrics."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "collaboration_and_communication_tools",
+                    "type": "subsubject",
+                    "title": "Collaboration and Communication Tools",
+                    "end_of_day": 18,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_tools_used_for_cross_team_communication_and_collaboration",
+                            "type": "module",
+                            "end_of_day": 18,
+                            "title": "Overview of tools used for cross-team communication and collaboration."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "id": "tracking_progress_and_reporting_at_our_company",
+            "type": "subject",
+            "title": "Tracking Progress and Reporting at Our Company",
+            "end_of_day": 21,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "program_status_reports",
+                    "type": "subsubject",
+                    "title": "Program Status Reports",
+                    "end_of_day": 19,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_create_and_present_program_status_reports_to_stakeholders",
+                            "type": "module",
+                            "end_of_day": 19,
+                            "title": "Learn how to create and present program status reports to stakeholders."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "burnup_and_burndown_charts",
+                    "type": "subsubject",
+                    "title": "Burnup and Burndown Charts",
+                    "end_of_day": 20,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_burnup_and_burndown_charts_are_used_to_track_progress",
+                            "type": "module",
+                            "end_of_day": 20,
+                            "title": "Understand how burnup and burndown charts are used to track progress."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "stakeholder_progress_updates",
+                    "type": "subsubject",
+                    "title": "Stakeholder Progress Updates",
+                    "end_of_day": 21,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_progress_updates_are_communicated_to_stakeholders",
+                            "type": "module",
+                            "end_of_day": 21,
+                            "title": "Overview of how progress updates are communicated to stakeholders."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "id": "stakeholder_management_and_communication_in_our_company",
+            "type": "subject",
+            "title": "Stakeholder Management and Communication in Our Company",
+            "end_of_day": 24,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "stakeholder_communication_plans",
+                    "type": "subsubject",
+                    "title": "Stakeholder Communication Plans",
+                    "end_of_day": 22,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_develop_and_execute_stakeholder_communication_plans",
+                            "type": "module",
+                            "end_of_day": 22,
+                            "title": "Learn how to develop and execute stakeholder communication plans."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "regular_program_briefings",
+                    "type": "subsubject",
+                    "title": "Regular Program Briefings",
+                    "end_of_day": 23,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_frequency_and_structure_of_regular_program_briefings_with_stakeholders",
+                            "type": "module",
+                            "end_of_day": 23,
+                            "title": "Understand the frequency and structure of regular program briefings with stakeholders."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "managing_stakeholder_expectations",
+                    "type": "subsubject",
+                    "title": "Managing Stakeholder Expectations",
+                    "end_of_day": 24,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_strategies_for_managing_and_aligning_stakeholder_expectations",
+                            "type": "module",
+                            "end_of_day": 24,
+                            "title": "Overview of strategies for managing and aligning stakeholder expectations."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "id": "resource_allocation_and_budgeting_at_our_company",
+            "type": "subject",
+            "title": "Resource Allocation and Budgeting at Our Company",
+            "end_of_day": 27,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "allocating_resources_across_teams",
+                    "type": "subsubject",
+                    "title": "Allocating Resources Across Teams",
+                    "end_of_day": 25,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_resource_allocation_and_managing_team_capacity_across_multiple_teams",
+                            "type": "module",
+                            "end_of_day": 25,
+                            "title": "Learn about resource allocation and managing team capacity across multiple teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "program_budgeting_and_forecasting",
+                    "type": "subsubject",
+                    "title": "Program Budgeting and Forecasting",
+                    "end_of_day": 26,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_process_for_budgeting_and_forecasting_for_program_needs",
+                            "type": "module",
+                            "end_of_day": 26,
+                            "title": "Understand the process for budgeting and forecasting for program needs."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "resource_adjustments_and_rebalancing",
+                    "type": "subsubject",
+                    "title": "Resource Adjustments and Rebalancing",
+                    "end_of_day": 27,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_resources_are_rebalanced_based_on_shifting_priorities",
+                            "type": "module",
+                            "end_of_day": 27,
+                            "title": "Overview of how resources are rebalanced based on shifting priorities."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "id": "our_project_metrics_and_kpis",
+            "type": "subject",
+            "title": "Our Project Metrics and KPIs",
+            "end_of_day": 29,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "measuring_program_success",
+                    "type": "subsubject",
+                    "title": "Measuring Program Success",
+                    "end_of_day": 28,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_key_metrics_used_to_measure_program_success",
+                            "type": "module",
+                            "end_of_day": 28,
+                            "title": "Learn about the key metrics used to measure program success."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "tracking_program_health",
+                    "type": "subsubject",
+                    "title": "Tracking Program Health",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_track_the_overall_health_of_the_program_using_defined_kpis",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Understand how to track the overall health of the program using defined KPIs."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "kpis_for_delivery_and_quality",
+                    "type": "subsubject",
+                    "title": "KPIs for Delivery and Quality",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_kpis_used_to_measure_delivery_timelines_and_quality",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Overview of KPIs used to measure delivery timelines and quality."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "id": "change_management_processes_at_our_company",
+            "type": "subject",
+            "title": "Change Management Processes at Our Company",
+            "end_of_day": 30,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "managing_scope_changes",
+                    "type": "subsubject",
+                    "title": "Managing Scope Changes",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_manage_scope_changes_within_the_program",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Learn how to manage scope changes within the program."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "change_impact_analysis",
+                    "type": "subsubject",
+                    "title": "Change Impact Analysis",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_assess_the_impact_of_changes_on_program_objectives_and_timelines",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Understand how to assess the impact of changes on program objectives and timelines."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "stakeholder_sign_offs",
+                    "type": "subsubject",
+                    "title": "Stakeholder Sign-offs",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_sign_off_process_for_changes_from_key_stakeholders",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Overview of the sign-off process for changes from key stakeholders."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "id": "ongoing_learning_and_development_resources_at_our_company_325",
+            "type": "subject",
+            "title": "Ongoing Learning and Development Resources at Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "certifications_and_training_programs",
+                    "type": "subsubject",
+                    "title": "Certifications and Training Programs",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_available_certifications_and_training_programs_for_program_managers",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn about available certifications and training programs for program managers."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "program_management_conferences",
+                    "type": "subsubject",
+                    "title": "Program Management Conferences",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_industry_conferences_and_networking_opportunities_for_program_managers",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Overview of industry conferences and networking opportunities for program managers."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "internal_knowledge_sharing_sessions_311",
+                    "type": "subsubject",
+                    "title": "Internal Knowledge Sharing Sessions",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_internal_knowledge_sharing_sessions_help_with_continuous_development",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand how internal knowledge-sharing sessions help with continuous development."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

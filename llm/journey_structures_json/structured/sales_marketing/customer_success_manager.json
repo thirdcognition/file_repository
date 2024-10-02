@@ -1,0 +1,692 @@
+{
+    "id": "customer_success_manager",
+    "type": "journey",
+    "title": "Customer Success Manager",
+    "end_of_day": 31,
+    "children": [
+        {
+            "index": 0,
+            "id": "introduction_to_the_company_team_602",
+            "type": "subject",
+            "title": "Introduction to the Company & Team",
+            "end_of_day": 3,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "meet_the_customer_success_team",
+                    "type": "subsubject",
+                    "title": "Meet the Customer Success Team",
+                    "end_of_day": 1,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_customer_success_team_members_and_their_roles",
+                            "type": "module",
+                            "end_of_day": 1,
+                            "title": "Introduction to the Customer Success team members and their roles."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "company_values_and_customer_focus",
+                    "type": "subsubject",
+                    "title": "Company Values and Customer Focus",
+                    "end_of_day": 2,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_company_s_values_and_how_they_translate_to_customer_focused_strategies",
+                            "type": "module",
+                            "end_of_day": 2,
+                            "title": "Learn about the company's values and how they translate to customer-focused strategies."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "introduction_to_key_accounts",
+                    "type": "subsubject",
+                    "title": "Introduction to Key Accounts",
+                    "end_of_day": 3,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_key_customer_accounts_and_their_strategic_importance",
+                            "type": "module",
+                            "end_of_day": 3,
+                            "title": "Overview of key customer accounts and their strategic importance."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "id": "familiarize_with_our_customer_success_processes",
+            "type": "subject",
+            "title": "Familiarize with Our Customer Success Processes",
+            "end_of_day": 6,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "customer_onboarding_steps",
+                    "type": "subsubject",
+                    "title": "Customer Onboarding Steps",
+                    "end_of_day": 4,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_steps_involved_in_onboarding_new_customers_to_ensure_a_smooth_start",
+                            "type": "module",
+                            "end_of_day": 4,
+                            "title": "Learn the steps involved in onboarding new customers to ensure a smooth start."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "customer_journey_mapping",
+                    "type": "subsubject",
+                    "title": "Customer Journey Mapping",
+                    "end_of_day": 5,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_map_the_customer_journey_to_provide_proactive_support",
+                            "type": "module",
+                            "end_of_day": 5,
+                            "title": "Understand how to map the customer journey to provide proactive support."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "proactive_vs_reactive_support",
+                    "type": "subsubject",
+                    "title": "Proactive vs Reactive Support",
+                    "end_of_day": 6,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_differences_between_proactive_and_reactive_customer_support_and_when_to_use_each",
+                            "type": "module",
+                            "end_of_day": 6,
+                            "title": "Overview of the differences between proactive and reactive customer support and when to use each."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "id": "understanding_our_customer_needs_and_challenges",
+            "type": "subject",
+            "title": "Understanding Our Customer Needs and Challenges",
+            "end_of_day": 9,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "conducting_customer_discovery",
+                    "type": "subsubject",
+                    "title": "Conducting Customer Discovery",
+                    "end_of_day": 7,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_conduct_effective_customer_discovery_to_understand_needs_and_goals",
+                            "type": "module",
+                            "end_of_day": 7,
+                            "title": "Learn how to conduct effective customer discovery to understand needs and goals."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "analyzing_customer_behavior",
+                    "type": "subsubject",
+                    "title": "Analyzing Customer Behavior",
+                    "end_of_day": 8,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_tools_and_techniques_for_analyzing_customer_behavior_and_engagement",
+                            "type": "module",
+                            "end_of_day": 8,
+                            "title": "Overview of tools and techniques for analyzing customer behavior and engagement."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "common_challenges_in_our_customer_base",
+                    "type": "subsubject",
+                    "title": "Common Challenges in Our Customer Base",
+                    "end_of_day": 9,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_common_challenges_faced_by_our_customer_base_and_how_we_address_them",
+                            "type": "module",
+                            "end_of_day": 9,
+                            "title": "Understand the common challenges faced by our customer base and how we address them."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "id": "collaborating_with_our_sales_and_product_teams_185",
+            "type": "subject",
+            "title": "Collaborating with Our Sales and Product Teams",
+            "end_of_day": 12,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "ensuring_smooth_handover_from_sales",
+                    "type": "subsubject",
+                    "title": "Ensuring Smooth Handover from Sales",
+                    "end_of_day": 10,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_process_for_ensuring_a_seamless_handover_from_the_sales_team_to_customer_success",
+                            "type": "module",
+                            "end_of_day": 10,
+                            "title": "Learn the process for ensuring a seamless handover from the sales team to customer success."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "communicating_customer_feedback",
+                    "type": "subsubject",
+                    "title": "Communicating Customer Feedback",
+                    "end_of_day": 11,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_communicate_customer_feedback_to_the_product_and_development_teams",
+                            "type": "module",
+                            "end_of_day": 11,
+                            "title": "Understand how to communicate customer feedback to the product and development teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "aligning_on_product_roadmaps",
+                    "type": "subsubject",
+                    "title": "Aligning on Product Roadmaps",
+                    "end_of_day": 12,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_customer_success_aligns_with_product_development_to_meet_customer_needs",
+                            "type": "module",
+                            "end_of_day": 12,
+                            "title": "Overview of how customer success aligns with product development to meet customer needs."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "id": "familiarize_with_our_account_management_tools",
+            "type": "subject",
+            "title": "Familiarize with Our Account Management Tools",
+            "end_of_day": 15,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "customer_success_platforms",
+                    "type": "subsubject",
+                    "title": "Customer Success Platforms",
+                    "end_of_day": 13,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_customer_success_platforms_we_use_for_tracking_and_managing_customer_relationships",
+                            "type": "module",
+                            "end_of_day": 13,
+                            "title": "Learn about the customer success platforms we use for tracking and managing customer relationships."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "tracking_customer_engagement",
+                    "type": "subsubject",
+                    "title": "Tracking Customer Engagement",
+                    "end_of_day": 14,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_track_customer_engagement_to_measure_success_and_identify_risks",
+                            "type": "module",
+                            "end_of_day": 14,
+                            "title": "Understand how to track customer engagement to measure success and identify risks."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "managing_customer_data",
+                    "type": "subsubject",
+                    "title": "Managing Customer Data",
+                    "end_of_day": 15,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_customer_data_is_managed_and_used_to_improve_relationships",
+                            "type": "module",
+                            "end_of_day": 15,
+                            "title": "Overview of how customer data is managed and used to improve relationships."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "id": "our_customer_engagement_strategies",
+            "type": "subject",
+            "title": "Our Customer Engagement Strategies",
+            "end_of_day": 18,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "hosting_customer_webinars",
+                    "type": "subsubject",
+                    "title": "Hosting Customer Webinars",
+                    "end_of_day": 16,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_best_practices_for_hosting_webinars_that_engage_and_educate_customers",
+                            "type": "module",
+                            "end_of_day": 16,
+                            "title": "Learn best practices for hosting webinars that engage and educate customers."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "customer_check_in_meetings",
+                    "type": "subsubject",
+                    "title": "Customer Check-in Meetings",
+                    "end_of_day": 17,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_structure_and_purpose_of_regular_customer_check_in_meetings",
+                            "type": "module",
+                            "end_of_day": 17,
+                            "title": "Understand the structure and purpose of regular customer check-in meetings."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "nurturing_long_term_relationships",
+                    "type": "subsubject",
+                    "title": "Nurturing Long-term Relationships",
+                    "end_of_day": 18,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_strategies_for_nurturing_long_term_relationships_with_key_customers",
+                            "type": "module",
+                            "end_of_day": 18,
+                            "title": "Overview of strategies for nurturing long-term relationships with key customers."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "id": "handling_customer_feedback_in_our_company_863",
+            "type": "subject",
+            "title": "Handling Customer Feedback in Our Company",
+            "end_of_day": 21,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "collecting_feedback_via_surveys",
+                    "type": "subsubject",
+                    "title": "Collecting Feedback via Surveys",
+                    "end_of_day": 19,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_create_and_distribute_surveys_to_collect_valuable_customer_feedback",
+                            "type": "module",
+                            "end_of_day": 19,
+                            "title": "Learn how to create and distribute surveys to collect valuable customer feedback."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "escalating_critical_issues_579",
+                    "type": "subsubject",
+                    "title": "Escalating Critical Issues",
+                    "end_of_day": 20,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_when_and_how_to_escalate_critical_customer_issues_to_other_departments",
+                            "type": "module",
+                            "end_of_day": 20,
+                            "title": "Understand when and how to escalate critical customer issues to other departments."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "implementing_feedback_into_solutions",
+                    "type": "subsubject",
+                    "title": "Implementing Feedback into Solutions",
+                    "end_of_day": 21,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_customer_feedback_is_implemented_into_product_and_service_improvements",
+                            "type": "module",
+                            "end_of_day": 21,
+                            "title": "Overview of how customer feedback is implemented into product and service improvements."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "id": "our_renewals_and_upselling_techniques",
+            "type": "subject",
+            "title": "Our Renewals and Upselling Techniques",
+            "end_of_day": 24,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "renewal_playbooks_and_tactics",
+                    "type": "subsubject",
+                    "title": "Renewal Playbooks and Tactics",
+                    "end_of_day": 22,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_playbooks_and_tactics_we_use_to_ensure_customer_renewals",
+                            "type": "module",
+                            "end_of_day": 22,
+                            "title": "Learn the playbooks and tactics we use to ensure customer renewals."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "identifying_upsell_opportunities",
+                    "type": "subsubject",
+                    "title": "Identifying Upsell Opportunities",
+                    "end_of_day": 23,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_identify_and_act_on_opportunities_to_upsell_additional_products_or_services",
+                            "type": "module",
+                            "end_of_day": 23,
+                            "title": "Understand how to identify and act on opportunities to upsell additional products or services."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "customer_retention_strategies",
+                    "type": "subsubject",
+                    "title": "Customer Retention Strategies",
+                    "end_of_day": 24,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_strategies_used_to_retain_customers_and_reduce_churn",
+                            "type": "module",
+                            "end_of_day": 24,
+                            "title": "Overview of strategies used to retain customers and reduce churn."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "id": "familiarize_with_our_technical_product_knowledge",
+            "type": "subject",
+            "title": "Familiarize with Our Technical Product Knowledge",
+            "end_of_day": 27,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "understanding_product_features",
+                    "type": "subsubject",
+                    "title": "Understanding Product Features",
+                    "end_of_day": 25,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "gain_an_understanding_of_the_key_features_of_our_products_and_how_they_benefit_customers",
+                            "type": "module",
+                            "end_of_day": 25,
+                            "title": "Gain an understanding of the key features of our products and how they benefit customers."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "technical_training_for_success_managers",
+                    "type": "subsubject",
+                    "title": "Technical Training for Success Managers",
+                    "end_of_day": 26,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_technical_training_available_to_customer_success_managers_to_support_customers_better",
+                            "type": "module",
+                            "end_of_day": 26,
+                            "title": "Overview of the technical training available to customer success managers to support customers better."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "supporting_customers_with_technical_issues",
+                    "type": "subsubject",
+                    "title": "Supporting Customers with Technical Issues",
+                    "end_of_day": 27,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_support_customers_with_basic_technical_issues_and_when_to_escalate",
+                            "type": "module",
+                            "end_of_day": 27,
+                            "title": "Learn how to support customers with basic technical issues and when to escalate."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "id": "our_customer_support_process",
+            "type": "subject",
+            "title": "Our Customer Support Process",
+            "end_of_day": 29,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "tiered_support_systems",
+                    "type": "subsubject",
+                    "title": "Tiered Support Systems",
+                    "end_of_day": 28,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_our_tiered_support_system_works_and_when_to_escalate_customer_issues",
+                            "type": "module",
+                            "end_of_day": 28,
+                            "title": "Understand how our tiered support system works and when to escalate customer issues."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "escalation_processes_for_complex_issues",
+                    "type": "subsubject",
+                    "title": "Escalation Processes for Complex Issues",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_process_for_escalating_complex_technical_issues_to_the_appropriate_teams",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Learn the process for escalating complex technical issues to the appropriate teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "collaborating_with_support_teams",
+                    "type": "subsubject",
+                    "title": "Collaborating with Support Teams",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_customer_success_collaborates_with_support_teams_to_resolve_issues",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Overview of how customer success collaborates with support teams to resolve issues."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "id": "customer_success_metrics_and_kpis_at_our_company",
+            "type": "subject",
+            "title": "Customer Success Metrics and KPIs at Our Company",
+            "end_of_day": 30,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "net_promoter_score_nps",
+                    "type": "subsubject",
+                    "title": "Net Promoter Score (NPS)",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_net_promoter_score_nps_and_how_it_is_used_to_measure_customer_satisfaction",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Learn about Net Promoter Score (NPS) and how it is used to measure customer satisfaction."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "customer_churn_rate",
+                    "type": "subsubject",
+                    "title": "Customer Churn Rate",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_customer_churn_is_measured_and_what_strategies_can_be_used_to_reduce_it",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Understand how customer churn is measured and what strategies can be used to reduce it."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "customer_lifetime_value_clv",
+                    "type": "subsubject",
+                    "title": "Customer Lifetime Value (CLV)",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_customer_lifetime_value_clv_and_its_importance_in_long_term_planning",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Overview of Customer Lifetime Value (CLV) and its importance in long-term planning."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "id": "ongoing_learning_and_relationship_building_at_our_company",
+            "type": "subject",
+            "title": "Ongoing Learning and Relationship Building at Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "industry_best_practices_for_customer_success",
+                    "type": "subsubject",
+                    "title": "Industry Best Practices for Customer Success",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_industry_best_practices_for_customer_success_management",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn about industry best practices for customer success management."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "networking_and_customer_success_communities",
+                    "type": "subsubject",
+                    "title": "Networking and Customer Success Communities",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_network_and_engage_with_customer_success_communities_to_stay_updated",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand how to network and engage with customer success communities to stay updated."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "continuous_learning_resources",
+                    "type": "subsubject",
+                    "title": "Continuous Learning Resources",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_learning_resources_available_to_customer_success_managers_for_continuous_development",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Overview of the learning resources available to customer success managers for continuous development."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

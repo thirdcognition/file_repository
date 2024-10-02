@@ -1,0 +1,692 @@
+{
+    "id": "vp_of_engineering",
+    "type": "journey",
+    "title": "VP of Engineering",
+    "end_of_day": 31,
+    "children": [
+        {
+            "index": 0,
+            "id": "introduction_to_the_company_team_363",
+            "type": "subject",
+            "title": "Introduction to the Company & Team",
+            "end_of_day": 3,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "meet_the_engineering_leadership",
+                    "type": "subsubject",
+                    "title": "Meet the Engineering Leadership",
+                    "end_of_day": 1,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_engineering_leadership_team_and_their_responsibilities",
+                            "type": "module",
+                            "end_of_day": 1,
+                            "title": "Introduction to the engineering leadership team and their responsibilities."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "overview_of_engineering_departments",
+                    "type": "subsubject",
+                    "title": "Overview of Engineering Departments",
+                    "end_of_day": 2,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_structure_of_the_engineering_departments_and_their_key_functions",
+                            "type": "module",
+                            "end_of_day": 2,
+                            "title": "Learn about the structure of the engineering departments and their key functions."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "understanding_key_engineering_roles",
+                    "type": "subsubject",
+                    "title": "Understanding Key Engineering Roles",
+                    "end_of_day": 3,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_key_roles_within_the_engineering_team_and_their_responsibilities",
+                            "type": "module",
+                            "end_of_day": 3,
+                            "title": "Overview of the key roles within the engineering team and their responsibilities."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "id": "familiarize_with_our_engineering_strategy",
+            "type": "subject",
+            "title": "Familiarize with Our Engineering Strategy",
+            "end_of_day": 6,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "engineering_strategy_alignment_with_business_goals",
+                    "type": "subsubject",
+                    "title": "Engineering Strategy Alignment with Business Goals",
+                    "end_of_day": 4,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_the_engineering_strategy_aligns_with_overall_business_goals",
+                            "type": "module",
+                            "end_of_day": 4,
+                            "title": "Understand how the engineering strategy aligns with overall business goals."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "short_term_vs_long_term_engineering_objectives",
+                    "type": "subsubject",
+                    "title": "Short-Term vs Long-Term Engineering Objectives",
+                    "end_of_day": 5,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_differences_between_short_term_and_long_term_engineering_objectives",
+                            "type": "module",
+                            "end_of_day": 5,
+                            "title": "Learn about the differences between short-term and long-term engineering objectives."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "innovating_through_technology",
+                    "type": "subsubject",
+                    "title": "Innovating Through Technology",
+                    "end_of_day": 6,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_innovation_is_driven_through_technology_initiatives_within_the_engineering_team",
+                            "type": "module",
+                            "end_of_day": 6,
+                            "title": "Overview of how innovation is driven through technology initiatives within the engineering team."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "id": "our_team_structure_and_leadership",
+            "type": "subject",
+            "title": "Our Team Structure and Leadership",
+            "end_of_day": 9,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "organizational_structure_of_engineering_teams",
+                    "type": "subsubject",
+                    "title": "Organizational Structure of Engineering Teams",
+                    "end_of_day": 7,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_organizational_structure_of_the_engineering_teams",
+                            "type": "module",
+                            "end_of_day": 7,
+                            "title": "Learn about the organizational structure of the engineering teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "leadership_roles_and_responsibilities",
+                    "type": "subsubject",
+                    "title": "Leadership Roles and Responsibilities",
+                    "end_of_day": 8,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_roles_and_responsibilities_of_leaders_within_the_engineering_department",
+                            "type": "module",
+                            "end_of_day": 8,
+                            "title": "Understand the roles and responsibilities of leaders within the engineering department."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "promoting_collaboration_and_innovation",
+                    "type": "subsubject",
+                    "title": "Promoting Collaboration and Innovation",
+                    "end_of_day": 9,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_collaboration_and_innovation_are_fostered_within_engineering_teams",
+                            "type": "module",
+                            "end_of_day": 9,
+                            "title": "Overview of how collaboration and innovation are fostered within engineering teams."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "id": "hiring_and_talent_development_in_our_company",
+            "type": "subject",
+            "title": "Hiring and Talent Development in Our Company",
+            "end_of_day": 12,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "hiring_high_caliber_engineers",
+                    "type": "subsubject",
+                    "title": "Hiring High-Caliber Engineers",
+                    "end_of_day": 10,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_strategies_for_hiring_high_caliber_engineers_to_build_strong_teams",
+                            "type": "module",
+                            "end_of_day": 10,
+                            "title": "Learn the strategies for hiring high-caliber engineers to build strong teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "developing_and_nurturing_engineering_talent",
+                    "type": "subsubject",
+                    "title": "Developing and Nurturing Engineering Talent",
+                    "end_of_day": 11,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_importance_of_developing_and_nurturing_engineering_talent",
+                            "type": "module",
+                            "end_of_day": 11,
+                            "title": "Understand the importance of developing and nurturing engineering talent."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "succession_planning_and_leadership_development",
+                    "type": "subsubject",
+                    "title": "Succession Planning and Leadership Development",
+                    "end_of_day": 12,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_succession_planning_and_leadership_development_within_the_engineering_department",
+                            "type": "module",
+                            "end_of_day": 12,
+                            "title": "Overview of succession planning and leadership development within the engineering department."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "id": "collaborating_with_our_product_and_design_teams",
+            "type": "subject",
+            "title": "Collaborating with Our Product and Design Teams",
+            "end_of_day": 15,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "aligning_engineering_with_product_roadmaps",
+                    "type": "subsubject",
+                    "title": "Aligning Engineering with Product Roadmaps",
+                    "end_of_day": 13,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_engineering_aligns_with_product_roadmaps_to_support_company_goals",
+                            "type": "module",
+                            "end_of_day": 13,
+                            "title": "Learn how engineering aligns with product roadmaps to support company goals."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "ensuring_design_development_collaboration",
+                    "type": "subsubject",
+                    "title": "Ensuring Design-Development Collaboration",
+                    "end_of_day": 14,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_foster_collaboration_between_design_and_development_teams",
+                            "type": "module",
+                            "end_of_day": 14,
+                            "title": "Understand how to foster collaboration between design and development teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "supporting_cross_functional_teams",
+                    "type": "subsubject",
+                    "title": "Supporting Cross-Functional Teams",
+                    "end_of_day": 15,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_engineering_supports_cross_functional_teams_to_ensure_project_success",
+                            "type": "module",
+                            "end_of_day": 15,
+                            "title": "Overview of how engineering supports cross-functional teams to ensure project success."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "id": "our_engineering_metrics_and_kpis",
+            "type": "subject",
+            "title": "Our Engineering Metrics and KPIs",
+            "end_of_day": 18,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "measuring_code_quality_and_efficiency",
+                    "type": "subsubject",
+                    "title": "Measuring Code Quality and Efficiency",
+                    "end_of_day": 16,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_metrics_used_to_measure_code_quality_and_efficiency",
+                            "type": "module",
+                            "end_of_day": 16,
+                            "title": "Learn about the metrics used to measure code quality and efficiency."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "engineering_productivity_metrics",
+                    "type": "subsubject",
+                    "title": "Engineering Productivity Metrics",
+                    "end_of_day": 17,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_metrics_used_to_track_productivity_across_engineering_teams",
+                            "type": "module",
+                            "end_of_day": 17,
+                            "title": "Understand the metrics used to track productivity across engineering teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "tracking_innovation_and_development_speed",
+                    "type": "subsubject",
+                    "title": "Tracking Innovation and Development Speed",
+                    "end_of_day": 18,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_innovation_and_development_speed_are_tracked_within_engineering",
+                            "type": "module",
+                            "end_of_day": 18,
+                            "title": "Overview of how innovation and development speed are tracked within engineering."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "id": "code_quality_and_security_standards_at_our_company",
+            "type": "subject",
+            "title": "Code Quality and Security Standards at Our Company",
+            "end_of_day": 21,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "implementing_secure_coding_practices",
+                    "type": "subsubject",
+                    "title": "Implementing Secure Coding Practices",
+                    "end_of_day": 19,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_secure_coding_practices_and_their_importance_in_maintaining_code_integrity",
+                            "type": "module",
+                            "end_of_day": 19,
+                            "title": "Learn about secure coding practices and their importance in maintaining code integrity."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "ensuring_code_review_processes",
+                    "type": "subsubject",
+                    "title": "Ensuring Code Review Processes",
+                    "end_of_day": 20,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_code_review_processes_in_place_to_ensure_high_quality_code",
+                            "type": "module",
+                            "end_of_day": 20,
+                            "title": "Understand the code review processes in place to ensure high-quality code."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "compliance_with_security_standards",
+                    "type": "subsubject",
+                    "title": "Compliance with Security Standards",
+                    "end_of_day": 21,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_engineering_ensures_compliance_with_security_standards_and_regulations",
+                            "type": "module",
+                            "end_of_day": 21,
+                            "title": "Overview of how engineering ensures compliance with security standards and regulations."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "id": "our_technical_roadmap_and_prioritization_process",
+            "type": "subject",
+            "title": "Our Technical Roadmap and Prioritization Process",
+            "end_of_day": 24,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "setting_technical_priorities",
+                    "type": "subsubject",
+                    "title": "Setting Technical Priorities",
+                    "end_of_day": 22,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_technical_priorities_are_set_in_alignment_with_business_objectives",
+                            "type": "module",
+                            "end_of_day": 22,
+                            "title": "Learn how technical priorities are set in alignment with business objectives."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "balancing_innovation_with_technical_debt",
+                    "type": "subsubject",
+                    "title": "Balancing Innovation with Technical Debt",
+                    "end_of_day": 23,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_engineering_teams_balance_innovation_with_managing_technical_debt",
+                            "type": "module",
+                            "end_of_day": 23,
+                            "title": "Understand how engineering teams balance innovation with managing technical debt."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "tracking_roadmap_progress",
+                    "type": "subsubject",
+                    "title": "Tracking Roadmap Progress",
+                    "end_of_day": 24,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_progress_on_the_technical_roadmap_is_tracked_and_reported",
+                            "type": "module",
+                            "end_of_day": 24,
+                            "title": "Overview of how progress on the technical roadmap is tracked and reported."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "id": "resource_allocation_and_budgeting_at_our_company_887",
+            "type": "subject",
+            "title": "Resource Allocation and Budgeting at Our Company",
+            "end_of_day": 27,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "engineering_budget_management",
+                    "type": "subsubject",
+                    "title": "Engineering Budget Management",
+                    "end_of_day": 25,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_processes_for_managing_the_engineering_budget",
+                            "type": "module",
+                            "end_of_day": 25,
+                            "title": "Learn about the processes for managing the engineering budget."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "resource_planning_and_allocation",
+                    "type": "subsubject",
+                    "title": "Resource Planning and Allocation",
+                    "end_of_day": 26,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_resources_are_planned_and_allocated_across_engineering_teams",
+                            "type": "module",
+                            "end_of_day": 26,
+                            "title": "Understand how resources are planned and allocated across engineering teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "balancing_r_d_with_maintenance",
+                    "type": "subsubject",
+                    "title": "Balancing R&D with Maintenance",
+                    "end_of_day": 27,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_r_d_initiatives_are_balanced_with_maintenance_and_operations",
+                            "type": "module",
+                            "end_of_day": 27,
+                            "title": "Overview of how R&D initiatives are balanced with maintenance and operations."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "id": "stakeholder_management_at_our_company_518",
+            "type": "subject",
+            "title": "Stakeholder Management at Our Company",
+            "end_of_day": 30,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "communicating_engineering_progress",
+                    "type": "subsubject",
+                    "title": "Communicating Engineering Progress",
+                    "end_of_day": 28,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_communicate_engineering_progress_to_internal_and_external_stakeholders",
+                            "type": "module",
+                            "end_of_day": 28,
+                            "title": "Learn how to communicate engineering progress to internal and external stakeholders."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "engaging_stakeholders_in_technical_decisions",
+                    "type": "subsubject",
+                    "title": "Engaging Stakeholders in Technical Decisions",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_engage_stakeholders_in_key_technical_decisions",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Understand how to engage stakeholders in key technical decisions."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "balancing_stakeholder_expectations",
+                    "type": "subsubject",
+                    "title": "Balancing Stakeholder Expectations",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_stakeholder_expectations_are_balanced_with_engineering_capabilities",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Overview of how stakeholder expectations are balanced with engineering capabilities."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "id": "agile_methodologies_and_scrum_oversight_at_our_company",
+            "type": "subject",
+            "title": "Agile Methodologies and Scrum Oversight at Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "scrum_implementation_across_teams",
+                    "type": "subsubject",
+                    "title": "Scrum Implementation Across Teams",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_implementation_of_scrum_and_agile_methodologies_across_engineering_teams",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn about the implementation of Scrum and Agile methodologies across engineering teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "ensuring_agile_best_practices",
+                    "type": "subsubject",
+                    "title": "Ensuring Agile Best Practices",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_importance_of_ensuring_agile_best_practices_are_followed",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand the importance of ensuring Agile best practices are followed."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "continuous_process_improvements",
+                    "type": "subsubject",
+                    "title": "Continuous Process Improvements",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_continuous_improvements_are_made_to_engineering_processes",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Overview of how continuous improvements are made to engineering processes."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "id": "ongoing_learning_and_industry_trends_in_our_company_880",
+            "type": "subject",
+            "title": "Ongoing Learning and Industry Trends in Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "staying_updated_with_engineering_trends",
+                    "type": "subsubject",
+                    "title": "Staying Updated with Engineering Trends",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_engineering_leaders_stay_updated_with_the_latest_trends_in_engineering",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn how engineering leaders stay updated with the latest trends in engineering."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "learning_and_development_programs",
+                    "type": "subsubject",
+                    "title": "Learning and Development Programs",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_learning_and_development_programs_available_to_engineering_leaders",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Overview of the learning and development programs available to engineering leaders."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "encouraging_engineering_certifications",
+                    "type": "subsubject",
+                    "title": "Encouraging Engineering Certifications",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_importance_of_engineering_certifications_and_how_to_encourage_them_within_teams",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand the importance of engineering certifications and how to encourage them within teams."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

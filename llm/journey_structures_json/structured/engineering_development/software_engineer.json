@@ -1,0 +1,775 @@
+{
+    "id": "software_engineer",
+    "type": "journey",
+    "title": "Software Engineer",
+    "end_of_day": 31,
+    "children": [
+        {
+            "index": 0,
+            "id": "introduction_to_the_company_team",
+            "type": "subject",
+            "title": "Introduction to the Company & Team",
+            "end_of_day": 3,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "company_values_and_mission",
+                    "type": "subsubject",
+                    "title": "Company Values and Mission",
+                    "end_of_day": 1,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_our_company_s_core_values_and_how_they_impact_decision_making",
+                            "type": "module",
+                            "end_of_day": 1,
+                            "title": "Understand our company's core values and how they impact decision-making."
+                        },
+                        {
+                            "index": 1,
+                            "id": "learn_about_our_mission_and_its_alignment_with_team_goals",
+                            "type": "module",
+                            "end_of_day": 1,
+                            "title": "Learn about our mission and its alignment with team goals."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "meet_the_leadership_team",
+                    "type": "subsubject",
+                    "title": "Meet the Leadership Team",
+                    "end_of_day": 2,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_key_leadership_members_and_their_roles",
+                            "type": "module",
+                            "end_of_day": 2,
+                            "title": "Introduction to key leadership members and their roles."
+                        },
+                        {
+                            "index": 1,
+                            "id": "schedule_a_meet_and_greet_session_with_your_department_head",
+                            "type": "module",
+                            "end_of_day": 2,
+                            "title": "Schedule a meet-and-greet session with your department head."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "team_structure_and_roles",
+                    "type": "subsubject",
+                    "title": "Team Structure and Roles",
+                    "end_of_day": 3,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_team_s_organizational_structure",
+                            "type": "module",
+                            "end_of_day": 3,
+                            "title": "Overview of the team's organizational structure."
+                        },
+                        {
+                            "index": 1,
+                            "id": "learn_about_individual_responsibilities_and_key_collaborators",
+                            "type": "module",
+                            "end_of_day": 3,
+                            "title": "Learn about individual responsibilities and key collaborators."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "id": "familiarize_with_our_product_development_lifecycle",
+            "type": "subject",
+            "title": "Familiarize with Our Product Development Lifecycle",
+            "end_of_day": 6,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "product_roadmap_overview",
+                    "type": "subsubject",
+                    "title": "Product Roadmap Overview",
+                    "end_of_day": 4,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_current_and_upcoming_product_roadmap",
+                            "type": "module",
+                            "end_of_day": 4,
+                            "title": "Understand the current and upcoming product roadmap."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "feature_development_phases",
+                    "type": "subsubject",
+                    "title": "Feature Development Phases",
+                    "end_of_day": 5,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_our_iterative_development_cycle_and_feature_prioritization",
+                            "type": "module",
+                            "end_of_day": 4,
+                            "title": "Introduction to our iterative development cycle and feature prioritization."
+                        },
+                        {
+                            "index": 1,
+                            "id": "learn_the_different_phases_involved_from_ideation_to_deployment",
+                            "type": "module",
+                            "end_of_day": 5,
+                            "title": "Learn the different phases involved from ideation to deployment."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "collaboration_across_teams",
+                    "type": "subsubject",
+                    "title": "Collaboration Across Teams",
+                    "end_of_day": 6,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_dynamics_between_product_engineering_and_qa_teams",
+                            "type": "module",
+                            "end_of_day": 6,
+                            "title": "Understand the dynamics between product, engineering, and QA teams."
+                        },
+                        {
+                            "index": 1,
+                            "id": "overview_of_the_tools_used_for_cross_functional_collaboration",
+                            "type": "module",
+                            "end_of_day": 6,
+                            "title": "Overview of the tools used for cross-functional collaboration."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "id": "overview_of_our_tech_stack",
+            "type": "subject",
+            "title": "Overview of Our Tech Stack",
+            "end_of_day": 8,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "key_technologies_we_use",
+                    "type": "subsubject",
+                    "title": "Key Technologies We Use",
+                    "end_of_day": 7,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "familiarize_yourself_with_the_primary_languages_frameworks_and_libraries_we_use",
+                            "type": "module",
+                            "end_of_day": 7,
+                            "title": "Familiarize yourself with the primary languages, frameworks, and libraries we use."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "language_and_framework_preferences",
+                    "type": "subsubject",
+                    "title": "Language and Framework Preferences",
+                    "end_of_day": 8,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_why_we_choose_certain_languages_and_frameworks_for_specific_projects",
+                            "type": "module",
+                            "end_of_day": 8,
+                            "title": "Understand why we choose certain languages and frameworks for specific projects."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "integrations_and_apis",
+                    "type": "subsubject",
+                    "title": "Integrations and APIs",
+                    "end_of_day": 8,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_apis_and_integrations_critical_to_our_product_functionality",
+                            "type": "module",
+                            "end_of_day": 8,
+                            "title": "Learn about the APIs and integrations critical to our product functionality."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "id": "familiarize_with_our_codebase",
+            "type": "subject",
+            "title": "Familiarize with Our Codebase",
+            "end_of_day": 10,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "key_repositories_and_code_structure",
+                    "type": "subsubject",
+                    "title": "Key Repositories and Code Structure",
+                    "end_of_day": 9,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_main_repositories_and_folder_structures",
+                            "type": "module",
+                            "end_of_day": 9,
+                            "title": "Overview of main repositories and folder structures."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "code_navigation_and_search",
+                    "type": "subsubject",
+                    "title": "Code Navigation and Search",
+                    "end_of_day": 10,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_best_practices_for_navigating_and_searching_within_our_codebase",
+                            "type": "module",
+                            "end_of_day": 10,
+                            "title": "Learn the best practices for navigating and searching within our codebase."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "id": "introduction_to_our_development_tools_and_environments",
+            "type": "subject",
+            "title": "Introduction to Our Development Tools and Environments",
+            "end_of_day": 12,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "local_development_setup",
+                    "type": "subsubject",
+                    "title": "Local Development Setup",
+                    "end_of_day": 11,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "guide_to_setting_up_your_local_development_environment",
+                            "type": "module",
+                            "end_of_day": 11,
+                            "title": "Guide to setting up your local development environment."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "development_ides_and_extensions",
+                    "type": "subsubject",
+                    "title": "Development IDEs and Extensions",
+                    "end_of_day": 12,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "recommended_ides_and_productivity_boosting_extensions_we_use",
+                            "type": "module",
+                            "end_of_day": 12,
+                            "title": "Recommended IDEs and productivity-boosting extensions we use."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "testing_environments",
+                    "type": "subsubject",
+                    "title": "Testing Environments",
+                    "end_of_day": 12,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_various_testing_environments_available_and_how_to_access_them",
+                            "type": "module",
+                            "end_of_day": 12,
+                            "title": "Introduction to the various testing environments available and how to access them."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "id": "understanding_our_version_control_and_branching_strategy",
+            "type": "subject",
+            "title": "Understanding Our Version Control and Branching Strategy",
+            "end_of_day": 14,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "gitflow_practices",
+                    "type": "subsubject",
+                    "title": "GitFlow Practices",
+                    "end_of_day": 13,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_fundamentals_of_our_gitflow_branching_model",
+                            "type": "module",
+                            "end_of_day": 13,
+                            "title": "Learn the fundamentals of our GitFlow branching model."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "branching_and_merging_guidelines",
+                    "type": "subsubject",
+                    "title": "Branching and Merging Guidelines",
+                    "end_of_day": 14,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "best_practices_for_creating_and_merging_branches_within_our_projects",
+                            "type": "module",
+                            "end_of_day": 14,
+                            "title": "Best practices for creating and merging branches within our projects."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "release_versioning",
+                    "type": "subsubject",
+                    "title": "Release Versioning",
+                    "end_of_day": 14,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_we_version_releases_and_manage_production_deployments",
+                            "type": "module",
+                            "end_of_day": 14,
+                            "title": "Understand how we version releases and manage production deployments."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "id": "our_code_review_process",
+            "type": "subject",
+            "title": "Our Code Review Process",
+            "end_of_day": 17,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "peer_review_guidelines",
+                    "type": "subsubject",
+                    "title": "Peer Review Guidelines",
+                    "end_of_day": 15,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_steps_for_conducting_a_peer_review_and_submitting_your_code_for_review",
+                            "type": "module",
+                            "end_of_day": 15,
+                            "title": "Understand the steps for conducting a peer review and submitting your code for review."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "code_review_tools",
+                    "type": "subsubject",
+                    "title": "Code Review Tools",
+                    "end_of_day": 16,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_code_review_tools_we_use_and_how_to_navigate_them",
+                            "type": "module",
+                            "end_of_day": 16,
+                            "title": "Introduction to the code review tools we use and how to navigate them."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "feedback_etiquette",
+                    "type": "subsubject",
+                    "title": "Feedback Etiquette",
+                    "end_of_day": 17,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_give_and_receive_constructive_feedback_during_code_reviews",
+                            "type": "module",
+                            "end_of_day": 17,
+                            "title": "Learn how to give and receive constructive feedback during code reviews."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "id": "agile_and_scrum_methodologies_at_our_company",
+            "type": "subject",
+            "title": "Agile and Scrum Methodologies at Our Company",
+            "end_of_day": 20,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "sprint_planning_and_estimations",
+                    "type": "subsubject",
+                    "title": "Sprint Planning and Estimations",
+                    "end_of_day": 18,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "the_procedure_of_sprint_planning_and_how_it_s_done",
+                            "type": "module",
+                            "end_of_day": 18,
+                            "title": "The procedure of sprint planning and how it's done."
+                        },
+                        {
+                            "index": 1,
+                            "id": "how_the_sprint_story_points_estimation_procedure_works_in_our_team",
+                            "type": "module",
+                            "end_of_day": 18,
+                            "title": "How the sprint story points estimation procedure works in our team."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "daily_stand_ups",
+                    "type": "subsubject",
+                    "title": "Daily Stand-ups",
+                    "end_of_day": 19,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understanding_the_goals_and_format_of_daily_stand_ups_in_our_agile_process",
+                            "type": "module",
+                            "end_of_day": 19,
+                            "title": "Understanding the goals and format of daily stand-ups in our agile process."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "retrospectives_and_process_improvement",
+                    "type": "subsubject",
+                    "title": "Retrospectives and Process Improvement",
+                    "end_of_day": 20,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "how_we_conduct_retrospectives_to_improve_team_processes",
+                            "type": "module",
+                            "end_of_day": 20,
+                            "title": "How we conduct retrospectives to improve team processes."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "id": "security_best_practices_in_our_development_process",
+            "type": "subject",
+            "title": "Security Best Practices in Our Development Process",
+            "end_of_day": 23,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "handling_sensitive_data",
+                    "type": "subsubject",
+                    "title": "Handling Sensitive Data",
+                    "end_of_day": 21,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "best_practices_for_handling_sensitive_data_securely_in_our_codebase",
+                            "type": "module",
+                            "end_of_day": 21,
+                            "title": "Best practices for handling sensitive data securely in our codebase."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "owasp_top_10_vulnerabilities",
+                    "type": "subsubject",
+                    "title": "OWASP Top 10 Vulnerabilities",
+                    "end_of_day": 22,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_owasp_top_10_vulnerabilities_and_how_we_address_them",
+                            "type": "module",
+                            "end_of_day": 22,
+                            "title": "Overview of the OWASP Top 10 vulnerabilities and how we address them."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "dependency_and_vulnerability_management",
+                    "type": "subsubject",
+                    "title": "Dependency and Vulnerability Management",
+                    "end_of_day": 23,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_we_manage_dependencies_and_address_vulnerabilities_in_our_projects",
+                            "type": "module",
+                            "end_of_day": 23,
+                            "title": "Learn how we manage dependencies and address vulnerabilities in our projects."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "id": "collaborating_with_our_product_and_qa_teams",
+            "type": "subject",
+            "title": "Collaborating with Our Product and QA Teams",
+            "end_of_day": 26,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "cross_functional_meetings",
+                    "type": "subsubject",
+                    "title": "Cross-functional Meetings",
+                    "end_of_day": 24,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_purpose_and_structure_of_cross_functional_meetings_between_development_product_and_qa",
+                            "type": "module",
+                            "end_of_day": 24,
+                            "title": "Understand the purpose and structure of cross-functional meetings between development, product, and QA."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "feature_specification_reviews",
+                    "type": "subsubject",
+                    "title": "Feature Specification Reviews",
+                    "end_of_day": 25,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_we_review_feature_specifications_collaboratively_with_product_teams",
+                            "type": "module",
+                            "end_of_day": 25,
+                            "title": "Learn how we review feature specifications collaboratively with product teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "bug_prioritization_and_triage",
+                    "type": "subsubject",
+                    "title": "Bug Prioritization and Triage",
+                    "end_of_day": 26,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_bugs_are_triaged_and_prioritized_across_teams",
+                            "type": "module",
+                            "end_of_day": 26,
+                            "title": "Understand how bugs are triaged and prioritized across teams."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "id": "our_testing_and_debugging_procedures",
+            "type": "subject",
+            "title": "Our Testing and Debugging Procedures",
+            "end_of_day": 29,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "unit_and_integration_testing",
+                    "type": "subsubject",
+                    "title": "Unit and Integration Testing",
+                    "end_of_day": 27,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_our_approach_to_unit_and_integration_testing",
+                            "type": "module",
+                            "end_of_day": 27,
+                            "title": "Understand our approach to unit and integration testing."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "debugging_tools_and_techniques",
+                    "type": "subsubject",
+                    "title": "Debugging Tools and Techniques",
+                    "end_of_day": 28,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_debugging_tools_and_techniques_for_common_issues_in_our_codebase",
+                            "type": "module",
+                            "end_of_day": 28,
+                            "title": "Learn about debugging tools and techniques for common issues in our codebase."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "test_automation_practices",
+                    "type": "subsubject",
+                    "title": "Test Automation Practices",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_automated_tests_we_use_and_how_they_fit_into_our_ci_cd_process",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Introduction to the automated tests we use and how they fit into our CI/CD process."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "id": "our_continuous_integration_continuous_deployment_ci_cd_pipeline",
+            "type": "subject",
+            "title": "Our Continuous Integration/Continuous Deployment (CI/CD) Pipeline",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "ci_cd_workflow_overview",
+                    "type": "subsubject",
+                    "title": "CI/CD Workflow Overview",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_ci_cd_pipeline_and_how_it_integrates_with_our_codebase",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Overview of the CI/CD pipeline and how it integrates with our codebase."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "pipeline_monitoring",
+                    "type": "subsubject",
+                    "title": "Pipeline Monitoring",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_monitor_and_troubleshoot_issues_in_the_ci_cd_pipeline",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn how to monitor and troubleshoot issues in the CI/CD pipeline."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "deployment_rollback_procedures",
+                    "type": "subsubject",
+                    "title": "Deployment Rollback Procedures",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_perform_a_deployment_rollback_in_case_of_issues",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand how to perform a deployment rollback in case of issues."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 12,
+            "id": "ongoing_learning_and_development_resources_at_our_company",
+            "type": "subject",
+            "title": "Ongoing Learning and Development Resources at Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "access_to_learning_platforms",
+                    "type": "subsubject",
+                    "title": "Access to Learning Platforms",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_internal_and_external_learning_resources_available_to_you",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn about internal and external learning resources available to you."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "internal_knowledge_sharing_sessions",
+                    "type": "subsubject",
+                    "title": "Internal Knowledge Sharing Sessions",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "how_to_participate_in_and_contribute_to_our_internal_knowledge_sharing_sessions",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "How to participate in and contribute to our internal knowledge-sharing sessions."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "mentorship_and_coaching_opportunities",
+                    "type": "subsubject",
+                    "title": "Mentorship and Coaching Opportunities",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "explore_mentorship_and_coaching_opportunities_within_the_team",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Explore mentorship and coaching opportunities within the team."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

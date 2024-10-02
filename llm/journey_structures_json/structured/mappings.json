@@ -1,0 +1,22 @@
+{
+    "software_engineer": "engineering_development/software_engineer.json",
+    "devops_engineer": "engineering_development/devops_engineer.json",
+    "data_scientist": "engineering_development/data_scientist.json",
+    "ux_ui_designer": "engineering_development/ux_ui_designer.json",
+    "qa_engineer": "engineering_development/qa_engineer.json",
+    "product_manager": "product_project_management/product_manager.json",
+    "technical_program_manager": "product_project_management/technical_program_manager.json",
+    "scrum_master": "product_project_management/scrum_master.json",
+    "it_support_specialist": "it_infrastructure/it_support_specialist.json",
+    "cloud_engineer": "it_infrastructure/cloud_engineer.json",
+    "sales_engineer": "sales_marketing/sales_engineer.json",
+    "digital_marketing_specialist": "sales_marketing/digital_marketing_specialist.json",
+    "customer_success_manager": "sales_marketing/customer_success_manager.json",
+    "financial_analyst": "finance_operations/financial_analyst.json",
+    "hr_manager": "finance_operations/hr_manager.json",
+    "operations_manager": "finance_operations/operations_manager.json",
+    "cto_chief_technology_officer": "leadership/cto_chief_technology_officer.json",
+    "vp_of_engineering": "leadership/vp_of_engineering.json",
+    "chief_product_officer_cpo": "leadership/chief_product_officer_cpo.json",
+    "cybersecurity_analyst": "security_compliance/cybersecurity_analyst.json"
+}

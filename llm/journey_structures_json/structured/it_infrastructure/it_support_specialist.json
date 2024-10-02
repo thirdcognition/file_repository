@@ -1,0 +1,749 @@
+{
+    "id": "it_support_specialist",
+    "type": "journey",
+    "title": "IT Support Specialist",
+    "end_of_day": 31,
+    "children": [
+        {
+            "index": 0,
+            "id": "introduction_to_the_company_team_131",
+            "type": "subject",
+            "title": "Introduction to the Company & Team",
+            "end_of_day": 3,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "meet_the_it_support_team",
+                    "type": "subsubject",
+                    "title": "Meet the IT Support Team",
+                    "end_of_day": 1,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "introduction_to_the_it_support_team_and_their_roles_in_the_company",
+                            "type": "module",
+                            "end_of_day": 1,
+                            "title": "Introduction to the IT support team and their roles in the company."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "key_stakeholders_and_end_users",
+                    "type": "subsubject",
+                    "title": "Key Stakeholders and End Users",
+                    "end_of_day": 2,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_key_stakeholders_and_end_users_it_support_interacts_with",
+                            "type": "module",
+                            "end_of_day": 2,
+                            "title": "Learn about the key stakeholders and end users IT support interacts with."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "understanding_it_support_goals",
+                    "type": "subsubject",
+                    "title": "Understanding IT Support Goals",
+                    "end_of_day": 3,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_main_goals_and_objectives_of_the_it_support_team",
+                            "type": "module",
+                            "end_of_day": 3,
+                            "title": "Understand the main goals and objectives of the IT support team."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "id": "familiarize_with_our_internal_systems_and_infrastructure",
+            "type": "subject",
+            "title": "Familiarize with Our Internal Systems and Infrastructure",
+            "end_of_day": 6,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "internal_systems_overview",
+                    "type": "subsubject",
+                    "title": "Internal Systems Overview",
+                    "end_of_day": 4,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "get_an_overview_of_the_internal_systems_used_within_the_company",
+                            "type": "module",
+                            "end_of_day": 4,
+                            "title": "Get an overview of the internal systems used within the company."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "company_networks_and_servers",
+                    "type": "subsubject",
+                    "title": "Company Networks and Servers",
+                    "end_of_day": 5,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_company_s_network_architecture_and_server_infrastructure",
+                            "type": "module",
+                            "end_of_day": 5,
+                            "title": "Learn about the company's network architecture and server infrastructure."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "cloud_services_and_integrations",
+                    "type": "subsubject",
+                    "title": "Cloud Services and Integrations",
+                    "end_of_day": 6,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_cloud_services_and_integrations_that_support_company_operations",
+                            "type": "module",
+                            "end_of_day": 6,
+                            "title": "Understand the cloud services and integrations that support company operations."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "id": "common_issues_and_troubleshooting_at_our_company",
+            "type": "subject",
+            "title": "Common Issues and Troubleshooting at Our Company",
+            "end_of_day": 9,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "most_frequently_reported_issues",
+                    "type": "subsubject",
+                    "title": "Most Frequently Reported Issues",
+                    "end_of_day": 7,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "familiarize_yourself_with_the_most_common_it_issues_reported_by_end_users",
+                            "type": "module",
+                            "end_of_day": 7,
+                            "title": "Familiarize yourself with the most common IT issues reported by end users."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "standard_troubleshooting_processes",
+                    "type": "subsubject",
+                    "title": "Standard Troubleshooting Processes",
+                    "end_of_day": 8,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_standard_troubleshooting_processes_for_resolving_technical_issues",
+                            "type": "module",
+                            "end_of_day": 8,
+                            "title": "Learn the standard troubleshooting processes for resolving technical issues."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "issue_prioritization",
+                    "type": "subsubject",
+                    "title": "Issue Prioritization",
+                    "end_of_day": 9,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_it_support_prioritizes_issues_based_on_severity_and_impact",
+                            "type": "module",
+                            "end_of_day": 9,
+                            "title": "Understand how IT support prioritizes issues based on severity and impact."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "id": "collaborating_with_our_engineering_and_operations_teams",
+            "type": "subject",
+            "title": "Collaborating with Our Engineering and Operations Teams",
+            "end_of_day": 12,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "inter_team_communication",
+                    "type": "subsubject",
+                    "title": "Inter-team Communication",
+                    "end_of_day": 10,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_effectively_communicate_with_engineering_and_operations_teams",
+                            "type": "module",
+                            "end_of_day": 10,
+                            "title": "Learn how to effectively communicate with engineering and operations teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "coordinating_incident_response",
+                    "type": "subsubject",
+                    "title": "Coordinating Incident Response",
+                    "end_of_day": 11,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_process_for_coordinating_incident_response_across_teams",
+                            "type": "module",
+                            "end_of_day": 11,
+                            "title": "Understand the process for coordinating incident response across teams."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "sharing_technical_knowledge",
+                    "type": "subsubject",
+                    "title": "Sharing Technical Knowledge",
+                    "end_of_day": 12,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_technical_knowledge_is_shared_between_teams_to_improve_support_processes",
+                            "type": "module",
+                            "end_of_day": 12,
+                            "title": "Overview of how technical knowledge is shared between teams to improve support processes."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "id": "our_support_tools_and_ticketing_system",
+            "type": "subject",
+            "title": "Our Support Tools and Ticketing System",
+            "end_of_day": 15,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "ticket_management_software",
+                    "type": "subsubject",
+                    "title": "Ticket Management Software",
+                    "end_of_day": 13,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_ticket_management_software_used_to_track_support_requests",
+                            "type": "module",
+                            "end_of_day": 13,
+                            "title": "Learn about the ticket management software used to track support requests."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "logging_and_tracking_support_tickets",
+                    "type": "subsubject",
+                    "title": "Logging and Tracking Support Tickets",
+                    "end_of_day": 14,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_processes_for_logging_and_tracking_support_tickets",
+                            "type": "module",
+                            "end_of_day": 14,
+                            "title": "Understand the processes for logging and tracking support tickets."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "issue_escalation_process",
+                    "type": "subsubject",
+                    "title": "Issue Escalation Process",
+                    "end_of_day": 15,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_process_for_escalating_critical_issues_to_higher_levels_of_support",
+                            "type": "module",
+                            "end_of_day": 15,
+                            "title": "Overview of the process for escalating critical issues to higher levels of support."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "id": "incident_management_and_escalation_process_at_our_company",
+            "type": "subject",
+            "title": "Incident Management and Escalation Process at Our Company",
+            "end_of_day": 18,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "incident_response_procedures",
+                    "type": "subsubject",
+                    "title": "Incident Response Procedures",
+                    "end_of_day": 16,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_steps_involved_in_incident_response_at_the_company",
+                            "type": "module",
+                            "end_of_day": 16,
+                            "title": "Learn the steps involved in incident response at the company."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "escalating_critical_incidents",
+                    "type": "subsubject",
+                    "title": "Escalating Critical Incidents",
+                    "end_of_day": 17,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_when_and_how_to_escalate_critical_incidents_for_timely_resolution",
+                            "type": "module",
+                            "end_of_day": 17,
+                            "title": "Understand when and how to escalate critical incidents for timely resolution."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "post_incident_reviews_851",
+                    "type": "subsubject",
+                    "title": "Post-Incident Reviews",
+                    "end_of_day": 18,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_post_incident_reviews_and_how_they_help_improve_future_responses",
+                            "type": "module",
+                            "end_of_day": 18,
+                            "title": "Overview of post-incident reviews and how they help improve future responses."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "id": "our_network_and_systems_security",
+            "type": "subject",
+            "title": "Our Network and Systems Security",
+            "end_of_day": 21,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "network_security_overview",
+                    "type": "subsubject",
+                    "title": "Network Security Overview",
+                    "end_of_day": 19,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_basics_of_network_security_within_the_company",
+                            "type": "module",
+                            "end_of_day": 19,
+                            "title": "Understand the basics of network security within the company."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "managing_firewall_and_vpn_access",
+                    "type": "subsubject",
+                    "title": "Managing Firewall and VPN Access",
+                    "end_of_day": 20,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_managing_firewall_settings_and_vpn_access_for_remote_employees",
+                            "type": "module",
+                            "end_of_day": 20,
+                            "title": "Learn about managing firewall settings and VPN access for remote employees."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "security_vulnerability_response",
+                    "type": "subsubject",
+                    "title": "Security Vulnerability Response",
+                    "end_of_day": 21,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_processes_for_responding_to_security_vulnerabilities_in_the_network",
+                            "type": "module",
+                            "end_of_day": 21,
+                            "title": "Overview of the processes for responding to security vulnerabilities in the network."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "id": "our_software_and_hardware_setup_procedures",
+            "type": "subject",
+            "title": "Our Software and Hardware Setup Procedures",
+            "end_of_day": 24,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "standard_setup_for_new_employees",
+                    "type": "subsubject",
+                    "title": "Standard Setup for New Employees",
+                    "end_of_day": 22,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_the_procedures_for_setting_up_software_and_hardware_for_new_employees",
+                            "type": "module",
+                            "end_of_day": 22,
+                            "title": "Learn the procedures for setting up software and hardware for new employees."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "software_installation_protocols",
+                    "type": "subsubject",
+                    "title": "Software Installation Protocols",
+                    "end_of_day": 23,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_protocols_for_installing_and_configuring_software_for_users",
+                            "type": "module",
+                            "end_of_day": 23,
+                            "title": "Understand the protocols for installing and configuring software for users."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "managing_hardware_inventory",
+                    "type": "subsubject",
+                    "title": "Managing Hardware Inventory",
+                    "end_of_day": 24,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_the_it_team_manages_hardware_inventory_and_tracks_equipment",
+                            "type": "module",
+                            "end_of_day": 24,
+                            "title": "Overview of how the IT team manages hardware inventory and tracks equipment."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "id": "user_account_and_permissions_management_at_our_company",
+            "type": "subject",
+            "title": "User Account and Permissions Management at Our Company",
+            "end_of_day": 27,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "managing_user_accounts",
+                    "type": "subsubject",
+                    "title": "Managing User Accounts",
+                    "end_of_day": 25,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_create_and_manage_user_accounts_within_the_company_s_systems",
+                            "type": "module",
+                            "end_of_day": 25,
+                            "title": "Learn how to create and manage user accounts within the company's systems."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "granting_and_revoking_permissions",
+                    "type": "subsubject",
+                    "title": "Granting and Revoking Permissions",
+                    "end_of_day": 26,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_grant_or_revoke_access_permissions_for_users",
+                            "type": "module",
+                            "end_of_day": 26,
+                            "title": "Understand how to grant or revoke access permissions for users."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "active_directory_and_user_policies",
+                    "type": "subsubject",
+                    "title": "Active Directory and User Policies",
+                    "end_of_day": 27,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_active_directory_management_and_user_policy_enforcement",
+                            "type": "module",
+                            "end_of_day": 27,
+                            "title": "Overview of Active Directory management and user policy enforcement."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "id": "our_company_policies_on_it_security",
+            "type": "subject",
+            "title": "Our Company Policies on IT Security",
+            "end_of_day": 29,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "password_management_guidelines",
+                    "type": "subsubject",
+                    "title": "Password Management Guidelines",
+                    "end_of_day": 28,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_password_management_guidelines_to_ensure_security_compliance",
+                            "type": "module",
+                            "end_of_day": 28,
+                            "title": "Learn about password management guidelines to ensure security compliance."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "data_protection_policies",
+                    "type": "subsubject",
+                    "title": "Data Protection Policies",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_company_s_data_protection_policies_and_how_they_apply_to_it_support",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Understand the company's data protection policies and how they apply to IT support."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "security_auditing_procedures",
+                    "type": "subsubject",
+                    "title": "Security Auditing Procedures",
+                    "end_of_day": 29,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_security_auditing_procedures_used_to_maintain_system_security",
+                            "type": "module",
+                            "end_of_day": 29,
+                            "title": "Overview of the security auditing procedures used to maintain system security."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "id": "performance_monitoring_tools_at_our_company",
+            "type": "subject",
+            "title": "Performance Monitoring Tools at Our Company",
+            "end_of_day": 30,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "monitoring_network_performance",
+                    "type": "subsubject",
+                    "title": "Monitoring Network Performance",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_how_to_monitor_the_network_performance_using_the_company_s_tools",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Learn how to monitor the network performance using the company's tools."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "server_and_system_health_checks",
+                    "type": "subsubject",
+                    "title": "Server and System Health Checks",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_to_perform_server_and_system_health_checks_regularly",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Understand how to perform server and system health checks regularly."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "alerting_and_logging_tools",
+                    "type": "subsubject",
+                    "title": "Alerting and Logging Tools",
+                    "end_of_day": 30,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_tools_used_for_alerting_and_logging_system_issues",
+                            "type": "module",
+                            "end_of_day": 30,
+                            "title": "Overview of the tools used for alerting and logging system issues."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "id": "backup_and_disaster_recovery_procedures_at_our_company",
+            "type": "subject",
+            "title": "Backup and Disaster Recovery Procedures at Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "data_backup_processes",
+                    "type": "subsubject",
+                    "title": "Data Backup Processes",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_data_backup_processes_to_ensure_data_integrity",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn about the data backup processes to ensure data integrity."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "system_recovery_protocols",
+                    "type": "subsubject",
+                    "title": "System Recovery Protocols",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_the_protocols_for_recovering_systems_in_the_event_of_a_failure",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand the protocols for recovering systems in the event of a failure."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "disaster_recovery_drills",
+                    "type": "subsubject",
+                    "title": "Disaster Recovery Drills",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_how_disaster_recovery_drills_are_conducted_to_test_preparedness",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Overview of how disaster recovery drills are conducted to test preparedness."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 12,
+            "id": "ongoing_learning_and_certification_opportunities_at_our_company",
+            "type": "subject",
+            "title": "Ongoing Learning and Certification Opportunities at Our Company",
+            "end_of_day": 31,
+            "children": [
+                {
+                    "index": 0,
+                    "id": "it_support_certifications",
+                    "type": "subsubject",
+                    "title": "IT Support Certifications",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "learn_about_the_certification_programs_available_for_it_support_staff",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Learn about the certification programs available for IT support staff."
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "id": "continuous_learning_programs",
+                    "type": "subsubject",
+                    "title": "Continuous Learning Programs",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "overview_of_the_company_s_continuous_learning_programs_to_enhance_skills",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Overview of the company's continuous learning programs to enhance skills."
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "id": "participation_in_it_conferences",
+                    "type": "subsubject",
+                    "title": "Participation in IT Conferences",
+                    "end_of_day": 31,
+                    "children": [
+                        {
+                            "index": 0,
+                            "id": "understand_how_it_support_staff_can_participate_in_industry_conferences_and_events",
+                            "type": "module",
+                            "end_of_day": 31,
+                            "title": "Understand how IT support staff can participate in industry conferences and events."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
