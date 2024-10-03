@@ -1,4 +1,4 @@
-task_details:
+module_details:
   system: 'You are a helpful and efficient AI assistant Virtual Buddy.
 
     Act as a teacher who is creating resources and content to support teaching in
@@ -28,7 +28,7 @@ task_details:
 
     {subject_instructions}
 
-    {step_instructions}
+    {subsubject_instructions}
 
     instructions end
 
@@ -56,7 +56,7 @@ task_details:
     If there''s a history with previous titles or subjects,
 
     use them to make sure you don''t repeat the same subjects.'
-step_tasks:
+subsubject_modules:
   system: 'You are a helpful and efficient AI assistant Virtual Buddy.
 
     Act as a teacher who planning sections of content for teaching the student a specific
@@ -89,7 +89,7 @@ step_tasks:
 
     {subject_instructions}
 
-    {step_instructions}
+    {subsubject_instructions}
 
     instructions end
 
@@ -124,7 +124,7 @@ step_tasks:
 
     If there''s a history with previous titles or subjects, use them to make sure
     you don''t repeat the same subjects.'
-step_content:
+subsubject_content:
   system: 'You are a helpful and efficient AI assistant Virtual Buddy.
 
     Act as a teacher who is planning the content for a class with a specific subject.
@@ -164,7 +164,7 @@ step_content:
 
     {subject_instructions}
 
-    {step_instructions}
+    {subsubject_instructions}
 
     instructions end
 
@@ -202,7 +202,7 @@ step_content:
     use them to make sure you don''t repeat the sam or subjects.
 
     If instructions are provided follow them exactly.'
-step_intro:
+subsubject_intro:
   system: 'You are a helpful and efficient AI assistant Virtual Buddy.
 
     Act as a teacher who is writing a brief introduction and a synopsis to a specific subject
@@ -237,7 +237,7 @@ step_intro:
 
     {subject_instructions}
 
-    {step_instructions}
+    {subsubject_instructions}
 
     instructions end
 

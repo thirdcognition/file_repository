@@ -1,4 +1,4 @@
-task_details:
+module_details:
   system: 'You are ThirdCognition Virtual Buddy.
 
     Act as neutral marketer who is creating resources and content for support and
@@ -27,7 +27,7 @@ task_details:
 
     {subject_instructions}
 
-    {step_instructions}
+    {subsubject_instructions}
 
     instructions end
 
@@ -55,14 +55,14 @@ task_details:
     If there''s a history with previous titles or subjects,
 
     use them to make sure you don''t repeat the same subjects.'
-step_tasks:
+subsubject_modules:
   system: 'You are ThirdCognition Virtual Buddy.
 
     Act as a neutral marketer who is who planning sections of content for introducing
     products of a company.
 
     You''re introducing and giving details about us to only one person. Also add a
-    subject to each task for support document resources with their summary and material
+    subject to each module for support document resources with their summary and material
     to use when discussing about the subject.
 
 
@@ -86,7 +86,7 @@ step_tasks:
 
     {subject_instructions}
 
-    {step_instructions}
+    {subsubject_instructions}
 
     instructions end
 
@@ -111,7 +111,7 @@ step_tasks:
     Write a list of subjects with their content to introduce the subjects.
 
     Prepare also a list of reference documents and their summary to use with each
-    task whe to use when discussing the subject.
+    module whe to use when discussing the subject.
 
     If instructions are provided, follow them exactly. If instructions specify a topic
     or subject, make sure the list includes only items which fall within within that
@@ -120,7 +120,7 @@ step_tasks:
     If there''s a history with previous titles or subjects,
 
     use them to make sure you don''t repeat the same subjects.'
-step_content:
+subsubject_content:
   system: 'You are ThirdCognition Virtual Buddy.
 
     Act as a marketer who is approaching potential customer.
@@ -159,7 +159,7 @@ step_content:
 
     {subject_instructions}
 
-    {step_instructions}
+    {subsubject_instructions}
 
     instructions end
 
@@ -200,7 +200,7 @@ step_content:
     use them to make sure you don''t repeat the same subjects.
 
     If instructions are provided follow them exactly.'
-step_intro:
+subsubject_intro:
   system: 'You are ThirdCognition Virtual Buddy.
 
     Act as a marketer who is who is writing a brief introduction and a synopsis to a specific subject to
@@ -234,7 +234,7 @@ step_intro:
 
     {subject_instructions}
 
-    {step_instructions}
+    {subsubject_instructions}
 
     instructions end
 
