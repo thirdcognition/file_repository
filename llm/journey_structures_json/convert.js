@@ -38,11 +38,17 @@ function convert(obj, level = 0) {
         for (let i = 0; i < obj.length; i++) {
             const child = obj[i];
             new_obj.push({
-                index: i,
                 id: get_id(child["description"]),
                 type: types[level],
-                end_of_day: child["end_of_day"],
+                end_of_day: child["day"],
                 title: child["description"],
+                action : child["action"],
+                description: child["content"],
+                content_instructions: {
+                    role: child["system_prompt"]["role"],
+                    topic: child["system_prompt"]["topic"],
+                },
+                icon: child["logo"],
             });
         }
     } else if (typeof obj === "object") {
@@ -50,7 +56,6 @@ function convert(obj, level = 0) {
             if (obj.hasOwnProperty(key)) {
                 const new_key = get_id(key);
                 const new_item = {
-                    index: index,
                     id: new_key,
                     type: types[level],
                     title: key,
