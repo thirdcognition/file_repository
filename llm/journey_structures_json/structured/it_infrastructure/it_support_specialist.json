@@ -5,741 +5,923 @@
     "end_of_day": 31,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_8",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "meet_the_it_support_team",
                     "type": "module",
                     "title": "Meet the IT Support Team",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_it_support_team_and_their_roles_in_the_company",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Introduction to the IT support team and their roles in the company."
+                            "title": "Introduction to the IT support team and their roles in the company.",
+                            "action": "Familiarize yourself with the IT support team members and their specific roles.",
+                            "description": "The IT support team is the backbone of our technological infrastructure, ensuring that all systems run smoothly and efficiently. Each member of the team has a unique role, whether it's managing hardware, software, or user support. Understanding who does what will help you know whom to approach for various issues and foster a collaborative work environment.\nBuilding relationships with your team members will also enhance communication and streamline the support process. As you meet the team, take the opportunity to discuss their experiences and insights, which can provide valuable context for your role and responsibilities.",
+                            "content_instructions": {
+                                "role": "professional IT manager",
+                                "topic": "Introduction to the IT support team and their roles in the company."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "key_stakeholders_and_end_users",
                     "type": "module",
                     "title": "Key Stakeholders and End Users",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_key_stakeholders_and_end_users_it_support_interacts_with",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Learn about the key stakeholders and end users IT support interacts with."
+                            "title": "Learn about the key stakeholders and end users IT support interacts with.",
+                            "action": "Identify key stakeholders and understand their needs and expectations.",
+                            "description": "Key stakeholders in IT support include not only the team members but also end users across the organization who rely on technology to perform their jobs. Understanding the needs and expectations of these users is crucial for providing effective support. Regular communication with stakeholders can help in identifying recurring issues and areas for improvement.\nBy engaging with stakeholders, you can gather feedback that informs your approach to problem-solving and enhances the overall user experience. Building rapport with users will also help you respond more effectively to their needs, fostering a culture of collaboration and support.",
+                            "content_instructions": {
+                                "role": "professional business analyst",
+                                "topic": "Learn about the key stakeholders and end users IT support interacts with."
+                            },
+                            "icon": "logo_45"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "understanding_it_support_goals",
                     "type": "module",
                     "title": "Understanding IT Support Goals",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_main_goals_and_objectives_of_the_it_support_team",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Understand the main goals and objectives of the IT support team."
+                            "title": "Understand the main goals and objectives of the IT support team.",
+                            "action": "Review the objectives of the IT support team and how they align with company goals.",
+                            "description": "The primary goal of the IT support team is to provide exceptional service to users while ensuring the stability and security of the company's IT infrastructure. This involves resolving issues efficiently, minimizing downtime, and proactively identifying potential problems before they escalate. Understanding these objectives will help you align your efforts with the team's mission.\nBy being aware of the team's goals, you can contribute to a culture of continuous improvement and support the overall success of the organization. This alignment will also empower you to make informed decisions that enhance user satisfaction and operational efficiency.",
+                            "content_instructions": {
+                                "role": "professional operations manager",
+                                "topic": "Understand the main goals and objectives of the IT support team."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_internal_systems_and_infrastructure",
             "type": "section",
             "title": "Familiarize with Our Internal Systems and Infrastructure",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "internal_systems_overview",
                     "type": "module",
                     "title": "Internal Systems Overview",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "get_an_overview_of_the_internal_systems_used_within_the_company",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Get an overview of the internal systems used within the company."
+                            "title": "Get an overview of the internal systems used within the company.",
+                            "action": "Explore the internal systems and their functions.",
+                            "description": "Our internal systems are designed to streamline operations and enhance productivity across the organization. This includes everything from ticketing systems for support requests to databases that store critical information. Familiarizing yourself with these systems will enable you to navigate effectively and provide better support to users.\nUnderstanding how these systems interconnect and function will also help you identify areas for improvement and contribute to optimizing processes. This knowledge is essential for troubleshooting effectively and ensuring that users can access the resources they need.",
+                            "content_instructions": {
+                                "role": "professional IT systems analyst",
+                                "topic": "Get an overview of the internal systems used within the company."
+                            },
+                            "icon": "logo_9"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "company_networks_and_servers",
                     "type": "module",
                     "title": "Company Networks and Servers",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_company_s_network_architecture_and_server_infrastructure",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Learn about the company's network architecture and server infrastructure."
+                            "title": "Learn about the company's network architecture and server infrastructure.",
+                            "action": "Review the network and server setup to understand their functions.",
+                            "description": "The company's network architecture and server infrastructure are critical components that support all IT operations. Understanding how these elements work together will help you troubleshoot connectivity issues and provide effective support to users. This knowledge includes familiarity with routers, switches, firewalls, and server configurations.\nBy grasping the architecture, you will be in a better position to anticipate potential issues and respond effectively when problems arise. This understanding is vital for ensuring seamless communication and data access across the organization.",
+                            "content_instructions": {
+                                "role": "professional network engineer",
+                                "topic": "Learn about the company's network architecture and server infrastructure."
+                            },
+                            "icon": "logo_10"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "cloud_services_and_integrations",
                     "type": "module",
                     "title": "Cloud Services and Integrations",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_cloud_services_and_integrations_that_support_company_operations",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Understand the cloud services and integrations that support company operations."
+                            "title": "Understand the cloud services and integrations that support company operations.",
+                            "action": "Explore the cloud services utilized by the company and their benefits.",
+                            "description": "Cloud services play a pivotal role in our operations, providing scalability, flexibility, and remote access to resources. Understanding the various cloud solutions we use - such as storage, computing, and application services - will enable you to assist users effectively and leverage these tools for enhanced productivity.\nIn addition, knowledge of how these services integrate with our internal systems will empower you to troubleshoot and optimize workflows. This understanding is essential for maximizing the benefits of our cloud investments and ensuring seamless user experiences.",
+                            "content_instructions": {
+                                "role": "professional cloud architect",
+                                "topic": "Understand the cloud services and integrations that support company operations."
+                            },
+                            "icon": "logo_19"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "common_issues_and_troubleshooting_at_our_company",
             "type": "section",
             "title": "Common Issues and Troubleshooting at Our Company",
             "end_of_day": 9,
             "children": [
                 {
-                    "index": 0,
                     "id": "most_frequently_reported_issues",
                     "type": "module",
                     "title": "Most Frequently Reported Issues",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "familiarize_yourself_with_the_most_common_it_issues_reported_by_end_users",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Familiarize yourself with the most common IT issues reported by end users."
+                            "title": "Familiarize yourself with the most common IT issues reported by end users.",
+                            "action": "Review the list of frequently reported issues to better assist users.",
+                            "description": "Understanding the most common issues faced by users will prepare you to provide timely and effective support. These issues may range from password resets to software malfunctions. Familiarizing yourself with these problems will enable you to diagnose and resolve them quickly, enhancing user satisfaction.\nIn addition, recognizing patterns in reported issues can help you identify opportunities for proactive measures and improvements. This knowledge is crucial for building trust and rapport with users as you demonstrate your capability to resolve their concerns efficiently.",
+                            "content_instructions": {
+                                "role": "professional support technician",
+                                "topic": "Familiarize yourself with the most common IT issues reported by end users."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "standard_troubleshooting_processes",
                     "type": "module",
                     "title": "Standard Troubleshooting Processes",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_standard_troubleshooting_processes_for_resolving_technical_issues",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Learn the standard troubleshooting processes for resolving technical issues."
+                            "title": "Learn the standard troubleshooting processes for resolving technical issues.",
+                            "action": "Review the troubleshooting steps and methodologies used in IT support.",
+                            "description": "Standard troubleshooting processes are essential for resolving technical issues efficiently and effectively. These processes typically involve identifying the problem, gathering information, testing solutions, and implementing fixes. Familiarizing yourself with these methodologies will enhance your problem-solving skills and ensure consistent support quality.\nBy mastering these processes, you can approach issues systematically, reducing resolution times and improving user satisfaction. This knowledge is vital for maintaining high standards in IT support and fostering a culture of continuous improvement.",
+                            "content_instructions": {
+                                "role": "professional IT support trainer",
+                                "topic": "Learn the standard troubleshooting processes for resolving technical issues."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "issue_prioritization",
                     "type": "module",
                     "title": "Issue Prioritization",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_it_support_prioritizes_issues_based_on_severity_and_impact",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Understand how IT support prioritizes issues based on severity and impact."
+                            "title": "Understand how IT support prioritizes issues based on severity and impact.",
+                            "action": "Review the prioritization criteria used for support tickets.",
+                            "description": "Effective issue prioritization is crucial for managing support requests and ensuring that critical problems are addressed promptly. Understanding the criteria for prioritization - including severity, impact on business operations, and user urgency - will help you make informed decisions about how to allocate resources effectively.\nBy grasping these prioritization principles, you will contribute to a responsive support environment that meets users' needs. This knowledge is essential for maintaining operational efficiency and user trust in the IT support team.",
+                            "content_instructions": {
+                                "role": "professional IT operations manager",
+                                "topic": "Understand how IT support prioritizes issues based on severity and impact."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "collaborating_with_our_engineering_and_operations_teams",
             "type": "section",
             "title": "Collaborating with Our Engineering and Operations Teams",
             "end_of_day": 12,
             "children": [
                 {
-                    "index": 0,
                     "id": "inter_team_communication",
                     "type": "module",
                     "title": "Inter-team Communication",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_effectively_communicate_with_engineering_and_operations_teams",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Learn how to effectively communicate with engineering and operations teams."
+                            "title": "Learn how to effectively communicate with engineering and operations teams.",
+                            "action": "Engage with engineering and operations teams to understand their communication styles.",
+                            "description": "Effective communication is key to successful collaboration between IT support and other teams, such as engineering and operations. Understanding the preferred communication styles and channels of these teams will enhance your ability to share information and resolve issues collaboratively.\nBy actively participating in inter-team discussions and meetings, you will build relationships that facilitate smoother workflows and enhance problem-solving capabilities. This knowledge is vital for fostering a culture of collaboration and ensuring that all teams work towards common goals.",
+                            "content_instructions": {
+                                "role": "professional communication specialist",
+                                "topic": "Learn how to effectively communicate with engineering and operations teams."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "coordinating_incident_response",
                     "type": "module",
                     "title": "Coordinating Incident Response",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_process_for_coordinating_incident_response_across_teams",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Understand the process for coordinating incident response across teams."
+                            "title": "Understand the process for coordinating incident response across teams.",
+                            "action": "Review the incident response protocols and your role in them.",
+                            "description": "Coordinating incident response is critical for minimizing disruption and restoring services quickly. Understanding the protocols in place for incident management will empower you to take decisive action during incidents and collaborate effectively with other teams.\nBy familiarizing yourself with these processes, you will be equipped to contribute to incident resolution and improve overall response times. This knowledge is essential for maintaining a resilient IT environment and ensuring user satisfaction.",
+                            "content_instructions": {
+                                "role": "professional incident manager",
+                                "topic": "Understand the process for coordinating incident response across teams."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "sharing_technical_knowledge",
                     "type": "module",
                     "title": "Sharing Technical Knowledge",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_technical_knowledge_is_shared_between_teams_to_improve_support_processes",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Overview of how technical knowledge is shared between teams to improve support processes."
+                            "title": "Overview of how technical knowledge is shared between teams to improve support processes.",
+                            "action": "Participate in knowledge-sharing sessions and contribute your insights.",
+                            "description": "Sharing technical knowledge across teams is vital for improving support processes and enhancing overall efficiency. Regular knowledge-sharing sessions allow team members to discuss challenges, share solutions, and learn from each other's experiences. Engaging in these sessions will enhance your understanding and enable you to contribute valuable insights.\nBy actively participating in knowledge-sharing initiatives, you will foster a collaborative culture that promotes continuous learning and improvement. This knowledge is essential for ensuring that all team members are equipped to handle various challenges effectively.",
+                            "content_instructions": {
+                                "role": "professional knowledge manager",
+                                "topic": "Overview of how technical knowledge is shared between teams to improve support processes."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "our_support_tools_and_ticketing_system",
             "type": "section",
             "title": "Our Support Tools and Ticketing System",
             "end_of_day": 15,
             "children": [
                 {
-                    "index": 0,
                     "id": "ticket_management_software",
                     "type": "module",
                     "title": "Ticket Management Software",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_ticket_management_software_used_to_track_support_requests",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Learn about the ticket management software used to track support requests."
+                            "title": "Learn about the ticket management software used to track support requests.",
+                            "action": "Familiarize yourself with the ticket management system and its functionalities.",
+                            "description": "Our ticket management software is a critical tool for tracking and managing support requests. It allows IT support to log issues, assign tickets, and monitor progress until resolution. Understanding how to navigate this software will enhance your ability to provide timely and effective support to users.\nBy mastering the functionalities of the ticket management system, you can streamline your workflow and ensure that no requests fall through the cracks. This knowledge is essential for maintaining high standards of service and user satisfaction.",
+                            "content_instructions": {
+                                "role": "professional IT support analyst",
+                                "topic": "Learn about the ticket management software used to track support requests."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "logging_and_tracking_support_tickets",
                     "type": "module",
                     "title": "Logging and Tracking Support Tickets",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_processes_for_logging_and_tracking_support_tickets",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Understand the processes for logging and tracking support tickets."
+                            "title": "Understand the processes for logging and tracking support tickets.",
+                            "action": "Review the procedures for logging and tracking support tickets.",
+                            "description": "Logging and tracking support tickets is essential for maintaining an organized support process. This involves documenting user requests accurately, updating ticket statuses, and ensuring timely follow-ups. By understanding these processes, you can contribute to a more efficient support system and enhance user experiences.\nBy adhering to these logging and tracking procedures, you will help ensure that all requests are handled promptly and effectively. This knowledge is vital for fostering trust and reliability in the IT support team.",
+                            "content_instructions": {
+                                "role": "professional IT support coordinator",
+                                "topic": "Understand the processes for logging and tracking support tickets."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "issue_escalation_process",
                     "type": "module",
                     "title": "Issue Escalation Process",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_process_for_escalating_critical_issues_to_higher_levels_of_support",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Overview of the process for escalating critical issues to higher levels of support."
+                            "title": "Overview of the process for escalating critical issues to higher levels of support.",
+                            "action": "Review the escalation procedures for critical issues.",
+                            "description": "The issue escalation process is crucial for ensuring that critical problems are addressed promptly and effectively. Understanding when and how to escalate issues will empower you to take appropriate actions to resolve user concerns. This involves recognizing the severity of the issue and following established protocols for escalation.\nBy familiarizing yourself with these processes, you will contribute to maintaining operational efficiency and user satisfaction. This knowledge is essential for ensuring that all team members are aligned in their approach to managing critical incidents.",
+                            "content_instructions": {
+                                "role": "professional escalation manager",
+                                "topic": "Overview of the process for escalating critical issues to higher levels of support."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "incident_management_and_escalation_process_at_our_company",
             "type": "section",
             "title": "Incident Management and Escalation Process at Our Company",
             "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "incident_response_procedures",
                     "type": "module",
                     "title": "Incident Response Procedures",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_steps_involved_in_incident_response_at_the_company",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Learn the steps involved in incident response at the company."
+                            "title": "Learn the steps involved in incident response at the company.",
+                            "action": "Review the incident response procedures and your role in them.",
+                            "description": "Incident response procedures are critical for minimizing the impact of IT incidents on business operations. Understanding the steps involved in incident response - such as identification, containment, eradication, and recovery - will prepare you to act effectively during incidents. This knowledge will empower you to contribute to swift resolutions and maintain service continuity.\nBy mastering these procedures, you will enhance your ability to respond to incidents and support your team in restoring normal operations. This knowledge is vital for ensuring that the organization can recover quickly from disruptions.",
+                            "content_instructions": {
+                                "role": "professional incident response coordinator",
+                                "topic": "Learn the steps involved in incident response at the company."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "escalating_critical_incidents",
                     "type": "module",
                     "title": "Escalating Critical Incidents",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_when_and_how_to_escalate_critical_incidents_for_timely_resolution",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Understand when and how to escalate critical incidents for timely resolution."
+                            "title": "Understand when and how to escalate critical incidents for timely resolution.",
+                            "action": "Review the criteria for escalating critical incidents.",
+                            "description": "Understanding when to escalate critical incidents is essential for ensuring timely resolutions and minimizing business disruption. This involves recognizing the severity and impact of incidents and following established protocols for escalation. Familiarizing yourself with these criteria will empower you to make informed decisions about escalating issues.\nBy mastering the escalation process, you will help ensure that critical incidents are addressed promptly and effectively, contributing to a resilient IT environment. This knowledge is vital for maintaining user trust and satisfaction.",
+                            "content_instructions": {
+                                "role": "professional escalation coordinator",
+                                "topic": "Understand when and how to escalate critical incidents for timely resolution."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "post_incident_reviews_1",
                     "type": "module",
                     "title": "Post-Incident Reviews",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_post_incident_reviews_and_how_they_help_improve_future_responses",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Overview of post-incident reviews and how they help improve future responses."
+                            "title": "Overview of post-incident reviews and how they help improve future responses.",
+                            "action": "Participate in post-incident reviews to understand their significance.",
+                            "description": "Post-incident reviews are essential for learning from incidents and improving future responses. These reviews involve analyzing what happened, identifying root causes, and discussing lessons learned. Understanding this process will empower you to contribute to continuous improvement and enhance the overall effectiveness of the IT support team.\nBy participating in these reviews, you will gain insights that can inform future incident management strategies and foster a culture of learning within the organization. This knowledge is vital for ensuring that the team evolves and adapts to new challenges.",
+                            "content_instructions": {
+                                "role": "professional incident review facilitator",
+                                "topic": "Overview of post-incident reviews and how they help improve future responses."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "our_network_and_systems_security",
             "type": "section",
             "title": "Our Network and Systems Security",
             "end_of_day": 21,
             "children": [
                 {
-                    "index": 0,
                     "id": "network_security_overview",
                     "type": "module",
                     "title": "Network Security Overview",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_basics_of_network_security_within_the_company",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Understand the basics of network security within the company."
+                            "title": "Understand the basics of network security within the company.",
+                            "action": "Review the network security protocols in place.",
+                            "description": "Network security is a fundamental aspect of protecting our IT infrastructure and sensitive data. Understanding the basics of network security - including firewalls, intrusion detection systems, and secure access protocols - is essential for ensuring the integrity and confidentiality of our systems. Familiarizing yourself with these protocols will empower you to contribute to a secure computing environment.\nBy mastering network security principles, you will be better equipped to identify potential threats and respond effectively to security incidents. This knowledge is vital for safeguarding the organization against cyber threats.",
+                            "content_instructions": {
+                                "role": "professional network security specialist",
+                                "topic": "Understand the basics of network security within the company."
+                            },
+                            "icon": "logo_41"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "managing_firewall_and_vpn_access",
                     "type": "module",
                     "title": "Managing Firewall and VPN Access",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_managing_firewall_settings_and_vpn_access_for_remote_employees",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Learn about managing firewall settings and VPN access for remote employees."
+                            "title": "Learn about managing firewall settings and VPN access for remote employees.",
+                            "action": "Review the procedures for configuring firewalls and VPN access.",
+                            "description": "Managing firewall settings and VPN access is critical for ensuring secure remote access to company resources. Understanding the protocols for configuring these systems will enable you to support remote employees effectively while maintaining security. Familiarizing yourself with these procedures will empower you to troubleshoot access issues and enforce security policies.\nBy mastering these management practices, you will contribute to a secure IT environment that supports the needs of remote users. This knowledge is essential for ensuring that all employees can work securely and efficiently, regardless of their location.",
+                            "content_instructions": {
+                                "role": "professional network administrator",
+                                "topic": "Learn about managing firewall settings and VPN access for remote employees."
+                            },
+                            "icon": "logo_41"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "security_vulnerability_response",
                     "type": "module",
                     "title": "Security Vulnerability Response",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_processes_for_responding_to_security_vulnerabilities_in_the_network",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Overview of the processes for responding to security vulnerabilities in the network."
+                            "title": "Overview of the processes for responding to security vulnerabilities in the network.",
+                            "action": "Review the procedures for identifying and responding to security vulnerabilities.",
+                            "description": "Responding to security vulnerabilities swiftly is crucial for protecting our IT infrastructure. Understanding the processes for identifying, assessing, and mitigating vulnerabilities will empower you to contribute effectively to our security posture. Familiarizing yourself with these procedures will enable you to act decisively when vulnerabilities are discovered.\nBy mastering vulnerability response processes, you will help ensure that our systems remain secure and resilient against potential threats. This knowledge is vital for maintaining user trust and safeguarding sensitive information.",
+                            "content_instructions": {
+                                "role": "professional cybersecurity analyst",
+                                "topic": "Overview of the processes for responding to security vulnerabilities in the network."
+                            },
+                            "icon": "logo_41"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "our_software_and_hardware_setup_procedures",
             "type": "section",
             "title": "Our Software and Hardware Setup Procedures",
             "end_of_day": 24,
             "children": [
                 {
-                    "index": 0,
                     "id": "standard_setup_for_new_employees",
                     "type": "module",
                     "title": "Standard Setup for New Employees",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_procedures_for_setting_up_software_and_hardware_for_new_employees",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Learn the procedures for setting up software and hardware for new employees."
+                            "title": "Learn the procedures for setting up software and hardware for new employees.",
+                            "action": "Review the standard setup protocols for new hires.",
+                            "description": "Setting up software and hardware for new employees is crucial for ensuring a smooth onboarding experience. Understanding the standard procedures for installation and configuration will empower you to support new hires effectively. Familiarizing yourself with these protocols will enable you to streamline the setup process and address any issues that may arise.\nBy mastering these setup procedures, you will contribute to a positive onboarding experience and ensure that new employees can start their roles without unnecessary delays. This knowledge is vital for fostering a supportive work environment.",
+                            "content_instructions": {
+                                "role": "professional onboarding coordinator",
+                                "topic": "Learn the procedures for setting up software and hardware for new employees."
+                            },
+                            "icon": "logo_9"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "software_installation_protocols",
                     "type": "module",
                     "title": "Software Installation Protocols",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_protocols_for_installing_and_configuring_software_for_users",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Understand the protocols for installing and configuring software for users."
+                            "title": "Understand the protocols for installing and configuring software for users.",
+                            "action": "Review the software installation protocols and best practices.",
+                            "description": "Understanding the protocols for installing and configuring software is essential for providing effective IT support. This includes knowledge of licensing, compatibility, and configuration settings. Familiarizing yourself with these protocols will empower you to assist users in setting up their software environments efficiently.\nBy mastering these installation protocols, you will help ensure that users have the tools they need to perform their jobs effectively. This knowledge is vital for maintaining a productive work environment and minimizing disruptions.",
+                            "content_instructions": {
+                                "role": "professional software deployment specialist",
+                                "topic": "Understand the protocols for installing and configuring software for users."
+                            },
+                            "icon": "logo_9"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "managing_hardware_inventory",
                     "type": "module",
                     "title": "Managing Hardware Inventory",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_the_it_team_manages_hardware_inventory_and_tracks_equipment",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Overview of how the IT team manages hardware inventory and tracks equipment."
+                            "title": "Overview of how the IT team manages hardware inventory and tracks equipment.",
+                            "action": "Review the procedures for managing hardware inventory.",
+                            "description": "Managing hardware inventory is crucial for ensuring that the IT team has the necessary resources to support users effectively. This includes tracking equipment, managing lifecycle processes, and ensuring that hardware is available and functional. Familiarizing yourself with these inventory management practices will empower you to contribute to a well-organized IT environment.\nBy mastering these procedures, you will help ensure that the organization can efficiently allocate resources and respond to user needs. This knowledge is vital for maintaining operational efficiency and user satisfaction.",
+                            "content_instructions": {
+                                "role": "professional inventory manager",
+                                "topic": "Overview of how the IT team manages hardware inventory and tracks equipment."
+                            },
+                            "icon": "logo_9"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "user_account_and_permissions_management_at_our_company",
             "type": "section",
             "title": "User Account and Permissions Management at Our Company",
             "end_of_day": 27,
             "children": [
                 {
-                    "index": 0,
                     "id": "managing_user_accounts",
                     "type": "module",
                     "title": "Managing User Accounts",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_create_and_manage_user_accounts_within_the_company_s_systems",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Learn how to create and manage user accounts within the company's systems."
+                            "title": "Learn how to create and manage user accounts within the company's systems.",
+                            "action": "Review the procedures for creating and managing user accounts.",
+                            "description": "Creating and managing user accounts is a fundamental responsibility of the IT support team. Understanding the protocols for account creation, modification, and deactivation will empower you to maintain security and access control within the organization. Familiarizing yourself with these procedures will enable you to assist users effectively and uphold company policies.\nBy mastering these account management practices, you will help ensure that users have the appropriate access to resources while maintaining security standards. This knowledge is vital for fostering a secure and efficient work environment.",
+                            "content_instructions": {
+                                "role": "professional user management specialist",
+                                "topic": "Learn how to create and manage user accounts within the company's systems."
+                            },
+                            "icon": "logo_9"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "granting_and_revoking_permissions",
                     "type": "module",
                     "title": "Granting and Revoking Permissions",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_grant_or_revoke_access_permissions_for_users",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Understand how to grant or revoke access permissions for users."
+                            "title": "Understand how to grant or revoke access permissions for users.",
+                            "action": "Review the procedures for managing user permissions.",
+                            "description": "Granting and revoking access permissions is essential for maintaining security and ensuring that users have appropriate access to resources. Understanding the protocols for managing permissions will empower you to enforce company policies and protect sensitive information. Familiarizing yourself with these procedures will enable you to respond to user requests effectively and uphold security standards.\nBy mastering these permission management practices, you will help ensure that users have the access they need while maintaining the integrity of the organization's data. This knowledge is vital for fostering a secure and compliant work environment.",
+                            "content_instructions": {
+                                "role": "professional permissions manager",
+                                "topic": "Understand how to grant or revoke access permissions for users."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "active_directory_and_user_policies",
                     "type": "module",
                     "title": "Active Directory and User Policies",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_active_directory_management_and_user_policy_enforcement",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Overview of Active Directory management and user policy enforcement."
+                            "title": "Overview of Active Directory management and user policy enforcement.",
+                            "action": "Review the procedures for managing Active Directory and user policies.",
+                            "description": "Active Directory (AD) management is a critical component of user account and permissions management. Understanding how to navigate AD, manage user groups, and enforce policies will empower you to maintain security and streamline user management processes. Familiarizing yourself with these procedures will enable you to respond effectively to user requests and uphold company policies.\nBy mastering Active Directory management practices, you will help ensure that user accounts and permissions are managed efficiently and securely. This knowledge is vital for fostering a compliant and organized work environment.",
+                            "content_instructions": {
+                                "role": "professional Active Directory administrator",
+                                "topic": "Overview of Active Directory management and user policy enforcement."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "our_company_policies_on_it_security",
             "type": "section",
             "title": "Our Company Policies on IT Security",
-            "end_of_day": 29,
+            "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "password_management_guidelines",
                     "type": "module",
                     "title": "Password Management Guidelines",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_password_management_guidelines_to_ensure_security_compliance",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Learn about password management guidelines to ensure security compliance."
+                            "title": "Learn about password management guidelines to ensure security compliance.",
+                            "action": "Review the password management policies in place.",
+                            "description": "Password management is a critical aspect of IT security. Understanding the guidelines for creating, storing, and managing passwords will empower you to help users maintain secure access to their accounts. Familiarizing yourself with these policies will enable you to respond effectively to user inquiries and support compliance with security standards.\nBy mastering password management practices, you will help ensure that users follow best practices for security, ultimately protecting the organization from unauthorized access. This knowledge is vital for fostering a secure work environment.",
+                            "content_instructions": {
+                                "role": "professional security compliance officer",
+                                "topic": "Learn about password management guidelines to ensure security compliance."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "data_protection_policies",
                     "type": "module",
                     "title": "Data Protection Policies",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_company_s_data_protection_policies_and_how_they_apply_to_it_support",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Understand the company's data protection policies and how they apply to IT support."
+                            "title": "Understand the company's data protection policies and how they apply to IT support.",
+                            "action": "Review the data protection policies relevant to IT support.",
+                            "description": "Data protection is essential for maintaining user trust and complying with regulations. Understanding the company's data protection policies will empower you to ensure that sensitive information is handled appropriately. Familiarizing yourself with these policies will enable you to respond effectively to user inquiries and uphold compliance standards.\nBy mastering data protection practices, you will help ensure that the organization complies with relevant regulations and protects user data. This knowledge is vital for fostering a culture of security and compliance within the organization.",
+                            "content_instructions": {
+                                "role": "professional data protection officer",
+                                "topic": "Understand the company's data protection policies and how they apply to IT support."
+                            },
+                            "icon": "logo_42"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "security_auditing_procedures",
                     "type": "module",
                     "title": "Security Auditing Procedures",
-                    "end_of_day": 29,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_security_auditing_procedures_used_to_maintain_system_security",
                             "type": "action",
-                            "end_of_day": 29,
-                            "title": "Overview of the security auditing procedures used to maintain system security."
+                            "end_of_day": 30,
+                            "title": "Overview of the security auditing procedures used to maintain system security.",
+                            "action": "Review the procedures for conducting security audits.",
+                            "description": "Security audits are essential for identifying vulnerabilities and ensuring compliance with security policies. Understanding the procedures for conducting audits will empower you to contribute to the organization's security posture. Familiarizing yourself with these processes will enable you to identify areas for improvement and help ensure that security standards are met.\nBy mastering security auditing practices, you will help ensure that the organization maintains a robust security framework and responds effectively to potential threats. This knowledge is vital for fostering a secure work environment.",
+                            "content_instructions": {
+                                "role": "professional security auditor",
+                                "topic": "Overview of the security auditing procedures used to maintain system security."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "performance_monitoring_tools_at_our_company",
             "type": "section",
             "title": "Performance Monitoring Tools at Our Company",
             "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "monitoring_network_performance",
                     "type": "module",
                     "title": "Monitoring Network Performance",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_monitor_the_network_performance_using_the_company_s_tools",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Learn how to monitor the network performance using the company's tools."
+                            "title": "Learn how to monitor the network performance using the company's tools.",
+                            "action": "Review the network performance monitoring tools available.",
+                            "description": "Monitoring network performance is crucial for ensuring that users have reliable access to resources. Understanding how to utilize the company's performance monitoring tools will empower you to identify issues and optimize network performance. Familiarizing yourself with these tools will enable you to respond effectively to performance-related inquiries.\nBy mastering network monitoring practices, you will help ensure that the organization maintains a high level of performance and reliability. This knowledge is vital for fostering a productive work environment.",
+                            "content_instructions": {
+                                "role": "professional network performance analyst",
+                                "topic": "Learn how to monitor the network performance using the company's tools."
+                            },
+                            "icon": "logo_10"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "server_and_system_health_checks",
                     "type": "module",
                     "title": "Server and System Health Checks",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_perform_server_and_system_health_checks_regularly",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Understand how to perform server and system health checks regularly."
+                            "title": "Understand how to perform server and system health checks regularly.",
+                            "action": "Review the procedures for conducting health checks on servers and systems.",
+                            "description": "Regular health checks on servers and systems are essential for maintaining optimal performance and preventing issues. Understanding how to conduct these checks will empower you to identify potential problems before they escalate. Familiarizing yourself with the procedures for health checks will enable you to contribute to the overall reliability of the IT infrastructure.\nBy mastering health check practices, you will help ensure that the organization maintains a stable and efficient IT environment. This knowledge is vital for fostering a culture of proactive maintenance and reliability.",
+                            "content_instructions": {
+                                "role": "professional systems administrator",
+                                "topic": "Understand how to perform server and system health checks regularly."
+                            },
+                            "icon": "logo_20"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "alerting_and_logging_tools",
                     "type": "module",
                     "title": "Alerting and Logging Tools",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_tools_used_for_alerting_and_logging_system_issues",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Overview of the tools used for alerting and logging system issues."
+                            "title": "Overview of the tools used for alerting and logging system issues.",
+                            "action": "Review the alerting and logging tools available to the IT support team.",
+                            "description": "Alerting and logging tools are essential for monitoring system performance and identifying issues. Understanding how to use these tools will empower you to track system events and respond promptly to alerts. Familiarizing yourself with these tools will enable you to contribute to maintaining a stable IT environment and ensuring that issues are addressed in a timely manner.\nBy mastering alerting and logging practices, you will help ensure that the organization can effectively manage system performance and respond to incidents. This knowledge is vital for fostering a proactive approach to IT support.",
+                            "content_instructions": {
+                                "role": "professional logging and monitoring specialist",
+                                "topic": "Overview of the tools used for alerting and logging system issues."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "backup_and_disaster_recovery_procedures_at_our_company",
             "type": "section",
             "title": "Backup and Disaster Recovery Procedures at Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "data_backup_processes",
                     "type": "module",
                     "title": "Data Backup Processes",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_data_backup_processes_to_ensure_data_integrity",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about the data backup processes to ensure data integrity."
+                            "title": "Learn about the data backup processes to ensure data integrity.",
+                            "action": "Review the data backup protocols and procedures in place.",
+                            "description": "Data backup processes are critical for ensuring data integrity and protecting against data loss. Understanding the protocols for backing up data will empower you to contribute to the organization's data protection efforts. Familiarizing yourself with these processes will enable you to respond effectively to data recovery requests and minimize the impact of data loss incidents.\nBy mastering backup practices, you will help ensure that the organization can recover from data loss events and maintain operational continuity. This knowledge is vital for fostering a culture of preparedness and resilience.",
+                            "content_instructions": {
+                                "role": "professional data recovery specialist",
+                                "topic": "Learn about the data backup processes to ensure data integrity."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "system_recovery_protocols",
                     "type": "module",
                     "title": "System Recovery Protocols",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_protocols_for_recovering_systems_in_the_event_of_a_failure",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand the protocols for recovering systems in the event of a failure."
+                            "title": "Understand the protocols for recovering systems in the event of a failure.",
+                            "action": "Review the system recovery procedures and best practices.",
+                            "description": "Understanding the protocols for system recovery is essential for minimizing downtime and ensuring business continuity. Familiarizing yourself with these procedures will empower you to respond effectively to system failures and restore services promptly. This knowledge is vital for maintaining user trust and ensuring that the organization can recover quickly from disruptions.\nBy mastering recovery practices, you will help ensure that the organization can effectively manage system failures and maintain operational resilience. This knowledge is vital for fostering a proactive approach to IT support.",
+                            "content_instructions": {
+                                "role": "professional disaster recovery coordinator",
+                                "topic": "Understand the protocols for recovering systems in the event of a failure."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "disaster_recovery_drills",
                     "type": "module",
                     "title": "Disaster Recovery Drills",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_disaster_recovery_drills_are_conducted_to_test_preparedness",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of how disaster recovery drills are conducted to test preparedness."
+                            "title": "Overview of how disaster recovery drills are conducted to test preparedness.",
+                            "action": "Participate in disaster recovery drills to understand their significance.",
+                            "description": "Disaster recovery drills are essential for testing the organization's preparedness for potential disruptions. Understanding how these drills are conducted will empower you to contribute to the organization's resilience and ensure that all team members are familiar with their roles during a disaster. Familiarizing yourself with these procedures will enable you to respond effectively during actual incidents.\nBy participating in these drills, you will help ensure that the organization can respond effectively to disruptions and maintain operational continuity. This knowledge is vital for fostering a culture of preparedness and resilience.",
+                            "content_instructions": {
+                                "role": "professional disaster recovery manager",
+                                "topic": "Overview of how disaster recovery drills are conducted to test preparedness."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 12,
             "id": "ongoing_learning_and_certification_opportunities_at_our_company",
             "type": "section",
             "title": "Ongoing Learning and Certification Opportunities at Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "it_support_certifications",
                     "type": "module",
                     "title": "IT Support Certifications",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_certification_programs_available_for_it_support_staff",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about the certification programs available for IT support staff."
+                            "title": "Learn about the certification programs available for IT support staff.",
+                            "action": "Explore the certification programs that can enhance your skills.",
+                            "description": "Certification programs are an excellent way for IT support staff to enhance their skills and demonstrate their expertise. Understanding the available certification options will empower you to pursue professional development opportunities that align with your career goals. Familiarizing yourself with these programs will enable you to plan your learning path effectively.\nBy engaging in certification programs, you will not only enhance your knowledge but also contribute to the overall competence of the IT support team. This knowledge is vital for fostering a culture of continuous learning and professional growth.",
+                            "content_instructions": {
+                                "role": "professional training coordinator",
+                                "topic": "Learn about the certification programs available for IT support staff."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "continuous_learning_programs",
                     "type": "module",
                     "title": "Continuous Learning Programs",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_company_s_continuous_learning_programs_to_enhance_skills",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of the company's continuous learning programs to enhance skills."
+                            "title": "Overview of the company's continuous learning programs to enhance skills.",
+                            "action": "Explore the continuous learning opportunities available to you.",
+                            "description": "Continuous learning is essential for staying current in the fast-paced world of IT support. Understanding the various learning programs offered by the company will empower you to take advantage of resources that can enhance your skills and knowledge. Familiarizing yourself with these programs will enable you to identify opportunities for personal and professional growth.\nBy engaging in continuous learning initiatives, you will contribute to a culture of improvement and innovation within the IT support team. This knowledge is vital for fostering a proactive approach to skill development.",
+                            "content_instructions": {
+                                "role": "professional learning and development manager",
+                                "topic": "Overview of the company's continuous learning programs to enhance skills."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "participation_in_it_conferences",
                     "type": "module",
                     "title": "Participation in IT Conferences",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_it_support_staff_can_participate_in_industry_conferences_and_events",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how IT support staff can participate in industry conferences and events."
+                            "title": "Understand how IT support staff can participate in industry conferences and events.",
+                            "action": "Explore opportunities for attending IT conferences and events.",
+                            "description": "Participating in industry conferences and events is an excellent way for IT support staff to network, learn about emerging trends, and enhance their skills. Understanding the opportunities available for attending these events will empower you to engage with the broader IT community and bring valuable insights back to the organization. Familiarizing yourself with these opportunities will enable you to plan your participation effectively.\nBy engaging in conferences and events, you will contribute to your professional development and enhance the overall competence of the IT support team. This knowledge is vital for fostering a culture of continuous learning and professional growth.",
+                            "content_instructions": {
+                                "role": "professional conference coordinator",
+                                "topic": "Understand how IT support staff can participate in industry conferences and events."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 }

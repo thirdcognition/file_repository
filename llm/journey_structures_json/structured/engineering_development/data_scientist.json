@@ -5,741 +5,923 @@
     "end_of_day": 31,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_2",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "data_team_structure_and_roles",
                     "type": "module",
                     "title": "Data Team Structure and Roles",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_structure_of_the_data_team_and_the_roles_of_key_members",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Understand the structure of the data team and the roles of key members."
+                            "title": "Understand the structure of the data team and the roles of key members.",
+                            "action": "Review the organizational chart of the data team and familiarize yourself with key roles.",
+                            "description": "The data team is structured to foster collaboration and efficiency in data-driven projects. Each member has a specific role that contributes to the overall success of the team. Understanding these roles will help you identify who to approach for assistance or collaboration.\nBy familiarizing yourself with the data team structure, you will gain insights into how your role fits within the team and how you can leverage the strengths of your colleagues to achieve common goals.",
+                            "content_instructions": {
+                                "role": "professional data team lead",
+                                "topic": "Understand the structure of the data team and the roles of key members."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "meet_key_stakeholders",
                     "type": "module",
                     "title": "Meet Key Stakeholders",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_key_stakeholders_you_will_collaborate_with_for_data_projects",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Introduction to the key stakeholders you will collaborate with for data projects."
+                            "title": "Introduction to the key stakeholders you will collaborate with for data projects.",
+                            "action": "Identify and learn about the stakeholders relevant to your data projects.",
+                            "description": "Building relationships with key stakeholders is essential for successful collaboration on data projects. Stakeholders may include product managers, engineers, and business analysts who provide input and direction on data initiatives. Understanding their roles and expectations will help you align your work with their needs.\nEngaging with stakeholders early on will facilitate smoother communication and ensure that your data analyses effectively support business objectives.",
+                            "content_instructions": {
+                                "role": "professional project manager",
+                                "topic": "Introduction to the key stakeholders you will collaborate with for data projects."
+                            },
+                            "icon": "logo_32"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "introduction_to_cross_functional_teams",
                     "type": "module",
                     "title": "Introduction to Cross-Functional Teams",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_cross_functional_teams_and_how_the_data_team_interacts_with_them",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Learn about cross-functional teams and how the data team interacts with them."
+                            "title": "Learn about cross-functional teams and how the data team interacts with them.",
+                            "action": "Explore the dynamics of cross-functional teams and their collaboration with the data team.",
+                            "description": "Cross-functional teams are composed of members from various departments who work together on specific projects. Understanding how the data team interacts with these teams is crucial for effective collaboration. You will often work with marketing, sales, and engineering teams to provide insights that drive decision-making.\nBy understanding these dynamics, you will be better prepared to communicate your findings and ensure that data-driven insights are effectively integrated into broader business strategies.",
+                            "content_instructions": {
+                                "role": "professional team facilitator",
+                                "topic": "Learn about cross-functional teams and how the data team interacts with them."
+                            },
+                            "icon": "logo_32"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_data_strategy",
             "type": "section",
             "title": "Familiarize with Our Data Strategy",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "data_driven_decision_making",
                     "type": "module",
                     "title": "Data-Driven Decision-Making",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_data_drives_business_decisions_in_our_company",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Understand how data drives business decisions in our company."
+                            "title": "Understand how data drives business decisions in our company.",
+                            "action": "Review case studies where data-driven decision-making has influenced company strategy.",
+                            "description": "Data-driven decision-making is at the heart of our business strategy. It involves using data analytics to inform decisions, optimize processes, and drive growth. By understanding how data influences key decisions, you will appreciate its value and learn how to present your analyses effectively.\nCase studies from various departments will illustrate how data has been leveraged to achieve significant outcomes. This understanding will empower you to contribute meaningfully to discussions surrounding data initiatives.",
+                            "content_instructions": {
+                                "role": "professional data strategist",
+                                "topic": "Understand how data drives business decisions in our company."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "long_term_data_strategy_and_goals",
                     "type": "module",
                     "title": "Long-term Data Strategy and Goals",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_company_s_long_term_data_strategy_and_key_objectives",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Overview of the company's long-term data strategy and key objectives."
+                            "title": "Overview of the company's long-term data strategy and key objectives.",
+                            "action": "Explore the strategic documents outlining the company's data goals.",
+                            "description": "Our long-term data strategy aims to enhance our data capabilities and integrate data analytics into all aspects of the business. This strategy is designed to improve decision-making, drive innovation, and create a competitive advantage. Understanding these objectives will guide your work and help you align your projects with the company's vision.\nKey objectives include improving data quality, expanding data access, and fostering a data-driven culture throughout the organization. Familiarizing yourself with these goals will enable you to contribute effectively to our data initiatives.",
+                            "content_instructions": {
+                                "role": "professional data analyst",
+                                "topic": "Overview of the company's long-term data strategy and key objectives."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "business_insights_through_data",
                     "type": "module",
                     "title": "Business Insights Through Data",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_derive_actionable_business_insights_from_data",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Learn how to derive actionable business insights from data."
+                            "title": "Learn how to derive actionable business insights from data.",
+                            "action": "Review examples of how data insights have driven business improvements.",
+                            "description": "Deriving actionable insights from data is a critical skill for any data scientist. This involves analyzing data to identify trends, patterns, and anomalies that can inform business decisions. By studying successful case studies, you will learn how to translate complex data into clear, actionable recommendations.\nUnderstanding the process of deriving insights will empower you to contribute to strategic discussions and support the company's objectives effectively. You will also learn how to communicate your findings to non-technical stakeholders.",
+                            "content_instructions": {
+                                "role": "professional business analyst",
+                                "topic": "Learn how to derive actionable business insights from data."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "overview_of_our_data_sources_and_pipelines",
             "type": "section",
             "title": "Overview of Our Data Sources and Pipelines",
             "end_of_day": 9,
             "children": [
                 {
-                    "index": 0,
                     "id": "key_data_sources",
                     "type": "module",
                     "title": "Key Data Sources",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "familiarize_yourself_with_the_primary_data_sources_used_within_the_company",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Familiarize yourself with the primary data sources used within the company."
+                            "title": "Familiarize yourself with the primary data sources used within the company.",
+                            "action": "Review the documentation for our key data sources and their usage.",
+                            "description": "Understanding the primary data sources is essential for effective data analysis. These sources may include internal databases, third-party APIs, and public datasets. Familiarizing yourself with these sources will enable you to identify which data is relevant for your projects and how to access it efficiently.\nBy knowing where to find the data you need, you will save time and enhance your productivity. Additionally, understanding the limitations and strengths of each data source will help you make informed decisions during your analyses.",
+                            "content_instructions": {
+                                "role": "professional data engineer",
+                                "topic": "Familiarize yourself with the primary data sources used within the company."
+                            },
+                            "icon": "logo_28"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "data_ingestion_processes",
                     "type": "module",
                     "title": "Data Ingestion Processes",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_processes_involved_in_data_ingestion_and_transformation",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Learn the processes involved in data ingestion and transformation."
+                            "title": "Learn the processes involved in data ingestion and transformation.",
+                            "action": "Explore the data ingestion workflows and tools we use.",
+                            "description": "Data ingestion is the process of collecting and importing data for immediate use or storage in a database. Understanding how we ingest data is crucial for ensuring that you can work with up-to-date and relevant information. This may involve batch processing, real-time streaming, or other methods.\nFamiliarizing yourself with our data ingestion processes will help you efficiently gather the data needed for your analyses and ensure that it is properly formatted for use. You will also learn about the tools we utilize for this process.",
+                            "content_instructions": {
+                                "role": "professional data pipeline architect",
+                                "topic": "Learn the processes involved in data ingestion and transformation."
+                            },
+                            "icon": "logo_28"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "data_pipeline_architecture",
                     "type": "module",
                     "title": "Data Pipeline Architecture",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_architecture_of_our_data_pipelines_and_key_components",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Understand the architecture of our data pipelines and key components."
+                            "title": "Understand the architecture of our data pipelines and key components.",
+                            "action": "Review the architectural diagrams of our data pipelines.",
+                            "description": "Understanding the architecture of our data pipelines is essential for grasping how data flows from various sources to its final destination. This includes knowing the components involved, such as data sources, transformation processes, and storage solutions. Familiarizing yourself with this architecture will help you troubleshoot issues and optimize data workflows.\nBy understanding how data is processed and moved through our systems, you will be better equipped to design and implement your own data solutions that align with our architecture.",
+                            "content_instructions": {
+                                "role": "professional data architect",
+                                "topic": "Understand the architecture of our data pipelines and key components."
+                            },
+                            "icon": "logo_28"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "our_data_collection_and_cleaning_processes",
             "type": "section",
             "title": "Our Data Collection and Cleaning Processes",
             "end_of_day": 12,
             "children": [
                 {
-                    "index": 0,
                     "id": "data_quality_and_validation_techniques",
                     "type": "module",
                     "title": "Data Quality and Validation Techniques",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_techniques_we_use_to_ensure_data_quality_and_validate_data_accuracy",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Learn about the techniques we use to ensure data quality and validate data accuracy."
+                            "title": "Learn about the techniques we use to ensure data quality and validate data accuracy.",
+                            "action": "Review the data quality frameworks and validation techniques we implement.",
+                            "description": "Ensuring data quality is a fundamental aspect of data science. This involves implementing various techniques to validate data accuracy, consistency, and completeness. Understanding these techniques will help you maintain high data quality standards in your analyses.\nBy familiarizing yourself with our data quality frameworks, you will be better equipped to identify and address data quality issues proactively, ensuring that your analyses are based on reliable data.",
+                            "content_instructions": {
+                                "role": "professional data quality manager",
+                                "topic": "Learn about the techniques we use to ensure data quality and validate data accuracy."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "automated_data_cleaning_tools",
                     "type": "module",
                     "title": "Automated Data Cleaning Tools",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_automated_tools_used_for_data_cleaning_in_our_workflows",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Introduction to the automated tools used for data cleaning in our workflows."
+                            "title": "Introduction to the automated tools used for data cleaning in our workflows.",
+                            "action": "Explore the automated tools we use for cleaning and preprocessing data.",
+                            "description": "Automated data cleaning tools play a crucial role in streamlining the data preparation process. These tools help identify and correct errors, remove duplicates, and standardize data formats. Understanding how to use these tools effectively will save you time and enhance the quality of your analyses.\nBy engaging with these automated tools, you will improve your efficiency in data preparation, allowing you to focus more on analysis and insights generation.",
+                            "content_instructions": {
+                                "role": "professional data engineer",
+                                "topic": "Introduction to the automated tools used for data cleaning in our workflows."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "manual_vs_automated_data_cleaning",
                     "type": "module",
                     "title": "Manual vs Automated Data Cleaning",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_balance_between_manual_and_automated_data_cleaning_processes",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Understand the balance between manual and automated data cleaning processes."
+                            "title": "Understand the balance between manual and automated data cleaning processes.",
+                            "action": "Review the pros and cons of manual versus automated data cleaning methods.",
+                            "description": "Both manual and automated data cleaning methods have their place in the data preparation process. While automated tools can handle large datasets efficiently, manual cleaning is often necessary for nuanced tasks that require human judgment. Understanding when to use each method is critical for effective data management.\nBy familiarizing yourself with these approaches, you will be better equipped to choose the right method for your data cleaning tasks, ensuring high data quality and efficiency in your analyses.",
+                            "content_instructions": {
+                                "role": "professional data analyst",
+                                "topic": "Understand the balance between manual and automated data cleaning processes."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "our_data_storage_and_management_systems",
             "type": "section",
             "title": "Our Data Storage and Management Systems",
             "end_of_day": 15,
             "children": [
                 {
-                    "index": 0,
                     "id": "cloud_based_storage_solutions",
                     "type": "module",
                     "title": "Cloud-based Storage Solutions",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_our_cloud_based_storage_solutions_and_their_advantages",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Overview of our cloud-based storage solutions and their advantages."
+                            "title": "Overview of our cloud-based storage solutions and their advantages.",
+                            "action": "Explore the cloud storage solutions we utilize and their benefits.",
+                            "description": "Cloud-based storage solutions offer scalability, accessibility, and security for our data management needs. Understanding these solutions will help you leverage their advantages, such as remote access and automatic backups, to enhance your data workflows. Familiarizing yourself with the specific cloud solutions we use will also prepare you for managing data effectively.\nBy understanding the benefits and functionalities of our cloud storage solutions, you will be better equipped to utilize them in your data projects and ensure data integrity and availability.",
+                            "content_instructions": {
+                                "role": "professional cloud architect",
+                                "topic": "Overview of our cloud-based storage solutions and their advantages."
+                            },
+                            "icon": "logo_18"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "data_warehousing",
                     "type": "module",
                     "title": "Data Warehousing",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_our_data_warehousing_infrastructure_and_best_practices",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Learn about our data warehousing infrastructure and best practices."
+                            "title": "Learn about our data warehousing infrastructure and best practices.",
+                            "action": "Review the architecture and best practices for our data warehousing solutions.",
+                            "description": "Data warehousing is essential for consolidating data from various sources and enabling efficient querying and reporting. Understanding our data warehousing infrastructure will help you navigate the data storage landscape and leverage it for your analyses. Familiarizing yourself with best practices will also ensure that you can maintain optimal performance and data integrity.\nBy understanding the principles of data warehousing, you will be better equipped to design effective data models and optimize your queries for performance.",
+                            "content_instructions": {
+                                "role": "professional data warehouse architect",
+                                "topic": "Learn about our data warehousing infrastructure and best practices."
+                            },
+                            "icon": "logo_18"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "data_partitioning_and_retention_policies",
                     "type": "module",
                     "title": "Data Partitioning and Retention Policies",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_our_data_partitioning_strategies_and_data_retention_policies",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Understand our data partitioning strategies and data retention policies."
+                            "title": "Understand our data partitioning strategies and data retention policies.",
+                            "action": "Review the policies regarding data partitioning and retention.",
+                            "description": "Data partitioning and retention policies are critical for managing large datasets effectively. Understanding these strategies will help you optimize query performance and ensure compliance with data regulations. Familiarizing yourself with our policies will also guide you in making decisions about data storage and management.\nBy understanding the importance of partitioning and retention, you will be better equipped to manage data efficiently and ensure that we meet our compliance obligations.",
+                            "content_instructions": {
+                                "role": "professional data governance officer",
+                                "topic": "Understand our data partitioning strategies and data retention policies."
+                            },
+                            "icon": "logo_18"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "introduction_to_our_key_data_tools_and_libraries",
             "type": "section",
             "title": "Introduction to Our Key Data Tools and Libraries",
             "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "python_r_and_other_tools",
                     "type": "module",
                     "title": "Python, R, and Other Tools",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_programming_languages_and_tools_commonly_used_by_our_data_team",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Introduction to the programming languages and tools commonly used by our data team."
+                            "title": "Introduction to the programming languages and tools commonly used by our data team.",
+                            "action": "Explore the programming languages and tools you will be using.",
+                            "description": "Python and R are the primary programming languages used in our data analyses. Each has its strengths, with Python being favored for its versatility and R for its statistical capabilities. Understanding these languages and their libraries will enhance your ability to perform analyses and build models effectively.\nBy familiarizing yourself with these tools, you will be better equipped to engage in data analysis, machine learning, and data visualization tasks, allowing you to contribute effectively to the team's objectives.",
+                            "content_instructions": {
+                                "role": "professional data scientist",
+                                "topic": "Introduction to the programming languages and tools commonly used by our data team."
+                            },
+                            "icon": "logo_7"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "machine_learning_libraries",
                     "type": "module",
                     "title": "Machine Learning Libraries",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_key_machine_learning_libraries_such_as_scikit_learn_and_tensorflow",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Overview of key machine learning libraries such as scikit-learn and TensorFlow."
+                            "title": "Overview of key machine learning libraries such as scikit-learn and TensorFlow.",
+                            "action": "Review the machine learning libraries and their applications in our projects.",
+                            "description": "Machine learning libraries like scikit-learn and TensorFlow are essential for building predictive models and performing advanced analytics. Understanding these libraries will empower you to implement machine learning algorithms effectively and analyze large datasets efficiently.\nBy familiarizing yourself with these libraries, you will be better equipped to contribute to machine learning projects and leverage their capabilities for data-driven decision-making.",
+                            "content_instructions": {
+                                "role": "professional machine learning engineer",
+                                "topic": "Overview of key machine learning libraries such as scikit-learn and TensorFlow."
+                            },
+                            "icon": "logo_7"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "data_visualization_tools",
                     "type": "module",
                     "title": "Data Visualization Tools",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_data_visualization_tools_we_use_including_power_bi_and_tableau",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Learn about the data visualization tools we use, including Power BI and Tableau."
+                            "title": "Learn about the data visualization tools we use, including Power BI and Tableau.",
+                            "action": "Explore the data visualization tools available to you and their functionalities.",
+                            "description": "Data visualization tools like Power BI and Tableau are crucial for presenting data insights in an understandable and compelling manner. Understanding how to use these tools will enable you to create impactful visualizations that facilitate data-driven discussions and decision-making.\nBy familiarizing yourself with these tools, you will enhance your ability to communicate findings effectively and engage stakeholders in data analyses.",
+                            "content_instructions": {
+                                "role": "professional data visualization expert",
+                                "topic": "Learn about the data visualization tools we use, including Power BI and Tableau."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "data_security_and_privacy_at_our_company",
             "type": "section",
             "title": "Data Security and Privacy at Our Company",
             "end_of_day": 21,
             "children": [
                 {
-                    "index": 0,
                     "id": "data_anonymization_and_pseudonymization",
                     "type": "module",
                     "title": "Data Anonymization and Pseudonymization",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_techniques_for_anonymizing_and_pseudonymizing_sensitive_data",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Learn about techniques for anonymizing and pseudonymizing sensitive data."
+                            "title": "Learn about techniques for anonymizing and pseudonymizing sensitive data.",
+                            "action": "Review the methods we use for data anonymization and pseudonymization.",
+                            "description": "Data anonymization and pseudonymization are key practices for protecting sensitive information while still allowing for data analysis. Understanding these techniques will help you ensure compliance with data privacy regulations and maintain user trust. Familiarizing yourself with our methods will enable you to apply them effectively in your analyses.\nBy mastering these techniques, you will contribute to our commitment to data privacy and security, ensuring that sensitive information is handled responsibly.",
+                            "content_instructions": {
+                                "role": "professional data privacy officer",
+                                "topic": "Learn about techniques for anonymizing and pseudonymizing sensitive data."
+                            },
+                            "icon": "logo_30"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "compliance_with_data_regulations",
                     "type": "module",
                     "title": "Compliance with Data Regulations",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_key_data_regulations_gdpr_ccpa_and_how_we_comply_with_them",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Understand the key data regulations (GDPR/CCPA) and how we comply with them."
+                            "title": "Understand the key data regulations (GDPR/CCPA) and how we comply with them.",
+                            "action": "Review the data compliance policies we have in place.",
+                            "description": "Compliance with data regulations such as GDPR and CCPA is essential for protecting user rights and avoiding legal pitfalls. Understanding these regulations will help you ensure that your data practices align with legal requirements. Familiarizing yourself with our compliance policies will empower you to navigate data-related challenges effectively.\nBy grasping the nuances of these regulations, you will contribute to our commitment to ethical data practices and help maintain our reputation as a trusted organization.",
+                            "content_instructions": {
+                                "role": "professional compliance officer",
+                                "topic": "Understand the key data regulations (GDPR/CCPA) and how we comply with them."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "access_control_for_sensitive_data",
                     "type": "module",
                     "title": "Access Control for Sensitive Data",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_access_control_measures_for_managing_sensitive_data",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Introduction to access control measures for managing sensitive data."
+                            "title": "Introduction to access control measures for managing sensitive data.",
+                            "action": "Review the access control policies we implement for sensitive data.",
+                            "description": "Access control measures are vital for ensuring that sensitive data is only accessible to authorized personnel. Understanding these measures will help you protect sensitive information from unauthorized access and breaches. Familiarizing yourself with our access control policies will empower you to apply them effectively in your work.\nBy mastering these access control principles, you will contribute to our overall data security efforts and help maintain the integrity of our data systems.",
+                            "content_instructions": {
+                                "role": "professional data security analyst",
+                                "topic": "Introduction to access control measures for managing sensitive data."
+                            },
+                            "icon": "logo_30"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "our_statistical_analysis_and_modeling_approaches",
             "type": "section",
             "title": "Our Statistical Analysis and Modeling Approaches",
             "end_of_day": 24,
             "children": [
                 {
-                    "index": 0,
                     "id": "descriptive_and_predictive_modeling",
                     "type": "module",
                     "title": "Descriptive and Predictive Modeling",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_descriptive_and_predictive_modeling_approaches_we_use",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Overview of the descriptive and predictive modeling approaches we use."
+                            "title": "Overview of the descriptive and predictive modeling approaches we use.",
+                            "action": "Review the modeling techniques employed in our analyses.",
+                            "description": "Descriptive and predictive modeling are fundamental techniques in data science. Descriptive modeling helps summarize past data, while predictive modeling uses historical data to forecast future outcomes. Understanding these approaches will enhance your ability to perform effective analyses and provide valuable insights.\nBy familiarizing yourself with these modeling techniques, you will be better equipped to apply them in your projects and contribute to data-driven decision-making.",
+                            "content_instructions": {
+                                "role": "professional data modeler",
+                                "topic": "Overview of the descriptive and predictive modeling approaches we use."
+                            },
+                            "icon": "logo_31"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "statistical_significance_testing",
                     "type": "module",
                     "title": "Statistical Significance Testing",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_methods_for_statistical_significance_testing_in_our_data_analysis",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Learn about methods for statistical significance testing in our data analysis."
+                            "title": "Learn about methods for statistical significance testing in our data analysis.",
+                            "action": "Explore the statistical tests we use to validate our findings.",
+                            "description": "Statistical significance testing is essential for determining whether observed results are likely due to chance or represent true effects. Understanding these methods will enhance your ability to draw valid conclusions from your analyses. Familiarizing yourself with the statistical tests we employ will enable you to apply them effectively in your work.\nBy mastering these testing methods, you will contribute to the reliability of our data analyses and help ensure that our findings are robust and actionable.",
+                            "content_instructions": {
+                                "role": "professional statistician",
+                                "topic": "Learn about methods for statistical significance testing in our data analysis."
+                            },
+                            "icon": "logo_31"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "model_evaluation_techniques",
                     "type": "module",
                     "title": "Model Evaluation Techniques",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_techniques_used_to_evaluate_model_performance",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Understand the techniques used to evaluate model performance."
+                            "title": "Understand the techniques used to evaluate model performance.",
+                            "action": "Review the evaluation metrics we use to assess model performance.",
+                            "description": "Model evaluation is a critical step in the data science process, allowing us to assess the performance of our predictive models. Understanding the evaluation metrics, such as accuracy, precision, recall, and F1 score, will enhance your ability to choose the right model for your analyses. Familiarizing yourself with these techniques will empower you to validate your models effectively.\nBy mastering these evaluation techniques, you will contribute to the development of high-performing models that yield accurate and actionable insights.",
+                            "content_instructions": {
+                                "role": "professional data scientist",
+                                "topic": "Understand the techniques used to evaluate model performance."
+                            },
+                            "icon": "logo_31"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "collaborating_with_our_engineering_and_product_teams",
             "type": "section",
             "title": "Collaborating with Our Engineering and Product Teams",
             "end_of_day": 27,
             "children": [
                 {
-                    "index": 0,
                     "id": "joint_product_development_meetings",
                     "type": "module",
                     "title": "Joint Product Development Meetings",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_the_data_team_collaborates_with_engineering_and_product_teams_in_joint_meetings",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Learn how the data team collaborates with engineering and product teams in joint meetings."
+                            "title": "Learn how the data team collaborates with engineering and product teams in joint meetings.",
+                            "action": "Participate in joint meetings and understand their objectives.",
+                            "description": "Joint product development meetings are essential for aligning the data team's efforts with engineering and product goals. These meetings provide a platform for discussing project status, identifying challenges, and ensuring that data insights are integrated into product development. Understanding the objectives of these meetings will enhance your collaboration with cross-functional teams.\nBy actively participating in these sessions, you will contribute to a cohesive approach to product development and ensure that data-driven insights are effectively utilized.",
+                            "content_instructions": {
+                                "role": "professional product manager",
+                                "topic": "Learn how the data team collaborates with engineering and product teams in joint meetings."
+                            },
+                            "icon": "logo_32"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "feature_and_data_alignment",
                     "type": "module",
                     "title": "Feature and Data Alignment",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_features_and_data_are_aligned_to_product_goals",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Understand how features and data are aligned to product goals."
+                            "title": "Understand how features and data are aligned to product goals.",
+                            "action": "Review the process of aligning data initiatives with product objectives.",
+                            "description": "Aligning data initiatives with product goals is crucial for maximizing the impact of data analyses. This involves understanding product objectives and ensuring that data insights are tailored to support them. Familiarizing yourself with this alignment process will enhance your ability to contribute effectively to product development.\nBy mastering this alignment, you will ensure that your data analyses are relevant and directly support the company's strategic goals.",
+                            "content_instructions": {
+                                "role": "professional data strategist",
+                                "topic": "Understand how features and data are aligned to product goals."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "feedback_loops_from_engineering",
                     "type": "module",
                     "title": "Feedback Loops from Engineering",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_feedback_loops_from_engineering_to_data_science_for_continuous_improvement",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Overview of feedback loops from engineering to data science for continuous improvement."
+                            "title": "Overview of feedback loops from engineering to data science for continuous improvement.",
+                            "action": "Learn how feedback from engineering enhances data science practices.",
+                            "description": "Feedback loops between engineering and data science are essential for continuous improvement. These loops allow for the exchange of insights, challenges, and best practices, fostering a collaborative environment. Understanding how these feedback mechanisms work will enhance your ability to integrate engineering insights into your data analyses.\nBy engaging with these feedback loops, you will contribute to a culture of continuous improvement and ensure that your work aligns with engineering practices.",
+                            "content_instructions": {
+                                "role": "professional data engineer",
+                                "topic": "Overview of feedback loops from engineering to data science for continuous improvement."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "our_company_s_reporting_and_visualization_standards",
             "type": "section",
             "title": "Our Company's Reporting and Visualization Standards",
-            "end_of_day": 29,
+            "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "standard_reporting_templates",
                     "type": "module",
                     "title": "Standard Reporting Templates",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_standard_reporting_templates_used_across_the_company",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Learn about the standard reporting templates used across the company."
+                            "title": "Learn about the standard reporting templates used across the company.",
+                            "action": "Review the standard templates for data reporting.",
+                            "description": "Standard reporting templates ensure consistency and clarity in our data presentations. Understanding these templates will help you create reports that align with company standards and effectively communicate insights. Familiarizing yourself with these templates will enhance your reporting skills and ensure that your analyses are presented professionally.\nBy mastering these reporting standards, you will contribute to a cohesive approach to data communication within the organization.",
+                            "content_instructions": {
+                                "role": "professional reporting analyst",
+                                "topic": "Learn about the standard reporting templates used across the company."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "data_storytelling_techniques",
                     "type": "module",
                     "title": "Data Storytelling Techniques",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_techniques_we_use_for_effective_data_storytelling",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Understand the techniques we use for effective data storytelling."
+                            "title": "Understand the techniques we use for effective data storytelling.",
+                            "action": "Explore the principles of data storytelling and how to apply them.",
+                            "description": "Data storytelling is the art of presenting data insights in a compelling and relatable manner. Understanding how to weave narratives around data will enhance your ability to engage stakeholders and drive action based on your analyses. Familiarizing yourself with storytelling techniques will empower you to communicate findings effectively.\nBy mastering these techniques, you will contribute to a culture of data-driven decision-making and ensure that your analyses resonate with your audience.",
+                            "content_instructions": {
+                                "role": "professional data storyteller",
+                                "topic": "Understand the techniques we use for effective data storytelling."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "visualization_tools_and_best_practices",
                     "type": "module",
                     "title": "Visualization Tools and Best Practices",
-                    "end_of_day": 29,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_best_practices_for_data_visualization_and_tools_used",
                             "type": "action",
-                            "end_of_day": 29,
-                            "title": "Overview of the best practices for data visualization and tools used."
+                            "end_of_day": 30,
+                            "title": "Overview of the best practices for data visualization and tools used.",
+                            "action": "Review the best practices for creating effective visualizations.",
+                            "description": "Data visualization best practices ensure that your visual representations of data are clear, accurate, and impactful. Understanding these practices will enhance your ability to present data insights effectively and engage your audience. Familiarizing yourself with the tools and techniques we use will empower you to create compelling visualizations.\nBy mastering these best practices, you will contribute to a culture of effective data communication and enhance the impact of your analyses.",
+                            "content_instructions": {
+                                "role": "professional data visualization expert",
+                                "topic": "Overview of the best practices for data visualization and tools used."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "machine_learning_deployment_and_monitoring_in_our_company",
             "type": "section",
             "title": "Machine Learning Deployment and Monitoring in Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "model_deployment_frameworks",
                     "type": "module",
                     "title": "Model Deployment Frameworks",
-                    "end_of_day": 30,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_frameworks_we_use_for_deploying_machine_learning_models",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Introduction to the frameworks we use for deploying machine learning models."
+                            "end_of_day": 31,
+                            "title": "Introduction to the frameworks we use for deploying machine learning models.",
+                            "action": "Review the deployment frameworks and processes we implement.",
+                            "description": "Model deployment frameworks are essential for operationalizing machine learning models. Understanding these frameworks will help you deploy models effectively and ensure they are integrated into production environments. Familiarizing yourself with our deployment processes will empower you to contribute to successful model implementations.\nBy mastering these frameworks, you will enhance your ability to deliver machine learning solutions that drive business value.",
+                            "content_instructions": {
+                                "role": "professional machine learning engineer",
+                                "topic": "Introduction to the frameworks we use for deploying machine learning models."
+                            },
+                            "icon": "logo_34"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "ml_model_monitoring_and_maintenance",
                     "type": "module",
                     "title": "ML Model Monitoring and Maintenance",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_we_monitor_and_maintain_machine_learning_models_in_production",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn how we monitor and maintain machine learning models in production."
+                            "title": "Learn how we monitor and maintain machine learning models in production.",
+                            "action": "Explore the monitoring techniques we use for machine learning models.",
+                            "description": "Monitoring machine learning models in production is critical for ensuring their performance and reliability. Understanding how to monitor models will help you identify issues early and make necessary adjustments. Familiarizing yourself with our monitoring techniques will empower you to maintain high model performance.\nBy mastering these monitoring practices, you will contribute to the long-term success of our machine learning initiatives and ensure that models continue to deliver value.",
+                            "content_instructions": {
+                                "role": "professional machine learning operations engineer",
+                                "topic": "Learn how we monitor and maintain machine learning models in production."
+                            },
+                            "icon": "logo_34"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "model_versioning",
                     "type": "module",
                     "title": "Model Versioning",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_model_versioning_is_handled_within_our_deployment_process",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how model versioning is handled within our deployment process."
+                            "title": "Understand how model versioning is handled within our deployment process.",
+                            "action": "Review our versioning practices for machine learning models.",
+                            "description": "Model versioning is essential for managing changes to machine learning models over time. Understanding our versioning practices will help you track changes, manage deployments, and ensure that the correct model versions are in use. Familiarizing yourself with these practices will empower you to maintain model integrity and performance.\nBy mastering model versioning techniques, you will contribute to the robustness of our machine learning operations and ensure that we can effectively manage model updates.",
+                            "content_instructions": {
+                                "role": "professional machine learning engineer",
+                                "topic": "Understand how model versioning is handled within our deployment process."
+                            },
+                            "icon": "logo_34"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "ongoing_learning_and_research_opportunities_at_our_company",
             "type": "section",
             "title": "Ongoing Learning and Research Opportunities at Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "data_science_research_projects",
                     "type": "module",
                     "title": "Data Science Research Projects",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_opportunities_to_contribute_to_ongoing_data_science_research_projects",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about opportunities to contribute to ongoing data science research projects."
+                            "title": "Learn about opportunities to contribute to ongoing data science research projects.",
+                            "action": "Explore current research projects and how you can get involved.",
+                            "description": "Contributing to ongoing data science research projects is an excellent way to deepen your knowledge and skills. These projects often involve cutting-edge techniques and methodologies, providing opportunities for professional growth. Understanding how to get involved will empower you to take advantage of these learning opportunities.\nBy engaging with research projects, you will expand your expertise and contribute to innovative solutions that drive our company's success.",
+                            "content_instructions": {
+                                "role": "professional research coordinator",
+                                "topic": "Learn about opportunities to contribute to ongoing data science research projects."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "participation_in_industry_meetups",
                     "type": "module",
                     "title": "Participation in Industry Meetups",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "opportunities_to_attend_and_participate_in_industry_meetups_and_conferences",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Opportunities to attend and participate in industry meetups and conferences."
+                            "title": "Opportunities to attend and participate in industry meetups and conferences.",
+                            "action": "Explore upcoming industry meetups and how to participate.",
+                            "description": "Participating in industry meetups and conferences is a valuable way to network, learn about emerging trends, and share knowledge. Understanding how to engage in these events will enhance your professional development and expand your connections within the data science community.\nBy attending these meetups, you will gain insights into industry best practices and innovations, contributing to your growth as a data scientist.",
+                            "content_instructions": {
+                                "role": "professional networking coordinator",
+                                "topic": "Opportunities to attend and participate in industry meetups and conferences."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "access_to_online_learning_platforms",
                     "type": "module",
                     "title": "Access to Online Learning Platforms",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_access_to_online_learning_platforms_for_continuous_development",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about access to online learning platforms for continuous development."
+                            "title": "Learn about access to online learning platforms for continuous development.",
+                            "action": "Explore the online learning resources available to support your growth.",
+                            "description": "Our company provides access to various online learning platforms to support your continuous development. These resources include courses, webinars, and tutorials on a wide range of topics relevant to data science. Understanding how to leverage these platforms will empower you to enhance your skills and stay current with industry trends.\nBy engaging with these learning resources, you will take charge of your professional development and ensure that you are well-equipped for future challenges.",
+                            "content_instructions": {
+                                "role": "professional learning and development manager",
+                                "topic": "Learn about access to online learning platforms for continuous development."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 12,
             "id": "our_data_governance_and_compliance_policies",
             "type": "section",
             "title": "Our Data Governance and Compliance Policies",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "internal_data_governance_guidelines",
                     "type": "module",
                     "title": "Internal Data Governance Guidelines",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_internal_data_governance_guidelines_and_their_importance",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of internal data governance guidelines and their importance."
+                            "title": "Overview of internal data governance guidelines and their importance.",
+                            "action": "Review the internal governance guidelines that guide our data practices.",
+                            "description": "Data governance is essential for ensuring that data is managed effectively, securely, and in compliance with regulations. Understanding our internal governance guidelines will help you navigate data management responsibilities and ensure that you adhere to best practices. Familiarizing yourself with these guidelines will empower you to contribute to our data governance efforts.\nBy mastering these principles, you will help maintain data integrity and support the organization's commitment to responsible data management.",
+                            "content_instructions": {
+                                "role": "professional data governance officer",
+                                "topic": "Overview of internal data governance guidelines and their importance."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "compliance_with_gdpr_ccpa",
                     "type": "module",
                     "title": "Compliance with GDPR/CCPA",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_the_company_ensures_compliance_with_gdpr_and_ccpa_regulations",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how the company ensures compliance with GDPR and CCPA regulations."
+                            "title": "Understand how the company ensures compliance with GDPR and CCPA regulations.",
+                            "action": "Review our compliance measures for GDPR and CCPA.",
+                            "description": "Compliance with GDPR and CCPA is critical for protecting user privacy and ensuring that data practices align with legal requirements. Understanding how our company ensures compliance will help you navigate data handling responsibilities effectively. Familiarizing yourself with our compliance measures will empower you to contribute to our commitment to data privacy.\nBy mastering these compliance practices, you will help safeguard user data and maintain our reputation as a trusted organization.",
+                            "content_instructions": {
+                                "role": "professional compliance officer",
+                                "topic": "Understand how the company ensures compliance with GDPR and CCPA regulations."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "ethical_use_of_data",
                     "type": "module",
                     "title": "Ethical Use of Data",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_company_s_policies_on_the_ethical_use_of_data",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about the company's policies on the ethical use of data."
+                            "title": "Learn about the company's policies on the ethical use of data.",
+                            "action": "Review our ethical guidelines for data usage.",
+                            "description": "Understanding the ethical use of data is essential for maintaining trust with users and stakeholders. Our company has established policies to guide ethical data practices, ensuring that data is used responsibly and transparently. Familiarizing yourself with these guidelines will empower you to navigate ethical dilemmas in your work.\nBy adhering to these ethical practices, you will contribute to a culture of integrity and accountability within the organization.",
+                            "content_instructions": {
+                                "role": "professional ethics officer",
+                                "topic": "Learn about the company's policies on the ethical use of data."
+                            },
+                            "icon": "logo_43"
                         }
                     ]
                 }

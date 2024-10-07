@@ -5,741 +5,923 @@
     "end_of_day": 31,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_13",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "meet_the_finance_team",
                     "type": "module",
                     "title": "Meet the Finance Team",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_finance_team_members_and_their_roles_in_the_organization",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Introduction to the finance team members and their roles in the organization."
+                            "title": "Introduction to the finance team members and their roles in the organization.",
+                            "action": "Familiarize yourself with each finance team member and their contributions to the organization.",
+                            "description": "The finance team is composed of skilled professionals who handle various aspects of financial management, including budgeting, forecasting, and financial reporting. Each member plays a critical role in ensuring the financial health of the company. Understanding the team's structure and individual roles will help you know whom to approach for specific inquiries and support.\nBy getting to know your colleagues, you will not only build strong working relationships but also gain insights into how different functions within the finance team collaborate to achieve common goals. This understanding is essential for effective teamwork and communication.",
+                            "content_instructions": {
+                                "role": "professional finance manager",
+                                "topic": "Introduction to the finance team members and their roles in the organization."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "understanding_company_structure_and_goals_1",
                     "type": "module",
                     "title": "Understanding Company Structure and Goals",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_company_s_structure_and_how_financial_planning_aligns_with_overall_goals",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Learn about the company's structure and how financial planning aligns with overall goals."
+                            "title": "Learn about the company's structure and how financial planning aligns with overall goals.",
+                            "action": "Review the organizational structure and understand how financial goals align with company objectives.",
+                            "description": "Understanding the company's structure is crucial for a financial analyst. This knowledge allows you to see how different departments interact and how financial planning supports overarching business goals. Each department has its own objectives, and as a financial analyst, you will play a key role in ensuring that financial strategies align with these objectives.\nBy grasping the company's strategic vision and how financial planning fits into it, you will be better equipped to contribute to discussions and decisions that drive the organization forward. This alignment is vital for ensuring that financial resources are allocated effectively to support business initiatives.",
+                            "content_instructions": {
+                                "role": "professional corporate strategist",
+                                "topic": "Learn about the company's structure and how financial planning aligns with overall goals."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "introduction_to_key_financial_stakeholders",
                     "type": "module",
                     "title": "Introduction to Key Financial Stakeholders",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_key_financial_stakeholders_and_their_roles_in_decision_making",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Overview of the key financial stakeholders and their roles in decision-making."
+                            "title": "Overview of the key financial stakeholders and their roles in decision-making.",
+                            "action": "Identify key financial stakeholders and understand their influence on financial decisions.",
+                            "description": "Key financial stakeholders include executives, department heads, and external partners who play a vital role in shaping financial policies and strategies. Understanding their roles and how they influence decision-making is essential for effective collaboration. Each stakeholder has unique perspectives and priorities that impact financial planning and analysis.\nBy identifying these stakeholders, you will learn how to tailor your financial analyses and reports to meet their needs. This understanding will enhance your ability to communicate effectively and advocate for financial strategies that align with the company's goals.",
+                            "content_instructions": {
+                                "role": "professional financial advisor",
+                                "topic": "Overview of the key financial stakeholders and their roles in decision-making."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_company_financials",
             "type": "section",
             "title": "Familiarize with Our Company Financials",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "understanding_key_financial_statements",
                     "type": "module",
                     "title": "Understanding Key Financial Statements",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_read_and_analyze_key_financial_statements_such_as_income_statements_and_balance_sheets",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Learn how to read and analyze key financial statements such as income statements and balance sheets."
+                            "title": "Learn how to read and analyze key financial statements such as income statements and balance sheets.",
+                            "action": "Review the company's income statement and balance sheet to understand financial performance.",
+                            "description": "Key financial statements provide a snapshot of the company's financial health. The income statement shows revenues, expenses, and profits over a specific period, while the balance sheet outlines assets, liabilities, and equity at a given point in time. Understanding these statements is crucial for analyzing the company's performance and making informed financial decisions.\nBy learning to interpret these documents, you will be equipped to provide insights into financial trends and support strategic planning efforts. This foundational knowledge is essential for your role as a financial analyst, as it enables you to contribute to discussions about financial strategy and performance.",
+                            "content_instructions": {
+                                "role": "professional financial analyst",
+                                "topic": "Learn how to read and analyze key financial statements such as income statements and balance sheets."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "reviewing_company_p_l_and_balance_sheet",
                     "type": "module",
                     "title": "Reviewing Company P&L and Balance Sheet",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_review_and_interpret_the_company_s_profit_and_loss_p_l_statement_and_balance_sheet",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Understand how to review and interpret the company's profit and loss (P&L) statement and balance sheet."
+                            "title": "Understand how to review and interpret the company's profit and loss (P&L) statement and balance sheet.",
+                            "action": "Analyze the company's P&L statement and balance sheet to assess financial stability.",
+                            "description": "The Profit and Loss (P&L) statement provides insights into the company's revenues and expenses, allowing analysts to evaluate profitability over time. The balance sheet complements this by presenting a snapshot of the company's assets and liabilities, highlighting its financial stability. Together, these statements form a comprehensive view of the company's financial performance.\nBy mastering the analysis of these documents, you will be able to identify trends, assess risks, and provide recommendations that support the company's financial objectives. This skill is critical for your role, as it enables you to contribute to strategic financial discussions and decisions.",
+                            "content_instructions": {
+                                "role": "professional financial auditor",
+                                "topic": "Understand how to review and interpret the company's profit and loss (P&L) statement and balance sheet."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "key_financial_ratios_and_analysis",
                     "type": "module",
                     "title": "Key Financial Ratios and Analysis",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_key_financial_ratios_and_how_they_are_used_in_financial_analysis",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Overview of key financial ratios and how they are used in financial analysis."
+                            "title": "Overview of key financial ratios and how they are used in financial analysis.",
+                            "action": "Learn about essential financial ratios and their significance in evaluating company performance.",
+                            "description": "Financial ratios are vital tools for analyzing a company's performance and financial health. Ratios such as liquidity, profitability, and leverage provide insights into different aspects of the business. Understanding these ratios allows analysts to make comparisons over time and against industry benchmarks, facilitating informed decision-making.\nBy familiarizing yourself with key financial ratios, you will enhance your analytical skills and be better equipped to provide valuable insights that support strategic planning and risk assessment. This knowledge is essential for your role as a financial analyst, as it empowers you to drive data-informed decisions.",
+                            "content_instructions": {
+                                "role": "professional financial consultant",
+                                "topic": "Overview of key financial ratios and how they are used in financial analysis."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "our_financial_reporting_tools",
             "type": "section",
             "title": "Our Financial Reporting Tools",
             "end_of_day": 9,
             "children": [
                 {
-                    "index": 0,
                     "id": "reporting_and_analysis_platforms",
                     "type": "module",
                     "title": "Reporting and Analysis Platforms",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_platforms_and_tools_used_for_financial_reporting_and_analysis",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Learn about the platforms and tools used for financial reporting and analysis."
+                            "title": "Learn about the platforms and tools used for financial reporting and analysis.",
+                            "action": "Familiarize yourself with the financial reporting tools used in the organization.",
+                            "description": "Financial reporting tools are essential for compiling, analyzing, and presenting financial data. These platforms enable analysts to create reports, visualize data, and generate insights that inform decision-making. Understanding the tools available will enhance your ability to produce accurate and timely financial reports.\nBy mastering these platforms, you will increase your efficiency and effectiveness as a financial analyst, allowing you to contribute to the company's financial strategy and performance monitoring. Familiarity with reporting tools is crucial for delivering high-quality analyses that support business objectives.",
+                            "content_instructions": {
+                                "role": "professional financial systems analyst",
+                                "topic": "Learn about the platforms and tools used for financial reporting and analysis."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "financial_data_visualization_tools",
                     "type": "module",
                     "title": "Financial Data Visualization Tools",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_use_data_visualization_tools_to_present_financial_information_effectively",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Understand how to use data visualization tools to present financial information effectively."
+                            "title": "Understand how to use data visualization tools to present financial information effectively.",
+                            "action": "Explore the data visualization tools available for presenting financial data.",
+                            "description": "Data visualization tools are powerful resources for conveying complex financial information in an easily digestible format. By transforming data into visual representations, analysts can highlight trends, patterns, and insights that may not be immediately apparent in raw data. Mastering these tools enables you to effectively communicate financial information to stakeholders.\nBy learning to use data visualization techniques, you will enhance your ability to present analyses that are clear, compelling, and actionable. This skill is essential for your role as a financial analyst, as it empowers you to drive informed decision-making.",
+                            "content_instructions": {
+                                "role": "professional data visualization expert",
+                                "topic": "Understand how to use data visualization tools to present financial information effectively."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "automated_financial_reporting",
                     "type": "module",
                     "title": "Automated Financial Reporting",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_automated_reporting_processes_are_used_to_streamline_financial_reporting",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Overview of how automated reporting processes are used to streamline financial reporting."
+                            "title": "Overview of how automated reporting processes are used to streamline financial reporting.",
+                            "action": "Learn about the automation tools used for financial reporting.",
+                            "description": "Automated financial reporting processes significantly enhance efficiency and accuracy in financial analyses. By leveraging automation, analysts can generate reports quickly and reduce the risk of human error. Understanding these automated systems is crucial for optimizing reporting workflows and ensuring timely access to financial data.\nBy familiarizing yourself with automation tools, you will improve your productivity and contribute to more effective financial reporting practices. This knowledge is vital for your success as a financial analyst, as it allows you to focus on analysis rather than manual data compilation.",
+                            "content_instructions": {
+                                "role": "professional financial automation specialist",
+                                "topic": "Overview of how automated reporting processes are used to streamline financial reporting."
+                            },
+                            "icon": "logo_34"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "our_budgeting_and_forecasting_process",
             "type": "section",
             "title": "Our Budgeting and Forecasting Process",
             "end_of_day": 12,
             "children": [
                 {
-                    "index": 0,
                     "id": "annual_budget_planning",
                     "type": "module",
                     "title": "Annual Budget Planning",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_annual_budgeting_process_and_how_financial_projections_are_made",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Learn about the annual budgeting process and how financial projections are made."
+                            "title": "Learn about the annual budgeting process and how financial projections are made.",
+                            "action": "Participate in the annual budget planning sessions and understand their importance.",
+                            "description": "The annual budgeting process is a critical component of financial management, allowing organizations to allocate resources effectively and plan for future growth. Understanding how budgets are created and the assumptions behind financial projections is essential for a financial analyst. This process involves collaboration across departments to align financial goals with operational needs.\nBy engaging in budget planning, you will gain insights into the company's financial strategy and contribute to informed decision-making. This knowledge is vital for ensuring that financial resources are allocated efficiently to support business objectives.",
+                            "content_instructions": {
+                                "role": "professional financial planner",
+                                "topic": "Learn about the annual budgeting process and how financial projections are made."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "forecasting_techniques",
                     "type": "module",
                     "title": "Forecasting Techniques",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_different_forecasting_techniques_used_to_predict_financial_performance",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Understand different forecasting techniques used to predict financial performance."
+                            "title": "Understand different forecasting techniques used to predict financial performance.",
+                            "action": "Explore various forecasting methods and their applications in financial analysis.",
+                            "description": "Forecasting is an essential skill for financial analysts, enabling them to predict future financial performance based on historical data and market trends. Techniques such as regression analysis, time series analysis, and scenario modeling are commonly used to generate accurate forecasts. Understanding these methodologies is crucial for making informed financial decisions and strategic planning.\nBy mastering forecasting techniques, you will enhance your analytical capabilities and contribute to the company's financial planning efforts. This skill is vital for supporting business objectives and ensuring that the organization remains agile in a dynamic market.",
+                            "content_instructions": {
+                                "role": "professional financial forecaster",
+                                "topic": "Understand different forecasting techniques used to predict financial performance."
+                            },
+                            "icon": "logo_31"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "tracking_budget_vs_actual_performance",
                     "type": "module",
                     "title": "Tracking Budget vs Actual Performance",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_budget_vs_actual_performance_is_tracked_and_reported",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Overview of how budget vs actual performance is tracked and reported."
+                            "title": "Overview of how budget vs actual performance is tracked and reported.",
+                            "action": "Learn how to track and analyze budget vs actual performance.",
+                            "description": "Tracking budget vs actual performance is crucial for understanding how well the company is adhering to its financial plan. This analysis allows financial analysts to identify variances and understand the reasons behind them, facilitating better decision-making and resource allocation. By regularly reviewing these metrics, organizations can make timely adjustments to their strategies.\nBy familiarizing yourself with this process, you will enhance your ability to contribute to financial reporting and performance analysis. This knowledge is essential for ensuring that the company remains on track to meet its financial objectives.",
+                            "content_instructions": {
+                                "role": "professional financial controller",
+                                "topic": "Overview of how budget vs actual performance is tracked and reported."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "collaborating_with_our_sales_and_operations_teams",
             "type": "section",
             "title": "Collaborating with Our Sales and Operations Teams",
             "end_of_day": 15,
             "children": [
                 {
-                    "index": 0,
                     "id": "sales_and_revenue_forecasting",
                     "type": "module",
                     "title": "Sales and Revenue Forecasting",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_financial_analysts_collaborate_with_sales_to_forecast_revenue",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Learn how financial analysts collaborate with sales to forecast revenue."
+                            "title": "Learn how financial analysts collaborate with sales to forecast revenue.",
+                            "action": "Engage with the sales team to understand their forecasting processes.",
+                            "description": "Collaboration between financial analysts and the sales team is essential for accurate revenue forecasting. By sharing insights and data, both teams can create more reliable projections that consider market trends, customer behavior, and sales strategies. This collaboration enhances the company's ability to plan for future growth and allocate resources effectively.\nBy participating in these discussions, you will gain a deeper understanding of the sales process and how it impacts financial performance. This knowledge is vital for ensuring that financial forecasts align with operational realities.",
+                            "content_instructions": {
+                                "role": "professional revenue analyst",
+                                "topic": "Learn how financial analysts collaborate with sales to forecast revenue."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "aligning_operations_with_financial_goals",
                     "type": "module",
                     "title": "Aligning Operations with Financial Goals",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_operations_align_with_financial_goals_to_ensure_cost_effectiveness",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Understand how operations align with financial goals to ensure cost-effectiveness."
+                            "title": "Understand how operations align with financial goals to ensure cost-effectiveness.",
+                            "action": "Review operational processes and their alignment with financial objectives.",
+                            "description": "Aligning operations with financial goals is crucial for ensuring that the company operates efficiently and cost-effectively. Financial analysts play a key role in evaluating operational performance and identifying areas for improvement. By understanding the operational landscape, analysts can provide insights that support strategic decision-making and resource allocation.\nBy familiarizing yourself with these processes, you will enhance your ability to contribute to operational and financial strategies. This knowledge is essential for ensuring that the company remains competitive and financially sound.",
+                            "content_instructions": {
+                                "role": "professional operations analyst",
+                                "topic": "Understand how operations align with financial goals to ensure cost-effectiveness."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "tracking_operational_expenses",
                     "type": "module",
                     "title": "Tracking Operational Expenses",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_operational_expenses_are_tracked_and_analyzed_for_cost_saving_opportunities",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Overview of how operational expenses are tracked and analyzed for cost-saving opportunities."
+                            "title": "Overview of how operational expenses are tracked and analyzed for cost-saving opportunities.",
+                            "action": "Learn how to monitor and analyze operational expenses.",
+                            "description": "Tracking operational expenses is essential for identifying cost-saving opportunities and ensuring that the company operates within budget. Financial analysts play a critical role in monitoring these expenses, analyzing trends, and providing recommendations for cost reduction. By understanding the factors that drive operational costs, analysts can help the organization make informed financial decisions.\nBy familiarizing yourself with expense tracking processes, you will enhance your ability to contribute to financial planning and analysis. This knowledge is vital for supporting the company's overall financial health and sustainability.",
+                            "content_instructions": {
+                                "role": "professional cost analyst",
+                                "topic": "Overview of how operational expenses are tracked and analyzed for cost-saving opportunities."
+                            },
+                            "icon": "logo_38"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "our_expense_management_and_reporting",
             "type": "section",
             "title": "Our Expense Management and Reporting",
             "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "expense_reporting_tools",
                     "type": "module",
                     "title": "Expense Reporting Tools",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_tools_used_for_tracking_and_managing_expenses_across_departments",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Learn about the tools used for tracking and managing expenses across departments."
+                            "title": "Learn about the tools used for tracking and managing expenses across departments.",
+                            "action": "Familiarize yourself with the expense reporting tools in use.",
+                            "description": "Expense reporting tools are essential for managing and tracking expenses within the organization. These tools facilitate accurate reporting, streamline approval processes, and enhance visibility into spending patterns. Understanding how to use these tools effectively will enable you to contribute to better expense management and reporting practices.\nBy mastering these tools, you will improve your efficiency in tracking expenses and ensure compliance with company policies. This knowledge is crucial for your role as a financial analyst, as it supports effective financial oversight and decision-making.",
+                            "content_instructions": {
+                                "role": "professional financial systems manager",
+                                "topic": "Learn about the tools used for tracking and managing expenses across departments."
+                            },
+                            "icon": "logo_38"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "managing_departmental_budgets",
                     "type": "module",
                     "title": "Managing Departmental Budgets",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_departmental_budgets_are_managed_and_aligned_with_company_goals",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Understand how departmental budgets are managed and aligned with company goals."
+                            "title": "Understand how departmental budgets are managed and aligned with company goals.",
+                            "action": "Review the processes for managing departmental budgets.",
+                            "description": "Managing departmental budgets is crucial for ensuring that financial resources are allocated effectively to meet the company's goals. Financial analysts play a key role in overseeing these budgets, ensuring compliance with financial policies, and providing insights that support strategic decision-making. Understanding the budgeting process at the departmental level is essential for contributing to overall financial planning.\nBy familiarizing yourself with these processes, you will enhance your ability to support departmental financial management and contribute to the company's financial objectives. This knowledge is vital for ensuring that budgets align with organizational priorities.",
+                            "content_instructions": {
+                                "role": "professional budget manager",
+                                "topic": "Understand how departmental budgets are managed and aligned with company goals."
+                            },
+                            "icon": "logo_38"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "approvals_and_audit_trails",
                     "type": "module",
                     "title": "Approvals and Audit Trails",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_process_for_expense_approvals_and_maintaining_audit_trails",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Overview of the process for expense approvals and maintaining audit trails."
+                            "title": "Overview of the process for expense approvals and maintaining audit trails.",
+                            "action": "Learn about the approval processes for expenses and the importance of audit trails.",
+                            "description": "Expense approvals and maintaining audit trails are critical for ensuring transparency and accountability in financial management. Understanding how these processes work helps financial analysts ensure compliance with company policies and regulatory requirements. This knowledge is essential for preventing fraud and ensuring that financial resources are used responsibly.\nBy familiarizing yourself with approval processes and audit trails, you will enhance your ability to contribute to effective financial oversight and reporting. This knowledge is vital for supporting the company's overall financial integrity.",
+                            "content_instructions": {
+                                "role": "professional compliance officer",
+                                "topic": "Overview of the process for expense approvals and maintaining audit trails."
+                            },
+                            "icon": "logo_37"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "revenue_recognition_and_compliance_at_our_company",
             "type": "section",
             "title": "Revenue Recognition and Compliance at Our Company",
             "end_of_day": 21,
             "children": [
                 {
-                    "index": 0,
                     "id": "understanding_revenue_recognition_policies",
                     "type": "module",
                     "title": "Understanding Revenue Recognition Policies",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_revenue_recognition_policies_in_place_and_how_they_comply_with_accounting_standards",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Learn about the revenue recognition policies in place and how they comply with accounting standards."
+                            "title": "Learn about the revenue recognition policies in place and how they comply with accounting standards.",
+                            "action": "Review the company's revenue recognition policies and their compliance.",
+                            "description": "Revenue recognition is a critical aspect of financial reporting, ensuring that revenue is recorded in accordance with accounting standards. Understanding the company's policies on revenue recognition is essential for financial analysts, as it impacts financial statements and overall performance metrics. This knowledge is crucial for ensuring compliance with regulatory requirements and maintaining financial integrity.\nBy familiarizing yourself with these policies, you will enhance your ability to provide accurate financial analyses and support strategic decision-making. This knowledge is vital for your role as a financial analyst, as it empowers you to contribute to discussions about revenue management.",
+                            "content_instructions": {
+                                "role": "professional accounting officer",
+                                "topic": "Learn about the revenue recognition policies in place and how they comply with accounting standards."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "ensuring_gaap_compliance",
                     "type": "module",
                     "title": "Ensuring GAAP Compliance",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_the_company_ensures_compliance_with_generally_accepted_accounting_principles_gaap",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Understand how the company ensures compliance with Generally Accepted Accounting Principles (GAAP)."
+                            "title": "Understand how the company ensures compliance with Generally Accepted Accounting Principles (GAAP).",
+                            "action": "Review the company's practices for maintaining GAAP compliance.",
+                            "description": "Compliance with Generally Accepted Accounting Principles (GAAP) is essential for ensuring the accuracy and reliability of financial reporting. Understanding how the company adheres to GAAP guidelines is crucial for financial analysts, as it impacts financial statements and stakeholder trust. This knowledge is vital for supporting the company's commitment to transparency and accountability in financial reporting.\nBy familiarizing yourself with GAAP compliance practices, you will enhance your ability to contribute to accurate financial reporting and analyses. This knowledge is essential for your role as a financial analyst, as it empowers you to ensure that financial statements reflect the company's true financial position.",
+                            "content_instructions": {
+                                "role": "professional compliance auditor",
+                                "topic": "Understand how the company ensures compliance with Generally Accepted Accounting Principles (GAAP)."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "managing_deferred_revenue",
                     "type": "module",
                     "title": "Managing Deferred Revenue",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_deferred_revenue_is_managed_and_reported",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Overview of how deferred revenue is managed and reported."
+                            "title": "Overview of how deferred revenue is managed and reported.",
+                            "action": "Learn about the management and reporting of deferred revenue.",
+                            "description": "Deferred revenue represents payments received for goods or services that have yet to be delivered. Understanding how to manage and report deferred revenue is crucial for financial analysts, as it impacts cash flow and revenue recognition. This knowledge is essential for ensuring compliance with accounting standards and providing accurate financial analyses.\nBy familiarizing yourself with deferred revenue management practices, you will enhance your ability to contribute to financial reporting and analysis. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's financial integrity.",
+                            "content_instructions": {
+                                "role": "professional revenue manager",
+                                "topic": "Overview of how deferred revenue is managed and reported."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "our_financial_metrics_and_kpis",
             "type": "section",
             "title": "Our Financial Metrics and KPIs",
             "end_of_day": 24,
             "children": [
                 {
-                    "index": 0,
                     "id": "measuring_profitability_and_margins",
                     "type": "module",
                     "title": "Measuring Profitability and Margins",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_profitability_and_margins_are_measured_and_reported",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Learn how profitability and margins are measured and reported."
+                            "title": "Learn how profitability and margins are measured and reported.",
+                            "action": "Review the metrics used to evaluate profitability and margins.",
+                            "description": "Measuring profitability and margins is essential for understanding the company's financial performance. Key metrics such as gross margin, operating margin, and net profit margin provide insights into the efficiency and effectiveness of operations. Understanding these metrics allows financial analysts to identify areas for improvement and support strategic decision-making.\nBy familiarizing yourself with profitability metrics, you will enhance your ability to contribute to financial analysis and reporting. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's financial health.",
+                            "content_instructions": {
+                                "role": "professional financial analyst",
+                                "topic": "Learn how profitability and margins are measured and reported."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "tracking_return_on_investment_roi",
                     "type": "module",
                     "title": "Tracking Return on Investment (ROI)",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_roi_is_tracked_for_various_projects_and_investments",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Understand how ROI is tracked for various projects and investments."
+                            "title": "Understand how ROI is tracked for various projects and investments.",
+                            "action": "Learn about the methods used to calculate and track ROI.",
+                            "description": "Tracking Return on Investment (ROI) is critical for evaluating the success of projects and investments. By calculating ROI, financial analysts can assess the profitability of initiatives and make informed decisions about resource allocation. Understanding how to track and analyze ROI is essential for supporting the company's strategic objectives.\nBy familiarizing yourself with ROI tracking methods, you will enhance your ability to contribute to financial analysis and reporting. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's investment strategies.",
+                            "content_instructions": {
+                                "role": "professional investment analyst",
+                                "topic": "Understand how ROI is tracked for various projects and investments."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "working_capital_analysis",
                     "type": "module",
                     "title": "Working Capital Analysis",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_working_capital_is_analyzed_to_ensure_liquidity_and_operational_efficiency",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Overview of how working capital is analyzed to ensure liquidity and operational efficiency."
+                            "title": "Overview of how working capital is analyzed to ensure liquidity and operational efficiency.",
+                            "action": "Learn about the analysis of working capital and its implications for the company.",
+                            "description": "Analyzing working capital is crucial for ensuring that the company maintains sufficient liquidity to meet its operational needs. Financial analysts assess components such as accounts receivable, accounts payable, and inventory to evaluate the efficiency of working capital management. Understanding these metrics is essential for supporting the company's financial health and operational efficiency.\nBy familiarizing yourself with working capital analysis practices, you will enhance your ability to contribute to financial reporting and decision-making. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's liquidity management.",
+                            "content_instructions": {
+                                "role": "professional liquidity analyst",
+                                "topic": "Overview of how working capital is analyzed to ensure liquidity and operational efficiency."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "cost_optimization_strategies_at_our_company_1",
             "type": "section",
             "title": "Cost Optimization Strategies at Our Company",
             "end_of_day": 27,
             "children": [
                 {
-                    "index": 0,
                     "id": "identifying_cost_saving_opportunities",
                     "type": "module",
                     "title": "Identifying Cost-saving Opportunities",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_identify_cost_saving_opportunities_across_the_organization",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Learn how to identify cost-saving opportunities across the organization."
+                            "title": "Learn how to identify cost-saving opportunities across the organization.",
+                            "action": "Engage in discussions about cost-saving initiatives and strategies.",
+                            "description": "Identifying cost-saving opportunities is essential for enhancing the company's profitability and operational efficiency. Financial analysts play a key role in evaluating expenses and pinpointing areas where costs can be reduced without compromising quality. Understanding how to analyze spending patterns is crucial for supporting the company's financial objectives.\nBy familiarizing yourself with cost optimization strategies, you will enhance your ability to contribute to financial planning and analysis. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's cost management efforts.",
+                            "content_instructions": {
+                                "role": "professional cost analyst",
+                                "topic": "Learn how to identify cost-saving opportunities across the organization."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "analyzing_operational_efficiency",
                     "type": "module",
                     "title": "Analyzing Operational Efficiency",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_analyze_operational_efficiency_to_reduce_costs_and_improve_performance",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Understand how to analyze operational efficiency to reduce costs and improve performance."
+                            "title": "Understand how to analyze operational efficiency to reduce costs and improve performance.",
+                            "action": "Review operational processes and their efficiency metrics.",
+                            "description": "Analyzing operational efficiency is crucial for identifying areas where the company can improve performance and reduce costs. Financial analysts evaluate processes, workflows, and resource allocation to determine how effectively the organization operates. Understanding these metrics is essential for supporting the company's operational strategies and financial goals.\nBy familiarizing yourself with operational efficiency analysis practices, you will enhance your ability to contribute to financial reporting and decision-making. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's performance improvement initiatives.",
+                            "content_instructions": {
+                                "role": "professional operations analyst",
+                                "topic": "Understand how to analyze operational efficiency to reduce costs and improve performance."
+                            },
+                            "icon": "logo_31"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "vendor_negotiation_and_procurement",
                     "type": "module",
                     "title": "Vendor Negotiation and Procurement",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_strategies_for_negotiating_with_vendors_to_reduce_procurement_costs",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Overview of strategies for negotiating with vendors to reduce procurement costs."
+                            "title": "Overview of strategies for negotiating with vendors to reduce procurement costs.",
+                            "action": "Learn about vendor negotiation strategies and their impact on procurement.",
+                            "description": "Effective vendor negotiation is crucial for reducing procurement costs and ensuring favorable terms for the company. Financial analysts play a key role in evaluating vendor performance and identifying opportunities for negotiation. Understanding how to approach vendor discussions is essential for supporting the company's cost management efforts.\nBy familiarizing yourself with procurement strategies, you will enhance your ability to contribute to financial planning and analysis. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's procurement initiatives.",
+                            "content_instructions": {
+                                "role": "professional procurement analyst",
+                                "topic": "Overview of strategies for negotiating with vendors to reduce procurement costs."
+                            },
+                            "icon": "logo_38"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "investment_and_risk_analysis_at_our_company",
             "type": "section",
             "title": "Investment and Risk Analysis at Our Company",
-            "end_of_day": 29,
+            "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "capital_allocation_and_investment_strategies",
                     "type": "module",
                     "title": "Capital Allocation and Investment Strategies",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_company_s_capital_allocation_strategies_and_investment_opportunities",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Learn about the company's capital allocation strategies and investment opportunities."
+                            "title": "Learn about the company's capital allocation strategies and investment opportunities.",
+                            "action": "Review the company's approach to capital allocation and investment decisions.",
+                            "description": "Capital allocation is a critical aspect of financial management, determining how resources are invested to achieve the company's strategic goals. Understanding the company's capital allocation strategies enables financial analysts to evaluate potential investment opportunities and assess their alignment with business objectives. This knowledge is essential for supporting informed decision-making.\nBy familiarizing yourself with capital allocation practices, you will enhance your ability to contribute to financial planning and analysis. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's investment initiatives.",
+                            "content_instructions": {
+                                "role": "professional investment strategist",
+                                "topic": "Learn about the company's capital allocation strategies and investment opportunities."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "risk_assessment_and_mitigation",
                     "type": "module",
                     "title": "Risk Assessment and Mitigation",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_assess_financial_risks_and_develop_mitigation_strategies",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Understand how to assess financial risks and develop mitigation strategies."
+                            "title": "Understand how to assess financial risks and develop mitigation strategies.",
+                            "action": "Learn about the processes for assessing financial risks and implementing mitigation strategies.",
+                            "description": "Assessing financial risks is crucial for ensuring the company's stability and sustainability. Financial analysts evaluate various risk factors, including market volatility, credit risk, and operational risks, to determine their potential impact on the organization. Understanding how to develop and implement risk mitigation strategies is essential for supporting the company's financial health.\nBy familiarizing yourself with risk assessment practices, you will enhance your ability to contribute to financial planning and analysis. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's risk management efforts.",
+                            "content_instructions": {
+                                "role": "professional risk analyst",
+                                "topic": "Understand how to assess financial risks and develop mitigation strategies."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "portfolio_management",
                     "type": "module",
                     "title": "Portfolio Management",
-                    "end_of_day": 29,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_the_company_manages_its_investment_portfolio_to_achieve_financial_goals",
                             "type": "action",
-                            "end_of_day": 29,
-                            "title": "Overview of how the company manages its investment portfolio to achieve financial goals."
+                            "end_of_day": 30,
+                            "title": "Overview of how the company manages its investment portfolio to achieve financial goals.",
+                            "action": "Learn about the company's approach to portfolio management and investment strategies.",
+                            "description": "Effective portfolio management is essential for achieving the company's financial goals and maximizing returns on investments. Financial analysts evaluate the performance of various assets, assess market conditions, and make recommendations for portfolio adjustments. Understanding how to manage investment portfolios is crucial for supporting the company's investment strategies.\nBy familiarizing yourself with portfolio management practices, you will enhance your ability to contribute to financial planning and analysis. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's investment initiatives.",
+                            "content_instructions": {
+                                "role": "professional portfolio manager",
+                                "topic": "Overview of how the company manages its investment portfolio to achieve financial goals."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "handling_financial_audits_at_our_company",
             "type": "section",
             "title": "Handling Financial Audits at Our Company",
-            "end_of_day": 30,
+            "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "internal_and_external_audit_processes",
                     "type": "module",
                     "title": "Internal and External Audit Processes",
-                    "end_of_day": 30,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_internal_and_external_audit_processes_and_their_importance",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Learn about the internal and external audit processes and their importance."
+                            "end_of_day": 31,
+                            "title": "Learn about the internal and external audit processes and their importance.",
+                            "action": "Review the audit processes and understand their significance in financial management.",
+                            "description": "Internal and external audits are essential for ensuring the accuracy and integrity of financial reporting. Understanding these processes allows financial analysts to ensure compliance with regulations and identify areas for improvement. This knowledge is crucial for supporting the company's commitment to transparency and accountability in financial management.\nBy familiarizing yourself with audit processes, you will enhance your ability to contribute to financial reporting and compliance efforts. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's financial integrity.",
+                            "content_instructions": {
+                                "role": "professional audit manager",
+                                "topic": "Learn about the internal and external audit processes and their importance."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "preparing_for_audits",
                     "type": "module",
                     "title": "Preparing for Audits",
-                    "end_of_day": 30,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_prepare_financial_documents_and_reports_for_audits",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Understand how to prepare financial documents and reports for audits."
+                            "end_of_day": 31,
+                            "title": "Understand how to prepare financial documents and reports for audits.",
+                            "action": "Review the documentation required for audits and how to prepare it.",
+                            "description": "Preparing for audits involves compiling and organizing financial documents and reports to ensure compliance with regulatory requirements. Understanding the documentation process is essential for financial analysts, as it impacts the efficiency and effectiveness of the audit process. This knowledge is crucial for supporting the company's audit readiness and compliance efforts.\nBy familiarizing yourself with audit preparation practices, you will enhance your ability to contribute to financial reporting and compliance. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's audit initiatives.",
+                            "content_instructions": {
+                                "role": "professional financial compliance officer",
+                                "topic": "Understand how to prepare financial documents and reports for audits."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "addressing_audit_findings",
                     "type": "module",
                     "title": "Addressing Audit Findings",
-                    "end_of_day": 30,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_audit_findings_are_addressed_and_corrective_actions_are_taken",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Overview of how audit findings are addressed and corrective actions are taken."
+                            "end_of_day": 31,
+                            "title": "Overview of how audit findings are addressed and corrective actions are taken.",
+                            "action": "Learn about the processes for addressing audit findings and implementing corrective actions.",
+                            "description": "Addressing audit findings is critical for maintaining the integrity of financial reporting and ensuring compliance with regulations. Financial analysts play a key role in evaluating audit findings, developing corrective action plans, and implementing changes to improve processes. Understanding how to address audit findings is essential for supporting the company's commitment to transparency and accountability.\nBy familiarizing yourself with these processes, you will enhance your ability to contribute to financial reporting and compliance efforts. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's audit initiatives.",
+                            "content_instructions": {
+                                "role": "professional compliance auditor",
+                                "topic": "Overview of how audit findings are addressed and corrective actions are taken."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "our_taxation_and_legal_compliance",
             "type": "section",
             "title": "Our Taxation and Legal Compliance",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "understanding_tax_obligations",
                     "type": "module",
                     "title": "Understanding Tax Obligations",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_company_s_tax_obligations_and_how_taxes_are_calculated",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about the company's tax obligations and how taxes are calculated."
+                            "title": "Learn about the company's tax obligations and how taxes are calculated.",
+                            "action": "Review the company's tax obligations and calculation methods.",
+                            "description": "Understanding tax obligations is crucial for financial analysts, as it impacts the company's financial planning and compliance efforts. Financial analysts must be familiar with the tax laws and regulations that apply to the organization, including how taxes are calculated and reported. This knowledge is essential for ensuring compliance and supporting informed decision-making.\nBy familiarizing yourself with tax obligations, you will enhance your ability to contribute to financial reporting and compliance efforts. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's tax initiatives.",
+                            "content_instructions": {
+                                "role": "professional tax consultant",
+                                "topic": "Learn about the company's tax obligations and how taxes are calculated."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "filing_tax_returns_and_documentation",
                     "type": "module",
                     "title": "Filing Tax Returns and Documentation",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_tax_returns_are_filed_and_what_documentation_is_required",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how tax returns are filed and what documentation is required."
+                            "title": "Understand how tax returns are filed and what documentation is required.",
+                            "action": "Learn about the tax filing process and required documentation.",
+                            "description": "Filing tax returns is a critical process that ensures compliance with tax regulations. Financial analysts must understand the documentation required for tax filings and the timelines involved. This knowledge is essential for ensuring that the company meets its tax obligations and avoids penalties.\nBy familiarizing yourself with the tax filing process, you will enhance your ability to contribute to financial reporting and compliance efforts. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's tax initiatives.",
+                            "content_instructions": {
+                                "role": "professional tax compliance officer",
+                                "topic": "Understand how tax returns are filed and what documentation is required."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "complying_with_local_and_international_laws",
                     "type": "module",
                     "title": "Complying with Local and International Laws",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_the_company_complies_with_local_and_international_tax_laws",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of how the company complies with local and international tax laws."
+                            "title": "Overview of how the company complies with local and international tax laws.",
+                            "action": "Learn about the company's compliance strategies for tax laws.",
+                            "description": "Compliance with local and international tax laws is essential for maintaining the company's reputation and avoiding legal issues. Financial analysts must understand the regulations that apply to the organization and how compliance is ensured. This knowledge is critical for supporting the company's commitment to ethical business practices and financial integrity.\nBy familiarizing yourself with compliance strategies, you will enhance your ability to contribute to financial reporting and compliance efforts. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's tax initiatives.",
+                            "content_instructions": {
+                                "role": "professional legal advisor",
+                                "topic": "Overview of how the company complies with local and international tax laws."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 12,
             "id": "ongoing_learning_and_industry_trends_in_our_company_2",
             "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "financial_certifications_and_training",
                     "type": "module",
                     "title": "Financial Certifications and Training",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_certifications_and_training_opportunities_available_for_financial_analysts",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about the certifications and training opportunities available for financial analysts."
+                            "title": "Learn about the certifications and training opportunities available for financial analysts.",
+                            "action": "Explore available certifications and training programs.",
+                            "description": "Continuous learning and professional development are essential for financial analysts to stay competitive in the industry. The company offers various certifications and training programs to enhance your skills and knowledge. Understanding these opportunities is crucial for supporting your career growth and staying updated on industry trends.\nBy exploring these resources, you will identify opportunities for development that align with your career goals. Engaging in continuous learning will empower you to stay informed about best practices and advancements in the finance field.",
+                            "content_instructions": {
+                                "role": "professional career development manager",
+                                "topic": "Learn about the certifications and training opportunities available for financial analysts."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "staying_updated_with_financial_regulations",
                     "type": "module",
                     "title": "Staying Updated with Financial Regulations",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_stay_informed_about_changes_in_financial_regulations_and_standards",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how to stay informed about changes in financial regulations and standards."
+                            "title": "Understand how to stay informed about changes in financial regulations and standards.",
+                            "action": "Review resources for staying updated on financial regulations.",
+                            "description": "Staying informed about changes in financial regulations is crucial for financial analysts to ensure compliance and mitigate risks. Understanding the resources available for tracking regulatory updates is essential for supporting the company's financial integrity. This knowledge is critical for ensuring that financial practices align with current laws and standards.\nBy familiarizing yourself with these resources, you will enhance your ability to contribute to financial reporting and compliance efforts. This knowledge is vital for your role as a financial analyst, as it empowers you to support the company's regulatory initiatives.",
+                            "content_instructions": {
+                                "role": "professional regulatory compliance officer",
+                                "topic": "Understand how to stay informed about changes in financial regulations and standards."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "attending_finance_industry_conferences",
                     "type": "module",
                     "title": "Attending Finance Industry Conferences",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_industry_conferences_and_events_that_offer_networking_and_learning_opportunities",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of industry conferences and events that offer networking and learning opportunities."
+                            "title": "Overview of industry conferences and events that offer networking and learning opportunities.",
+                            "action": "Explore upcoming finance conferences and their benefits.",
+                            "description": "Attending finance industry conferences is an excellent way to network, learn about new trends, and gain insights from industry leaders. These events provide opportunities to connect with peers, share knowledge, and explore best practices. Understanding the value of attending these conferences is essential for supporting your professional growth and development.\nBy participating in these events, you will enhance your understanding of the finance industry and build valuable connections that can support your career. This knowledge is vital for your role as a financial analyst, as it empowers you to stay informed and engaged in the finance community.",
+                            "content_instructions": {
+                                "role": "professional event coordinator",
+                                "topic": "Overview of industry conferences and events that offer networking and learning opportunities."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 }

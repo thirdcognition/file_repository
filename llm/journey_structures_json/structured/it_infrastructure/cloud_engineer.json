@@ -5,741 +5,923 @@
     "end_of_day": 31,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_9",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "meet_the_cloud_engineering_team",
                     "type": "module",
                     "title": "Meet the Cloud Engineering Team",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_cloud_engineering_team_and_their_roles",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Introduction to the cloud engineering team and their roles."
+                            "title": "Introduction to the cloud engineering team and their roles.",
+                            "action": "Meet your team members and learn about their roles and responsibilities.",
+                            "description": "The cloud engineering team is responsible for designing, implementing, and maintaining our cloud infrastructure. Each member brings unique skills and experiences that contribute to the team's success. Understanding who does what within the team will help you know whom to approach for specific questions or collaboration.\nBy getting to know your team, you will also foster a sense of community and support, which is essential for your success in this role. Building these relationships early on will facilitate better collaboration and communication throughout your projects.",
+                            "content_instructions": {
+                                "role": "professional team lead",
+                                "topic": "Introduction to the cloud engineering team and their roles."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "cloud_architecture_stakeholders",
                     "type": "module",
                     "title": "Cloud Architecture Stakeholders",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_key_stakeholders_involved_in_cloud_architecture_decisions",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Learn about the key stakeholders involved in cloud architecture decisions."
+                            "title": "Learn about the key stakeholders involved in cloud architecture decisions.",
+                            "action": "Identify key stakeholders and understand their influence on cloud architecture.",
+                            "description": "In any cloud architecture project, various stakeholders play critical roles in decision-making. These include product managers, system architects, security officers, and compliance experts. Understanding who these stakeholders are and how they impact cloud architecture decisions will help you navigate the complexities of your projects effectively.\nBy engaging with these stakeholders, you will gain valuable insights into their expectations and requirements, which will ultimately enhance your ability to deliver solutions that meet business needs and align with organizational goals.",
+                            "content_instructions": {
+                                "role": "professional cloud architect",
+                                "topic": "Learn about the key stakeholders involved in cloud architecture decisions."
+                            },
+                            "icon": "logo_19"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "cross_functional_teams",
                     "type": "module",
                     "title": "Cross-functional Teams",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_cloud_engineers_collaborate_with_cross_functional_teams",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Understand how cloud engineers collaborate with cross-functional teams."
+                            "title": "Understand how cloud engineers collaborate with cross-functional teams.",
+                            "action": "Explore the collaboration dynamics with other teams such as DevOps and development.",
+                            "description": "Collaboration with cross-functional teams is essential for the success of cloud engineering projects. As a cloud engineer, you will work closely with DevOps, development, and QA teams to ensure that cloud solutions are seamlessly integrated into the overall infrastructure. Understanding how these teams interact and share responsibilities will help you contribute more effectively.\nBy fostering strong relationships with these teams, you will enhance communication and collaboration, leading to more efficient workflows and successful project outcomes.",
+                            "content_instructions": {
+                                "role": "professional project manager",
+                                "topic": "Understand how cloud engineers collaborate with cross-functional teams."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_cloud_architecture",
             "type": "section",
             "title": "Familiarize with Our Cloud Architecture",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "cloud_infrastructure_overview",
                     "type": "module",
                     "title": "Cloud Infrastructure Overview",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "get_an_overview_of_the_company_s_cloud_infrastructure_and_key_components",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Get an overview of the company's cloud infrastructure and key components."
+                            "title": "Get an overview of the company's cloud infrastructure and key components.",
+                            "action": "Review the architecture diagram and understand the cloud components.",
+                            "description": "Our cloud infrastructure is designed to be scalable, reliable, and secure. It consists of various components such as virtual networks, compute instances, storage solutions, and security measures. Familiarizing yourself with this architecture is crucial for understanding how different components interact and support our applications.\nBy understanding the architecture, you will be better equipped to design and implement solutions that align with our infrastructure standards, ensuring optimal performance and security.",
+                            "content_instructions": {
+                                "role": "professional cloud solutions architect",
+                                "topic": "Get an overview of the company's cloud infrastructure and key components."
+                            },
+                            "icon": "logo_18"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "hybrid_and_multi_cloud_strategies",
                     "type": "module",
                     "title": "Hybrid and Multi-Cloud Strategies",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_company_s_strategies_for_hybrid_and_multi_cloud_environments",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Understand the company's strategies for hybrid and multi-cloud environments."
+                            "title": "Understand the company's strategies for hybrid and multi-cloud environments.",
+                            "action": "Explore the hybrid and multi-cloud strategies and their benefits.",
+                            "description": "Our company employs hybrid and multi-cloud strategies to enhance flexibility, scalability, and resilience. These strategies allow us to leverage multiple cloud environments, optimizing resource use and minimizing costs. Understanding these strategies is essential for making informed decisions about cloud architecture and resource allocation.\nBy familiarizing yourself with our hybrid and multi-cloud approaches, you will be better positioned to contribute to discussions about cloud solutions that align with our business goals and customer needs.",
+                            "content_instructions": {
+                                "role": "professional cloud strategist",
+                                "topic": "Understand the company's strategies for hybrid and multi-cloud environments."
+                            },
+                            "icon": "logo_19"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "cloud_networking",
                     "type": "module",
                     "title": "Cloud Networking",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_networking_setups_within_the_cloud_infrastructure",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Learn about the networking setups within the cloud infrastructure."
+                            "title": "Learn about the networking setups within the cloud infrastructure.",
+                            "action": "Review the networking architecture and its components.",
+                            "description": "Networking is a critical aspect of our cloud infrastructure, enabling communication between various components and services. Understanding the networking setups, including virtual private clouds (VPCs), subnets, and firewalls, is essential for ensuring secure and efficient data flow.\nBy familiarizing yourself with our cloud networking architecture, you will be better equipped to design and implement solutions that meet both performance and security requirements, ensuring seamless connectivity across our cloud services.",
+                            "content_instructions": {
+                                "role": "professional network engineer",
+                                "topic": "Learn about the networking setups within the cloud infrastructure."
+                            },
+                            "icon": "logo_41"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "overview_of_our_cloud_service_providers_e_g_aws_azure",
             "type": "section",
             "title": "Overview of Our Cloud Service Providers (e.g., AWS, Azure)",
             "end_of_day": 9,
             "children": [
                 {
-                    "index": 0,
                     "id": "cloud_provider_selection_criteria",
                     "type": "module",
                     "title": "Cloud Provider Selection Criteria",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_the_company_selects_cloud_service_providers_based_on_needs_and_performance",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Learn how the company selects cloud service providers based on needs and performance."
+                            "title": "Learn how the company selects cloud service providers based on needs and performance.",
+                            "action": "Understand the criteria for selecting cloud service providers.",
+                            "description": "Choosing the right cloud service provider is crucial for meeting our technical and business needs. Our selection process considers factors such as cost, performance, security, and compliance with regulations. Understanding these criteria will help you make informed decisions when recommending cloud solutions.\nBy familiarizing yourself with our cloud provider selection criteria, you will enhance your ability to evaluate options and contribute to discussions about cloud strategy and implementation.",
+                            "content_instructions": {
+                                "role": "professional cloud consultant",
+                                "topic": "Learn how the company selects cloud service providers based on needs and performance."
+                            },
+                            "icon": "logo_19"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "aws_azure_services_overview",
                     "type": "module",
                     "title": "AWS/Azure Services Overview",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_key_services_provided_by_aws_azure_and_how_they_are_utilized",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Understand the key services provided by AWS/Azure and how they are utilized."
+                            "title": "Understand the key services provided by AWS/Azure and how they are utilized.",
+                            "action": "Review the key services offered by AWS/Azure and their applications.",
+                            "description": "AWS and Azure offer a vast array of services that support our cloud infrastructure. These include compute resources, storage solutions, databases, and machine learning capabilities. Understanding these services and their applications is crucial for leveraging the full potential of our cloud architecture.\nBy familiarizing yourself with AWS/Azure services, you will be better equipped to design and implement solutions that meet our business needs and enhance operational efficiency.",
+                            "content_instructions": {
+                                "role": "professional cloud architect",
+                                "topic": "Understand the key services provided by AWS/Azure and how they are utilized."
+                            },
+                            "icon": "logo_19"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "service_pricing_and_management",
                     "type": "module",
                     "title": "Service Pricing and Management",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_cloud_service_pricing_models_and_how_to_manage_costs_effectively",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Overview of cloud service pricing models and how to manage costs effectively."
+                            "title": "Overview of cloud service pricing models and how to manage costs effectively.",
+                            "action": "Learn about the pricing models of cloud services and cost management strategies.",
+                            "description": "Understanding the pricing models of cloud services is essential for effective budget management. AWS and Azure offer various pricing structures, including pay-as-you-go, reserved instances, and spot pricing. Familiarizing yourself with these models will help you make cost-effective decisions when deploying cloud resources.\nBy learning about our cost management strategies, you will be better equipped to monitor spending and optimize resource usage, ensuring that our cloud investments align with business objectives.",
+                            "content_instructions": {
+                                "role": "professional financial analyst",
+                                "topic": "Overview of cloud service pricing models and how to manage costs effectively."
+                            },
+                            "icon": "logo_19"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "our_cloud_security_best_practices",
             "type": "section",
             "title": "Our Cloud Security Best Practices",
             "end_of_day": 12,
             "children": [
                 {
-                    "index": 0,
                     "id": "identity_and_access_management",
                     "type": "module",
                     "title": "Identity and Access Management",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_best_practices_for_identity_and_access_management_in_the_cloud",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Learn about best practices for identity and access management in the cloud."
+                            "title": "Learn about best practices for identity and access management in the cloud.",
+                            "action": "Review our IAM practices and understand their importance.",
+                            "description": "Identity and Access Management (IAM) is crucial for securing our cloud environment. It involves defining who can access what resources and under which conditions. Understanding our IAM practices will help you implement security measures that protect sensitive data and ensure compliance with regulations.\nBy familiarizing yourself with our IAM strategies, you will enhance your ability to safeguard our cloud infrastructure and contribute to a culture of security awareness within the organization.",
+                            "content_instructions": {
+                                "role": "professional security specialist",
+                                "topic": "Learn about best practices for identity and access management in the cloud."
+                            },
+                            "icon": "logo_41"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "encryption_and_data_protection",
                     "type": "module",
                     "title": "Encryption and Data Protection",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_strategies_used_for_encrypting_and_protecting_data_in_the_cloud",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Understand the strategies used for encrypting and protecting data in the cloud."
+                            "title": "Understand the strategies used for encrypting and protecting data in the cloud.",
+                            "action": "Review our data encryption practices and their significance.",
+                            "description": "Data protection is a top priority in our cloud security strategy. Encryption is a key method used to safeguard sensitive information both at rest and in transit. Understanding our encryption practices will help you ensure that data is protected against unauthorized access and breaches.\nBy familiarizing yourself with our data protection strategies, you will be better equipped to implement security measures that align with industry standards and best practices, ensuring the integrity and confidentiality of our data.",
+                            "content_instructions": {
+                                "role": "professional data protection officer",
+                                "topic": "Understand the strategies used for encrypting and protecting data in the cloud."
+                            },
+                            "icon": "logo_42"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "securing_cloud_networks",
                     "type": "module",
                     "title": "Securing Cloud Networks",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_securing_cloud_networks_to_prevent_unauthorized_access",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Overview of securing cloud networks to prevent unauthorized access."
+                            "title": "Overview of securing cloud networks to prevent unauthorized access.",
+                            "action": "Learn about our network security practices and their importance.",
+                            "description": "Securing our cloud networks is vital for protecting against unauthorized access and potential breaches. This involves implementing firewalls, intrusion detection systems, and secure network configurations. Understanding these practices is essential for maintaining the integrity of our cloud infrastructure.\nBy familiarizing yourself with our network security strategies, you will enhance your ability to design secure cloud architectures and contribute to the overall security posture of the organization.",
+                            "content_instructions": {
+                                "role": "professional network security engineer",
+                                "topic": "Overview of securing cloud networks to prevent unauthorized access."
+                            },
+                            "icon": "logo_41"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "our_infrastructure_as_code_iac_approach",
             "type": "section",
             "title": "Our Infrastructure as Code (IaC) Approach",
             "end_of_day": 15,
             "children": [
                 {
-                    "index": 0,
                     "id": "iac_tools_and_frameworks_1",
                     "type": "module",
                     "title": "IaC Tools and Frameworks",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_tools_and_frameworks_used_for_infrastructure_as_code_iac",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Learn about the tools and frameworks used for Infrastructure as Code (IaC)."
+                            "title": "Learn about the tools and frameworks used for Infrastructure as Code (IaC).",
+                            "action": "Explore the IaC tools and frameworks we utilize.",
+                            "description": "Infrastructure as Code (IaC) is a key practice that allows us to manage our cloud infrastructure through code. This approach enables automation, consistency, and scalability. Familiarizing yourself with the tools and frameworks we use, such as Terraform or AWS CloudFormation, is essential for effectively implementing IaC practices.\nBy understanding our IaC tools, you will be better equipped to contribute to infrastructure management and automation, ensuring that our cloud resources are provisioned and maintained efficiently.",
+                            "content_instructions": {
+                                "role": "professional DevOps engineer",
+                                "topic": "Learn about the tools and frameworks used for Infrastructure as Code (IaC)."
+                            },
+                            "icon": "logo_22"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "versioning_and_change_management",
                     "type": "module",
                     "title": "Versioning and Change Management",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_versioning_and_change_management_are_handled_in_iac",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Understand how versioning and change management are handled in IaC."
+                            "title": "Understand how versioning and change management are handled in IaC.",
+                            "action": "Review our versioning practices and change management processes.",
+                            "description": "Versioning and change management are critical for maintaining the integrity of our infrastructure. By managing changes through version control systems and adhering to best practices, we ensure that our cloud resources remain stable and consistent. Understanding these processes is essential for effective collaboration and risk management.\nBy familiarizing yourself with our change management strategies, you will enhance your ability to contribute to infrastructure stability and ensure that changes are implemented smoothly and efficiently.",
+                            "content_instructions": {
+                                "role": "professional change manager",
+                                "topic": "Understand how versioning and change management are handled in IaC."
+                            },
+                            "icon": "logo_10"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "best_practices_for_iac",
                     "type": "module",
                     "title": "Best Practices for IaC",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_best_practices_for_managing_cloud_infrastructure_through_code",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Overview of best practices for managing cloud infrastructure through code."
+                            "title": "Overview of best practices for managing cloud infrastructure through code.",
+                            "action": "Learn about the best practices for implementing IaC effectively.",
+                            "description": "Implementing Infrastructure as Code (IaC) comes with its own set of best practices that ensure efficiency and reliability. These include modularization, documentation, and testing of code. Understanding these practices is crucial for maintaining a clean and manageable codebase.\nBy familiarizing yourself with our IaC best practices, you will enhance your ability to contribute to the development and maintenance of our cloud infrastructure, ensuring that it is robust and scalable.",
+                            "content_instructions": {
+                                "role": "professional cloud engineer",
+                                "topic": "Overview of best practices for managing cloud infrastructure through code."
+                            },
+                            "icon": "logo_22"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "containerization_and_orchestration_tools_at_our_company",
             "type": "section",
             "title": "Containerization and Orchestration Tools at Our Company",
             "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "docker_and_kubernetes_overview",
                     "type": "module",
                     "title": "Docker and Kubernetes Overview",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_docker_and_kubernetes_and_their_roles_in_container_orchestration",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Learn about Docker and Kubernetes and their roles in container orchestration."
+                            "title": "Learn about Docker and Kubernetes and their roles in container orchestration.",
+                            "action": "Review the basics of Docker and Kubernetes and their applications.",
+                            "description": "Docker and Kubernetes are essential tools for managing containerized applications. Docker allows us to package applications and their dependencies into containers, while Kubernetes orchestrates these containers, ensuring they run reliably in various environments. Understanding these tools is crucial for deploying and managing applications efficiently.\nBy familiarizing yourself with Docker and Kubernetes, you will enhance your ability to contribute to containerized application development and ensure that our applications are scalable and resilient.",
+                            "content_instructions": {
+                                "role": "professional containerization expert",
+                                "topic": "Learn about Docker and Kubernetes and their roles in container orchestration."
+                            },
+                            "icon": "logo_22"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "container_orchestration",
                     "type": "module",
                     "title": "Container Orchestration",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_containers_are_orchestrated_for_deployment_and_scaling",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Understand how containers are orchestrated for deployment and scaling."
+                            "title": "Understand how containers are orchestrated for deployment and scaling.",
+                            "action": "Explore the processes involved in orchestrating container deployments.",
+                            "description": "Container orchestration is a critical aspect of managing containerized applications, especially in production environments. It involves automating the deployment, scaling, and management of containerized applications. Understanding these processes is essential for ensuring that applications run smoothly and can scale to meet demand.\nBy familiarizing yourself with our container orchestration practices, you will enhance your ability to contribute to application deployment and management, ensuring that our services remain available and performant.",
+                            "content_instructions": {
+                                "role": "professional orchestration engineer",
+                                "topic": "Understand how containers are orchestrated for deployment and scaling."
+                            },
+                            "icon": "logo_22"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "best_practices_for_container_security",
                     "type": "module",
                     "title": "Best Practices for Container Security",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_best_practices_for_securing_containers_in_the_cloud",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Overview of best practices for securing containers in the cloud."
+                            "title": "Overview of best practices for securing containers in the cloud.",
+                            "action": "Learn about security measures for containerized applications.",
+                            "description": "Securing containerized applications is vital for protecting sensitive data and ensuring compliance with regulations. Best practices include implementing security controls, conducting vulnerability assessments, and using trusted images. Understanding these practices is crucial for maintaining the security of our cloud environments.\nBy familiarizing yourself with our container security measures, you will enhance your ability to contribute to the development of secure applications and protect our infrastructure from potential threats.",
+                            "content_instructions": {
+                                "role": "professional security analyst",
+                                "topic": "Overview of best practices for securing containers in the cloud."
+                            },
+                            "icon": "logo_22"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "monitoring_and_logging_in_our_cloud_environments",
             "type": "section",
             "title": "Monitoring and Logging in Our Cloud Environments",
             "end_of_day": 21,
             "children": [
                 {
-                    "index": 0,
                     "id": "cloud_monitoring_tools",
                     "type": "module",
                     "title": "Cloud Monitoring Tools",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_tools_used_to_monitor_cloud_infrastructure_performance",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Learn about the tools used to monitor cloud infrastructure performance."
+                            "title": "Learn about the tools used to monitor cloud infrastructure performance.",
+                            "action": "Explore the monitoring tools we use and their functionalities.",
+                            "description": "Monitoring our cloud infrastructure is essential for maintaining performance and availability. We utilize various tools to track metrics, logs, and alerts, ensuring that we can quickly identify and resolve issues. Understanding these tools is crucial for effective infrastructure management.\nBy familiarizing yourself with our cloud monitoring practices, you will enhance your ability to contribute to maintaining optimal performance and reliability of our cloud services.",
+                            "content_instructions": {
+                                "role": "professional systems administrator",
+                                "topic": "Learn about the tools used to monitor cloud infrastructure performance."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "log_management_systems",
                     "type": "module",
                     "title": "Log Management Systems",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_log_management_systems_help_track_cloud_activities",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Understand how log management systems help track cloud activities."
+                            "title": "Understand how log management systems help track cloud activities.",
+                            "action": "Review our log management practices and their significance.",
+                            "description": "Log management is critical for tracking activities and diagnosing issues within our cloud infrastructure. By collecting and analyzing logs, we can gain insights into system performance and security. Understanding our log management systems is essential for effective troubleshooting and compliance.\nBy familiarizing yourself with our log management practices, you will enhance your ability to contribute to maintaining the integrity and security of our cloud environment.",
+                            "content_instructions": {
+                                "role": "professional log analyst",
+                                "topic": "Understand how log management systems help track cloud activities."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "alerting_and_incident_response",
                     "type": "module",
                     "title": "Alerting and Incident Response",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_alerts_are_configured_and_incidents_are_responded_to_in_the_cloud",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Overview of how alerts are configured and incidents are responded to in the cloud."
+                            "title": "Overview of how alerts are configured and incidents are responded to in the cloud.",
+                            "action": "Learn about our alerting practices and incident response protocols.",
+                            "description": "Effective alerting and incident response are essential for maintaining the reliability of our cloud services. By configuring alerts based on key metrics, we can proactively address issues before they impact users. Understanding our incident response protocols is crucial for minimizing downtime and ensuring service continuity.\nBy familiarizing yourself with our alerting and incident response practices, you will enhance your ability to contribute to maintaining the reliability and performance of our cloud infrastructure.",
+                            "content_instructions": {
+                                "role": "professional incident manager",
+                                "topic": "Overview of how alerts are configured and incidents are responded to in the cloud."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "cost_optimization_strategies_at_our_company",
             "type": "section",
             "title": "Cost Optimization Strategies at Our Company",
             "end_of_day": 24,
             "children": [
                 {
-                    "index": 0,
                     "id": "monitoring_cloud_costs",
                     "type": "module",
                     "title": "Monitoring Cloud Costs",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_monitor_cloud_usage_and_costs_effectively",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Learn how to monitor cloud usage and costs effectively."
+                            "title": "Learn how to monitor cloud usage and costs effectively.",
+                            "action": "Review our cost monitoring practices and tools.",
+                            "description": "Monitoring cloud costs is essential for effective budget management and resource allocation. By utilizing cloud cost management tools, we can track usage patterns and identify opportunities for optimization. Understanding these practices is crucial for ensuring that our cloud investments align with business objectives.\nBy familiarizing yourself with our cost monitoring strategies, you will enhance your ability to contribute to managing cloud expenditures and optimizing resource usage.",
+                            "content_instructions": {
+                                "role": "professional financial analyst",
+                                "topic": "Learn how to monitor cloud usage and costs effectively."
+                            },
+                            "icon": "logo_19"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "optimizing_resource_usage",
                     "type": "module",
                     "title": "Optimizing Resource Usage",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_strategies_for_optimizing_resource_usage_in_the_cloud_to_reduce_costs",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Understand strategies for optimizing resource usage in the cloud to reduce costs."
+                            "title": "Understand strategies for optimizing resource usage in the cloud to reduce costs.",
+                            "action": "Explore our resource optimization practices and their benefits.",
+                            "description": "Optimizing resource usage in the cloud is essential for reducing costs and enhancing efficiency. This involves rightsizing resources, utilizing auto-scaling, and implementing cost-effective architectures. Understanding these strategies is crucial for maximizing the value of our cloud investments.\nBy familiarizing yourself with our resource optimization practices, you will enhance your ability to contribute to cost-effective cloud solutions and improve overall operational efficiency.",
+                            "content_instructions": {
+                                "role": "professional cloud architect",
+                                "topic": "Understand strategies for optimizing resource usage in the cloud to reduce costs."
+                            },
+                            "icon": "logo_19"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "cost_effective_cloud_architecture",
                     "type": "module",
                     "title": "Cost-effective Cloud Architecture",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_designing_cost_effective_cloud_architectures_for_scalability",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Overview of designing cost-effective cloud architectures for scalability."
+                            "title": "Overview of designing cost-effective cloud architectures for scalability.",
+                            "action": "Learn about the principles of cost-effective cloud architecture design.",
+                            "description": "Designing cost-effective cloud architectures is essential for ensuring scalability while managing expenses. This involves selecting the right services, implementing efficient resource allocation, and leveraging cloud-native features. Understanding these principles is crucial for delivering solutions that meet both performance and budgetary constraints.\nBy familiarizing yourself with our cost-effective architecture strategies, you will enhance your ability to design scalable solutions that align with our financial goals.",
+                            "content_instructions": {
+                                "role": "professional cloud solutions architect",
+                                "topic": "Overview of designing cost-effective cloud architectures for scalability."
+                            },
+                            "icon": "logo_19"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "collaborating_with_our_development_and_devops_teams",
             "type": "section",
             "title": "Collaborating with Our Development and DevOps Teams",
             "end_of_day": 27,
             "children": [
                 {
-                    "index": 0,
                     "id": "aligning_cloud_infrastructure_with_development",
                     "type": "module",
                     "title": "Aligning Cloud Infrastructure with Development",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_align_cloud_infrastructure_with_the_needs_of_the_development_team",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Learn how to align cloud infrastructure with the needs of the development team."
+                            "title": "Learn how to align cloud infrastructure with the needs of the development team.",
+                            "action": "Explore strategies for aligning cloud infrastructure with development requirements.",
+                            "description": "Aligning cloud infrastructure with the needs of the development team is crucial for ensuring that applications run smoothly and efficiently. This involves understanding the development team's requirements and providing the necessary resources and support. Familiarizing yourself with these alignment strategies is essential for effective collaboration.\nBy engaging with the development team, you will enhance your ability to deliver cloud solutions that meet their needs and contribute to successful project outcomes.",
+                            "content_instructions": {
+                                "role": "professional cloud consultant",
+                                "topic": "Learn how to align cloud infrastructure with the needs of the development team."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "supporting_devops_in_cloud_deployments",
                     "type": "module",
                     "title": "Supporting DevOps in Cloud Deployments",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_cloud_engineers_support_devops_in_continuous_deployments",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Understand how cloud engineers support DevOps in continuous deployments."
+                            "title": "Understand how cloud engineers support DevOps in continuous deployments.",
+                            "action": "Review the collaboration practices between cloud engineers and DevOps.",
+                            "description": "Cloud engineers play a pivotal role in supporting DevOps practices, particularly in continuous deployment processes. This involves ensuring that the cloud infrastructure is optimized for automated deployments and that resources are provisioned efficiently. Understanding these collaboration practices is essential for contributing to smooth deployment processes.\nBy familiarizing yourself with our DevOps support strategies, you will enhance your ability to ensure that cloud resources are aligned with deployment needs, facilitating rapid and reliable releases.",
+                            "content_instructions": {
+                                "role": "professional DevOps engineer",
+                                "topic": "Understand how cloud engineers support DevOps in continuous deployments."
+                            },
+                            "icon": "logo_20"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "troubleshooting_cloud_related_issues",
                     "type": "module",
                     "title": "Troubleshooting Cloud-related Issues",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_cloud_engineers_troubleshoot_and_resolve_cloud_related_issues",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Overview of how cloud engineers troubleshoot and resolve cloud-related issues."
+                            "title": "Overview of how cloud engineers troubleshoot and resolve cloud-related issues.",
+                            "action": "Learn about the troubleshooting processes and tools we use.",
+                            "description": "Troubleshooting cloud-related issues is a critical skill for cloud engineers. This involves identifying problems, analyzing logs, and utilizing monitoring tools to diagnose issues effectively. Understanding our troubleshooting processes and tools is essential for maintaining the reliability of our cloud infrastructure.\nBy familiarizing yourself with our troubleshooting practices, you will enhance your ability to resolve issues promptly and contribute to maintaining high service availability.",
+                            "content_instructions": {
+                                "role": "professional support engineer",
+                                "topic": "Overview of how cloud engineers troubleshoot and resolve cloud-related issues."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "our_ci_cd_in_cloud_environments",
             "type": "section",
             "title": "Our CI/CD in Cloud Environments",
-            "end_of_day": 29,
+            "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "ci_cd_pipeline_integration",
                     "type": "module",
                     "title": "CI/CD Pipeline Integration",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_integrating_cloud_infrastructure_with_ci_cd_pipelines",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Learn about integrating cloud infrastructure with CI/CD pipelines."
+                            "title": "Learn about integrating cloud infrastructure with CI/CD pipelines.",
+                            "action": "Review the integration practices for CI/CD in cloud environments.",
+                            "description": "Integrating cloud infrastructure with CI/CD pipelines is essential for automating deployment processes and ensuring that code changes are deployed efficiently. Understanding how to set up and manage these integrations is crucial for delivering high-quality applications rapidly.\nBy familiarizing yourself with our CI/CD integration practices, you will enhance your ability to contribute to streamlined deployment processes and ensure that our applications are delivered reliably.",
+                            "content_instructions": {
+                                "role": "professional CI/CD engineer",
+                                "topic": "Learn about integrating cloud infrastructure with CI/CD pipelines."
+                            },
+                            "icon": "logo_20"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "continuous_delivery_in_the_cloud",
                     "type": "module",
                     "title": "Continuous Delivery in the Cloud",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_continuous_delivery_is_managed_in_cloud_environments",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Understand how continuous delivery is managed in cloud environments."
+                            "title": "Understand how continuous delivery is managed in cloud environments.",
+                            "action": "Explore the practices and tools for continuous delivery in the cloud.",
+                            "description": "Continuous delivery in cloud environments enables rapid and reliable delivery of applications. Understanding how to implement continuous delivery practices, including automated testing and deployment, is crucial for maintaining high-quality standards and meeting customer demands.\nBy familiarizing yourself with our continuous delivery practices, you will enhance your ability to contribute to efficient deployment processes and ensure that our applications are consistently delivered to users.",
+                            "content_instructions": {
+                                "role": "professional delivery manager",
+                                "topic": "Understand how continuous delivery is managed in cloud environments."
+                            },
+                            "icon": "logo_20"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "deploying_to_cloud_with_automation",
                     "type": "module",
                     "title": "Deploying to Cloud with Automation",
-                    "end_of_day": 29,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_automated_deployment_processes_for_cloud_based_applications",
                             "type": "action",
-                            "end_of_day": 29,
-                            "title": "Overview of automated deployment processes for cloud-based applications."
+                            "end_of_day": 30,
+                            "title": "Overview of automated deployment processes for cloud-based applications.",
+                            "action": "Learn about the automation tools and processes for cloud deployment.",
+                            "description": "Automated deployment processes are essential for ensuring that cloud-based applications are deployed efficiently and reliably. This involves utilizing automation tools to streamline deployment workflows and minimize manual interventions. Understanding these processes is crucial for maintaining the speed and quality of our deployments.\nBy familiarizing yourself with our automated deployment practices, you will enhance your ability to contribute to the deployment of cloud applications and ensure that they are delivered to users seamlessly.",
+                            "content_instructions": {
+                                "role": "professional automation engineer",
+                                "topic": "Overview of automated deployment processes for cloud-based applications."
+                            },
+                            "icon": "logo_20"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "our_data_storage_and_backup_solutions",
             "type": "section",
             "title": "Our Data Storage and Backup Solutions",
             "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "cloud_storage_solutions",
                     "type": "module",
                     "title": "Cloud Storage Solutions",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_different_cloud_storage_solutions_used_within_the_company",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Learn about the different cloud storage solutions used within the company."
+                            "title": "Learn about the different cloud storage solutions used within the company.",
+                            "action": "Explore the various cloud storage options and their applications.",
+                            "description": "Our cloud storage solutions are designed to meet diverse data storage needs, including object storage, block storage, and file storage. Understanding these options and their applications is crucial for selecting the right storage solution for different use cases. By familiarizing yourself with our cloud storage offerings, you will enhance your ability to recommend and implement appropriate storage solutions for our projects.",
+                            "content_instructions": {
+                                "role": "professional cloud storage architect",
+                                "topic": "Learn about the different cloud storage solutions used within the company."
+                            },
+                            "icon": "logo_18"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "backup_and_recovery_processes",
                     "type": "module",
                     "title": "Backup and Recovery Processes",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_processes_for_backing_up_and_recovering_data_in_the_cloud",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Understand the processes for backing up and recovering data in the cloud."
+                            "title": "Understand the processes for backing up and recovering data in the cloud.",
+                            "action": "Review our backup and recovery practices and their importance.",
+                            "description": "Data backup and recovery are critical for ensuring business continuity and data integrity. Understanding our backup processes, including frequency, retention policies, and recovery procedures, is essential for minimizing data loss and ensuring quick recovery in case of incidents. By familiarizing yourself with our backup and recovery practices, you will enhance your ability to contribute to maintaining data security and compliance.",
+                            "content_instructions": {
+                                "role": "professional data recovery specialist",
+                                "topic": "Understand the processes for backing up and recovering data in the cloud."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "data_archiving_strategies",
                     "type": "module",
                     "title": "Data Archiving Strategies",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_strategies_for_long_term_data_archiving_and_retention_in_the_cloud",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Overview of strategies for long-term data archiving and retention in the cloud."
+                            "title": "Overview of strategies for long-term data archiving and retention in the cloud.",
+                            "action": "Learn about our data archiving practices and their significance.",
+                            "description": "Data archiving is essential for managing long-term data retention and compliance with regulations. Understanding our archiving strategies, including data classification, storage options, and access policies, is crucial for ensuring that archived data is secure and accessible when needed. By familiarizing yourself with our data archiving practices, you will enhance your ability to contribute to data management strategies that align with business goals.",
+                            "content_instructions": {
+                                "role": "professional data governance officer",
+                                "topic": "Overview of strategies for long-term data archiving and retention in the cloud."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "our_disaster_recovery_in_cloud_systems",
             "type": "section",
             "title": "Our Disaster Recovery in Cloud Systems",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "failover_and_recovery_plans_1",
                     "type": "module",
                     "title": "Failover and Recovery Plans",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_failover_strategies_and_recovery_plans_for_cloud_systems",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about failover strategies and recovery plans for cloud systems."
+                            "title": "Learn about failover strategies and recovery plans for cloud systems.",
+                            "action": "Review our failover and recovery strategies and their importance.",
+                            "description": "Failover and recovery plans are critical for maintaining service continuity in the event of a disaster. Understanding our strategies for failover, including redundancy, load balancing, and recovery procedures, is essential for ensuring that our cloud services remain available and reliable. By familiarizing yourself with our disaster recovery practices, you will enhance your ability to contribute to maintaining operational resilience.",
+                            "content_instructions": {
+                                "role": "professional disaster recovery specialist",
+                                "topic": "Learn about failover strategies and recovery plans for cloud systems."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "disaster_recovery_drills_1",
                     "type": "module",
                     "title": "Disaster Recovery Drills",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_disaster_recovery_drills_are_conducted_in_cloud_environments",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how disaster recovery drills are conducted in cloud environments."
+                            "title": "Understand how disaster recovery drills are conducted in cloud environments.",
+                            "action": "Explore our disaster recovery drill practices and their significance.",
+                            "description": "Conducting disaster recovery drills is essential for testing the effectiveness of our recovery plans and ensuring that all team members are prepared for potential incidents. Understanding how these drills are conducted and the lessons learned from them is crucial for improving our disaster recovery strategies. By familiarizing yourself with our drill practices, you will enhance your ability to contribute to maintaining a culture of preparedness within the organization.",
+                            "content_instructions": {
+                                "role": "professional training coordinator",
+                                "topic": "Understand how disaster recovery drills are conducted in cloud environments."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "cloud_specific_recovery_solutions",
                     "type": "module",
                     "title": "Cloud-specific Recovery Solutions",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_recovery_solutions_specific_to_cloud_platforms",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of recovery solutions specific to cloud platforms."
+                            "title": "Overview of recovery solutions specific to cloud platforms.",
+                            "action": "Learn about the recovery solutions we utilize for cloud environments.",
+                            "description": "Understanding cloud-specific recovery solutions is essential for ensuring that our disaster recovery strategies are effective and align with the capabilities of our cloud platforms. This involves exploring tools and services that facilitate backup, failover, and recovery processes. By familiarizing yourself with these solutions, you will enhance your ability to contribute to effective disaster recovery planning and execution.",
+                            "content_instructions": {
+                                "role": "professional cloud recovery engineer",
+                                "topic": "Overview of recovery solutions specific to cloud platforms."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 12,
             "id": "ongoing_learning_and_certification_opportunities_at_our_company_1",
             "type": "section",
             "title": "Ongoing Learning and Certification Opportunities at Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "cloud_certifications",
                     "type": "module",
                     "title": "Cloud Certifications",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_available_certifications_for_cloud_engineers_such_as_aws_or_azure",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about available certifications for cloud engineers, such as AWS or Azure."
+                            "title": "Learn about available certifications for cloud engineers, such as AWS or Azure.",
+                            "action": "Explore the certification options available to support your career growth.",
+                            "description": "Obtaining cloud certifications is an excellent way to enhance your skills and demonstrate your expertise in cloud technologies. Our company supports employees pursuing certifications such as AWS Certified Solutions Architect or Microsoft Certified: Azure Solutions Architect Expert. Understanding the benefits and pathways to these certifications is crucial for your professional development.\nBy familiarizing yourself with our certification programs, you will be better equipped to pursue opportunities that align with your career goals and contribute to your growth within the organization.",
+                            "content_instructions": {
+                                "role": "professional career advisor",
+                                "topic": "Learn about available certifications for cloud engineers, such as AWS or Azure."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "internal_learning_platforms",
                     "type": "module",
                     "title": "Internal Learning Platforms",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_internal_learning_platforms_to_enhance_cloud_skills",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of internal learning platforms to enhance cloud skills."
+                            "title": "Overview of internal learning platforms to enhance cloud skills.",
+                            "action": "Explore the internal resources available for skill development.",
+                            "description": "Our company offers various internal learning platforms that provide resources for skill development in cloud technologies. These platforms include online courses, webinars, and training sessions designed to enhance your knowledge and capabilities. Understanding how to leverage these resources is crucial for your continuous learning journey.\nBy familiarizing yourself with our internal learning platforms, you will be better equipped to identify opportunities for growth and stay updated on industry trends.",
+                            "content_instructions": {
+                                "role": "professional training manager",
+                                "topic": "Overview of internal learning platforms to enhance cloud skills."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "industry_conferences_and_meetups",
                     "type": "module",
                     "title": "Industry Conferences and Meetups",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_opportunities_to_attend_cloud_focused_conferences_and_meetups",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand opportunities to attend cloud-focused conferences and meetups."
+                            "title": "Understand opportunities to attend cloud-focused conferences and meetups.",
+                            "action": "Explore the opportunities for networking and learning at industry events.",
+                            "description": "Attending industry conferences and meetups is a valuable way to network with peers, learn about the latest trends, and gain insights from experts in the field. Our company encourages participation in these events to foster professional growth and development. Understanding the opportunities available will help you plan your participation effectively.\nBy familiarizing yourself with the conferences and meetups relevant to cloud engineering, you will enhance your ability to build connections and stay informed about industry advancements.",
+                            "content_instructions": {
+                                "role": "professional networking coordinator",
+                                "topic": "Understand opportunities to attend cloud-focused conferences and meetups."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 }

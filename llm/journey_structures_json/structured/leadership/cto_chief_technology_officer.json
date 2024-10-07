@@ -5,570 +5,710 @@
     "end_of_day": 30,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_16",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "meet_the_leadership_team_2",
                     "type": "module",
                     "title": "Meet the Leadership Team",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_company_s_leadership_team_and_their_respective_roles",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Introduction to the company's leadership team and their respective roles."
+                            "title": "Introduction to the company's leadership team and their respective roles.",
+                            "action": "Familiarize yourself with the leadership team and understand their areas of responsibility.",
+                            "description": "The leadership team plays a pivotal role in shaping the strategic direction of the company. Each member brings unique expertise and oversees various departments to ensure smooth operations and alignment with business goals. By understanding the roles and responsibilities of each leader, you will gain deeper insights into how decisions are made and how the company functions at a high level.\nThis introduction will also give you the opportunity to identify key stakeholders in your work and understand their expectations. Knowing who to approach for guidance and support will make it easier for you to navigate your responsibilities.",
+                            "content_instructions": {
+                                "role": "professional HR manager",
+                                "topic": "Introduction to the company's leadership team and their respective roles."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "company_vision_and_technology_alignment",
                     "type": "module",
                     "title": "Company Vision and Technology Alignment",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_company_s_vision_and_how_technology_aligns_with_business_goals",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Understand the company's vision and how technology aligns with business goals."
+                            "title": "Understand the company's vision and how technology aligns with business goals.",
+                            "action": "Explore the company's vision and understand how technology supports business objectives.",
+                            "description": "The company's vision serves as a guiding star for all operations, including technology initiatives. Understanding this vision helps you see the bigger picture and how your role contributes to achieving broader objectives. Technology plays a critical role in driving innovation, enhancing customer experiences, and improving operational efficiency.\nAligning technology with the company's vision ensures that all technological advancements contribute to the overall strategy. By internalizing this alignment, you will better understand your role within the company and how technology can be leveraged to meet business goals.",
+                            "content_instructions": {
+                                "role": "professional technology strategist",
+                                "topic": "Understand the company's vision and how technology aligns with business goals."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "introduction_to_key_stakeholders",
                     "type": "module",
                     "title": "Introduction to Key Stakeholders",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_key_stakeholders_and_their_role_in_technology_decision_making",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Overview of key stakeholders and their role in technology decision-making."
+                            "title": "Overview of key stakeholders and their role in technology decision-making.",
+                            "action": "Identify key stakeholders and understand their influence on technology decisions.",
+                            "description": "Key stakeholders play a crucial role in shaping technology initiatives and ensuring alignment with business objectives. Understanding who these stakeholders are, their interests, and how they influence decision-making will empower you to navigate the organizational landscape effectively. This knowledge is essential for building relationships and fostering collaboration across departments.\nBy engaging with stakeholders, you can gain insights into their expectations and concerns, which will help you make informed decisions that benefit both the technology team and the broader organization.",
+                            "content_instructions": {
+                                "role": "professional stakeholder manager",
+                                "topic": "Overview of key stakeholders and their role in technology decision-making."
+                            },
+                            "icon": "logo_2"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "ensuring_cross_functional_alignment",
             "type": "section",
             "title": "Ensuring Cross-Functional Alignment",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "ensuring_cross_functional_alignment_1",
                     "type": "module",
                     "title": "Ensuring Cross-Functional Alignment",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_ensure_alignment_between_product_engineering_and_technology_teams",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Learn how to ensure alignment between product, engineering, and technology teams."
+                            "title": "Learn how to ensure alignment between product, engineering, and technology teams.",
+                            "action": "Explore strategies for fostering alignment among cross-functional teams.",
+                            "description": "Cross-functional alignment is essential for the success of any technology initiative. It involves ensuring that product, engineering, and technology teams work together seamlessly to achieve common goals. Understanding the dynamics between these teams will help you facilitate collaboration and communication, leading to better project outcomes.\nBy fostering alignment, you can ensure that all teams are on the same page regarding project timelines, deliverables, and expectations. This collaborative approach minimizes misunderstandings and enhances the overall efficiency of technology initiatives.",
+                            "content_instructions": {
+                                "role": "professional project manager",
+                                "topic": "Learn how to ensure alignment between product, engineering, and technology teams."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "setting_engineering_priorities",
                     "type": "module",
                     "title": "Setting Engineering Priorities",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_engineering_priorities_are_set_in_alignment_with_product_and_business_goals",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Understand how engineering priorities are set in alignment with product and business goals."
+                            "title": "Understand how engineering priorities are set in alignment with product and business goals.",
+                            "action": "Review the process for setting engineering priorities based on business objectives.",
+                            "description": "Setting engineering priorities is a critical task that ensures the technology team focuses on initiatives that deliver the most value to the organization. This process involves evaluating business goals, assessing resource availability, and understanding customer needs. By aligning engineering priorities with business objectives, you can maximize the impact of technology initiatives.\nUnderstanding this process will empower you to make informed decisions about where to allocate resources and how to prioritize tasks effectively. This alignment is essential for achieving strategic objectives and delivering high-quality products.",
+                            "content_instructions": {
+                                "role": "professional operations manager",
+                                "topic": "Understand how engineering priorities are set in alignment with product and business goals."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "supporting_product_development",
                     "type": "module",
                     "title": "Supporting Product Development",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_cto_s_role_in_supporting_product_development_and_innovation",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Overview of the CTO’s role in supporting product development and innovation."
+                            "title": "Overview of the CTO's role in supporting product development and innovation.",
+                            "action": "Learn about the CTO's responsibilities in supporting product development initiatives.",
+                            "description": "The CTO plays a vital role in supporting product development by providing the necessary technological resources, guidance, and strategic direction. This involves collaborating closely with product teams to understand market needs, identifying opportunities for innovation, and ensuring that technology initiatives align with product goals. By fostering a culture of innovation, the CTO can drive the development of cutting-edge products that meet customer demands.\nUnderstanding this role will help you appreciate how technology can be leveraged to enhance product offerings, improve user experiences, and maintain a competitive edge in the market.",
+                            "content_instructions": {
+                                "role": "professional product manager",
+                                "topic": "Overview of the CTO's role in supporting product development and innovation."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "our_budgeting_and_resource_allocation_process",
             "type": "section",
             "title": "Our Budgeting and Resource Allocation Process",
             "end_of_day": 9,
             "children": [
                 {
-                    "index": 0,
                     "id": "technology_budget_planning",
                     "type": "module",
                     "title": "Technology Budget Planning",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_plan_and_allocate_budgets_for_technology_initiatives",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Learn how to plan and allocate budgets for technology initiatives."
+                            "title": "Learn how to plan and allocate budgets for technology initiatives.",
+                            "action": "Review the budgeting process for technology projects.",
+                            "description": "Budget planning is a crucial aspect of managing technology initiatives. It involves forecasting costs, allocating resources, and ensuring that funds are available for critical projects. Understanding the budgeting process will enable you to make informed decisions about where to invest in technology and how to maximize the value of those investments.\nBy participating in budget planning, you can contribute to the financial health of the technology department and ensure that projects are adequately funded to achieve their objectives. This knowledge is essential for aligning technology expenditures with business goals.",
+                            "content_instructions": {
+                                "role": "professional financial analyst",
+                                "topic": "Learn how to plan and allocate budgets for technology initiatives."
+                            },
+                            "icon": "logo_38"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "resource_allocation_across_teams",
                     "type": "module",
                     "title": "Resource Allocation Across Teams",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_resources_are_allocated_across_engineering_r_d_and_technical_teams",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Understand how resources are allocated across engineering, R&D, and technical teams."
+                            "title": "Understand how resources are allocated across engineering, R&D, and technical teams.",
+                            "action": "Explore the resource allocation strategies used within the organization.",
+                            "description": "Resource allocation is a critical function that ensures that the right teams have the right resources to execute their projects effectively. This process involves assessing project requirements, evaluating team capabilities, and making strategic decisions about resource distribution. Understanding how resources are allocated will empower you to optimize team performance and project outcomes.\nBy engaging in resource allocation discussions, you can contribute to ensuring that all teams have the necessary support to achieve their objectives. This knowledge is vital for fostering collaboration and maximizing the impact of technology initiatives.",
+                            "content_instructions": {
+                                "role": "professional operations director",
+                                "topic": "Understand how resources are allocated across engineering, R&D, and technical teams."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "monitoring_r_d_expenditures",
                     "type": "module",
                     "title": "Monitoring R&D Expenditures",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_r_d_expenditures_are_monitored_and_controlled_for_efficiency",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Overview of how R&D expenditures are monitored and controlled for efficiency."
+                            "title": "Overview of how R&D expenditures are monitored and controlled for efficiency.",
+                            "action": "Learn about the processes used to monitor R&D spending.",
+                            "description": "Monitoring R&D expenditures is essential for ensuring that funds are used efficiently and effectively. This process involves tracking spending against budgets, analyzing cost-effectiveness, and making adjustments as necessary to stay within financial constraints. Understanding how R&D expenditures are monitored will enable you to contribute to the financial sustainability of technology initiatives.\nBy engaging in this monitoring process, you can help identify areas for cost savings, ensure compliance with budgetary constraints, and ultimately enhance the value derived from technology investments.",
+                            "content_instructions": {
+                                "role": "professional budget manager",
+                                "topic": "Overview of how R&D expenditures are monitored and controlled for efficiency."
+                            },
+                            "icon": "logo_38"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "hiring_and_talent_management_in_our_company",
             "type": "section",
             "title": "Hiring and Talent Management in Our Company",
             "end_of_day": 12,
             "children": [
                 {
-                    "index": 0,
                     "id": "technical_hiring_strategies",
                     "type": "module",
                     "title": "Technical Hiring Strategies",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_strategies_for_hiring_top_technical_talent_and_building_high_performing_teams",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Learn the strategies for hiring top technical talent and building high-performing teams."
+                            "title": "Learn the strategies for hiring top technical talent and building high-performing teams.",
+                            "action": "Review the hiring strategies employed to attract top technical talent.",
+                            "description": "Hiring top technical talent is essential for building high-performing teams and driving innovation. This process involves defining role requirements, sourcing candidates, and conducting interviews to assess technical skills and cultural fit. Understanding the strategies used to attract and retain top talent will empower you to contribute to building a strong technology workforce.\nBy engaging in the hiring process, you can help ensure that the organization attracts individuals who align with its values and can drive technology initiatives forward. This knowledge is crucial for fostering a culture of excellence within the technology team.",
+                            "content_instructions": {
+                                "role": "professional recruitment specialist",
+                                "topic": "Learn the strategies for hiring top technical talent and building high-performing teams."
+                            },
+                            "icon": "logo_2"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "developing_tech_talent",
                     "type": "module",
                     "title": "Developing Tech Talent",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_importance_of_developing_and_nurturing_tech_talent_for_long_term_growth",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Understand the importance of developing and nurturing tech talent for long-term growth."
+                            "title": "Understand the importance of developing and nurturing tech talent for long-term growth.",
+                            "action": "Explore strategies for developing and nurturing technical talent within the organization.",
+                            "description": "Developing tech talent is essential for ensuring long-term growth and innovation within the organization. This involves providing training, mentorship, and opportunities for skill development to help employees reach their full potential. Understanding the importance of nurturing talent will empower you to contribute to the growth and success of the technology team.\nBy engaging in talent development initiatives, you can help create a culture of continuous learning and improvement, ultimately driving the organization's success in a competitive landscape.",
+                            "content_instructions": {
+                                "role": "professional talent development manager",
+                                "topic": "Understand the importance of developing and nurturing tech talent for long-term growth."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "employee_retention_and_career_growth",
                     "type": "module",
                     "title": "Employee Retention and Career Growth",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_employee_retention_strategies_and_fostering_career_growth_within_the_tech_team",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Overview of employee retention strategies and fostering career growth within the tech team."
+                            "title": "Overview of employee retention strategies and fostering career growth within the tech team.",
+                            "action": "Learn about strategies for retaining top tech talent and fostering their career growth.",
+                            "description": "Retaining top tech talent is crucial for maintaining a competitive edge and ensuring that the organization can continue to innovate. This involves creating a supportive work environment, offering competitive compensation, and providing opportunities for career advancement. Understanding the strategies used to foster employee retention will empower you to contribute to a positive organizational culture.\nBy engaging in retention initiatives, you can help ensure that employees feel valued and motivated to contribute to the organization's success. This knowledge is essential for building a strong and committed technology team.",
+                            "content_instructions": {
+                                "role": "professional HR business partner",
+                                "topic": "Overview of employee retention strategies and fostering career growth within the tech team."
+                            },
+                            "icon": "logo_40"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "technology_stack_decisions_at_our_company",
             "type": "section",
             "title": "Technology Stack Decisions at Our Company",
             "end_of_day": 15,
             "children": [
                 {
-                    "index": 0,
                     "id": "evaluating_new_technologies",
                     "type": "module",
                     "title": "Evaluating New Technologies",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_evaluate_and_adopt_new_technologies_to_stay_ahead_of_the_competition",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Learn how to evaluate and adopt new technologies to stay ahead of the competition."
+                            "title": "Learn how to evaluate and adopt new technologies to stay ahead of the competition.",
+                            "action": "Review the evaluation process for adopting new technologies.",
+                            "description": "Evaluating new technologies is essential for ensuring that the organization remains competitive and innovative. This process involves assessing the potential impact of new technologies on business objectives, conducting feasibility studies, and analyzing costs and benefits. Understanding how to evaluate new technologies will empower you to make informed decisions that drive technological advancement.\nBy participating in technology evaluations, you can help ensure that the organization adopts solutions that align with its strategic goals and deliver value to customers. This knowledge is crucial for fostering a culture of innovation within the technology team.",
+                            "content_instructions": {
+                                "role": "professional technology analyst",
+                                "topic": "Learn how to evaluate and adopt new technologies to stay ahead of the competition."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "selecting_and_implementing_tech_stack",
                     "type": "module",
                     "title": "Selecting and Implementing Tech Stack",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_decision_making_process_for_selecting_the_company_s_tech_stack",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Understand the decision-making process for selecting the company's tech stack."
+                            "title": "Understand the decision-making process for selecting the company's tech stack.",
+                            "action": "Explore the criteria and processes for selecting the technology stack.",
+                            "description": "Selecting the right technology stack is crucial for ensuring that the organization can deliver high-quality products efficiently. This involves evaluating various technologies based on factors such as scalability, performance, and community support. Understanding the decision-making process for selecting the tech stack will empower you to contribute to discussions around technology choices.\nBy engaging in the selection process, you can help ensure that the organization adopts technologies that align with its goals and can support its growth. This knowledge is essential for maintaining a competitive advantage in the market.",
+                            "content_instructions": {
+                                "role": "professional technology strategist",
+                                "topic": "Understand the decision-making process for selecting the company's tech stack."
+                            },
+                            "icon": "logo_7"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "balancing_innovation_with_stability",
                     "type": "module",
                     "title": "Balancing Innovation with Stability",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_balance_adopting_new_innovations_with_maintaining_system_stability",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Overview of how to balance adopting new innovations with maintaining system stability."
+                            "title": "Overview of how to balance adopting new innovations with maintaining system stability.",
+                            "action": "Learn strategies for balancing innovation with system stability.",
+                            "description": "Balancing innovation with system stability is a critical challenge for technology leaders. This involves evaluating the risks associated with adopting new technologies while ensuring that existing systems remain reliable and secure. Understanding how to strike this balance will empower you to make informed decisions that support both innovation and operational excellence.\nBy engaging in discussions around innovation and stability, you can help ensure that the organization can adapt to changing market conditions while maintaining high levels of service and reliability. This knowledge is essential for fostering a culture of responsible innovation within the technology team.",
+                            "content_instructions": {
+                                "role": "professional systems architect",
+                                "topic": "Overview of how to balance adopting new innovations with maintaining system stability."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "security_and_compliance_oversight_in_our_company",
             "type": "section",
             "title": "Security and Compliance Oversight in Our Company",
             "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "overseeing_cybersecurity_initiatives",
                     "type": "module",
                     "title": "Overseeing Cybersecurity Initiatives",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_the_cto_oversees_cybersecurity_initiatives_to_protect_company_assets",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Learn how the CTO oversees cybersecurity initiatives to protect company assets."
+                            "title": "Learn how the CTO oversees cybersecurity initiatives to protect company assets.",
+                            "action": "Review the cybersecurity initiatives and their importance.",
+                            "description": "Overseeing cybersecurity initiatives is a critical responsibility for the CTO, ensuring that the organization's assets are protected against threats. This involves developing and implementing security policies, conducting risk assessments, and collaborating with IT security teams to ensure compliance with regulations. Understanding the importance of cybersecurity will empower you to make informed decisions that safeguard the organization.\nBy engaging in cybersecurity initiatives, you can help ensure that the organization maintains a strong security posture and protects its valuable assets. This knowledge is essential for fostering a culture of security awareness within the technology team.",
+                            "content_instructions": {
+                                "role": "professional cybersecurity strategist",
+                                "topic": "Learn how the CTO oversees cybersecurity initiatives to protect company assets."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "ensuring_compliance_with_regulations",
                     "type": "module",
                     "title": "Ensuring Compliance with Regulations",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_regulatory_compliance_requirements_related_to_technology",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Understand the regulatory compliance requirements related to technology."
+                            "title": "Understand the regulatory compliance requirements related to technology.",
+                            "action": "Explore the compliance requirements that impact technology initiatives.",
+                            "description": "Ensuring compliance with regulations is a critical aspect of technology leadership. This involves understanding the legal and regulatory frameworks that govern technology operations and ensuring that the organization adheres to these standards. Understanding compliance requirements will empower you to make informed decisions that mitigate risks and protect the organization.\nBy engaging in compliance initiatives, you can help ensure that the organization operates within legal boundaries and maintains its reputation. This knowledge is essential for fostering a culture of compliance within the technology team.",
+                            "content_instructions": {
+                                "role": "professional compliance officer",
+                                "topic": "Understand the regulatory compliance requirements related to technology."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "managing_security_audits",
                     "type": "module",
                     "title": "Managing Security Audits",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_security_audits_are_managed_to_ensure_compliance_and_risk_mitigation",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Overview of how security audits are managed to ensure compliance and risk mitigation."
+                            "title": "Overview of how security audits are managed to ensure compliance and risk mitigation.",
+                            "action": "Learn about the processes for conducting security audits.",
+                            "description": "Managing security audits is essential for ensuring that the organization's security measures are effective and compliant with regulations. This process involves conducting regular assessments of security practices, identifying vulnerabilities, and implementing corrective actions. Understanding how security audits are managed will empower you to contribute to the organization's risk mitigation efforts.\nBy engaging in security audits, you can help ensure that the organization maintains a robust security posture and protects its assets. This knowledge is essential for fostering a culture of continuous improvement within the technology team.",
+                            "content_instructions": {
+                                "role": "professional security auditor",
+                                "topic": "Overview of how security audits are managed to ensure compliance and risk mitigation."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "our_risk_management_and_incident_response_strategies",
             "type": "section",
             "title": "Our Risk Management and Incident Response Strategies",
             "end_of_day": 21,
             "children": [
                 {
-                    "index": 0,
                     "id": "identifying_and_mitigating_technology_risks",
                     "type": "module",
                     "title": "Identifying and Mitigating Technology Risks",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_identify_and_mitigate_technology_related_risks",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Learn how to identify and mitigate technology-related risks."
+                            "title": "Learn how to identify and mitigate technology-related risks.",
+                            "action": "Review the processes for identifying and mitigating risks in technology projects.",
+                            "description": "Identifying and mitigating technology risks is a critical responsibility for technology leaders. This involves conducting risk assessments, analyzing potential impacts, and developing strategies to minimize risks. Understanding how to manage technology risks will empower you to make informed decisions that protect the organization.\nBy engaging in risk management initiatives, you can help ensure that the organization is prepared for potential challenges and can respond effectively to mitigate impacts. This knowledge is essential for fostering a culture of proactive risk management within the technology team.",
+                            "content_instructions": {
+                                "role": "professional risk manager",
+                                "topic": "Learn how to identify and mitigate technology-related risks."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "incident_response_procedures_1",
                     "type": "module",
                     "title": "Incident Response Procedures",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_procedures_for_responding_to_and_managing_technology_incidents",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Understand the procedures for responding to and managing technology incidents."
+                            "title": "Understand the procedures for responding to and managing technology incidents.",
+                            "action": "Explore the incident response procedures and their importance.",
+                            "description": "Incident response procedures are essential for effectively managing technology incidents and minimizing their impact on the organization. This involves developing response plans, conducting drills, and ensuring that team members are trained to respond to incidents. Understanding these procedures will empower you to contribute to the organization's preparedness and resilience.\nBy engaging in incident response initiatives, you can help ensure that the organization can respond quickly and effectively to technology incidents, reducing potential damage and maintaining business continuity. This knowledge is essential for fostering a culture of readiness within the technology team.",
+                            "content_instructions": {
+                                "role": "professional incident response manager",
+                                "topic": "Understand the procedures for responding to and managing technology incidents."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "crisis_management_and_communication",
                     "type": "module",
                     "title": "Crisis Management and Communication",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_crisis_management_strategies_and_how_to_communicate_during_technology_crises",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Overview of crisis management strategies and how to communicate during technology crises."
+                            "title": "Overview of crisis management strategies and how to communicate during technology crises.",
+                            "action": "Learn about crisis management strategies and effective communication during crises.",
+                            "description": "Crisis management strategies are critical for ensuring that the organization can navigate technology crises effectively. This involves developing communication plans, identifying key stakeholders, and ensuring that team members are trained to handle crises. Understanding these strategies will empower you to contribute to the organization's resilience and reputation management.\nBy engaging in crisis management initiatives, you can help ensure that the organization can communicate effectively during crises, maintaining trust and transparency with stakeholders. This knowledge is essential for fostering a culture of effective crisis management within the technology team.",
+                            "content_instructions": {
+                                "role": "professional crisis communication expert",
+                                "topic": "Overview of crisis management strategies and how to communicate during technology crises."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "stakeholder_management_at_our_company",
             "type": "section",
             "title": "Stakeholder Management at Our Company",
             "end_of_day": 24,
             "children": [
                 {
-                    "index": 0,
                     "id": "communicating_technology_strategy_to_stakeholders",
                     "type": "module",
                     "title": "Communicating Technology Strategy to Stakeholders",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_effectively_communicate_the_technology_strategy_to_both_internal_and_external_stakeholders",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Learn how to effectively communicate the technology strategy to both internal and external stakeholders."
+                            "title": "Learn how to effectively communicate the technology strategy to both internal and external stakeholders.",
+                            "action": "Review strategies for communicating technology initiatives to stakeholders.",
+                            "description": "Effectively communicating the technology strategy to stakeholders is essential for ensuring alignment and support for technology initiatives. This involves crafting clear messages, understanding stakeholder interests, and presenting information in a compelling manner. Understanding how to communicate technology strategy will empower you to build stronger relationships with stakeholders.\nBy engaging in communication initiatives, you can help ensure that stakeholders are informed and engaged in technology decisions, ultimately fostering a culture of collaboration and support. This knowledge is essential for enhancing stakeholder relationships within the technology team.",
+                            "content_instructions": {
+                                "role": "professional communication strategist",
+                                "topic": "Learn how to effectively communicate the technology strategy to both internal and external stakeholders."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "aligning_stakeholder_expectations_1",
                     "type": "module",
                     "title": "Aligning Stakeholder Expectations",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_align_stakeholder_expectations_with_technology_deliverables",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Understand how to align stakeholder expectations with technology deliverables."
+                            "title": "Understand how to align stakeholder expectations with technology deliverables.",
+                            "action": "Explore strategies for managing stakeholder expectations effectively.",
+                            "description": "Aligning stakeholder expectations with technology deliverables is crucial for ensuring satisfaction and support for technology initiatives. This involves understanding stakeholder needs, setting realistic timelines, and communicating any changes effectively. Understanding how to manage expectations will empower you to build trust and credibility with stakeholders.\nBy engaging in expectation management initiatives, you can help ensure that stakeholders are aligned with technology goals and can support the organization's objectives. This knowledge is essential for fostering a culture of transparency and accountability within the technology team.",
+                            "content_instructions": {
+                                "role": "professional stakeholder relations manager",
+                                "topic": "Understand how to align stakeholder expectations with technology deliverables."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "engaging_with_investors_on_technology_strategy",
                     "type": "module",
                     "title": "Engaging with Investors on Technology Strategy",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_engage_with_investors_and_communicate_the_value_of_technology_initiatives",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Overview of how to engage with investors and communicate the value of technology initiatives."
+                            "title": "Overview of how to engage with investors and communicate the value of technology initiatives.",
+                            "action": "Learn about strategies for engaging with investors regarding technology initiatives.",
+                            "description": "Engaging with investors is essential for securing support and funding for technology initiatives. This involves understanding investor interests, crafting compelling narratives, and presenting data that demonstrates the value of technology investments. Understanding how to engage with investors will empower you to build strong relationships and secure necessary resources.\nBy participating in investor engagement initiatives, you can help ensure that the organization can articulate the value of technology initiatives effectively, ultimately supporting its growth and success. This knowledge is essential for fostering a culture of investor relations within the technology team.",
+                            "content_instructions": {
+                                "role": "professional investor relations manager",
+                                "topic": "Overview of how to engage with investors and communicate the value of technology initiatives."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "performance_metrics_and_kpis_at_our_company",
             "type": "section",
             "title": "Performance Metrics and KPIs at Our Company",
             "end_of_day": 27,
             "children": [
                 {
-                    "index": 0,
                     "id": "measuring_technology_success",
                     "type": "module",
                     "title": "Measuring Technology Success",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_key_metrics_used_to_measure_the_success_of_technology_initiatives",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Learn the key metrics used to measure the success of technology initiatives."
+                            "title": "Learn the key metrics used to measure the success of technology initiatives.",
+                            "action": "Review the performance metrics that indicate technology success.",
+                            "description": "Measuring technology success is essential for understanding the impact of initiatives on the organization. This involves defining key performance indicators (KPIs), tracking progress, and analyzing outcomes. Understanding how to measure success will empower you to make informed decisions and drive continuous improvement.\nBy engaging in performance measurement initiatives, you can help ensure that technology initiatives deliver value and support the organization's objectives. This knowledge is essential for fostering a culture of accountability and results-oriented performance within the technology team.",
+                            "content_instructions": {
+                                "role": "professional performance analyst",
+                                "topic": "Learn the key metrics used to measure the success of technology initiatives."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "tracking_r_d_productivity",
                     "type": "module",
                     "title": "Tracking R&D Productivity",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_r_d_productivity_is_tracked_and_measured_against_goals",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Understand how R&D productivity is tracked and measured against goals."
+                            "title": "Understand how R&D productivity is tracked and measured against goals.",
+                            "action": "Explore the methods used to track R&D productivity effectively.",
+                            "description": "Tracking R&D productivity is crucial for ensuring that technology initiatives are progressing as planned and delivering results. This involves monitoring project timelines, assessing resource utilization, and evaluating the quality of outputs. Understanding how to track productivity will empower you to make informed decisions and optimize R&D efforts.\nBy engaging in productivity tracking initiatives, you can help ensure that R&D teams are aligned with organizational goals and can adapt to changing priorities. This knowledge is essential for fostering a culture of efficiency and effectiveness within the technology team.",
+                            "content_instructions": {
+                                "role": "professional R&D manager",
+                                "topic": "Understand how R&D productivity is tracked and measured against goals."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "kpis_for_engineering_teams",
                     "type": "module",
                     "title": "KPIs for Engineering Teams",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_kpis_used_to_assess_engineering_team_performance_and_productivity",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Overview of the KPIs used to assess engineering team performance and productivity."
+                            "title": "Overview of the KPIs used to assess engineering team performance and productivity.",
+                            "action": "Learn about the key performance indicators for engineering teams.",
+                            "description": "KPIs for engineering teams are essential for assessing performance and ensuring that teams are meeting their objectives. This involves defining metrics related to code quality, delivery timelines, and team collaboration. Understanding these KPIs will empower you to make informed decisions and drive continuous improvement within engineering teams.\nBy engaging in KPI assessment initiatives, you can help ensure that engineering teams are aligned with organizational goals and can deliver high-quality products efficiently. This knowledge is essential for fostering a culture of performance and accountability within the technology team.",
+                            "content_instructions": {
+                                "role": "professional engineering manager",
+                                "topic": "Overview of the KPIs used to assess engineering team performance and productivity."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "ongoing_learning_and_industry_trends_in_our_company_4",
             "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "staying_updated_on_emerging_technologies",
                     "type": "module",
                     "title": "Staying Updated on Emerging Technologies",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_stay_updated_on_emerging_technologies_and_trends_in_the_industry",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Learn how to stay updated on emerging technologies and trends in the industry."
+                            "title": "Learn how to stay updated on emerging technologies and trends in the industry.",
+                            "action": "Explore resources and strategies for keeping up with technology trends.",
+                            "description": "Staying updated on emerging technologies is essential for maintaining a competitive edge and driving innovation. This involves leveraging industry publications, attending conferences, and participating in professional networks. Understanding how to stay informed will empower you to make informed decisions about technology adoption and strategy.\nBy engaging in continuous learning initiatives, you can help ensure that the organization remains at the forefront of technological advancements and can respond effectively to market changes. This knowledge is essential for fostering a culture of learning and innovation within the technology team.",
+                            "content_instructions": {
+                                "role": "professional technology futurist",
+                                "topic": "Learn how to stay updated on emerging technologies and trends in the industry."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "industry_conferences_and_networking",
                     "type": "module",
                     "title": "Industry Conferences and Networking",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_importance_of_attending_industry_conferences_and_networking_with_peers",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Understand the importance of attending industry conferences and networking with peers."
+                            "title": "Understand the importance of attending industry conferences and networking with peers.",
+                            "action": "Explore opportunities for attending conferences and networking events.",
+                            "description": "Attending industry conferences and networking events is crucial for professional growth and staying informed about the latest trends and innovations. These events provide opportunities to learn from industry leaders, share insights, and build valuable connections. Understanding the importance of networking will empower you to expand your professional circle and enhance your knowledge.\nBy engaging in networking initiatives, you can help ensure that the organization benefits from fresh perspectives and innovative ideas. This knowledge is essential for fostering a culture of collaboration and continuous improvement within the technology team.",
+                            "content_instructions": {
+                                "role": "professional networking expert",
+                                "topic": "Understand the importance of attending industry conferences and networking with peers."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "continuous_learning_for_technology_leaders",
                     "type": "module",
                     "title": "Continuous Learning for Technology Leaders",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_continuous_learning_opportunities_available_for_technology_leaders",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Overview of the continuous learning opportunities available for technology leaders."
+                            "title": "Overview of the continuous learning opportunities available for technology leaders.",
+                            "action": "Explore continuous learning resources and opportunities for technology leaders.",
+                            "description": "Continuous learning is essential for technology leaders to stay relevant and effective in their roles. This involves engaging in training programs, pursuing certifications, and participating in leadership development initiatives. Understanding the importance of continuous learning will empower you to invest in your professional growth and enhance your leadership capabilities.\nBy engaging in continuous learning initiatives, you can help ensure that the organization benefits from knowledgeable and skilled leaders who can drive technology strategy effectively. This knowledge is essential for fostering a culture of growth and development within the technology team.",
+                            "content_instructions": {
+                                "role": "professional leadership development coach",
+                                "topic": "Overview of the continuous learning opportunities available for technology leaders."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 }

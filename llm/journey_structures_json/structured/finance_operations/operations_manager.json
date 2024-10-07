@@ -5,684 +5,852 @@
     "end_of_day": 31,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_15",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "meet_the_operations_leadership",
                     "type": "module",
                     "title": "Meet the Operations Leadership",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_operations_leadership_team_and_their_roles",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Introduction to the operations leadership team and their roles."
+                            "title": "Introduction to the operations leadership team and their roles.",
+                            "action": "Familiarize yourself with the leadership team and their areas of responsibility.",
+                            "description": "The operations leadership team plays a pivotal role in guiding the strategic direction of our operations. Each member brings a unique perspective and expertise that contributes to the overall success of the organization. By understanding their roles, you will gain insight into how decisions are made and how the operations team aligns with broader company goals.\nThis introduction will also help you identify key stakeholders in your work and understand their expectations, making it easier for you to navigate your responsibilities and build effective working relationships.",
+                            "content_instructions": {
+                                "role": "professional HR manager",
+                                "topic": "Introduction to the operations leadership team and their roles."
+                            },
+                            "icon": "logo_2"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "understanding_company_goals_and_operations_role",
                     "type": "module",
                     "title": "Understanding Company Goals and Operations Role",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_company_s_goals_and_the_role_operations_plays_in_achieving_them",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Understand the company's goals and the role operations plays in achieving them."
+                            "title": "Understand the company's goals and the role operations plays in achieving them.",
+                            "action": "Review the company's strategic goals and identify how the operations team supports these objectives.",
+                            "description": "Understanding the company's goals is essential for aligning your work with the broader mission of the organization. The operations team plays a crucial role in executing these goals by optimizing processes, managing resources, and ensuring efficiency. By grasping the connection between company objectives and operational strategies, you will be better equipped to contribute meaningfully to your team's success.\nThis alignment fosters a sense of purpose and direction in your daily tasks, allowing you to make informed decisions that support the company's vision and operational excellence.",
+                            "content_instructions": {
+                                "role": "professional operations strategist",
+                                "topic": "Understand the company's goals and the role operations plays in achieving them."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "team_structure_and_key_stakeholders",
                     "type": "module",
                     "title": "Team Structure and Key Stakeholders",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_operations_team_structure_and_key_stakeholders_involved_in_decision_making",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Overview of the operations team structure and key stakeholders involved in decision-making."
+                            "title": "Overview of the operations team structure and key stakeholders involved in decision-making.",
+                            "action": "Review the team's structure and identify key stakeholders and their roles.",
+                            "description": "The operations team is structured to promote collaboration and efficiency. Each member has specific responsibilities that contribute to the overall goals of the team. Familiarizing yourself with this structure is key to understanding who to approach for guidance and support.\nIdentifying key stakeholders and their roles will help you navigate your work environment more effectively. This knowledge allows you to build relationships with individuals who are crucial to your success and ensures that you can collaborate effectively on projects.",
+                            "content_instructions": {
+                                "role": "professional organizational consultant",
+                                "topic": "Overview of the operations team structure and key stakeholders involved in decision-making."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_operations_strategy",
             "type": "section",
             "title": "Familiarize with Our Operations Strategy",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "operations_strategy_overview",
                     "type": "module",
                     "title": "Operations Strategy Overview",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_company_s_overall_operations_strategy_and_key_objectives",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Learn about the company's overall operations strategy and key objectives."
+                            "title": "Learn about the company's overall operations strategy and key objectives.",
+                            "action": "Review the company's operations strategy and understand its key objectives.",
+                            "description": "The operations strategy outlines how the company plans to achieve its goals through efficient resource management, process optimization, and strategic planning. Understanding this strategy is vital for aligning your work with the organization's objectives.\nBy familiarizing yourself with the key objectives of the operations strategy, you will be better positioned to make decisions that support these goals and contribute to the overall success of the company.",
+                            "content_instructions": {
+                                "role": "professional operations analyst",
+                                "topic": "Learn about the company's overall operations strategy and key objectives."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "short_term_vs_long_term_operational_goals",
                     "type": "module",
                     "title": "Short-Term vs Long-Term Operational Goals",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_difference_between_short_term_and_long_term_operational_goals",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Understand the difference between short-term and long-term operational goals."
+                            "title": "Understand the difference between short-term and long-term operational goals.",
+                            "action": "Explore the distinctions between short-term and long-term goals in operations.",
+                            "description": "Operational goals can be categorized into short-term and long-term objectives, each serving a unique purpose within the organization. Short-term goals often focus on immediate improvements and efficiency, while long-term goals align with the company's vision and strategic planning.\nUnderstanding this distinction is crucial for prioritizing tasks and aligning your efforts with the broader objectives of the operations team. By setting clear goals, you can enhance your contribution to the organization and ensure that your work supports the overall mission.",
+                            "content_instructions": {
+                                "role": "professional strategic planner",
+                                "topic": "Understand the difference between short-term and long-term operational goals."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "aligning_operations_with_business_strategy",
                     "type": "module",
                     "title": "Aligning Operations with Business Strategy",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_the_operations_team_aligns_its_strategy_with_the_company_s_broader_business_goals",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Overview of how the operations team aligns its strategy with the company's broader business goals."
+                            "title": "Overview of how the operations team aligns its strategy with the company's broader business goals.",
+                            "action": "Learn how the operations strategy integrates with the overall business strategy.",
+                            "description": "Aligning the operations strategy with the broader business strategy is essential for ensuring that all departments work towards common objectives. This alignment helps in optimizing resources, streamlining processes, and enhancing overall efficiency.\nBy understanding how operations supports and drives the business strategy, you will be better equipped to make decisions that contribute to the organization's success. This knowledge fosters a collaborative environment where all teams work together to achieve shared goals.",
+                            "content_instructions": {
+                                "role": "professional business strategist",
+                                "topic": "Overview of how the operations team aligns its strategy with the company's broader business goals."
+                            },
+                            "icon": "logo_45"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "overview_of_our_internal_systems_and_tools",
             "type": "section",
             "title": "Overview of Our Internal Systems and Tools",
             "end_of_day": 9,
             "children": [
                 {
-                    "index": 0,
                     "id": "key_operational_software",
                     "type": "module",
                     "title": "Key Operational Software",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_software_tools_used_for_managing_operations_and_workflow",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Learn about the software tools used for managing operations and workflow."
+                            "title": "Learn about the software tools used for managing operations and workflow.",
+                            "action": "Familiarize yourself with the key operational software used in the organization.",
+                            "description": "The operational software tools are essential for managing workflows, tracking performance, and facilitating communication across teams. Familiarizing yourself with these tools will enhance your efficiency and effectiveness in managing operations.\nBy understanding how to leverage these tools, you can streamline processes, improve collaboration, and ensure that operational tasks are executed smoothly. This knowledge is vital for optimizing your contributions to the team's success.",
+                            "content_instructions": {
+                                "role": "professional IT specialist",
+                                "topic": "Learn about the software tools used for managing operations and workflow."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "automation_tools_and_processes",
                     "type": "module",
                     "title": "Automation Tools and Processes",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_automation_tools_are_used_to_streamline_operations_processes",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Understand how automation tools are used to streamline operations processes."
+                            "title": "Understand how automation tools are used to streamline operations processes.",
+                            "action": "Explore the automation tools implemented in operations and their benefits.",
+                            "description": "Automation tools play a significant role in enhancing operational efficiency by reducing manual tasks and streamlining processes. Understanding how these tools are utilized will help you identify opportunities for improvement and innovation within your workflows.\nBy leveraging automation, you can focus on strategic initiatives that drive value for the organization, ensuring that your efforts align with the company's operational goals.",
+                            "content_instructions": {
+                                "role": "professional automation consultant",
+                                "topic": "Understand how automation tools are used to streamline operations processes."
+                            },
+                            "icon": "logo_20"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "tracking_and_reporting_systems",
                     "type": "module",
                     "title": "Tracking and Reporting Systems",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_systems_used_for_tracking_operational_performance_and_generating_reports",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Overview of the systems used for tracking operational performance and generating reports."
+                            "title": "Overview of the systems used for tracking operational performance and generating reports.",
+                            "action": "Learn about the tracking and reporting systems used to monitor operational metrics.",
+                            "description": "Tracking and reporting systems are essential for measuring operational performance and ensuring that goals are met. These systems provide insights into key metrics, allowing for informed decision-making and strategic planning.\nBy understanding how to use these systems effectively, you can contribute to the continuous improvement of operational processes and ensure that your team meets its objectives.",
+                            "content_instructions": {
+                                "role": "professional data analyst",
+                                "topic": "Overview of the systems used for tracking operational performance and generating reports."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "collaborating_with_our_sales_and_engineering_teams",
             "type": "section",
             "title": "Collaborating with Our Sales and Engineering Teams",
             "end_of_day": 12,
             "children": [
                 {
-                    "index": 0,
                     "id": "inter_departmental_communication",
                     "type": "module",
                     "title": "Inter-departmental Communication",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_operations_communicates_and_collaborates_with_sales_and_engineering_teams",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Learn how operations communicates and collaborates with sales and engineering teams."
+                            "title": "Learn how operations communicates and collaborates with sales and engineering teams.",
+                            "action": "Explore the communication channels and collaboration practices between operations, sales, and engineering.",
+                            "description": "Effective communication between operations, sales, and engineering teams is vital for achieving organizational goals. Understanding the collaboration practices in place will help you navigate inter-departmental relationships and enhance teamwork.\nBy engaging with these teams, you can foster a collaborative environment that encourages knowledge sharing and innovation, ultimately driving better results for the organization.",
+                            "content_instructions": {
+                                "role": "professional communication specialist",
+                                "topic": "Learn how operations communicates and collaborates with sales and engineering teams."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "aligning_operations_with_sales_targets",
                     "type": "module",
                     "title": "Aligning Operations with Sales Targets",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_operations_aligns_resources_to_meet_sales_targets_and_business_objectives",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Understand how operations aligns resources to meet sales targets and business objectives."
+                            "title": "Understand how operations aligns resources to meet sales targets and business objectives.",
+                            "action": "Review how operations supports sales targets through resource allocation.",
+                            "description": "Aligning operations with sales targets is essential for ensuring that the organization meets its business objectives. Understanding how resources are allocated to support sales initiatives will help you contribute to the overall success of the team.\nBy grasping this alignment, you can make informed decisions that enhance operational efficiency and support the sales team in achieving their goals.",
+                            "content_instructions": {
+                                "role": "professional business operations manager",
+                                "topic": "Understand how operations aligns resources to meet sales targets and business objectives."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "supporting_engineering_with_resource_needs",
                     "type": "module",
                     "title": "Supporting Engineering with Resource Needs",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_operations_supports_the_engineering_team_with_resources_and_logistics",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Overview of how operations supports the engineering team with resources and logistics."
+                            "title": "Overview of how operations supports the engineering team with resources and logistics.",
+                            "action": "Learn how operations provides resources and logistical support to the engineering team.",
+                            "description": "Operations plays a critical role in supporting the engineering team by providing the necessary resources and logistics to ensure smooth project execution. Understanding this support structure will help you identify how you can contribute to the engineering team's success.\nBy collaborating effectively with engineering, you can enhance productivity and ensure that projects are completed on time and within budget.",
+                            "content_instructions": {
+                                "role": "professional project coordinator",
+                                "topic": "Overview of how operations supports the engineering team with resources and logistics."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "our_process_optimization_techniques",
             "type": "section",
             "title": "Our Process Optimization Techniques",
             "end_of_day": 15,
             "children": [
                 {
-                    "index": 0,
                     "id": "lean_and_six_sigma_principles",
                     "type": "module",
                     "title": "Lean and Six Sigma Principles",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_lean_and_six_sigma_principles_and_how_they_are_applied_to_process_optimization",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Learn about Lean and Six Sigma principles and how they are applied to process optimization."
+                            "title": "Learn about Lean and Six Sigma principles and how they are applied to process optimization.",
+                            "action": "Explore the Lean and Six Sigma methodologies and their relevance to operations.",
+                            "description": "Lean and Six Sigma are methodologies designed to improve efficiency and reduce waste in processes. Understanding these principles will enable you to identify areas for improvement and implement effective solutions within the operations team.\nBy applying Lean and Six Sigma techniques, you can enhance operational performance and contribute to a culture of continuous improvement within the organization.",
+                            "content_instructions": {
+                                "role": "professional process improvement consultant",
+                                "topic": "Learn about Lean and Six Sigma principles and how they are applied to process optimization."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "identifying_and_eliminating_inefficiencies",
                     "type": "module",
                     "title": "Identifying and Eliminating Inefficiencies",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_inefficiencies_are_identified_and_eliminated_to_improve_operational_efficiency",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Understand how inefficiencies are identified and eliminated to improve operational efficiency."
+                            "title": "Understand how inefficiencies are identified and eliminated to improve operational efficiency.",
+                            "action": "Review techniques for identifying and eliminating inefficiencies in operations.",
+                            "description": "Identifying and eliminating inefficiencies is crucial for optimizing operational performance. Understanding the tools and techniques used to assess processes will help you contribute to continuous improvement efforts.\nBy focusing on eliminating waste and streamlining processes, you can enhance the overall efficiency of the operations team and support the organization's goals.",
+                            "content_instructions": {
+                                "role": "professional operations analyst",
+                                "topic": "Understand how inefficiencies are identified and eliminated to improve operational efficiency."
+                            },
+                            "icon": "logo_31"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "continuous_improvement_practices",
                     "type": "module",
                     "title": "Continuous Improvement Practices",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_continuous_improvement_practices_used_to_enhance_operations",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Overview of the continuous improvement practices used to enhance operations."
+                            "title": "Overview of the continuous improvement practices used to enhance operations.",
+                            "action": "Learn about the continuous improvement methodologies implemented within the operations team.",
+                            "description": "Continuous improvement practices are essential for maintaining operational excellence. Understanding these methodologies will enable you to contribute to ongoing enhancements and ensure that the operations team remains agile and responsive to changing needs.\nBy engaging in continuous improvement initiatives, you can foster a culture of innovation and drive positive changes that benefit the organization as a whole.",
+                            "content_instructions": {
+                                "role": "professional quality manager",
+                                "topic": "Overview of the continuous improvement practices used to enhance operations."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "resource_allocation_and_budgeting_at_our_company_1",
             "type": "section",
             "title": "Resource Allocation and Budgeting at Our Company",
             "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "resource_planning_and_forecasting",
                     "type": "module",
                     "title": "Resource Planning and Forecasting",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_resources_are_planned_and_forecasted_to_meet_operational_needs",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Learn how resources are planned and forecasted to meet operational needs."
+                            "title": "Learn how resources are planned and forecasted to meet operational needs.",
+                            "action": "Explore the resource planning and forecasting techniques used in operations.",
+                            "description": "Effective resource planning and forecasting are crucial for ensuring that the operations team has the necessary resources to meet its goals. Understanding these techniques will help you make informed decisions regarding resource allocation and utilization.\nBy mastering these practices, you can contribute to the operational efficiency of the organization and support the achievement of strategic objectives.",
+                            "content_instructions": {
+                                "role": "professional financial analyst",
+                                "topic": "Learn how resources are planned and forecasted to meet operational needs."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "budget_management_and_allocation",
                     "type": "module",
                     "title": "Budget Management and Allocation",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_budgets_are_managed_and_allocated_for_operations_projects",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Understand how budgets are managed and allocated for operations projects."
+                            "title": "Understand how budgets are managed and allocated for operations projects.",
+                            "action": "Review the budget management practices and allocation strategies used in operations.",
+                            "description": "Budget management is a critical aspect of operations, ensuring that resources are allocated effectively to support projects and initiatives. Understanding how budgets are managed will help you make informed decisions and contribute to the financial health of the organization.\nBy familiarizing yourself with budget allocation strategies, you can enhance your ability to manage resources efficiently and support the operations team's objectives.",
+                            "content_instructions": {
+                                "role": "professional budget manager",
+                                "topic": "Understand how budgets are managed and allocated for operations projects."
+                            },
+                            "icon": "logo_38"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "monitoring_resource_utilization",
                     "type": "module",
                     "title": "Monitoring Resource Utilization",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_resource_utilization_is_monitored_and_optimized",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Overview of how resource utilization is monitored and optimized."
+                            "title": "Overview of how resource utilization is monitored and optimized.",
+                            "action": "Learn about the practices for monitoring and optimizing resource utilization in operations.",
+                            "description": "Monitoring resource utilization is essential for ensuring that the operations team operates efficiently and effectively. Understanding how to track and analyze resource usage will help you identify opportunities for improvement and optimization.\nBy implementing best practices for monitoring resource utilization, you can contribute to the overall efficiency of the operations team and support the organization's goals.",
+                            "content_instructions": {
+                                "role": "professional operations manager",
+                                "topic": "Overview of how resource utilization is monitored and optimized."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "our_risk_management_and_compliance_procedures",
             "type": "section",
             "title": "Our Risk Management and Compliance Procedures",
             "end_of_day": 21,
             "children": [
                 {
-                    "index": 0,
                     "id": "identifying_operational_risks",
                     "type": "module",
                     "title": "Identifying Operational Risks",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_operational_risks_are_identified_and_assessed",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Learn how operational risks are identified and assessed."
+                            "title": "Learn how operational risks are identified and assessed.",
+                            "action": "Explore the risk identification and assessment techniques used in operations.",
+                            "description": "Identifying operational risks is a crucial part of ensuring the stability and efficiency of the organization. Understanding how risks are assessed will help you contribute to effective risk management strategies.\nBy familiarizing yourself with these techniques, you can play a key role in mitigating risks and supporting the organization's operational integrity.",
+                            "content_instructions": {
+                                "role": "professional risk manager",
+                                "topic": "Learn how operational risks are identified and assessed."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "compliance_with_industry_standards_1",
                     "type": "module",
                     "title": "Compliance with Industry Standards",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_the_company_ensures_compliance_with_industry_regulations_and_standards",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Understand how the company ensures compliance with industry regulations and standards."
+                            "title": "Understand how the company ensures compliance with industry regulations and standards.",
+                            "action": "Review the compliance practices implemented in operations.",
+                            "description": "Ensuring compliance with industry standards is essential for maintaining the integrity and reputation of the organization. Understanding how compliance is managed will help you contribute to the overall risk management strategy.\nBy engaging with compliance practices, you can support the organization in adhering to regulations and mitigating potential risks.",
+                            "content_instructions": {
+                                "role": "professional compliance officer",
+                                "topic": "Understand how the company ensures compliance with industry regulations and standards."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "mitigation_and_contingency_plans",
                     "type": "module",
                     "title": "Mitigation and Contingency Plans",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_mitigation_and_contingency_plans_for_managing_operational_risks",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Overview of mitigation and contingency plans for managing operational risks."
+                            "title": "Overview of mitigation and contingency plans for managing operational risks.",
+                            "action": "Learn about the mitigation strategies and contingency plans in place for operational risks.",
+                            "description": "Mitigation and contingency planning are essential for managing operational risks effectively. Understanding how these plans are developed and implemented will help you contribute to the organization's resilience and ability to respond to unforeseen events.\nBy familiarizing yourself with these strategies, you can enhance the organization's operational stability and support its long-term success.",
+                            "content_instructions": {
+                                "role": "professional contingency planner",
+                                "topic": "Overview of mitigation and contingency plans for managing operational risks."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "our_operations_metrics_and_reporting",
             "type": "section",
             "title": "Our Operations Metrics and Reporting",
             "end_of_day": 24,
             "children": [
                 {
-                    "index": 0,
                     "id": "key_performance_indicators_kpis",
                     "type": "module",
                     "title": "Key Performance Indicators (KPIs)",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_key_performance_indicators_kpis_used_to_track_operational_performance",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Learn about the key performance indicators (KPIs) used to track operational performance."
+                            "title": "Learn about the key performance indicators (KPIs) used to track operational performance.",
+                            "action": "Familiarize yourself with the KPIs relevant to the operations team.",
+                            "description": "Key performance indicators (KPIs) are essential for measuring the effectiveness and efficiency of operations. Understanding these metrics will help you assess performance and identify areas for improvement.\nBy tracking KPIs, you can contribute to the continuous improvement of operational processes and ensure that the team meets its objectives.",
+                            "content_instructions": {
+                                "role": "professional performance analyst",
+                                "topic": "Learn about the key performance indicators (KPIs) used to track operational performance."
+                            },
+                            "icon": "logo_31"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "operations_dashboard_overview",
                     "type": "module",
                     "title": "Operations Dashboard Overview",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_the_operations_dashboard_is_used_to_monitor_key_metrics",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Understand how the operations dashboard is used to monitor key metrics."
+                            "title": "Understand how the operations dashboard is used to monitor key metrics.",
+                            "action": "Review the features and functionalities of the operations dashboard.",
+                            "description": "The operations dashboard provides a comprehensive view of key metrics, allowing for real-time monitoring of performance. Understanding how to navigate and utilize the dashboard will enhance your ability to make informed decisions based on data.\nBy leveraging the dashboard effectively, you can contribute to the operational success of the organization and ensure that performance metrics are aligned with strategic goals.",
+                            "content_instructions": {
+                                "role": "professional data visualization specialist",
+                                "topic": "Understand how the operations dashboard is used to monitor key metrics."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "tracking_performance_and_efficiency",
                     "type": "module",
                     "title": "Tracking Performance and Efficiency",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_performance_and_efficiency_are_tracked_and_reported",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Overview of how performance and efficiency are tracked and reported."
+                            "title": "Overview of how performance and efficiency are tracked and reported.",
+                            "action": "Learn about the tracking and reporting practices used to measure operational efficiency.",
+                            "description": "Tracking performance and efficiency is essential for ensuring that the operations team meets its objectives. Understanding the practices used to measure these metrics will help you contribute to continuous improvement efforts.\nBy engaging with performance tracking processes, you can support the organization in optimizing operations and achieving strategic goals.",
+                            "content_instructions": {
+                                "role": "professional operations evaluator",
+                                "topic": "Overview of how performance and efficiency are tracked and reported."
+                            },
+                            "icon": "logo_31"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "supply_chain_management_at_our_company",
             "type": "section",
             "title": "Supply Chain Management at Our Company",
             "end_of_day": 27,
             "children": [
                 {
-                    "index": 0,
                     "id": "managing_supplier_relationships",
                     "type": "module",
                     "title": "Managing Supplier Relationships",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_supplier_relationships_are_managed_to_ensure_a_reliable_supply_chain",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Learn how supplier relationships are managed to ensure a reliable supply chain."
+                            "title": "Learn how supplier relationships are managed to ensure a reliable supply chain.",
+                            "action": "Explore the strategies used to manage supplier relationships effectively.",
+                            "description": "Managing supplier relationships is crucial for ensuring a reliable and efficient supply chain. Understanding how these relationships are nurtured will help you contribute to the overall success of the operations team.\nBy engaging with supplier management practices, you can ensure that the organization has the resources it needs to meet its operational goals.",
+                            "content_instructions": {
+                                "role": "professional supply chain manager",
+                                "topic": "Learn how supplier relationships are managed to ensure a reliable supply chain."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "inventory_management_and_optimization",
                     "type": "module",
                     "title": "Inventory Management and Optimization",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_principles_of_inventory_management_and_how_to_optimize_stock_levels",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Understand the principles of inventory management and how to optimize stock levels."
+                            "title": "Understand the principles of inventory management and how to optimize stock levels.",
+                            "action": "Review the inventory management practices used to maintain optimal stock levels.",
+                            "description": "Effective inventory management is essential for ensuring that the organization has the right resources available when needed. Understanding how inventory levels are tracked and optimized will help you contribute to operational efficiency.\nBy mastering inventory management practices, you can support the operations team in minimizing costs and enhancing resource availability.",
+                            "content_instructions": {
+                                "role": "professional inventory analyst",
+                                "topic": "Understand the principles of inventory management and how to optimize stock levels."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "ensuring_supply_chain_resilience",
                     "type": "module",
                     "title": "Ensuring Supply Chain Resilience",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_strategies_used_to_ensure_supply_chain_resilience_in_the_face_of_disruptions",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Overview of strategies used to ensure supply chain resilience in the face of disruptions."
+                            "title": "Overview of strategies used to ensure supply chain resilience in the face of disruptions.",
+                            "action": "Learn about the strategies implemented to enhance supply chain resilience.",
+                            "description": "Supply chain resilience is critical for navigating disruptions and ensuring continuity of operations. Understanding the strategies used to build resilience will help you contribute to the organization's overall stability.\nBy engaging with these strategies, you can support the operations team in mitigating risks and enhancing the reliability of the supply chain.",
+                            "content_instructions": {
+                                "role": "professional risk management consultant",
+                                "topic": "Overview of strategies used to ensure supply chain resilience in the face of disruptions."
+                            },
+                            "icon": "logo_45"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "vendor_and_partner_management_in_our_company",
             "type": "section",
             "title": "Vendor and Partner Management in Our Company",
-            "end_of_day": 29,
+            "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "vendor_selection_criteria",
                     "type": "module",
                     "title": "Vendor Selection Criteria",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_criteria_used_to_select_vendors_and_partners_for_the_company",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Learn about the criteria used to select vendors and partners for the company."
+                            "title": "Learn about the criteria used to select vendors and partners for the company.",
+                            "action": "Review the selection criteria for vendors and partners.",
+                            "description": "Selecting the right vendors and partners is essential for ensuring quality and reliability in operations. Understanding the criteria used for selection will help you contribute to effective vendor management practices.\nBy familiarizing yourself with these criteria, you can support the organization in building strong partnerships that enhance operational efficiency.",
+                            "content_instructions": {
+                                "role": "professional vendor relations manager",
+                                "topic": "Learn about the criteria used to select vendors and partners for the company."
+                            },
+                            "icon": "logo_45"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "managing_contracts_and_negotiations",
                     "type": "module",
                     "title": "Managing Contracts and Negotiations",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_vendor_contracts_are_managed_and_negotiations_are_conducted",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Understand how vendor contracts are managed and negotiations are conducted."
+                            "title": "Understand how vendor contracts are managed and negotiations are conducted.",
+                            "action": "Explore the practices for managing contracts and conducting vendor negotiations.",
+                            "description": "Effective contract management and negotiation are crucial for maintaining positive relationships with vendors. Understanding these practices will help you contribute to successful vendor partnerships.\nBy engaging with contract management processes, you can support the organization in securing favorable terms and ensuring compliance with agreements.",
+                            "content_instructions": {
+                                "role": "professional contract manager",
+                                "topic": "Understand how vendor contracts are managed and negotiations are conducted."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "monitoring_vendor_performance",
                     "type": "module",
                     "title": "Monitoring Vendor Performance",
-                    "end_of_day": 29,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_vendor_performance_is_monitored_to_ensure_quality_and_reliability",
                             "type": "action",
-                            "end_of_day": 29,
-                            "title": "Overview of how vendor performance is monitored to ensure quality and reliability."
+                            "end_of_day": 30,
+                            "title": "Overview of how vendor performance is monitored to ensure quality and reliability.",
+                            "action": "Learn about the practices for monitoring vendor performance.",
+                            "description": "Monitoring vendor performance is essential for ensuring that the organization receives high-quality products and services. Understanding how performance is tracked and evaluated will help you contribute to effective vendor management.\nBy engaging with performance monitoring practices, you can support the organization in maintaining strong vendor relationships and ensuring operational excellence.",
+                            "content_instructions": {
+                                "role": "professional performance manager",
+                                "topic": "Overview of how vendor performance is monitored to ensure quality and reliability."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "handling_customer_and_employee_feedback_at_our_company",
             "type": "section",
             "title": "Handling Customer and Employee Feedback at Our Company",
             "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "collecting_and_analyzing_feedback_1",
                     "type": "module",
                     "title": "Collecting and Analyzing Feedback",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_customer_and_employee_feedback_is_collected_and_analyzed_to_improve_operations",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Learn how customer and employee feedback is collected and analyzed to improve operations."
+                            "title": "Learn how customer and employee feedback is collected and analyzed to improve operations.",
+                            "action": "Explore the feedback collection and analysis practices used in operations.",
+                            "description": "Collecting and analyzing feedback from customers and employees is essential for identifying areas for improvement. Understanding these practices will help you contribute to operational enhancements and ensure that the organization meets its objectives.\nBy engaging with feedback analysis processes, you can support the organization in making informed decisions that enhance performance and customer satisfaction.",
+                            "content_instructions": {
+                                "role": "professional feedback analyst",
+                                "topic": "Learn how customer and employee feedback is collected and analyzed to improve operations."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "implementing_process_improvements_1",
                     "type": "module",
                     "title": "Implementing Process Improvements",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_feedback_is_used_to_drive_process_improvements",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Understand how feedback is used to drive process improvements."
+                            "title": "Understand how feedback is used to drive process improvements.",
+                            "action": "Review the practices for implementing process improvements based on feedback.",
+                            "description": "Using feedback to drive process improvements is essential for enhancing operational efficiency. Understanding how feedback is integrated into decision-making will help you contribute to continuous improvement efforts.\nBy engaging with these practices, you can support the organization in fostering a culture of innovation and responsiveness.",
+                            "content_instructions": {
+                                "role": "professional process improvement manager",
+                                "topic": "Understand how feedback is used to drive process improvements."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "feedback_integration_into_operations_strategy",
                     "type": "module",
                     "title": "Feedback Integration into Operations Strategy",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_feedback_is_integrated_into_the_company_s_operations_strategy",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Overview of how feedback is integrated into the company's operations strategy."
+                            "title": "Overview of how feedback is integrated into the company's operations strategy.",
+                            "action": "Learn about the integration of feedback into the operations strategy.",
+                            "description": "Integrating feedback into the operations strategy is essential for ensuring that the organization remains agile and responsive to changing needs. Understanding how this integration occurs will help you contribute to strategic planning and operational enhancements.\nBy engaging with these integration practices, you can support the organization in aligning operations with customer and employee expectations.",
+                            "content_instructions": {
+                                "role": "professional strategic planner",
+                                "topic": "Overview of how feedback is integrated into the company's operations strategy."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "ongoing_learning_and_process_improvement_at_our_company",
             "type": "section",
             "title": "Ongoing Learning and Process Improvement at Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "operational_certifications_and_training",
                     "type": "module",
                     "title": "Operational Certifications and Training",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_certifications_and_training_programs_available_for_operations_managers",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about certifications and training programs available for operations managers."
+                            "title": "Learn about certifications and training programs available for operations managers.",
+                            "action": "Explore the certifications and training opportunities available to support your development.",
+                            "description": "Ongoing learning is essential for personal and professional growth. Understanding the certifications and training programs available to operations managers will help you enhance your skills and knowledge.\nBy engaging with these opportunities, you can stay updated on industry trends and best practices, ensuring that you remain a valuable asset to the organization.",
+                            "content_instructions": {
+                                "role": "professional training coordinator",
+                                "topic": "Learn about certifications and training programs available for operations managers."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "continuous_learning_programs_1",
                     "type": "module",
                     "title": "Continuous Learning Programs",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_continuous_learning_programs_in_place_to_help_operations_managers_stay_updated",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand the continuous learning programs in place to help operations managers stay updated."
+                            "title": "Understand the continuous learning programs in place to help operations managers stay updated.",
+                            "action": "Review the continuous learning programs available within the organization.",
+                            "description": "Continuous learning programs are essential for ensuring that operations managers remain informed and capable of adapting to changing circumstances. Understanding these programs will help you take advantage of opportunities for growth and development.\nBy engaging with continuous learning initiatives, you can enhance your skills and contribute more effectively to the organization's success.",
+                            "content_instructions": {
+                                "role": "professional development manager",
+                                "topic": "Understand the continuous learning programs in place to help operations managers stay updated."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "staying_updated_with_operations_trends",
                     "type": "module",
                     "title": "Staying Updated with Operations Trends",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_industry_trends_and_how_operations_managers_stay_informed",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of industry trends and how operations managers stay informed."
+                            "title": "Overview of industry trends and how operations managers stay informed.",
+                            "action": "Explore resources and strategies for staying updated with operations trends.",
+                            "description": "Staying informed about industry trends is essential for operations managers to remain competitive and effective. Understanding how to access relevant resources and networks will help you stay updated on best practices and innovations in the field.\nBy engaging with these resources, you can enhance your knowledge and contribute to the organization's operational excellence.",
+                            "content_instructions": {
+                                "role": "professional industry analyst",
+                                "topic": "Overview of industry trends and how operations managers stay informed."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 }

@@ -5,741 +5,923 @@
     "end_of_day": 31,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_5",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 2,
             "children": [
                 {
-                    "index": 0,
                     "id": "meet_key_stakeholders_1",
                     "type": "module",
                     "title": "Meet Key Stakeholders",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_key_stakeholders_and_their_roles_in_the_product_lifecycle",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Introduction to key stakeholders and their roles in the product lifecycle."
+                            "title": "Introduction to key stakeholders and their roles in the product lifecycle.",
+                            "action": "Familiarize yourself with the key stakeholders and understand their roles in the product lifecycle.",
+                            "description": "Key stakeholders play a vital role in the product lifecycle, influencing decisions from conception to launch. They include individuals from various departments such as engineering, marketing, sales, and customer support. Understanding their perspectives and contributions will help you navigate the complexities of product development more effectively.\nBy engaging with these stakeholders early on, you will build important relationships that facilitate collaboration and communication throughout the product lifecycle. This foundational knowledge will empower you to make informed decisions and align your product strategies with organizational goals.",
+                            "content_instructions": {
+                                "role": "professional product director",
+                                "topic": "Introduction to key stakeholders and their roles in the product lifecycle."
+                            },
+                            "icon": "logo_2"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "understanding_company_culture_and_values",
                     "type": "module",
                     "title": "Understanding Company Culture and Values",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_company_s_culture_and_values_and_how_they_align_with_product_strategy",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Learn about the company's culture and values, and how they align with product strategy."
+                            "title": "Learn about the company's culture and values, and how they align with product strategy.",
+                            "action": "Explore the company's culture and values, and identify how they align with your product strategy.",
+                            "description": "Company culture and values are essential in shaping the product strategy and guiding decision-making. A strong alignment between your product initiatives and the company's core values fosters a sense of purpose and direction. Understanding these values can also help you identify opportunities for innovation and improvement within your product.\nAs a product manager, it is crucial to embody these values in your interactions and product decisions. This alignment will not only enhance team collaboration but also ensure that your product resonates well with customers and stakeholders alike.",
+                            "content_instructions": {
+                                "role": "professional organizational culture consultant",
+                                "topic": "Learn about the company's culture and values, and how they align with product strategy."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "product_team_structure_and_roles",
                     "type": "module",
                     "title": "Product Team Structure and Roles",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_structure_of_the_product_team_and_individual_roles",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Understand the structure of the product team and individual roles."
+                            "title": "Understand the structure of the product team and individual roles.",
+                            "action": "Review the product team structure and familiarize yourself with individual roles.",
+                            "description": "The product team is composed of various roles, each contributing unique expertise to the product development process. Understanding the structure will help you identify who to collaborate with on specific tasks and how to leverage each member's strengths effectively. This knowledge is crucial for seamless teamwork and communication.\nBy familiarizing yourself with the roles within the product team, you will be better equipped to navigate your responsibilities and contribute to the overall success of the team. This understanding will also enhance your ability to engage in cross-functional collaboration.",
+                            "content_instructions": {
+                                "role": "professional team architect",
+                                "topic": "Understand the structure of the product team and individual roles."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_product_vision_and_roadmap",
             "type": "section",
             "title": "Familiarize with Our Product Vision and Roadmap",
             "end_of_day": 5,
             "children": [
                 {
-                    "index": 0,
                     "id": "product_strategy_overview",
                     "type": "module",
                     "title": "Product Strategy Overview",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_product_strategy_and_how_it_drives_decision_making",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Overview of the product strategy and how it drives decision-making."
+                            "title": "Overview of the product strategy and how it drives decision-making.",
+                            "action": "Review the product strategy and understand its impact on decision-making.",
+                            "description": "The product strategy serves as a roadmap for all product-related decisions, guiding the direction of development and prioritization of features. Understanding this strategy is essential for aligning your efforts with organizational goals and ensuring that your product meets market needs effectively.\nBy familiarizing yourself with the product strategy, you will gain insights into the long-term vision for the product and how your role contributes to achieving these objectives. This knowledge will empower you to make informed decisions and advocate for your product's success.",
+                            "content_instructions": {
+                                "role": "professional product strategist",
+                                "topic": "Overview of the product strategy and how it drives decision-making."
+                            },
+                            "icon": "logo_4"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "current_and_future_roadmap",
                     "type": "module",
                     "title": "Current and Future Roadmap",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_current_and_future_roadmap_for_our_products",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Learn about the current and future roadmap for our products."
+                            "title": "Learn about the current and future roadmap for our products.",
+                            "action": "Review the current product roadmap and familiarize yourself with upcoming features and projects.",
+                            "description": "The product roadmap outlines the planned features and enhancements for current and future releases. It provides a high-level overview of development priorities, helping you understand the strategic direction of the product. Familiarizing yourself with the roadmap will enable you to align your work with the overall strategy and anticipate upcoming challenges and opportunities.\nUnderstanding the roadmap is crucial for effective planning and prioritization of tasks. It also serves as a communication tool to inform stakeholders about the product's direction and expected timelines.",
+                            "content_instructions": {
+                                "role": "professional product manager",
+                                "topic": "Learn about the current and future roadmap for our products."
+                            },
+                            "icon": "logo_4"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "competitive_landscape",
                     "type": "module",
                     "title": "Competitive Landscape",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_competitive_landscape_and_how_it_impacts_our_product_roadmap",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Understand the competitive landscape and how it impacts our product roadmap."
+                            "title": "Understand the competitive landscape and how it impacts our product roadmap.",
+                            "action": "Analyze the competitive landscape and its influence on our product roadmap.",
+                            "description": "Understanding the competitive landscape is essential for making informed product decisions. By analyzing competitors' strengths, weaknesses, and market positioning, you can identify opportunities for differentiation and improvement in your product. This knowledge is critical for shaping the product roadmap and ensuring that it aligns with market demands.\nBy familiarizing yourself with the competitive landscape, you will be better equipped to advocate for features that meet customer needs and position your product effectively in the marketplace. This strategic insight will enhance your ability to drive product success.",
+                            "content_instructions": {
+                                "role": "professional market analyst",
+                                "topic": "Understand the competitive landscape and how it impacts our product roadmap."
+                            },
+                            "icon": "logo_4"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "overview_of_our_product_development_lifecycle",
             "type": "section",
             "title": "Overview of Our Product Development Lifecycle",
             "end_of_day": 8,
             "children": [
                 {
-                    "index": 0,
                     "id": "from_concept_to_launch",
                     "type": "module",
                     "title": "From Concept to Launch",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_process_of_taking_a_product_from_concept_to_launch",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Learn about the process of taking a product from concept to launch."
+                            "title": "Learn about the process of taking a product from concept to launch.",
+                            "action": "Familiarize yourself with the product development lifecycle from concept to launch.",
+                            "description": "The product development lifecycle encompasses all stages from initial concept through to launch and beyond. Each phase, including ideation, design, development, testing, and deployment, plays a critical role in ensuring the product's success. Understanding this lifecycle is essential for managing timelines and expectations effectively.\nBy familiarizing yourself with the entire process, you will enhance your ability to coordinate with various teams and ensure that all aspects of product development are aligned. This knowledge will empower you to identify potential bottlenecks and proactively address them, contributing to a smoother launch process.",
+                            "content_instructions": {
+                                "role": "professional product lifecycle manager",
+                                "topic": "Learn about the process of taking a product from concept to launch."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "feature_prioritization_and_timelines",
                     "type": "module",
                     "title": "Feature Prioritization and Timelines",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_features_are_prioritized_and_their_timelines_for_delivery",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Understand how features are prioritized and their timelines for delivery."
+                            "title": "Understand how features are prioritized and their timelines for delivery.",
+                            "action": "Review the feature prioritization process and timelines for delivery.",
+                            "description": "Feature prioritization is a critical component of the product development process, ensuring that the most valuable features are delivered first. By understanding how features are prioritized based on customer needs, market trends, and resource availability, you can effectively manage timelines and expectations.\nFamiliarizing yourself with this process will enable you to advocate for features that align with strategic goals and deliver maximum value to customers. This knowledge is essential for effective communication with stakeholders and ensuring that everyone is aligned on priorities.",
+                            "content_instructions": {
+                                "role": "professional product prioritization expert",
+                                "topic": "Understand how features are prioritized and their timelines for delivery."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "cross_team_collaboration",
                     "type": "module",
                     "title": "Cross-team Collaboration",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_collaboration_between_product_design_and_engineering_teams_throughout_the_lifecycle",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Overview of collaboration between product, design, and engineering teams throughout the lifecycle."
+                            "title": "Overview of collaboration between product, design, and engineering teams throughout the lifecycle.",
+                            "action": "Explore how product, design, and engineering teams collaborate throughout the product lifecycle.",
+                            "description": "Collaboration among product, design, and engineering teams is vital for successful product development. Each team brings unique perspectives and expertise, and fostering effective communication among them ensures that the product meets user needs and technical requirements. Understanding the dynamics of this collaboration will enhance your ability to facilitate discussions and align priorities.\nBy engaging with these teams throughout the lifecycle, you will contribute to a more cohesive development process, ensuring that all aspects of the product are aligned and that the final output meets quality standards.",
+                            "content_instructions": {
+                                "role": "professional collaboration facilitator",
+                                "topic": "Overview of collaboration between product, design, and engineering teams throughout the lifecycle."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "collaborating_with_our_engineering_and_design_teams",
             "type": "section",
             "title": "Collaborating with Our Engineering and Design Teams",
             "end_of_day": 11,
             "children": [
                 {
-                    "index": 0,
                     "id": "handing_off_product_specs",
                     "type": "module",
                     "title": "Handing Off Product Specs",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_effectively_hand_off_product_specifications_to_engineering_and_design_teams",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Learn how to effectively hand off product specifications to engineering and design teams."
+                            "title": "Learn how to effectively hand off product specifications to engineering and design teams.",
+                            "action": "Review the best practices for handing off product specifications to engineering and design teams.",
+                            "description": "Handing off product specifications effectively is crucial for ensuring that engineering and design teams have all the information they need to execute the project successfully. This process involves clear documentation, communication of expectations, and alignment on timelines. Understanding how to facilitate this handoff will enhance collaboration and minimize misunderstandings.\nBy mastering this process, you will contribute to a smoother development workflow and ensure that all teams are aligned on the project goals. This knowledge is essential for maintaining quality and meeting deadlines.",
+                            "content_instructions": {
+                                "role": "professional product handoff specialist",
+                                "topic": "Learn how to effectively hand off product specifications to engineering and design teams."
+                            },
+                            "icon": "logo_37"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "design_development_product_alignment",
                     "type": "module",
                     "title": "Design-Development-Product Alignment",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_maintain_alignment_between_design_development_and_product_teams",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Understand how to maintain alignment between design, development, and product teams."
+                            "title": "Understand how to maintain alignment between design, development, and product teams.",
+                            "action": "Explore strategies for maintaining alignment between design, development, and product teams.",
+                            "description": "Maintaining alignment among design, development, and product teams is crucial for delivering successful products. This involves regular communication, shared goals, and collaborative decision-making. Understanding how to facilitate this alignment will ensure that all teams are working towards the same objectives and that the product vision is realized effectively.\nBy fostering this alignment, you will enhance the team's ability to navigate challenges and deliver high-quality products that meet user needs. This knowledge is essential for promoting a culture of collaboration and teamwork.",
+                            "content_instructions": {
+                                "role": "professional alignment facilitator",
+                                "topic": "Understand how to maintain alignment between design, development, and product teams."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "feedback_loops_and_iteration",
                     "type": "module",
                     "title": "Feedback Loops and Iteration",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_feedback_loops_between_teams_and_how_iterations_are_managed",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Overview of the feedback loops between teams and how iterations are managed."
+                            "title": "Overview of the feedback loops between teams and how iterations are managed.",
+                            "action": "Learn about the feedback loops between teams and how iterations are managed.",
+                            "description": "Feedback loops are essential for continuous improvement in product development. They allow teams to gather insights from users and stakeholders, assess the effectiveness of features, and make necessary adjustments. Understanding how to manage these feedback loops will enhance your ability to iterate on the product and respond to changing needs effectively.\nBy engaging in this process, you will contribute to a culture of learning and adaptation, ensuring that the product evolves in alignment with user expectations and market demands. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional product feedback analyst",
+                                "topic": "Overview of the feedback loops between teams and how iterations are managed."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "understanding_our_customer_needs_and_market_research",
             "type": "section",
             "title": "Understanding Our Customer Needs and Market Research",
             "end_of_day": 14,
             "children": [
                 {
-                    "index": 0,
                     "id": "customer_persona_development",
                     "type": "module",
                     "title": "Customer Persona Development",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_develop_customer_personas_based_on_research_and_feedback",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Learn how to develop customer personas based on research and feedback."
+                            "title": "Learn how to develop customer personas based on research and feedback.",
+                            "action": "Explore the process of developing customer personas to inform product decisions.",
+                            "description": "Customer personas are fictional representations of your ideal users, based on real data and insights. Developing these personas helps you understand user needs, preferences, and behaviors, allowing you to tailor your product effectively. Understanding how to create and utilize customer personas is crucial for making informed product decisions.\nBy engaging in this process, you will enhance your ability to advocate for features that resonate with users and drive product success. This knowledge is essential for aligning your product strategy with customer expectations.",
+                            "content_instructions": {
+                                "role": "professional user experience researcher",
+                                "topic": "Learn how to develop customer personas based on research and feedback."
+                            },
+                            "icon": "logo_48"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "market_trends_and_competitor_analysis",
                     "type": "module",
                     "title": "Market Trends and Competitor Analysis",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_market_trends_and_how_competitor_analysis_informs_our_product_decisions",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Overview of market trends and how competitor analysis informs our product decisions."
+                            "title": "Overview of market trends and how competitor analysis informs our product decisions.",
+                            "action": "Analyze market trends and competitor insights to inform product strategies.",
+                            "description": "Understanding market trends and conducting competitor analysis are essential for making informed product decisions. By identifying emerging trends and analyzing competitors' strengths and weaknesses, you can position your product effectively in the market. This knowledge is vital for shaping your product roadmap and ensuring that it meets user needs.\nBy engaging in this analysis, you will enhance your ability to identify opportunities for innovation and differentiation, contributing to the overall success of your product. This insight is crucial for strategic planning.",
+                            "content_instructions": {
+                                "role": "professional market strategist",
+                                "topic": "Overview of market trends and how competitor analysis informs our product decisions."
+                            },
+                            "icon": "logo_4"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "customer_feedback_integration",
                     "type": "module",
                     "title": "Customer Feedback Integration",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_customer_feedback_is_integrated_into_the_product_development_process",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Understand how customer feedback is integrated into the product development process."
+                            "title": "Understand how customer feedback is integrated into the product development process.",
+                            "action": "Explore the process of integrating customer feedback into product development.",
+                            "description": "Integrating customer feedback into the product development process is essential for creating products that meet user needs. By actively soliciting and analyzing feedback, you can identify areas for improvement and make data-driven decisions. Understanding how to effectively integrate this feedback into your workflow will enhance your ability to deliver a successful product.\nBy engaging in this process, you will contribute to a culture of user-centric design and continuous improvement, ensuring that the product evolves in alignment with customer expectations. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional customer experience manager",
+                                "topic": "Understand how customer feedback is integrated into the product development process."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "our_prioritization_frameworks",
             "type": "section",
             "title": "Our Prioritization Frameworks",
             "end_of_day": 17,
             "children": [
                 {
-                    "index": 0,
                     "id": "kano_model",
                     "type": "module",
                     "title": "Kano Model",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_kano_model_and_how_it_is_used_for_feature_prioritization",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Introduction to the Kano Model and how it is used for feature prioritization."
+                            "title": "Introduction to the Kano Model and how it is used for feature prioritization.",
+                            "action": "Learn about the Kano Model and its application in feature prioritization.",
+                            "description": "The Kano Model is a framework for understanding customer needs and preferences, helping product managers prioritize features based on their impact on customer satisfaction. By categorizing features into must-haves, performance features, and delighters, you can make informed decisions about which features to prioritize in your product roadmap.\nUnderstanding the Kano Model will enable you to advocate for features that align with customer expectations and drive satisfaction. This knowledge is essential for effective product management and strategic planning.",
+                            "content_instructions": {
+                                "role": "professional product management consultant",
+                                "topic": "Introduction to the Kano Model and how it is used for feature prioritization."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "rice_scoring",
                     "type": "module",
                     "title": "RICE Scoring",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_rice_scoring_is_applied_to_prioritize_features_and_tasks",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Learn how RICE scoring is applied to prioritize features and tasks."
+                            "title": "Learn how RICE scoring is applied to prioritize features and tasks.",
+                            "action": "Explore the RICE scoring model and its application in prioritization.",
+                            "description": "RICE scoring is a prioritization framework that helps product managers evaluate features based on four criteria: Reach, Impact, Confidence, and Effort. By quantifying these factors, you can make data-driven decisions about which features to prioritize in your product roadmap. Understanding how to apply RICE scoring will enhance your ability to advocate for features that deliver maximum value.\nBy engaging in this process, you will contribute to a more structured and effective approach to prioritization, ensuring that your product development efforts are aligned with strategic goals. This knowledge is essential for driving product success.",
+                            "content_instructions": {
+                                "role": "professional product prioritization analyst",
+                                "topic": "Learn how RICE scoring is applied to prioritize features and tasks."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "moscow_prioritization",
                     "type": "module",
                     "title": "MoSCoW Prioritization",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_moscow_prioritization_and_how_it_s_used_in_our_projects",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Overview of MoSCoW prioritization and how it's used in our projects."
+                            "title": "Overview of MoSCoW prioritization and how it's used in our projects.",
+                            "action": "Review the MoSCoW prioritization framework and its application in project management.",
+                            "description": "The MoSCoW prioritization framework is a powerful tool for categorizing features and tasks based on their importance. It stands for Must have, Should have, Could have, and Won't have. Understanding how to apply this framework will enable you to effectively prioritize work and ensure that the most critical features are delivered first.\nBy utilizing the MoSCoW framework, you will enhance your ability to manage stakeholder expectations and align your product roadmap with strategic goals. This knowledge is essential for effective product management and project execution.",
+                            "content_instructions": {
+                                "role": "professional project management expert",
+                                "topic": "Overview of MoSCoW prioritization and how it's used in our projects."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "agile_methodologies_at_our_company",
             "type": "section",
             "title": "Agile Methodologies at Our Company",
             "end_of_day": 20,
             "children": [
                 {
-                    "index": 0,
                     "id": "product_role_in_agile",
                     "type": "module",
                     "title": "Product Role in Agile",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_role_of_product_managers_in_agile_methodologies",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Learn the role of product managers in Agile methodologies."
+                            "title": "Learn the role of product managers in Agile methodologies.",
+                            "action": "Explore the responsibilities of product managers within Agile frameworks.",
+                            "description": "In Agile methodologies, product managers play a crucial role in bridging the gap between stakeholders and development teams. They are responsible for defining the product vision, prioritizing features, and ensuring that the team delivers value to customers. Understanding this role is essential for effectively navigating Agile processes and maximizing product success.\nBy familiarizing yourself with the responsibilities of product managers in Agile, you will enhance your ability to facilitate collaboration and ensure that the product meets user needs. This knowledge is vital for driving successful Agile implementations.",
+                            "content_instructions": {
+                                "role": "professional Agile coach",
+                                "topic": "Learn the role of product managers in Agile methodologies."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "backlog_refinement_and_prioritization",
                     "type": "module",
                     "title": "Backlog Refinement and Prioritization",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_backlog_refinement_and_prioritization_is_managed_within_our_agile_framework",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Understand how backlog refinement and prioritization is managed within our Agile framework."
+                            "title": "Understand how backlog refinement and prioritization is managed within our Agile framework.",
+                            "action": "Review the backlog refinement process and its importance in Agile.",
+                            "description": "Backlog refinement is a continuous process in Agile that involves reviewing and prioritizing the product backlog to ensure that it reflects the current needs and priorities of the business. Understanding how to effectively manage this process is crucial for maintaining a well-organized backlog and ensuring that the team is focused on delivering value.\nBy engaging in backlog refinement, you will enhance your ability to prioritize work and align the team's efforts with strategic goals. This knowledge is essential for effective Agile product management.",
+                            "content_instructions": {
+                                "role": "professional Agile product owner",
+                                "topic": "Understand how backlog refinement and prioritization is managed within our Agile framework."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "sprint_review_and_feedback",
                     "type": "module",
                     "title": "Sprint Review and Feedback",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_sprint_reviews_and_how_feedback_is_collected_and_acted_upon",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Overview of sprint reviews and how feedback is collected and acted upon."
+                            "title": "Overview of sprint reviews and how feedback is collected and acted upon.",
+                            "action": "Participate in sprint reviews and understand their significance.",
+                            "description": "Sprint reviews are a key event in Agile methodologies, providing an opportunity for the team to showcase completed work and gather feedback from stakeholders. Understanding how to conduct and participate in these reviews is essential for ensuring that the product aligns with user needs and expectations.\nBy engaging in sprint reviews, you will enhance your ability to facilitate discussions and gather valuable insights that inform future iterations. This knowledge is vital for driving continuous improvement in product development.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Overview of sprint reviews and how feedback is collected and acted upon."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "defining_product_requirements_and_specifications_for_our_company",
             "type": "section",
             "title": "Defining Product Requirements and Specifications for Our Company",
             "end_of_day": 23,
             "children": [
                 {
-                    "index": 0,
                     "id": "user_stories_and_epics",
                     "type": "module",
                     "title": "User Stories and Epics",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_write_user_stories_and_epics_that_define_product_requirements",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Learn how to write user stories and epics that define product requirements."
+                            "title": "Learn how to write user stories and epics that define product requirements.",
+                            "action": "Explore the process of writing effective user stories and epics.",
+                            "description": "User stories and epics are essential components of defining product requirements in Agile methodologies. They help articulate user needs and desired functionalities in a clear and concise manner. Understanding how to write effective user stories and epics will enhance your ability to communicate requirements to the development team and ensure that the product meets user expectations.\nBy mastering this process, you will contribute to a user-centric approach to product development, ensuring that the product is designed with the end-user in mind. This knowledge is vital for effective product management.",
+                            "content_instructions": {
+                                "role": "professional product requirements analyst",
+                                "topic": "Learn how to write user stories and epics that define product requirements."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "writing_clear_and_concise_specs",
                     "type": "module",
                     "title": "Writing Clear and Concise Specs",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_write_clear_and_concise_product_specifications",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Understand how to write clear and concise product specifications."
+                            "title": "Understand how to write clear and concise product specifications.",
+                            "action": "Review best practices for writing product specifications.",
+                            "description": "Writing clear and concise product specifications is crucial for effective communication with development teams. Specifications should provide all necessary details about features while being easily understandable. Understanding how to craft these documents will enhance your ability to convey requirements and ensure that the development team has a clear understanding of what needs to be built.\nBy mastering this skill, you will contribute to a more efficient development process and minimize misunderstandings, ultimately leading to a higher quality product. This knowledge is essential for effective product management.",
+                            "content_instructions": {
+                                "role": "professional product specifications expert",
+                                "topic": "Understand how to write clear and concise product specifications."
+                            },
+                            "icon": "logo_8"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "acceptance_criteria_and_definition_of_done",
                     "type": "module",
                     "title": "Acceptance Criteria and Definition of Done",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_defining_acceptance_criteria_and_what_constitutes_done_for_features",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Overview of defining acceptance criteria and what constitutes 'done' for features."
+                            "title": "Overview of defining acceptance criteria and what constitutes 'done' for features.",
+                            "action": "Learn how to define acceptance criteria and the definition of done for features.",
+                            "description": "Defining acceptance criteria and the 'definition of done' is essential for ensuring that features meet quality standards and user expectations. Acceptance criteria outline the conditions that must be met for a feature to be considered complete, while the definition of done provides a checklist of requirements that must be fulfilled. Understanding these concepts is crucial for effective product management and ensuring successful feature delivery.\nBy mastering this process, you will enhance your ability to communicate expectations to the development team and ensure that features are delivered to the highest standards. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional product quality manager",
+                                "topic": "Overview of defining acceptance criteria and what constitutes 'done' for features."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "our_product_metrics_and_kpis",
             "type": "section",
             "title": "Our Product Metrics and KPIs",
             "end_of_day": 26,
             "children": [
                 {
-                    "index": 0,
                     "id": "key_success_metrics",
                     "type": "module",
                     "title": "Key Success Metrics",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_key_metrics_used_to_measure_product_success",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Learn about the key metrics used to measure product success."
+                            "title": "Learn about the key metrics used to measure product success.",
+                            "action": "Explore the key success metrics that inform product decisions.",
+                            "description": "Key success metrics are essential for evaluating the performance of your product and informing future decisions. These metrics can include user engagement, conversion rates, and customer satisfaction scores. Understanding how to track and analyze these metrics will enhance your ability to make data-driven decisions and optimize product performance.\nBy familiarizing yourself with these metrics, you will contribute to a culture of accountability and continuous improvement, ensuring that the product evolves in alignment with user needs and market demands. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional product metrics analyst",
+                                "topic": "Learn about the key metrics used to measure product success."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "tracking_and_analyzing_product_performance",
                     "type": "module",
                     "title": "Tracking and Analyzing Product Performance",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_product_performance_is_tracked_and_analyzed_using_metrics",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Understand how product performance is tracked and analyzed using metrics."
+                            "title": "Understand how product performance is tracked and analyzed using metrics.",
+                            "action": "Review the methodologies for tracking and analyzing product performance.",
+                            "description": "Tracking and analyzing product performance is crucial for understanding how well your product meets user needs and business objectives. By utilizing various analytics tools and methodologies, you can gather insights that inform product improvements and strategic decisions. Understanding how to effectively track these metrics is essential for driving product success.\nBy engaging in this process, you will enhance your ability to make data-driven decisions and advocate for changes that improve product performance. This knowledge is vital for effective product management.",
+                            "content_instructions": {
+                                "role": "professional product performance analyst",
+                                "topic": "Understand how product performance is tracked and analyzed using metrics."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "kpis_for_growth_and_engagement",
                     "type": "module",
                     "title": "KPIs for Growth and Engagement",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_kpis_used_to_measure_growth_and_user_engagement",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Overview of KPIs used to measure growth and user engagement."
+                            "title": "Overview of KPIs used to measure growth and user engagement.",
+                            "action": "Learn about the key performance indicators for measuring growth and engagement.",
+                            "description": "Key performance indicators (KPIs) are essential for measuring growth and user engagement within your product. These KPIs can include metrics such as active users, retention rates, and user feedback scores. Understanding how to track and analyze these indicators will enhance your ability to drive product improvements and optimize user experiences.\nBy familiarizing yourself with these KPIs, you will contribute to a culture of continuous improvement and ensure that the product evolves in alignment with user expectations. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional growth analyst",
+                                "topic": "Overview of KPIs used to measure growth and user engagement."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "our_product_launch_and_post_launch_processes",
             "type": "section",
             "title": "Our Product Launch and Post-Launch Processes",
             "end_of_day": 29,
             "children": [
                 {
-                    "index": 0,
                     "id": "launch_strategy_and_coordination",
                     "type": "module",
                     "title": "Launch Strategy and Coordination",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_strategy_and_coordination_involved_in_a_successful_product_launch",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Learn about the strategy and coordination involved in a successful product launch."
+                            "title": "Learn about the strategy and coordination involved in a successful product launch.",
+                            "action": "Review the strategies and coordination efforts required for a successful product launch.",
+                            "description": "A successful product launch requires careful planning and coordination across multiple teams. This involves defining launch objectives, creating marketing strategies, and ensuring that all stakeholders are aligned on timelines and responsibilities. Understanding the elements of a successful launch strategy is crucial for maximizing product impact and market reception.\nBy engaging in this process, you will enhance your ability to coordinate efforts and advocate for the necessary resources to ensure a successful launch. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional launch strategist",
+                                "topic": "Learn about the strategy and coordination involved in a successful product launch."
+                            },
+                            "icon": "logo_14"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "post_launch_feedback_collection",
                     "type": "module",
                     "title": "Post-Launch Feedback Collection",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_feedback_is_collected_post_launch_to_improve_future_iterations",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Understand how feedback is collected post-launch to improve future iterations."
+                            "title": "Understand how feedback is collected post-launch to improve future iterations.",
+                            "action": "Explore the methodologies for collecting feedback after product launch.",
+                            "description": "Collecting feedback post-launch is essential for understanding user experiences and identifying areas for improvement. This feedback can be gathered through surveys, user interviews, and analytics tools. Understanding how to effectively collect and analyze this feedback will enhance your ability to advocate for necessary changes and improvements in future iterations.\nBy engaging in this process, you will contribute to a culture of continuous improvement and ensure that the product evolves in alignment with user expectations. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional feedback manager",
+                                "topic": "Understand how feedback is collected post-launch to improve future iterations."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "post_launch_performance_tracking",
                     "type": "module",
                     "title": "Post-Launch Performance Tracking",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_tracking_product_performance_post_launch_and_responding_to_issues",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Overview of tracking product performance post-launch and responding to issues."
+                            "title": "Overview of tracking product performance post-launch and responding to issues.",
+                            "action": "Learn about the methodologies for tracking product performance after launch.",
+                            "description": "Tracking product performance after launch is crucial for understanding how well the product meets user needs and business objectives. This involves monitoring key metrics, analyzing user feedback, and identifying areas for improvement. Understanding how to effectively track and respond to performance issues will enhance your ability to advocate for necessary changes and ensure product success.\nBy engaging in this process, you will contribute to a culture of accountability and continuous improvement, ensuring that the product evolves in alignment with user expectations. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional product performance manager",
+                                "topic": "Overview of tracking product performance post-launch and responding to issues."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "managing_stakeholders_at_our_company",
             "type": "section",
             "title": "Managing Stakeholders at Our Company",
             "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "aligning_stakeholder_expectations",
                     "type": "module",
                     "title": "Aligning Stakeholder Expectations",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_strategies_for_aligning_stakeholder_expectations_with_product_goals",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Learn strategies for aligning stakeholder expectations with product goals."
+                            "title": "Learn strategies for aligning stakeholder expectations with product goals.",
+                            "action": "Explore methods for aligning stakeholder expectations with product objectives.",
+                            "description": "Aligning stakeholder expectations with product goals is essential for ensuring that everyone is on the same page regarding project objectives and timelines. This involves active communication, managing feedback, and addressing concerns proactively. Understanding how to align these expectations will enhance your ability to drive product success and foster positive relationships with stakeholders.\nBy engaging in this process, you will contribute to a culture of transparency and collaboration, ensuring that all stakeholders feel valued and heard. This knowledge is vital for effective product management.",
+                            "content_instructions": {
+                                "role": "professional stakeholder engagement manager",
+                                "topic": "Learn strategies for aligning stakeholder expectations with product goals."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "communicating_progress_and_risks",
                     "type": "module",
                     "title": "Communicating Progress and Risks",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_communicate_progress_and_potential_risks_to_stakeholders",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Understand how to communicate progress and potential risks to stakeholders."
+                            "title": "Understand how to communicate progress and potential risks to stakeholders.",
+                            "action": "Review best practices for communicating progress and risks to stakeholders.",
+                            "description": "Effective communication of progress and potential risks is crucial for maintaining trust and transparency with stakeholders. This involves providing regular updates, addressing concerns, and outlining strategies for mitigating risks. Understanding how to communicate effectively will enhance your ability to foster positive relationships with stakeholders and ensure that everyone is aligned on project objectives.\nBy mastering this skill, you will contribute to a culture of accountability and collaboration, ensuring that stakeholders feel informed and engaged throughout the product development process. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional communication strategist",
+                                "topic": "Understand how to communicate progress and potential risks to stakeholders."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "conflict_resolution_techniques",
                     "type": "module",
                     "title": "Conflict Resolution Techniques",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_techniques_for_resolving_conflicts_with_stakeholders",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Overview of techniques for resolving conflicts with stakeholders."
+                            "title": "Overview of techniques for resolving conflicts with stakeholders.",
+                            "action": "Learn about techniques for resolving conflicts with stakeholders effectively.",
+                            "description": "Conflict resolution is an essential skill for product managers, as disagreements can arise among stakeholders regarding priorities, timelines, and expectations. Understanding various conflict resolution techniques will enhance your ability to navigate these situations and foster a collaborative environment. Techniques may include active listening, negotiation, and finding common ground.\nBy mastering these techniques, you will contribute to a culture of collaboration and mutual respect, ensuring that conflicts are resolved constructively and that all stakeholders feel valued. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional conflict resolution expert",
+                                "topic": "Overview of techniques for resolving conflicts with stakeholders."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "feedback_loops_and_iteration_in_our_product_development",
             "type": "section",
             "title": "Feedback Loops and Iteration in Our Product Development",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "continuous_improvement",
                     "type": "module",
                     "title": "Continuous Improvement",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_continuous_improvement_processes_in_product_development",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about the continuous improvement processes in product development."
+                            "title": "Learn about the continuous improvement processes in product development.",
+                            "action": "Explore the methodologies for continuous improvement in product development.",
+                            "description": "Continuous improvement is a fundamental principle in product development, focusing on regularly assessing and enhancing processes, products, and team dynamics. By fostering a culture of continuous improvement, teams can adapt to changing market conditions and user needs more effectively. Understanding how to implement continuous improvement processes will enhance your ability to drive product success.\nBy engaging in this process, you will contribute to a culture of learning and adaptation, ensuring that the product evolves in alignment with user expectations and market demands. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional continuous improvement facilitator",
+                                "topic": "Learn about the continuous improvement processes in product development."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "capturing_and_utilizing_feedback",
                     "type": "module",
                     "title": "Capturing and Utilizing Feedback",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_feedback_is_captured_and_utilized_to_iterate_on_the_product",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how feedback is captured and utilized to iterate on the product."
+                            "title": "Understand how feedback is captured and utilized to iterate on the product.",
+                            "action": "Review the methodologies for capturing and utilizing feedback in product development.",
+                            "description": "Capturing and utilizing feedback is essential for ensuring that the product meets user needs and expectations. This involves actively soliciting feedback from users, stakeholders, and team members, and systematically analyzing it to inform product iterations. Understanding how to effectively capture and utilize feedback will enhance your ability to drive product improvements and ensure user satisfaction.\nBy engaging in this process, you will contribute to a culture of user-centric design and continuous improvement, ensuring that the product evolves in alignment with user expectations. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional feedback analyst",
+                                "topic": "Understand how feedback is captured and utilized to iterate on the product."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "iterating_based_on_feedback",
                     "type": "module",
                     "title": "Iterating Based on Feedback",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_product_features_and_functionalities_are_iterated_upon_based_on_feedback",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of how product features and functionalities are iterated upon based on feedback."
+                            "title": "Overview of how product features and functionalities are iterated upon based on feedback.",
+                            "action": "Learn about the process of iterating on product features based on user feedback.",
+                            "description": "Iterating on product features based on user feedback is essential for ensuring that the product evolves in alignment with user needs. This involves analyzing feedback, identifying areas for improvement, and implementing changes in a structured manner. Understanding how to effectively iterate on features will enhance your ability to drive product success and ensure user satisfaction.\nBy engaging in this process, you will contribute to a culture of continuous improvement and user-centric design, ensuring that the product remains relevant and valuable to users. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional product iteration manager",
+                                "topic": "Overview of how product features and functionalities are iterated upon based on feedback."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 12,
             "id": "ongoing_learning_and_industry_trends_in_our_company",
             "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "industry_reports_and_publications",
                     "type": "module",
                     "title": "Industry Reports and Publications",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "access_to_industry_reports_and_publications_relevant_to_product_management",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Access to industry reports and publications relevant to product management."
+                            "title": "Access to industry reports and publications relevant to product management.",
+                            "action": "Explore industry reports and publications that inform product management practices.",
+                            "description": "Accessing industry reports and publications is essential for staying informed about trends, best practices, and innovations in product management. These resources provide valuable insights that can inform your strategies and decision-making processes. Understanding how to leverage these resources will enhance your ability to drive product success and remain competitive in the market.\nBy engaging with these reports and publications, you will contribute to a culture of continuous learning and improvement, ensuring that your product management practices are aligned with industry standards. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional industry analyst",
+                                "topic": "Access to industry reports and publications relevant to product management."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "networking_and_conferences",
                     "type": "module",
                     "title": "Networking and Conferences",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_opportunities_to_attend_networking_events_and_industry_conferences",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about opportunities to attend networking events and industry conferences."
+                            "title": "Learn about opportunities to attend networking events and industry conferences.",
+                            "action": "Explore opportunities for networking and attending industry conferences.",
+                            "description": "Attending networking events and industry conferences is an excellent way to connect with peers, learn about new trends, and share experiences. These opportunities provide a platform for professional growth and collaboration. Understanding how to leverage these events will enhance your ability to build relationships and stay informed about industry developments.\nBy actively participating in these events, you will contribute to a culture of collaboration and continuous learning, ensuring that you remain engaged with the broader product management community. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional networking coordinator",
+                                "topic": "Learn about opportunities to attend networking events and industry conferences."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "learning_platforms_for_product_managers",
                     "type": "module",
                     "title": "Learning Platforms for Product Managers",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_learning_platforms_available_to_product_managers_for_ongoing_professional_development",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of learning platforms available to product managers for ongoing professional development."
+                            "title": "Overview of learning platforms available to product managers for ongoing professional development.",
+                            "action": "Explore learning platforms that support ongoing professional development for product managers.",
+                            "description": "Access to learning platforms is essential for ongoing professional development in product management. These platforms offer courses, webinars, and resources that help you enhance your skills and stay updated on industry trends. Understanding how to leverage these platforms will enhance your ability to drive product success and continuously improve your practices.\nBy engaging with these learning opportunities, you will contribute to a culture of continuous improvement and ensure that your skills remain relevant in a rapidly changing landscape. This knowledge is vital for driving product success.",
+                            "content_instructions": {
+                                "role": "professional learning and development manager",
+                                "topic": "Overview of learning platforms available to product managers for ongoing professional development."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 }

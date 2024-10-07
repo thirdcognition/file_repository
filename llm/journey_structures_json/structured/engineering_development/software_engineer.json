@@ -2,770 +2,2103 @@
     "id": "software_engineer",
     "type": "journey",
     "title": "Software Engineer",
-    "end_of_day": 31,
+    "end_of_day": 18,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "company_values_and_mission",
                     "type": "module",
                     "title": "Company Values and Mission",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_our_company_s_core_values_and_how_they_impact_decision_making",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Understand our company's core values and how they impact decision-making."
+                            "title": "Understand our company's core values and how they impact decision-making.",
+                            "action": "Review the company's core values and analyze how they guide decision-making in various scenarios.",
+                            "description": "Our company's core values serve as the foundation for our decision-making processes. They guide how we operate, ensuring that every decision aligns with our long-term goals and ethical principles. Employees are expected to embody these values in their daily work, influencing everything from strategic initiatives to routine tasks.\nThe alignment of personal values with our company's core principles fosters a cohesive and productive working environment. It's essential to understand these values deeply as they will guide not only your work but also how you collaborate with your team and approach problem-solving.",
+                            "content_instructions": {
+                                "role": "professional HR manager",
+                                "topic": "Understand our company's core values and how they impact decision-making."
+                            },
+                            "icon": "logo_1"
                         },
                         {
-                            "index": 1,
                             "id": "learn_about_our_mission_and_its_alignment_with_team_goals",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Learn about our mission and its alignment with team goals."
+                            "title": "Learn about our mission and its alignment with team goals.",
+                            "action": "Explore the company's mission and understand how it aligns with your team's goals.",
+                            "description": "The company's mission is a guiding statement that outlines our purpose and strategic direction. It not only sets the tone for how we operate but also emphasizes our long-term vision. Understanding the company's mission helps you see the bigger picture and how your role contributes to achieving broader objectives.\nIn addition, aligning the mission with your team's goals ensures that every team member is moving in the same direction, focused on driving results that support the overall business strategy. By internalizing this alignment, you will better understand your role within the team and how your contributions impact both short-term and long-term objectives.",
+                            "content_instructions": {
+                                "role": "professional team leader",
+                                "topic": "Learn about our mission and its alignment with team goals."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "meet_the_leadership_team",
                     "type": "module",
                     "title": "Meet the Leadership Team",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_key_leadership_members_and_their_roles",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Introduction to key leadership members and their roles."
+                            "title": "Introduction to key leadership members and their roles.",
+                            "action": "Familiarize yourself with the leadership team and understand their areas of responsibility.",
+                            "description": "The leadership team plays a critical role in shaping the strategic direction of the company. Each leader brings unique expertise and oversees various departments to ensure smooth operations and alignment with business goals. By understanding the roles and responsibilities of each leader, you will gain a deeper insight into how decisions are made and how the company functions at a high level.\nThis introduction to the leadership team will also give you the opportunity to identify the key stakeholders in your work and understand their expectations. Knowing who to approach for guidance and support will make it easier for you to navigate your responsibilities.",
+                            "content_instructions": {
+                                "role": "professional organizational strategist",
+                                "topic": "Introduction to key leadership members and their roles."
+                            },
+                            "icon": "logo_2"
                         },
                         {
-                            "index": 1,
                             "id": "schedule_a_meet_and_greet_session_with_your_department_head",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Schedule a meet-and-greet session with your department head."
+                            "title": "Schedule a meet-and-greet session with your department head.",
+                            "action": "Coordinate with your department head to schedule an introductory meeting.",
+                            "description": "Meeting with your department head early on is crucial to establishing a strong working relationship. In this session, you will get to know each other, discuss your role and how it fits within the department, and set initial expectations for your work. This interaction will also give you the opportunity to ask any questions you may have about your responsibilities and the department's goals.\nA successful meet-and-greet will lay the foundation for open communication and collaboration. Building this relationship early on will also give you a clearer understanding of how your work contributes to the broader departmental objectives.",
+                            "content_instructions": {
+                                "role": "professional HR coordinator",
+                                "topic": "Schedule a meet-and-greet session with your department head."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "team_structure_and_roles",
                     "type": "module",
                     "title": "Team Structure and Roles",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_team_s_organizational_structure",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Overview of the team's organizational structure."
+                            "title": "Overview of the team's organizational structure.",
+                            "action": "Review the team's structure and identify key team members and their roles.",
+                            "description": "Our team's organizational structure is designed to promote collaboration and efficiency. Each member has a specific role that supports the overall goals of the team. Understanding this structure is key to navigating your work environment and knowing whom to approach for help or collaboration.\nBy familiarizing yourself with the structure early on, you will also understand how tasks and responsibilities are distributed. This knowledge will help you efficiently manage your workload and communicate effectively with your peers.",
+                            "content_instructions": {
+                                "role": "professional team lead",
+                                "topic": "Overview of the team's organizational structure."
+                            },
+                            "icon": "logo_3"
                         },
                         {
-                            "index": 1,
                             "id": "learn_about_individual_responsibilities_and_key_collaborators",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Learn about individual responsibilities and key collaborators."
+                            "title": "Learn about individual responsibilities and key collaborators.",
+                            "action": "Familiarize yourself with each team member's responsibilities and identify potential collaborators.",
+                            "description": "Each team member plays a vital role in the success of our projects. Knowing who is responsible for what tasks will allow you to coordinate and collaborate more effectively. As a new team member, understanding the flow of responsibilities will help you integrate smoothly into ongoing projects.\nIn addition, identifying key collaborators within the team will enable you to build relationships with individuals who are crucial to your success in your role. Whether it's a peer in a similar position or someone in a cross-functional role, these connections will support your growth and productivity within the company.",
+                            "content_instructions": {
+                                "role": "professional operations manager",
+                                "topic": "Learn about individual responsibilities and key collaborators."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_product_development_lifecycle",
             "type": "section",
             "title": "Familiarize with Our Product Development Lifecycle",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "product_roadmap_overview",
                     "type": "module",
                     "title": "Product Roadmap Overview",
-                    "end_of_day": 4,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_the_current_and_upcoming_product_roadmap",
+                            "id": "description",
                             "type": "action",
-                            "end_of_day": 4,
-                            "title": "Understand the current and upcoming product roadmap."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "feature_development_phases",
                     "type": "module",
                     "title": "Feature Development Phases",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_our_iterative_development_cycle_and_feature_prioritization",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Introduction to our iterative development cycle and feature prioritization."
+                            "title": "Introduction to our iterative development cycle and feature prioritization.",
+                            "action": "Learn the steps in our development cycle and how features are prioritized for development.",
+                            "description": "Our development process is built on an iterative cycle, where features are continuously improved and refined based on feedback and testing. Prioritizing features is a collaborative effort that involves input from multiple teams, including product, engineering, and QA.\nUnderstanding how we prioritize features is crucial to knowing where to focus your efforts. It will also help you communicate effectively with cross-functional teams, ensuring that your work aligns with overall product objectives and that key features are delivered on time and with high quality.",
+                            "content_instructions": {
+                                "role": "professional engineering manager",
+                                "topic": "Introduction to our iterative development cycle and feature prioritization."
+                            },
+                            "icon": "logo_5"
                         },
                         {
-                            "index": 1,
                             "id": "learn_the_different_phases_involved_from_ideation_to_deployment",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Learn the different phases involved from ideation to deployment."
+                            "title": "Learn the different phases involved from ideation to deployment.",
+                            "action": "Familiarize yourself with each phase of the product development lifecycle, from ideation to final deployment.",
+                            "description": "Our development lifecycle begins with ideation, where initial concepts are generated and evaluated based on business goals and customer needs. This phase is followed by design, development, testing, and deployment. Each phase is critical in ensuring that the final product meets quality standards and is delivered on time.\nAs a software engineer, you will be involved in multiple stages of this process. Understanding the full lifecycle will help you contribute effectively at every phase, from early planning to the final deployment of new features. Additionally, it will allow you to anticipate potential challenges and collaborate with other teams to resolve issues as they arise.",
+                            "content_instructions": {
+                                "role": "professional software architect",
+                                "topic": "Learn the different phases involved from ideation to deployment."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "collaboration_across_teams",
                     "type": "module",
                     "title": "Collaboration Across Teams",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_dynamics_between_product_engineering_and_qa_teams",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Understand the dynamics between product, engineering, and QA teams."
+                            "title": "Understand the dynamics between product, engineering, and QA teams.",
+                            "action": "Explore the collaboration dynamics between different teams and their roles in the product lifecycle.",
+                            "description": "Collaboration between product, engineering, and QA teams is vital for the success of any project. Each team brings a unique perspective and expertise that contributes to building a successful product. Product teams focus on customer needs and market trends, while engineering teams concentrate on implementing solutions, and QA teams ensure that the final product meets quality standards.\nBy understanding how these teams interact and rely on each other, you will be better equipped to navigate the collaborative landscape of our organization. Effective communication and collaboration across these functions are essential for meeting deadlines and delivering high-quality products.",
+                            "content_instructions": {
+                                "role": "professional project manager",
+                                "topic": "Understand the dynamics between product, engineering, and QA teams."
+                            },
+                            "icon": "logo_6"
                         },
                         {
-                            "index": 1,
                             "id": "overview_of_the_tools_used_for_cross_functional_collaboration",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Overview of the tools used for cross-functional collaboration."
+                            "title": "Overview of the tools used for cross-functional collaboration.",
+                            "action": "Learn about the tools and platforms we use for collaboration between teams.",
+                            "description": "To facilitate effective collaboration across teams, we utilize various tools and platforms that enhance communication and project management. These tools include project management software, messaging apps, and documentation platforms that allow for real-time collaboration and information sharing.\nFamiliarizing yourself with these tools will help you engage effectively with your colleagues, streamline workflows, and ensure that everyone is on the same page regarding project progress and updates. Mastering these tools early on will significantly enhance your productivity and collaboration with cross-functional teams.",
+                            "content_instructions": {
+                                "role": "professional IT coordinator",
+                                "topic": "Overview of the tools used for cross-functional collaboration."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "overview_of_our_tech_stack",
             "type": "section",
             "title": "Overview of Our Tech Stack",
-            "end_of_day": 8,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "key_technologies_we_use",
                     "type": "module",
                     "title": "Key Technologies We Use",
-                    "end_of_day": 7,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "familiarize_yourself_with_the_primary_languages_frameworks_and_libraries_we_use",
+                            "id": "description_1",
                             "type": "action",
-                            "end_of_day": 7,
-                            "title": "Familiarize yourself with the primary languages, frameworks, and libraries we use."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_1",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_1",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_1",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_1",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_1",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_1",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_1",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "language_and_framework_preferences",
                     "type": "module",
                     "title": "Language and Framework Preferences",
-                    "end_of_day": 8,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_why_we_choose_certain_languages_and_frameworks_for_specific_projects",
+                            "id": "description_2",
                             "type": "action",
-                            "end_of_day": 8,
-                            "title": "Understand why we choose certain languages and frameworks for specific projects."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_2",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_2",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_2",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_2",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_2",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_2",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_2",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "integrations_and_apis",
                     "type": "module",
                     "title": "Integrations and APIs",
-                    "end_of_day": 8,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_about_the_apis_and_integrations_critical_to_our_product_functionality",
+                            "id": "description_3",
                             "type": "action",
-                            "end_of_day": 8,
-                            "title": "Learn about the APIs and integrations critical to our product functionality."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_3",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_3",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_3",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_3",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_3",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_3",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_3",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "familiarize_with_our_codebase",
             "type": "section",
             "title": "Familiarize with Our Codebase",
-            "end_of_day": 10,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "key_repositories_and_code_structure",
                     "type": "module",
                     "title": "Key Repositories and Code Structure",
-                    "end_of_day": 9,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_main_repositories_and_folder_structures",
+                            "id": "description_4",
                             "type": "action",
-                            "end_of_day": 9,
-                            "title": "Overview of main repositories and folder structures."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_4",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_4",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_4",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_4",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_4",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_4",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_4",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "code_navigation_and_search",
                     "type": "module",
                     "title": "Code Navigation and Search",
-                    "end_of_day": 10,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_the_best_practices_for_navigating_and_searching_within_our_codebase",
+                            "id": "description_5",
                             "type": "action",
-                            "end_of_day": 10,
-                            "title": "Learn the best practices for navigating and searching within our codebase."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_5",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_5",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_5",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_5",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_5",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_5",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_5",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "introduction_to_our_development_tools_and_environments",
             "type": "section",
             "title": "Introduction to Our Development Tools and Environments",
-            "end_of_day": 12,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "local_development_setup",
                     "type": "module",
                     "title": "Local Development Setup",
-                    "end_of_day": 11,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "guide_to_setting_up_your_local_development_environment",
+                            "id": "description_6",
                             "type": "action",
-                            "end_of_day": 11,
-                            "title": "Guide to setting up your local development environment."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_6",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_6",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_6",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_6",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_6",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_6",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_6",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "development_ides_and_extensions",
                     "type": "module",
                     "title": "Development IDEs and Extensions",
-                    "end_of_day": 12,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "recommended_ides_and_productivity_boosting_extensions_we_use",
+                            "id": "description_7",
                             "type": "action",
-                            "end_of_day": 12,
-                            "title": "Recommended IDEs and productivity-boosting extensions we use."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_7",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_7",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_7",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_7",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_7",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_7",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_7",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "testing_environments",
                     "type": "module",
                     "title": "Testing Environments",
-                    "end_of_day": 12,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "introduction_to_the_various_testing_environments_available_and_how_to_access_them",
+                            "id": "description_8",
                             "type": "action",
-                            "end_of_day": 12,
-                            "title": "Introduction to the various testing environments available and how to access them."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_8",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_8",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_8",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_8",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_8",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_8",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_8",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "understanding_our_version_control_and_branching_strategy",
             "type": "section",
             "title": "Understanding Our Version Control and Branching Strategy",
-            "end_of_day": 14,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "gitflow_practices",
                     "type": "module",
                     "title": "GitFlow Practices",
-                    "end_of_day": 13,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_the_fundamentals_of_our_gitflow_branching_model",
+                            "id": "description_9",
                             "type": "action",
-                            "end_of_day": 13,
-                            "title": "Learn the fundamentals of our GitFlow branching model."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_9",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_9",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_9",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_9",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_9",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_9",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_9",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "branching_and_merging_guidelines",
                     "type": "module",
                     "title": "Branching and Merging Guidelines",
-                    "end_of_day": 14,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "best_practices_for_creating_and_merging_branches_within_our_projects",
+                            "id": "description_10",
                             "type": "action",
-                            "end_of_day": 14,
-                            "title": "Best practices for creating and merging branches within our projects."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_10",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_10",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_10",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_10",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_10",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_10",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_10",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "release_versioning",
                     "type": "module",
                     "title": "Release Versioning",
-                    "end_of_day": 14,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_how_we_version_releases_and_manage_production_deployments",
+                            "id": "description_11",
                             "type": "action",
-                            "end_of_day": 14,
-                            "title": "Understand how we version releases and manage production deployments."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_11",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_11",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_11",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_11",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_11",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_11",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_11",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "our_code_review_process",
             "type": "section",
             "title": "Our Code Review Process",
-            "end_of_day": 17,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "peer_review_guidelines",
                     "type": "module",
                     "title": "Peer Review Guidelines",
-                    "end_of_day": 15,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_the_steps_for_conducting_a_peer_review_and_submitting_your_code_for_review",
+                            "id": "description_12",
                             "type": "action",
-                            "end_of_day": 15,
-                            "title": "Understand the steps for conducting a peer review and submitting your code for review."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_12",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_12",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_12",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_12",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_12",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_12",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_12",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "code_review_tools",
                     "type": "module",
                     "title": "Code Review Tools",
-                    "end_of_day": 16,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "introduction_to_the_code_review_tools_we_use_and_how_to_navigate_them",
+                            "id": "description_13",
                             "type": "action",
-                            "end_of_day": 16,
-                            "title": "Introduction to the code review tools we use and how to navigate them."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_13",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_13",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_13",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_13",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_13",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_13",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_13",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "feedback_etiquette",
                     "type": "module",
                     "title": "Feedback Etiquette",
-                    "end_of_day": 17,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_to_give_and_receive_constructive_feedback_during_code_reviews",
+                            "id": "description_14",
                             "type": "action",
-                            "end_of_day": 17,
-                            "title": "Learn how to give and receive constructive feedback during code reviews."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_14",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_14",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_14",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_14",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_14",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_14",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_14",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "agile_and_scrum_methodologies_at_our_company",
             "type": "section",
             "title": "Agile and Scrum Methodologies at Our Company",
-            "end_of_day": 20,
+            "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "sprint_planning_and_estimations",
                     "type": "module",
                     "title": "Sprint Planning and Estimations",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "the_procedure_of_sprint_planning_and_how_it_s_done",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "The procedure of sprint planning and how it's done."
+                            "title": "The procedure of sprint planning and how it's done.",
+                            "action": "Participate in the sprint planning process and understand its significance.",
+                            "description": "Sprint planning is a key event in our Agile process where we define the work to be completed in the upcoming sprint. This collaborative effort involves team members discussing priorities, estimating tasks, and assigning responsibilities. Understanding this process is crucial for effectively managing workloads and ensuring that the team is aligned with project goals.\nBy engaging in sprint planning, you contribute to the overall success of the sprint and help the team deliver value to our customers. Familiarizing yourself with the procedures and expectations will enhance your ability to participate in future planning sessions.",
+                            "content_instructions": {
+                                "role": "professional Scrum Master",
+                                "topic": "The procedure of sprint planning and how it's done."
+                            },
+                            "icon": "logo_12"
                         },
                         {
-                            "index": 1,
                             "id": "how_the_sprint_story_points_estimation_procedure_works_in_our_team",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "How the sprint story points estimation procedure works in our team."
+                            "title": "How the sprint story points estimation procedure works in our team.",
+                            "action": "Learn about the process of estimating story points for sprint tasks.",
+                            "description": "Estimating story points is a vital part of our sprint planning process, allowing the team to gauge the complexity and effort required for tasks. This estimation process involves discussing features or tasks and assigning points based on their difficulty and the work required. Understanding how this process works will enable you to provide accurate estimates and contribute to effective sprint planning.\nBy participating in story point estimation, you will enhance your understanding of project requirements and timelines. This skill is essential for ensuring that the team can meet its commitments during sprints and deliver high-quality products on time.",
+                            "content_instructions": {
+                                "role": "professional Agile coach",
+                                "topic": "How the sprint story points estimation procedure works in our team."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "daily_stand_ups",
                     "type": "module",
                     "title": "Daily Stand-ups",
-                    "end_of_day": 19,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understanding_the_goals_and_format_of_daily_stand_ups_in_our_agile_process",
+                            "id": "description_15",
                             "type": "action",
-                            "end_of_day": 19,
-                            "title": "Understanding the goals and format of daily stand-ups in our agile process."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_15",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_15",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_15",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_15",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_15",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_15",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_15",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "retrospectives_and_process_improvement",
                     "type": "module",
                     "title": "Retrospectives and Process Improvement",
-                    "end_of_day": 20,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "how_we_conduct_retrospectives_to_improve_team_processes",
+                            "id": "description_16",
                             "type": "action",
-                            "end_of_day": 20,
-                            "title": "How we conduct retrospectives to improve team processes."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_16",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_16",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_16",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_16",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_16",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_16",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_16",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "security_best_practices_in_our_development_process",
             "type": "section",
             "title": "Security Best Practices in Our Development Process",
-            "end_of_day": 23,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "handling_sensitive_data",
                     "type": "module",
                     "title": "Handling Sensitive Data",
-                    "end_of_day": 21,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "best_practices_for_handling_sensitive_data_securely_in_our_codebase",
+                            "id": "description_17",
                             "type": "action",
-                            "end_of_day": 21,
-                            "title": "Best practices for handling sensitive data securely in our codebase."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_17",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_17",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_17",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_17",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_17",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_17",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_17",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "owasp_top_10_vulnerabilities",
                     "type": "module",
                     "title": "OWASP Top 10 Vulnerabilities",
-                    "end_of_day": 22,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_the_owasp_top_10_vulnerabilities_and_how_we_address_them",
+                            "id": "description_18",
                             "type": "action",
-                            "end_of_day": 22,
-                            "title": "Overview of the OWASP Top 10 vulnerabilities and how we address them."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_18",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_18",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_18",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_18",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_18",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_18",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_18",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "dependency_and_vulnerability_management",
                     "type": "module",
                     "title": "Dependency and Vulnerability Management",
-                    "end_of_day": 23,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_we_manage_dependencies_and_address_vulnerabilities_in_our_projects",
+                            "id": "description_19",
                             "type": "action",
-                            "end_of_day": 23,
-                            "title": "Learn how we manage dependencies and address vulnerabilities in our projects."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_19",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_19",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_19",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_19",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_19",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_19",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_19",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "collaborating_with_our_product_and_qa_teams",
             "type": "section",
             "title": "Collaborating with Our Product and QA Teams",
-            "end_of_day": 26,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "cross_functional_meetings",
                     "type": "module",
                     "title": "Cross-functional Meetings",
-                    "end_of_day": 24,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_the_purpose_and_structure_of_cross_functional_meetings_between_development_product_and_qa",
+                            "id": "description_20",
                             "type": "action",
-                            "end_of_day": 24,
-                            "title": "Understand the purpose and structure of cross-functional meetings between development, product, and QA."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_20",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_20",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_20",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_20",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_20",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_20",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_20",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "feature_specification_reviews",
                     "type": "module",
                     "title": "Feature Specification Reviews",
-                    "end_of_day": 25,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_we_review_feature_specifications_collaboratively_with_product_teams",
+                            "id": "description_21",
                             "type": "action",
-                            "end_of_day": 25,
-                            "title": "Learn how we review feature specifications collaboratively with product teams."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_21",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_21",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_21",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_21",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_21",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_21",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_21",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "bug_prioritization_and_triage",
                     "type": "module",
                     "title": "Bug Prioritization and Triage",
-                    "end_of_day": 26,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_how_bugs_are_triaged_and_prioritized_across_teams",
+                            "id": "description_22",
                             "type": "action",
-                            "end_of_day": 26,
-                            "title": "Understand how bugs are triaged and prioritized across teams."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_22",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_22",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_22",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_22",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_22",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_22",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_22",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "our_testing_and_debugging_procedures",
             "type": "section",
             "title": "Our Testing and Debugging Procedures",
-            "end_of_day": 29,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "unit_and_integration_testing",
                     "type": "module",
                     "title": "Unit and Integration Testing",
-                    "end_of_day": 27,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_our_approach_to_unit_and_integration_testing",
+                            "id": "description_23",
                             "type": "action",
-                            "end_of_day": 27,
-                            "title": "Understand our approach to unit and integration testing."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_23",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_23",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_23",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_23",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_23",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_23",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_23",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "debugging_tools_and_techniques",
                     "type": "module",
                     "title": "Debugging Tools and Techniques",
-                    "end_of_day": 28,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_about_debugging_tools_and_techniques_for_common_issues_in_our_codebase",
+                            "id": "description_24",
                             "type": "action",
-                            "end_of_day": 28,
-                            "title": "Learn about debugging tools and techniques for common issues in our codebase."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_24",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_24",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_24",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_24",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_24",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_24",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_24",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "test_automation_practices",
                     "type": "module",
                     "title": "Test Automation Practices",
-                    "end_of_day": 29,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "introduction_to_the_automated_tests_we_use_and_how_they_fit_into_our_ci_cd_process",
+                            "id": "description_25",
                             "type": "action",
-                            "end_of_day": 29,
-                            "title": "Introduction to the automated tests we use and how they fit into our CI/CD process."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_25",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_25",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_25",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_25",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_25",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_25",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_25",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "our_continuous_integration_continuous_deployment_ci_cd_pipeline",
             "type": "section",
             "title": "Our Continuous Integration/Continuous Deployment (CI/CD) Pipeline",
-            "end_of_day": 31,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "ci_cd_workflow_overview",
                     "type": "module",
                     "title": "CI/CD Workflow Overview",
-                    "end_of_day": 30,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_the_ci_cd_pipeline_and_how_it_integrates_with_our_codebase",
+                            "id": "description_26",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Overview of the CI/CD pipeline and how it integrates with our codebase."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_26",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_26",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_26",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_26",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_26",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_26",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_26",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "pipeline_monitoring",
                     "type": "module",
                     "title": "Pipeline Monitoring",
-                    "end_of_day": 31,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_to_monitor_and_troubleshoot_issues_in_the_ci_cd_pipeline",
+                            "id": "description_27",
                             "type": "action",
-                            "end_of_day": 31,
-                            "title": "Learn how to monitor and troubleshoot issues in the CI/CD pipeline."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_27",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_27",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_27",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_27",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_27",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_27",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_27",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "deployment_rollback_procedures",
                     "type": "module",
                     "title": "Deployment Rollback Procedures",
-                    "end_of_day": 31,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_how_to_perform_a_deployment_rollback_in_case_of_issues",
+                            "id": "description_28",
                             "type": "action",
-                            "end_of_day": 31,
-                            "title": "Understand how to perform a deployment rollback in case of issues."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_28",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_28",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_28",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_28",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_28",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_28",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_28",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 12,
             "id": "ongoing_learning_and_development_resources_at_our_company",
             "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
-            "end_of_day": 31,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "access_to_learning_platforms",
                     "type": "module",
                     "title": "Access to Learning Platforms",
-                    "end_of_day": 31,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_about_internal_and_external_learning_resources_available_to_you",
+                            "id": "description_29",
                             "type": "action",
-                            "end_of_day": 31,
-                            "title": "Learn about internal and external learning resources available to you."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_29",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_29",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_29",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_29",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_29",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_29",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_29",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "internal_knowledge_sharing_sessions",
                     "type": "module",
                     "title": "Internal Knowledge Sharing Sessions",
-                    "end_of_day": 31,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "how_to_participate_in_and_contribute_to_our_internal_knowledge_sharing_sessions",
+                            "id": "description_30",
                             "type": "action",
-                            "end_of_day": 31,
-                            "title": "How to participate in and contribute to our internal knowledge-sharing sessions."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_30",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_30",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_30",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_30",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_30",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_30",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_30",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "mentorship_and_coaching_opportunities",
                     "type": "module",
                     "title": "Mentorship and Coaching Opportunities",
-                    "end_of_day": 31,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "explore_mentorship_and_coaching_opportunities_within_the_team",
+                            "id": "description_31",
                             "type": "action",
-                            "end_of_day": 31,
-                            "title": "Explore mentorship and coaching opportunities within the team."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_31",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_31",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_31",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_31",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_31",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_31",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_31",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }

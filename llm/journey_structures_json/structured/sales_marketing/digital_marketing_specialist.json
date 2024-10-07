@@ -5,684 +5,852 @@
     "end_of_day": 31,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_11",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "meet_the_marketing_team",
                     "type": "module",
                     "title": "Meet the Marketing Team",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_marketing_team_members_and_their_roles",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Introduction to the marketing team members and their roles."
+                            "title": "Introduction to the marketing team members and their roles.",
+                            "action": "Familiarize yourself with each marketing team member and their specific roles within the team.",
+                            "description": "The marketing team is composed of diverse professionals each specializing in different areas of marketing. Understanding who does what will help you navigate the team more effectively and know whom to approach for specific inquiries or collaborations. The synergy between team members is vital for executing successful marketing strategies.\nBy learning about each member's responsibilities, you will be better equipped to collaborate on projects and leverage each other's strengths to achieve common goals.",
+                            "content_instructions": {
+                                "role": "professional marketing team lead",
+                                "topic": "Introduction to the marketing team members and their roles."
+                            },
+                            "icon": "logo_2"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "company_vision_and_branding",
                     "type": "module",
                     "title": "Company Vision and Branding",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_company_vision_and_how_it_aligns_with_our_brand_strategy",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Learn about the company vision and how it aligns with our brand strategy."
+                            "title": "Learn about the company vision and how it aligns with our brand strategy.",
+                            "action": "Explore the company's vision statement and understand how it influences our branding efforts.",
+                            "description": "The company vision serves as a guiding star for all marketing initiatives. It reflects our aspirations and the impact we aim to have in the market. Aligning marketing strategies with the company vision ensures that our messaging resonates with our target audience and conveys a consistent brand identity.\nUnderstanding this alignment is crucial for creating campaigns that not only promote our products but also connect emotionally with consumers, fostering brand loyalty and recognition.",
+                            "content_instructions": {
+                                "role": "professional brand strategist",
+                                "topic": "Learn about the company vision and how it aligns with our brand strategy."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "introduction_to_cross_functional_teams_1",
                     "type": "module",
                     "title": "Introduction to Cross-functional Teams",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_marketing_collaborates_with_other_teams_to_achieve_business_goals",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Understand how marketing collaborates with other teams to achieve business goals."
+                            "title": "Understand how marketing collaborates with other teams to achieve business goals.",
+                            "action": "Engage with other departments to understand their roles and how they intersect with marketing.",
+                            "description": "Collaboration across departments is essential for achieving overarching business objectives. Marketing often works closely with sales, product development, and customer support to ensure that campaigns are aligned with company goals and customer needs. By understanding the roles of these cross-functional teams, you can identify opportunities for collaboration and ensure that marketing efforts are cohesive and effective.\nThis understanding will enable you to communicate better and foster relationships that enhance the overall success of marketing initiatives.",
+                            "content_instructions": {
+                                "role": "professional cross-functional team facilitator",
+                                "topic": "Understand how marketing collaborates with other teams to achieve business goals."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_marketing_strategy",
             "type": "section",
             "title": "Familiarize with Our Marketing Strategy",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "marketing_campaign_planning",
                     "type": "module",
                     "title": "Marketing Campaign Planning",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_steps_involved_in_planning_and_executing_marketing_campaigns",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Learn the steps involved in planning and executing marketing campaigns."
+                            "title": "Learn the steps involved in planning and executing marketing campaigns.",
+                            "action": "Review the campaign planning process and identify key milestones.",
+                            "description": "Effective marketing campaign planning is a structured process that involves several key steps: defining objectives, identifying target audiences, selecting channels, and measuring success. Understanding this process will enable you to contribute effectively to campaign development and ensure that all elements align with overall marketing goals.\nBy mastering the campaign planning process, you will be better equipped to execute successful campaigns that resonate with your audience and drive results.",
+                            "content_instructions": {
+                                "role": "professional marketing campaign manager",
+                                "topic": "Learn the steps involved in planning and executing marketing campaigns."
+                            },
+                            "icon": "logo_14"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "brand_positioning_and_messaging",
                     "type": "module",
                     "title": "Brand Positioning and Messaging",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_our_brand_positioning_and_messaging_strategies",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Understand our brand positioning and messaging strategies."
+                            "title": "Understand our brand positioning and messaging strategies.",
+                            "action": "Explore the key elements of our brand positioning and how they influence messaging.",
+                            "description": "Brand positioning defines how we want our customers to perceive us in the marketplace. It involves identifying our unique value proposition and differentiating ourselves from competitors. Understanding this positioning is crucial for crafting messaging that resonates with our target audience and reinforces our brand identity.\nBy aligning your marketing efforts with our brand positioning, you will help create a consistent narrative that strengthens our market presence and builds customer loyalty.",
+                            "content_instructions": {
+                                "role": "professional brand manager",
+                                "topic": "Understand our brand positioning and messaging strategies."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "marketing_objectives_and_kpis",
                     "type": "module",
                     "title": "Marketing Objectives and KPIs",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_marketing_objectives_and_kpis_used_to_track_success",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Overview of the marketing objectives and KPIs used to track success."
+                            "title": "Overview of the marketing objectives and KPIs used to track success.",
+                            "action": "Review the key performance indicators (KPIs) we use to measure marketing success.",
+                            "description": "Setting clear marketing objectives and KPIs is essential for tracking the effectiveness of our campaigns. KPIs provide measurable data that helps us understand what's working and what needs improvement. Familiarizing yourself with these metrics will enable you to assess your contributions to the marketing strategy and make data-driven decisions.\nBy understanding how our marketing objectives align with business goals, you will be better positioned to contribute to strategies that drive growth and success.",
+                            "content_instructions": {
+                                "role": "professional marketing analyst",
+                                "topic": "Overview of the marketing objectives and KPIs used to track success."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "overview_of_our_marketing_channels_and_tactics",
             "type": "section",
             "title": "Overview of Our Marketing Channels and Tactics",
             "end_of_day": 9,
             "children": [
                 {
-                    "index": 0,
                     "id": "digital_vs_traditional_channels",
                     "type": "module",
                     "title": "Digital vs Traditional Channels",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_difference_between_digital_and_traditional_marketing_channels",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Learn about the difference between digital and traditional marketing channels."
+                            "title": "Learn about the difference between digital and traditional marketing channels.",
+                            "action": "Explore various marketing channels and their unique advantages.",
+                            "description": "Digital and traditional marketing channels each have their own strengths and weaknesses. Digital channels, such as social media and email, offer targeted reach and measurable results, while traditional channels, like print and television, can provide broad exposure. Understanding the benefits of each type will allow you to select the most effective channels for your campaigns.\nBy leveraging both digital and traditional marketing strategies, you can create comprehensive campaigns that maximize reach and engagement.",
+                            "content_instructions": {
+                                "role": "professional marketing strategist",
+                                "topic": "Learn about the difference between digital and traditional marketing channels."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "multi_channel_marketing_strategies",
                     "type": "module",
                     "title": "Multi-channel Marketing Strategies",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_implement_multi_channel_marketing_strategies_to_reach_target_audiences",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Understand how to implement multi-channel marketing strategies to reach target audiences."
+                            "title": "Understand how to implement multi-channel marketing strategies to reach target audiences.",
+                            "action": "Review successful multi-channel marketing campaigns and their components.",
+                            "description": "Multi-channel marketing involves using various channels to engage with customers and prospects. This strategy allows for a more comprehensive approach, ensuring that your message reaches audiences where they are most active. Understanding how to effectively implement multi-channel strategies will enable you to create cohesive campaigns that enhance customer experience and engagement.\nBy mastering multi-channel marketing, you can increase brand visibility and improve the likelihood of conversions.",
+                            "content_instructions": {
+                                "role": "professional multi-channel marketing expert",
+                                "topic": "Understand how to implement multi-channel marketing strategies to reach target audiences."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "content_marketing_vs_paid_advertising",
                     "type": "module",
                     "title": "Content Marketing vs Paid Advertising",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_content_marketing_and_paid_advertising_tactics_and_when_to_use_them",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Overview of content marketing and paid advertising tactics and when to use them."
+                            "title": "Overview of content marketing and paid advertising tactics and when to use them.",
+                            "action": "Explore the differences between content marketing and paid advertising strategies.",
+                            "description": "Content marketing focuses on creating valuable content to attract and engage audiences, while paid advertising involves paying for visibility on various platforms. Both strategies can be effective, but understanding when to use each is crucial for maximizing marketing budgets and achieving desired outcomes. By evaluating the goals of your campaigns, you can determine the appropriate balance between content marketing and paid advertising.\nMastering these tactics will allow you to create targeted marketing efforts that resonate with your audience and drive measurable results.",
+                            "content_instructions": {
+                                "role": "professional digital marketing consultant",
+                                "topic": "Overview of content marketing and paid advertising tactics and when to use them."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "marketing_tools_and_software_at_our_company",
             "type": "section",
             "title": "Marketing Tools and Software at Our Company",
             "end_of_day": 12,
             "children": [
                 {
-                    "index": 0,
                     "id": "marketing_automation_platforms",
                     "type": "module",
                     "title": "Marketing Automation Platforms",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_marketing_automation_platforms_we_use_for_campaign_management",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Learn about the marketing automation platforms we use for campaign management."
+                            "title": "Learn about the marketing automation platforms we use for campaign management.",
+                            "action": "Familiarize yourself with our marketing automation tools and their functionalities.",
+                            "description": "Marketing automation platforms streamline the execution of marketing campaigns by automating repetitive tasks such as email marketing, social media posting, and lead management. Understanding how to use these tools effectively will enhance your productivity and allow you to focus on strategic initiatives.\nBy mastering our marketing automation platforms, you will be better equipped to execute campaigns efficiently and analyze their performance in real-time.",
+                            "content_instructions": {
+                                "role": "professional marketing automation specialist",
+                                "topic": "Learn about the marketing automation platforms we use for campaign management."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "analytics_and_reporting_tools",
                     "type": "module",
                     "title": "Analytics and Reporting Tools",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_use_analytics_tools_to_track_marketing_performance",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Understand how to use analytics tools to track marketing performance."
+                            "title": "Understand how to use analytics tools to track marketing performance.",
+                            "action": "Explore the analytics tools available and how to interpret their data.",
+                            "description": "Analytics tools allow us to monitor the performance of our marketing campaigns and understand customer behavior. By analyzing this data, we can make informed decisions and optimize our strategies for better results. Familiarizing yourself with these tools will empower you to track key metrics and derive actionable insights.\nUnderstanding how to leverage analytics will enhance your ability to contribute to data-driven marketing initiatives and improve overall campaign effectiveness.",
+                            "content_instructions": {
+                                "role": "professional data analyst",
+                                "topic": "Understand how to use analytics tools to track marketing performance."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "social_media_management_tools",
                     "type": "module",
                     "title": "Social Media Management Tools",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_social_media_management_tools_used_for_content_scheduling_and_monitoring",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Overview of the social media management tools used for content scheduling and monitoring."
+                            "title": "Overview of the social media management tools used for content scheduling and monitoring.",
+                            "action": "Familiarize yourself with our social media management tools and their functionalities.",
+                            "description": "Social media management tools help streamline the process of scheduling posts, monitoring engagement, and analyzing performance across various platforms. Understanding how to use these tools effectively will enhance your ability to manage our social media presence and engage with our audience.\nBy mastering these tools, you will be better equipped to execute social media strategies that drive engagement and build brand loyalty.",
+                            "content_instructions": {
+                                "role": "professional social media manager",
+                                "topic": "Overview of the social media management tools used for content scheduling and monitoring."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "our_seo_and_sem_best_practices",
             "type": "section",
             "title": "Our SEO and SEM Best Practices",
             "end_of_day": 15,
             "children": [
                 {
-                    "index": 0,
                     "id": "keyword_research_techniques",
                     "type": "module",
                     "title": "Keyword Research Techniques",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_conduct_keyword_research_for_seo_and_sem_campaigns",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Learn how to conduct keyword research for SEO and SEM campaigns."
+                            "title": "Learn how to conduct keyword research for SEO and SEM campaigns.",
+                            "action": "Explore the tools and techniques for effective keyword research.",
+                            "description": "Keyword research is fundamental for optimizing both SEO and SEM campaigns. By identifying the right keywords, you can target your audience more effectively and improve your chances of ranking well in search results. Understanding how to conduct thorough keyword research will empower you to create content that resonates with your audience and drives traffic to our website.\nMastering keyword research techniques will enhance your ability to contribute to successful marketing campaigns that achieve desired visibility and engagement.",
+                            "content_instructions": {
+                                "role": "professional SEO specialist",
+                                "topic": "Learn how to conduct keyword research for SEO and SEM campaigns."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "on_page_vs_off_page_seo",
                     "type": "module",
                     "title": "On-page vs Off-page SEO",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_difference_between_on_page_and_off_page_seo_and_their_impact_on_rankings",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Understand the difference between on-page and off-page SEO and their impact on rankings."
+                            "title": "Understand the difference between on-page and off-page SEO and their impact on rankings.",
+                            "action": "Review best practices for both on-page and off-page SEO.",
+                            "description": "On-page SEO refers to optimizing individual web pages to rank higher and earn more relevant traffic, while off-page SEO involves external factors such as backlinks and social signals. Understanding the differences and best practices for both is crucial for developing a comprehensive SEO strategy that enhances visibility and authority in search engines.\nBy mastering both on-page and off-page SEO techniques, you will be better equipped to contribute to our overall search engine optimization efforts and improve our website's performance.",
+                            "content_instructions": {
+                                "role": "professional SEO strategist",
+                                "topic": "Understand the difference between on-page and off-page SEO and their impact on rankings."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "optimizing_paid_search_campaigns",
                     "type": "module",
                     "title": "Optimizing Paid Search Campaigns",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_optimize_paid_search_campaigns_for_maximum_roi",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Overview of how to optimize paid search campaigns for maximum ROI."
+                            "title": "Overview of how to optimize paid search campaigns for maximum ROI.",
+                            "action": "Learn the best practices for optimizing paid search campaigns.",
+                            "description": "Optimizing paid search campaigns is essential for maximizing return on investment (ROI). This involves continuous monitoring and adjusting of bids, keywords, and ad copy to ensure that campaigns are performing at their best. Understanding how to analyze campaign data and make informed adjustments will empower you to drive better results.\nBy mastering paid search optimization techniques, you will be well-equipped to contribute to campaigns that deliver significant value and achieve marketing objectives.",
+                            "content_instructions": {
+                                "role": "professional SEM specialist",
+                                "topic": "Overview of how to optimize paid search campaigns for maximum ROI."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "managing_our_social_media_strategies",
             "type": "section",
             "title": "Managing Our Social Media Strategies",
             "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "social_media_content_creation",
                     "type": "module",
                     "title": "Social Media Content Creation",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_process_of_creating_engaging_social_media_content",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Learn the process of creating engaging social media content."
+                            "title": "Learn the process of creating engaging social media content.",
+                            "action": "Explore content creation techniques and tools for social media.",
+                            "description": "Creating engaging social media content requires a blend of creativity and strategy. Understanding your audience, crafting compelling messages, and utilizing visual elements can significantly enhance engagement. Familiarizing yourself with content creation tools and techniques will empower you to produce high-quality content that resonates with our followers.\nBy mastering the art of social media content creation, you will contribute to building a vibrant online community that supports our brand and marketing objectives.",
+                            "content_instructions": {
+                                "role": "professional content creator",
+                                "topic": "Learn the process of creating engaging social media content."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "engagement_and_community_building",
                     "type": "module",
                     "title": "Engagement and Community Building",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_build_and_maintain_an_active_social_media_community",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Understand how to build and maintain an active social media community."
+                            "title": "Understand how to build and maintain an active social media community.",
+                            "action": "Review strategies for community engagement and management.",
+                            "description": "Building an active social media community requires consistent engagement and interaction with followers. Strategies such as responding to comments, creating polls, and hosting live sessions can foster a sense of community. Understanding these strategies will empower you to create a vibrant online presence that encourages user interaction and loyalty.\nBy mastering community building techniques, you will help cultivate a supportive environment that enhances our brand image and encourages customer advocacy.",
+                            "content_instructions": {
+                                "role": "professional community manager",
+                                "topic": "Understand how to build and maintain an active social media community."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "measuring_social_media_roi",
                     "type": "module",
                     "title": "Measuring Social Media ROI",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_measure_the_roi_of_social_media_efforts",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Overview of how to measure the ROI of social media efforts."
+                            "title": "Overview of how to measure the ROI of social media efforts.",
+                            "action": "Learn about the metrics used to evaluate social media performance.",
+                            "description": "Measuring the return on investment (ROI) of social media efforts is essential for understanding their effectiveness. This involves evaluating metrics such as engagement rates, conversion rates, and overall reach. Familiarizing yourself with these metrics will empower you to assess the value of social media initiatives and make data-driven decisions for future campaigns.\nBy mastering social media ROI measurement techniques, you will contribute to optimizing our strategies and ensuring that our efforts align with business objectives.",
+                            "content_instructions": {
+                                "role": "professional marketing analyst",
+                                "topic": "Overview of how to measure the ROI of social media efforts."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "email_campaigns_and_automation_in_our_company",
             "type": "section",
             "title": "Email Campaigns and Automation in Our Company",
             "end_of_day": 21,
             "children": [
                 {
-                    "index": 0,
                     "id": "email_campaign_tools",
                     "type": "module",
                     "title": "Email Campaign Tools",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_tools_we_use_to_create_and_manage_email_campaigns",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Learn about the tools we use to create and manage email campaigns."
+                            "title": "Learn about the tools we use to create and manage email campaigns.",
+                            "action": "Familiarize yourself with our email marketing tools and their features.",
+                            "description": "Email marketing tools are essential for creating, managing, and analyzing email campaigns. Understanding how to use these tools effectively will enhance your ability to communicate with customers and drive engagement. Familiarizing yourself with the features of our email marketing platforms will enable you to design effective campaigns that resonate with our audience.\nBy mastering these tools, you will be better equipped to execute email marketing strategies that support our overall marketing objectives.",
+                            "content_instructions": {
+                                "role": "professional email marketing specialist",
+                                "topic": "Learn about the tools we use to create and manage email campaigns."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "creating_automated_drip_campaigns",
                     "type": "module",
                     "title": "Creating Automated Drip Campaigns",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_create_automated_drip_campaigns_to_nurture_leads",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Understand how to create automated drip campaigns to nurture leads."
+                            "title": "Understand how to create automated drip campaigns to nurture leads.",
+                            "action": "Explore the process of setting up automated email campaigns.",
+                            "description": "Automated drip campaigns are a powerful way to nurture leads and guide them through the customer journey. By sending a series of targeted emails based on user behavior and preferences, you can effectively engage potential customers and encourage conversions. Understanding how to create these campaigns will empower you to deliver relevant content at the right time.\nBy mastering automated drip campaigns, you will enhance our lead nurturing efforts and contribute to a more personalized customer experience.",
+                            "content_instructions": {
+                                "role": "professional marketing automation expert",
+                                "topic": "Understand how to create automated drip campaigns to nurture leads."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "measuring_email_campaign_success",
                     "type": "module",
                     "title": "Measuring Email Campaign Success",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_measure_the_success_of_email_campaigns",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Overview of how to measure the success of email campaigns."
+                            "title": "Overview of how to measure the success of email campaigns.",
+                            "action": "Learn about the key metrics used to evaluate email campaign effectiveness.",
+                            "description": "Measuring the success of email campaigns involves analyzing various metrics such as open rates, click-through rates, and conversion rates. Understanding these metrics will enable you to assess the effectiveness of your campaigns and make informed decisions for future initiatives. Familiarizing yourself with email performance metrics will empower you to optimize your strategies and improve engagement.\nBy mastering email campaign measurement techniques, you will contribute to enhancing our email marketing efforts and achieving better results.",
+                            "content_instructions": {
+                                "role": "professional email marketing analyst",
+                                "topic": "Overview of how to measure the success of email campaigns."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "content_marketing_and_creation_guidelines_at_our_company",
             "type": "section",
             "title": "Content Marketing and Creation Guidelines at Our Company",
             "end_of_day": 24,
             "children": [
                 {
-                    "index": 0,
                     "id": "blog_and_article_writing_best_practices",
                     "type": "module",
                     "title": "Blog and Article Writing Best Practices",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_best_practices_for_writing_blogs_and_articles_to_support_content_marketing_efforts",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Learn best practices for writing blogs and articles to support content marketing efforts."
+                            "title": "Learn best practices for writing blogs and articles to support content marketing efforts.",
+                            "action": "Explore techniques for creating engaging blog and article content.",
+                            "description": "Creating high-quality blog and article content is essential for driving traffic and engaging audiences. Understanding best practices for writing, including SEO optimization and audience targeting, will empower you to produce valuable content that resonates with readers. Familiarizing yourself with these practices will enhance your content marketing efforts and support overall marketing objectives.\nBy mastering blog and article writing techniques, you will contribute to building our brand's authority and attracting potential customers.",
+                            "content_instructions": {
+                                "role": "professional content writer",
+                                "topic": "Learn best practices for writing blogs and articles to support content marketing efforts."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "visual_content_creation",
                     "type": "module",
                     "title": "Visual Content Creation",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_process_of_creating_visual_content_such_as_infographics_and_videos",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Understand the process of creating visual content such as infographics and videos."
+                            "title": "Understand the process of creating visual content such as infographics and videos.",
+                            "action": "Familiarize yourself with tools and techniques for visual content creation.",
+                            "description": "Visual content plays a crucial role in capturing audience attention and enhancing engagement. Understanding how to create compelling visuals, including infographics and videos, will empower you to communicate messages effectively and enhance our content marketing efforts. Familiarizing yourself with the tools and techniques for visual content creation will enable you to produce high-quality assets that resonate with our audience.\nBy mastering visual content creation, you will contribute to elevating our marketing campaigns and improving overall brand visibility.",
+                            "content_instructions": {
+                                "role": "professional visual content creator",
+                                "topic": "Understand the process of creating visual content such as infographics and videos."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "aligning_content_with_seo_goals",
                     "type": "module",
                     "title": "Aligning Content with SEO Goals",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_align_content_creation_with_seo_goals_for_better_search_visibility",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Overview of how to align content creation with SEO goals for better search visibility."
+                            "title": "Overview of how to align content creation with SEO goals for better search visibility.",
+                            "action": "Review strategies for integrating SEO best practices into content creation.",
+                            "description": "Aligning content creation with SEO goals is essential for improving search visibility and driving organic traffic. Understanding how to incorporate keyword research, on-page optimization, and relevant backlinks into your content will empower you to create pieces that rank well in search engines. Familiarizing yourself with these strategies will enhance your content marketing efforts and support overall SEO objectives.\nBy mastering the alignment of content with SEO goals, you will contribute to improving our online presence and driving more qualified traffic to our website.",
+                            "content_instructions": {
+                                "role": "professional SEO content strategist",
+                                "topic": "Overview of how to align content creation with SEO goals for better search visibility."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "collaborating_with_our_sales_and_product_teams",
             "type": "section",
             "title": "Collaborating with Our Sales and Product Teams",
             "end_of_day": 27,
             "children": [
                 {
-                    "index": 0,
                     "id": "aligning_marketing_with_sales_objectives",
                     "type": "module",
                     "title": "Aligning Marketing with Sales Objectives",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_align_marketing_campaigns_with_sales_objectives_to_drive_revenue",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Learn how to align marketing campaigns with sales objectives to drive revenue."
+                            "title": "Learn how to align marketing campaigns with sales objectives to drive revenue.",
+                            "action": "Review strategies for integrating marketing efforts with sales goals.",
+                            "description": "Aligning marketing campaigns with sales objectives is crucial for driving revenue and ensuring that both teams are working towards common goals. Understanding how to collaborate with sales to identify customer needs and tailor marketing messages accordingly will empower you to create campaigns that resonate with prospects. Familiarizing yourself with these strategies will enhance collaboration and support overall business objectives.\nBy mastering the alignment of marketing with sales objectives, you will contribute to maximizing revenue opportunities and ensuring that marketing efforts are effective.",
+                            "content_instructions": {
+                                "role": "professional sales and marketing strategist",
+                                "topic": "Learn how to align marketing campaigns with sales objectives to drive revenue."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "supporting_product_launches",
                     "type": "module",
                     "title": "Supporting Product Launches",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_marketing_supports_product_launches_and_drives_product_awareness",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Understand how marketing supports product launches and drives product awareness."
+                            "title": "Understand how marketing supports product launches and drives product awareness.",
+                            "action": "Explore the marketing strategies used during product launches.",
+                            "description": "Marketing plays a pivotal role in supporting product launches and generating awareness. Understanding how to create buzz, engage the audience, and communicate product benefits effectively will empower you to contribute to successful launches. Familiarizing yourself with the strategies and tactics used during product launches will enhance your ability to drive product awareness and adoption.\nBy mastering product launch marketing, you will help ensure that new offerings receive the visibility and attention they deserve, ultimately contributing to business success.",
+                            "content_instructions": {
+                                "role": "professional product marketing manager",
+                                "topic": "Understand how marketing supports product launches and drives product awareness."
+                            },
+                            "icon": "logo_4"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "generating_sales_qualified_leads",
                     "type": "module",
                     "title": "Generating Sales-qualified Leads",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_marketing_efforts_generate_and_qualify_leads_for_the_sales_team",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Overview of how marketing efforts generate and qualify leads for the sales team."
+                            "title": "Overview of how marketing efforts generate and qualify leads for the sales team.",
+                            "action": "Learn about the lead generation process and how to qualify leads effectively.",
+                            "description": "Generating sales-qualified leads is essential for supporting the sales team and driving revenue. Understanding how to create effective lead generation strategies, including content offers and targeted campaigns, will empower you to contribute to the lead pipeline. Familiarizing yourself with the lead qualification process will enhance your ability to deliver high-quality leads to the sales team.\nBy mastering lead generation and qualification techniques, you will play a crucial role in driving business success and supporting sales efforts.",
+                            "content_instructions": {
+                                "role": "professional lead generation specialist",
+                                "topic": "Overview of how marketing efforts generate and qualify leads for the sales team."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "our_marketing_analytics_and_reporting",
             "type": "section",
             "title": "Our Marketing Analytics and Reporting",
             "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "tracking_campaign_performance",
                     "type": "module",
                     "title": "Tracking Campaign Performance",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_track_and_measure_the_performance_of_marketing_campaigns",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Learn how to track and measure the performance of marketing campaigns."
+                            "title": "Learn how to track and measure the performance of marketing campaigns.",
+                            "action": "Explore the metrics and tools used for campaign performance tracking.",
+                            "description": "Tracking campaign performance is essential for understanding what works and what doesn't. Familiarizing yourself with the metrics used to evaluate success, such as conversion rates and engagement metrics, will empower you to make data-driven decisions. Understanding how to use analytics tools effectively will enhance your ability to assess campaign effectiveness and optimize future efforts.\nBy mastering campaign performance tracking, you will contribute to improving our marketing strategies and achieving better results.",
+                            "content_instructions": {
+                                "role": "professional marketing analyst",
+                                "topic": "Learn how to track and measure the performance of marketing campaigns."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "google_analytics_and_attribution",
                     "type": "module",
                     "title": "Google Analytics and Attribution",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_use_google_analytics_for_tracking_user_behavior_and_campaign_attribution",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Understand how to use Google Analytics for tracking user behavior and campaign attribution."
+                            "title": "Understand how to use Google Analytics for tracking user behavior and campaign attribution.",
+                            "action": "Familiarize yourself with Google Analytics features and how to interpret data.",
+                            "description": "Google Analytics is a powerful tool for tracking user behavior and understanding how visitors interact with our website. Familiarizing yourself with its features, including attribution models and user segmentation, will empower you to derive actionable insights from the data. Understanding how to interpret this data will enhance your ability to optimize marketing efforts and improve user experience.\nBy mastering Google Analytics, you will contribute to data-driven decision-making and enhance the effectiveness of our marketing campaigns.",
+                            "content_instructions": {
+                                "role": "professional Google Analytics specialist",
+                                "topic": "Understand how to use Google Analytics for tracking user behavior and campaign attribution."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "marketing_dashboard_overview",
                     "type": "module",
                     "title": "Marketing Dashboard Overview",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_marketing_dashboards_used_to_monitor_key_metrics",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Overview of the marketing dashboards used to monitor key metrics."
+                            "title": "Overview of the marketing dashboards used to monitor key metrics.",
+                            "action": "Explore the dashboards and tools we use to visualize marketing data.",
+                            "description": "Marketing dashboards provide a visual representation of key metrics and performance indicators. Understanding how to navigate and utilize these dashboards will empower you to monitor marketing performance effectively and make informed decisions. Familiarizing yourself with the tools used to create these dashboards will enhance your ability to communicate insights to the team.\nBy mastering marketing dashboards, you will contribute to a culture of data-driven decision-making and improve overall marketing effectiveness.",
+                            "content_instructions": {
+                                "role": "professional data visualization expert",
+                                "topic": "Overview of the marketing dashboards used to monitor key metrics."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "customer_segmentation_and_targeting_in_our_company",
             "type": "section",
             "title": "Customer Segmentation and Targeting in Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "defining_customer_personas",
                     "type": "module",
                     "title": "Defining Customer Personas",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_define_and_create_customer_personas_based_on_market_research",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn how to define and create customer personas based on market research."
+                            "title": "Learn how to define and create customer personas based on market research.",
+                            "action": "Explore the process of developing customer personas to guide marketing efforts.",
+                            "description": "Defining customer personas is essential for understanding your target audience and tailoring marketing strategies accordingly. By conducting market research and analyzing customer behavior, you can create detailed personas that represent different segments of your audience. Familiarizing yourself with this process will empower you to create targeted campaigns that resonate with specific customer groups.\nBy mastering customer persona development, you will enhance our marketing efforts and ensure that messaging is relevant and impactful.",
+                            "content_instructions": {
+                                "role": "professional market researcher",
+                                "topic": "Learn how to define and create customer personas based on market research."
+                            },
+                            "icon": "logo_48"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "targeting_specific_customer_segments",
                     "type": "module",
                     "title": "Targeting Specific Customer Segments",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_target_specific_customer_segments_with_tailored_messaging",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how to target specific customer segments with tailored messaging."
+                            "title": "Understand how to target specific customer segments with tailored messaging.",
+                            "action": "Review strategies for segmenting audiences and crafting tailored messages.",
+                            "description": "Targeting specific customer segments with tailored messaging is crucial for maximizing marketing effectiveness. By analyzing customer data and behavior, you can develop strategies that resonate with different audience segments. Familiarizing yourself with these strategies will empower you to create campaigns that drive engagement and conversions.\nBy mastering audience targeting techniques, you will contribute to more effective marketing initiatives and improve overall campaign performance.",
+                            "content_instructions": {
+                                "role": "professional audience targeting expert",
+                                "topic": "Understand how to target specific customer segments with tailored messaging."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "optimizing_campaigns_based_on_segmentation",
                     "type": "module",
                     "title": "Optimizing Campaigns Based on Segmentation",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_optimize_marketing_campaigns_based_on_customer_segmentation_data",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of how to optimize marketing campaigns based on customer segmentation data."
+                            "title": "Overview of how to optimize marketing campaigns based on customer segmentation data.",
+                            "action": "Learn how to analyze segmentation data to enhance campaign performance.",
+                            "description": "Optimizing marketing campaigns based on customer segmentation data is essential for improving effectiveness and ROI. By analyzing how different segments respond to various marketing efforts, you can refine your strategies to better meet their needs. Familiarizing yourself with this optimization process will empower you to create more targeted and effective campaigns.\nBy mastering campaign optimization based on segmentation, you will contribute to improved marketing outcomes and ensure that efforts are aligned with customer preferences.",
+                            "content_instructions": {
+                                "role": "professional marketing optimization expert",
+                                "topic": "Overview of how to optimize marketing campaigns based on customer segmentation data."
+                            },
+                            "icon": "logo_28"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "ongoing_learning_and_industry_trends_in_our_company_1",
             "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "marketing_certifications_and_courses",
                     "type": "module",
                     "title": "Marketing Certifications and Courses",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_certifications_and_courses_available_for_digital_marketing_specialists",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about the certifications and courses available for digital marketing specialists."
+                            "title": "Learn about the certifications and courses available for digital marketing specialists.",
+                            "action": "Explore available certifications and courses to enhance your skills.",
+                            "description": "Continuous learning is vital in the fast-paced world of digital marketing. Our company offers various certifications and courses that can help you stay updated with industry trends and best practices. Familiarizing yourself with these opportunities will empower you to enhance your skills and advance your career.\nBy engaging in ongoing education, you will contribute to your personal growth and ensure that our marketing efforts remain competitive and effective.",
+                            "content_instructions": {
+                                "role": "professional learning and development coordinator",
+                                "topic": "Learn about the certifications and courses available for digital marketing specialists."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "staying_updated_with_digital_marketing_trends",
                     "type": "module",
                     "title": "Staying Updated with Digital Marketing Trends",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_stay_informed_about_the_latest_trends_in_digital_marketing",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how to stay informed about the latest trends in digital marketing."
+                            "title": "Understand how to stay informed about the latest trends in digital marketing.",
+                            "action": "Review resources and strategies for keeping up with industry trends.",
+                            "description": "Staying updated with the latest trends in digital marketing is crucial for maintaining a competitive edge. By following industry publications, attending webinars, and participating in professional networks, you can keep abreast of emerging trends and best practices. Familiarizing yourself with these resources will empower you to implement innovative strategies in your marketing efforts.\nBy mastering the art of staying informed, you will contribute to keeping our marketing initiatives fresh and relevant.",
+                            "content_instructions": {
+                                "role": "professional digital marketing consultant",
+                                "topic": "Understand how to stay informed about the latest trends in digital marketing."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "internal_marketing_workshops",
                     "type": "module",
                     "title": "Internal Marketing Workshops",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_internal_workshops_available_for_continuous_marketing_skill_development",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of the internal workshops available for continuous marketing skill development."
+                            "title": "Overview of the internal workshops available for continuous marketing skill development.",
+                            "action": "Explore the internal workshops offered for skill enhancement.",
+                            "description": "Internal workshops provide valuable opportunities for skill development and knowledge sharing among team members. Participating in these workshops will enable you to learn from experienced colleagues and gain insights into various marketing techniques and strategies. Familiarizing yourself with the workshop offerings will empower you to take advantage of these learning opportunities.\nBy engaging in internal workshops, you will contribute to a culture of continuous improvement and collaboration within the marketing team.",
+                            "content_instructions": {
+                                "role": "professional workshop facilitator",
+                                "topic": "Overview of the internal workshops available for continuous marketing skill development."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 }

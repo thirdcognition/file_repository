@@ -5,741 +5,923 @@
     "end_of_day": 31,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_14",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "meet_the_hr_team",
                     "type": "module",
                     "title": "Meet the HR Team",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_hr_team_members_and_their_roles",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Introduction to the HR team members and their roles."
+                            "title": "Introduction to the HR team members and their roles.",
+                            "action": "Familiarize yourself with the HR team members and their specific roles.",
+                            "description": "The HR team is composed of various professionals who focus on different aspects of human resources, including recruitment, employee relations, compliance, and training. Understanding each member's role is essential for effective collaboration and support within the team. Each member brings unique expertise, and knowing who to approach for specific issues will enhance your ability to navigate HR processes efficiently.\nEstablishing relationships with your HR colleagues will also foster a supportive environment where you can share insights and best practices. Building these connections early on will facilitate smoother communication and collaboration as you begin your journey in HR.",
+                            "content_instructions": {
+                                "role": "professional HR director",
+                                "topic": "Introduction to the HR team members and their roles."
+                            },
+                            "icon": "logo_2"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "company_culture_and_values",
                     "type": "module",
                     "title": "Company Culture and Values",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_company_s_culture_and_core_values_and_how_they_influence_hr_policies",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Understand the company's culture and core values and how they influence HR policies."
+                            "title": "Understand the company's culture and core values and how they influence HR policies.",
+                            "action": "Review the company's culture and values and their relevance to HR practices.",
+                            "description": "Our company's culture and core values are the guiding principles that inform our HR practices and policies. They shape how we interact with employees, approach recruitment, and manage employee relations. A strong understanding of these values is crucial for aligning HR initiatives with organizational goals.\nBy internalizing the company culture, you will be better equipped to foster a work environment that promotes engagement, inclusivity, and high performance. This understanding will also help you advocate for initiatives that reflect our values and contribute to a positive workplace culture.",
+                            "content_instructions": {
+                                "role": "professional culture consultant",
+                                "topic": "Understand the company's culture and core values and how they influence HR policies."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "introduction_to_hr_leadership",
                     "type": "module",
                     "title": "Introduction to HR Leadership",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_hr_leadership_team_and_their_responsibilities",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Overview of the HR leadership team and their responsibilities."
+                            "title": "Overview of the HR leadership team and their responsibilities.",
+                            "action": "Learn about the HR leadership team and their roles within the organization.",
+                            "description": "The HR leadership team plays a pivotal role in shaping the strategic direction of our HR initiatives. Each leader is responsible for key areas such as talent acquisition, employee engagement, and compliance. Understanding their roles and responsibilities will provide you with insights into how HR strategies are developed and executed.\nBy knowing the leadership team, you can identify key stakeholders for various HR initiatives and understand their expectations. This knowledge will enhance your ability to collaborate effectively and contribute to the overall success of our HR programs.",
+                            "content_instructions": {
+                                "role": "professional HR strategist",
+                                "topic": "Overview of the HR leadership team and their responsibilities."
+                            },
+                            "icon": "logo_2"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_hr_policies_and_procedures",
             "type": "section",
             "title": "Familiarize with Our HR Policies and Procedures",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "employee_handbook_overview",
                     "type": "module",
                     "title": "Employee Handbook Overview",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_key_policies_outlined_in_the_employee_handbook",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Learn about the key policies outlined in the employee handbook."
+                            "title": "Learn about the key policies outlined in the employee handbook.",
+                            "action": "Review the employee handbook and familiarize yourself with key policies.",
+                            "description": "The employee handbook is a comprehensive guide that outlines our company's policies, procedures, and expectations for employee conduct. Understanding these policies is crucial for ensuring compliance and fostering a positive work environment. Key topics covered include workplace conduct, attendance, and benefits.\nBy familiarizing yourself with the handbook, you will be better equipped to answer employee questions and provide guidance on HR-related matters. This knowledge is essential for maintaining consistency and fairness in HR practices across the organization.",
+                            "content_instructions": {
+                                "role": "professional HR compliance officer",
+                                "topic": "Learn about the key policies outlined in the employee handbook."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "hr_compliance_and_legal_obligations",
                     "type": "module",
                     "title": "HR Compliance and Legal Obligations",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_company_s_legal_obligations_and_compliance_requirements_in_hr_practices",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Understand the company's legal obligations and compliance requirements in HR practices."
+                            "title": "Understand the company's legal obligations and compliance requirements in HR practices.",
+                            "action": "Review the legal obligations and compliance requirements relevant to HR.",
+                            "description": "Compliance with local, state, and federal laws is a critical responsibility of the HR department. Understanding these legal obligations ensures that our HR practices are aligned with regulations governing employment, workplace safety, and anti-discrimination laws. This knowledge is essential for mitigating risks and protecting the company from legal challenges.\nBy staying informed about compliance requirements, you will be better positioned to implement policies that uphold legal standards and promote a fair and equitable workplace. This understanding is vital for fostering trust and transparency within the organization.",
+                            "content_instructions": {
+                                "role": "professional HR compliance specialist",
+                                "topic": "Understand the company's legal obligations and compliance requirements in HR practices."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "policies_on_workplace_conduct_and_ethics",
                     "type": "module",
                     "title": "Policies on Workplace Conduct and Ethics",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_policies_related_to_workplace_conduct_and_ethical_behavior",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Overview of policies related to workplace conduct and ethical behavior."
+                            "title": "Overview of policies related to workplace conduct and ethical behavior.",
+                            "action": "Review workplace conduct and ethics policies and their importance.",
+                            "description": "Workplace conduct and ethics are foundational to maintaining a respectful and productive work environment. Our policies outline expectations for employee behavior, including professionalism, respect, and integrity. Understanding these policies is essential for promoting a culture of accountability and ethical decision-making.\nBy familiarizing yourself with these guidelines, you will be better equipped to address any conduct-related issues and support a positive workplace culture. This knowledge is vital for ensuring that all employees feel valued and respected in their roles.",
+                            "content_instructions": {
+                                "role": "professional ethics officer",
+                                "topic": "Overview of policies related to workplace conduct and ethical behavior."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "our_employee_onboarding_and_offboarding_process",
             "type": "section",
             "title": "Our Employee Onboarding and Offboarding Process",
             "end_of_day": 9,
             "children": [
                 {
-                    "index": 0,
                     "id": "new_hire_onboarding_process",
                     "type": "module",
                     "title": "New Hire Onboarding Process",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_steps_involved_in_onboarding_new_employees_including_paperwork_and_training",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Learn the steps involved in onboarding new employees, including paperwork and training."
+                            "title": "Learn the steps involved in onboarding new employees, including paperwork and training.",
+                            "action": "Review the onboarding process and familiarize yourself with key steps.",
+                            "description": "The onboarding process is crucial for integrating new employees into the organization. It involves a series of steps, including paperwork, orientation, and training sessions. Understanding this process is essential for ensuring that new hires feel welcomed and supported as they transition into their roles.\nBy familiarizing yourself with the onboarding procedures, you will be better equipped to guide new employees and address any questions or concerns they may have. This knowledge is vital for creating a positive onboarding experience that sets the stage for long-term success.",
+                            "content_instructions": {
+                                "role": "professional onboarding specialist",
+                                "topic": "Learn the steps involved in onboarding new employees, including paperwork and training."
+                            },
+                            "icon": "logo_9"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "exit_interview_and_offboarding_procedures",
                     "type": "module",
                     "title": "Exit Interview and Offboarding Procedures",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_exit_interview_process_and_offboarding_procedures_for_departing_employees",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Understand the exit interview process and offboarding procedures for departing employees."
+                            "title": "Understand the exit interview process and offboarding procedures for departing employees.",
+                            "action": "Review the exit interview process and familiarize yourself with offboarding steps.",
+                            "description": "The exit interview process is a critical component of offboarding, providing valuable insights into employee experiences and areas for improvement within the organization. Understanding how to conduct exit interviews effectively is essential for gathering feedback and ensuring a smooth transition for departing employees.\nBy familiarizing yourself with the offboarding procedures, you will be better equipped to manage the exit process and address any concerns that may arise. This knowledge is vital for maintaining positive relationships with former employees and enhancing the overall employee experience.",
+                            "content_instructions": {
+                                "role": "professional HR consultant",
+                                "topic": "Understand the exit interview process and offboarding procedures for departing employees."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "managing_employee_transitions",
                     "type": "module",
                     "title": "Managing Employee Transitions",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_managing_transitions_including_promotions_transfers_and_role_changes",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Overview of managing transitions, including promotions, transfers, and role changes."
+                            "title": "Overview of managing transitions, including promotions, transfers, and role changes.",
+                            "action": "Learn about the processes involved in managing employee transitions.",
+                            "description": "Managing employee transitions effectively is crucial for maintaining morale and productivity within the organization. This includes overseeing promotions, transfers, and role changes, ensuring that employees are supported throughout the process. Understanding these procedures is essential for fostering a culture of growth and development within the company.\nBy familiarizing yourself with the transition management processes, you will be better equipped to guide employees through changes in their roles and address any challenges that may arise. This knowledge is vital for promoting a positive employee experience and supporting career advancement.",
+                            "content_instructions": {
+                                "role": "professional HR transition manager",
+                                "topic": "Overview of managing transitions, including promotions, transfers, and role changes."
+                            },
+                            "icon": "logo_40"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "hr_tools_and_systems_at_our_company",
             "type": "section",
             "title": "HR Tools and Systems at Our Company",
             "end_of_day": 12,
             "children": [
                 {
-                    "index": 0,
                     "id": "hr_information_systems_hris",
                     "type": "module",
                     "title": "HR Information Systems (HRIS)",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_hr_information_systems_used_for_managing_employee_data",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Learn about the HR information systems used for managing employee data."
+                            "title": "Learn about the HR information systems used for managing employee data.",
+                            "action": "Familiarize yourself with the HRIS and its functionalities.",
+                            "description": "HR Information Systems (HRIS) are vital tools for managing employee data, streamlining HR processes, and ensuring compliance. Understanding how to navigate the HRIS is essential for efficiently managing employee records, payroll, benefits, and performance evaluations.\nBy familiarizing yourself with the HRIS, you will enhance your ability to access and manage employee information effectively. This knowledge is crucial for supporting HR initiatives and ensuring that data is accurate and up-to-date.",
+                            "content_instructions": {
+                                "role": "professional HRIS consultant",
+                                "topic": "Learn about the HR information systems used for managing employee data."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "payroll_and_benefits_management_tools",
                     "type": "module",
                     "title": "Payroll and Benefits Management Tools",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_tools_used_to_manage_payroll_benefits_and_employee_compensation",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Understand the tools used to manage payroll, benefits, and employee compensation."
+                            "title": "Understand the tools used to manage payroll, benefits, and employee compensation.",
+                            "action": "Review the payroll and benefits management tools and their functionalities.",
+                            "description": "Managing payroll and employee benefits is a critical aspect of HR operations. Understanding the tools used for these functions is essential for ensuring that employees are compensated accurately and on time. Familiarity with these tools will also enable you to effectively communicate benefits options and answer employee inquiries.\nBy mastering the payroll and benefits management systems, you will enhance your ability to support employees and ensure compliance with compensation regulations. This knowledge is vital for maintaining employee satisfaction and trust.",
+                            "content_instructions": {
+                                "role": "professional payroll manager",
+                                "topic": "Understand the tools used to manage payroll, benefits, and employee compensation."
+                            },
+                            "icon": "logo_45"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "employee_self_service_portals",
                     "type": "module",
                     "title": "Employee Self-Service Portals",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_self_service_portals_available_for_employees_to_manage_their_own_data",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Overview of the self-service portals available for employees to manage their own data."
+                            "title": "Overview of the self-service portals available for employees to manage their own data.",
+                            "action": "Explore the employee self-service portals and their functionalities.",
+                            "description": "Employee self-service portals empower employees to manage their own information, such as personal details, benefits enrollment, and time-off requests. Understanding how these portals work is essential for guiding employees in using them effectively and promoting a culture of self-sufficiency.\nBy familiarizing yourself with the self-service portals, you will enhance your ability to assist employees and streamline HR processes. This knowledge is crucial for improving efficiency and employee satisfaction.",
+                            "content_instructions": {
+                                "role": "professional HR technology specialist",
+                                "topic": "Overview of the self-service portals available for employees to manage their own data."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "our_employee_relations_and_conflict_management_process",
             "type": "section",
             "title": "Our Employee Relations and Conflict Management Process",
             "end_of_day": 15,
             "children": [
                 {
-                    "index": 0,
                     "id": "mediation_and_conflict_resolution",
                     "type": "module",
                     "title": "Mediation and Conflict Resolution",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_mediate_and_resolve_conflicts_between_employees",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Learn how to mediate and resolve conflicts between employees."
+                            "title": "Learn how to mediate and resolve conflicts between employees.",
+                            "action": "Review conflict resolution strategies and mediation techniques.",
+                            "description": "Effective conflict resolution is essential for maintaining a harmonious workplace. Understanding mediation techniques allows HR professionals to facilitate discussions between conflicting parties and guide them toward a resolution. This skill is crucial for fostering a positive work environment and ensuring that issues are addressed promptly.\nBy mastering conflict resolution strategies, you will enhance your ability to support employees and promote a culture of collaboration. This knowledge is vital for minimizing disruptions and maintaining morale within the organization.",
+                            "content_instructions": {
+                                "role": "professional conflict resolution specialist",
+                                "topic": "Learn how to mediate and resolve conflicts between employees."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "employee_grievance_handling",
                     "type": "module",
                     "title": "Employee Grievance Handling",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_process_for_handling_employee_grievances_and_complaints",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Understand the process for handling employee grievances and complaints."
+                            "title": "Understand the process for handling employee grievances and complaints.",
+                            "action": "Review the grievance handling procedures and best practices.",
+                            "description": "Handling employee grievances effectively is critical for maintaining trust and transparency within the organization. Understanding the procedures for addressing complaints allows HR professionals to respond promptly and appropriately, ensuring that employees feel heard and valued. This process is essential for fostering a positive workplace culture.\nBy familiarizing yourself with grievance handling procedures, you will enhance your ability to support employees and resolve issues constructively. This knowledge is vital for promoting a culture of accountability and continuous improvement.",
+                            "content_instructions": {
+                                "role": "professional grievance officer",
+                                "topic": "Understand the process for handling employee grievances and complaints."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "creating_a_positive_work_environment",
                     "type": "module",
                     "title": "Creating a Positive Work Environment",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_strategies_to_foster_a_positive_work_environment_and_employee_satisfaction",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Overview of strategies to foster a positive work environment and employee satisfaction."
+                            "title": "Overview of strategies to foster a positive work environment and employee satisfaction.",
+                            "action": "Explore strategies for promoting a positive workplace culture.",
+                            "description": "Creating a positive work environment is essential for employee engagement and satisfaction. Understanding strategies for fostering a supportive culture, recognizing achievements, and promoting work-life balance is crucial for enhancing morale and productivity. This knowledge enables HR professionals to implement initiatives that contribute to a thriving workplace.\nBy familiarizing yourself with these strategies, you will enhance your ability to support employee well-being and drive engagement initiatives. This knowledge is vital for building a strong organizational culture that attracts and retains top talent.",
+                            "content_instructions": {
+                                "role": "professional organizational development specialist",
+                                "topic": "Overview of strategies to foster a positive work environment and employee satisfaction."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "performance_management_and_appraisals_in_our_company",
             "type": "section",
             "title": "Performance Management and Appraisals in Our Company",
             "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "performance_review_cycles",
                     "type": "module",
                     "title": "Performance Review Cycles",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_performance_review_cycle_and_how_feedback_is_delivered",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Learn about the performance review cycle and how feedback is delivered."
+                            "title": "Learn about the performance review cycle and how feedback is delivered.",
+                            "action": "Review the performance review cycle and its significance.",
+                            "description": "Understanding the performance review cycle is essential for delivering constructive feedback and supporting employee development. This cycle typically includes goal setting, mid-year check-ins, and annual reviews. Familiarity with this process allows HR professionals to guide managers and employees in setting expectations and discussing performance effectively.\nBy mastering the performance review cycle, you will enhance your ability to facilitate meaningful conversations around performance and development. This knowledge is vital for promoting a culture of continuous feedback and growth.",
+                            "content_instructions": {
+                                "role": "professional performance management consultant",
+                                "topic": "Learn about the performance review cycle and how feedback is delivered."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "setting_goals_and_kpis_for_employees",
                     "type": "module",
                     "title": "Setting Goals and KPIs for Employees",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_set_measurable_goals_and_kpis_for_employee_performance",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Understand how to set measurable goals and KPIs for employee performance."
+                            "title": "Understand how to set measurable goals and KPIs for employee performance.",
+                            "action": "Review the process for setting goals and KPIs.",
+                            "description": "Setting clear and measurable goals is crucial for driving employee performance and aligning individual contributions with organizational objectives. Understanding how to establish KPIs ensures that employees have a clear understanding of expectations and can track their progress effectively. This knowledge is essential for fostering accountability and motivation within the workforce.\nBy familiarizing yourself with goal-setting processes, you will enhance your ability to support managers in developing performance plans that drive results. This knowledge is vital for ensuring that employees are engaged and focused on achieving their objectives.",
+                            "content_instructions": {
+                                "role": "professional performance coach",
+                                "topic": "Understand how to set measurable goals and KPIs for employee performance."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "managing_underperformance",
                     "type": "module",
                     "title": "Managing Underperformance",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_strategies_for_addressing_and_managing_underperformance",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Overview of strategies for addressing and managing underperformance."
+                            "title": "Overview of strategies for addressing and managing underperformance.",
+                            "action": "Review strategies for managing underperformance effectively.",
+                            "description": "Addressing underperformance is a critical responsibility for HR professionals. Understanding the factors that contribute to underperformance and implementing strategies to support improvement is essential for fostering a culture of accountability and growth. This knowledge enables HR to guide managers in addressing performance issues constructively and effectively.\nBy familiarizing yourself with underperformance management strategies, you will enhance your ability to support employees in overcoming challenges and achieving their potential. This knowledge is vital for maintaining high performance standards within the organization.",
+                            "content_instructions": {
+                                "role": "professional performance improvement specialist",
+                                "topic": "Overview of strategies for addressing and managing underperformance."
+                            },
+                            "icon": "logo_31"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "our_compensation_and_benefits_overview",
             "type": "section",
             "title": "Our Compensation and Benefits Overview",
             "end_of_day": 21,
             "children": [
                 {
-                    "index": 0,
                     "id": "salary_structure_and_incentives",
                     "type": "module",
                     "title": "Salary Structure and Incentives",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_company_s_salary_structure_and_incentive_programs",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Learn about the company's salary structure and incentive programs."
+                            "title": "Learn about the company's salary structure and incentive programs.",
+                            "action": "Review the salary structure and understand incentive programs.",
+                            "description": "Understanding the company's salary structure and incentive programs is essential for ensuring fair compensation and motivating employees. Familiarity with these structures allows HR professionals to provide guidance on salary negotiations and communicate effectively about compensation packages. This knowledge is crucial for attracting and retaining top talent within the organization.\nBy mastering the compensation framework, you will enhance your ability to support employees in understanding their pay and benefits, fostering transparency and trust in the organization. This knowledge is vital for maintaining a competitive edge in the job market.",
+                            "content_instructions": {
+                                "role": "professional compensation analyst",
+                                "topic": "Learn about the company's salary structure and incentive programs."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "health_and_wellness_benefits",
                     "type": "module",
                     "title": "Health and Wellness Benefits",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_health_and_wellness_benefits_offered_to_employees",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Understand the health and wellness benefits offered to employees."
+                            "title": "Understand the health and wellness benefits offered to employees.",
+                            "action": "Review the health and wellness benefits available to employees.",
+                            "description": "Health and wellness benefits are essential for supporting employee well-being and engagement. Understanding the various benefits offered, such as medical coverage, wellness programs, and mental health resources, is crucial for promoting a healthy workplace culture. This knowledge enables HR professionals to communicate effectively about available resources and support employee needs.\nBy familiarizing yourself with health and wellness benefits, you will enhance your ability to advocate for employee well-being and contribute to a positive work environment. This knowledge is vital for fostering a culture of care and support within the organization.",
+                            "content_instructions": {
+                                "role": "professional benefits coordinator",
+                                "topic": "Understand the health and wellness benefits offered to employees."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "retirement_plans_and_perks",
                     "type": "module",
                     "title": "Retirement Plans and Perks",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_retirement_plans_and_additional_perks_available_to_employees",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Overview of retirement plans and additional perks available to employees."
+                            "title": "Overview of retirement plans and additional perks available to employees.",
+                            "action": "Review the retirement plans and perks offered to employees.",
+                            "description": "Retirement plans and additional perks play a significant role in attracting and retaining talent. Understanding the options available, such as 401(k) plans, pension schemes, and other perks, is essential for supporting employees in their financial planning. This knowledge enables HR professionals to communicate effectively about these benefits and assist employees in making informed decisions.\nBy familiarizing yourself with retirement plans and perks, you will enhance your ability to support employees in planning for their future and contribute to their overall satisfaction. This knowledge is vital for promoting a culture of long-term investment in employee well-being.",
+                            "content_instructions": {
+                                "role": "professional retirement planner",
+                                "topic": "Overview of retirement plans and additional perks available to employees."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "compliance_with_labor_laws_at_our_company",
             "type": "section",
             "title": "Compliance with Labor Laws at Our Company",
             "end_of_day": 24,
             "children": [
                 {
-                    "index": 0,
                     "id": "understanding_employment_laws",
                     "type": "module",
                     "title": "Understanding Employment Laws",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_local_employment_laws_and_regulations_the_company_adheres_to",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Learn about local employment laws and regulations the company adheres to."
+                            "title": "Learn about local employment laws and regulations the company adheres to.",
+                            "action": "Review the local employment laws relevant to our company.",
+                            "description": "Understanding local employment laws is crucial for ensuring compliance and protecting both the company and its employees. Familiarity with these laws enables HR professionals to navigate legal requirements effectively and implement policies that uphold employee rights. This knowledge is essential for mitigating risks and fostering a fair workplace environment.\nBy mastering employment laws, you will enhance your ability to provide guidance on legal matters and ensure that HR practices align with regulations. This knowledge is vital for maintaining the integrity of the organization and building trust with employees.",
+                            "content_instructions": {
+                                "role": "professional employment law consultant",
+                                "topic": "Learn about local employment laws and regulations the company adheres to."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "ensuring_compliance_with_local_regulations",
                     "type": "module",
                     "title": "Ensuring Compliance with Local Regulations",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_the_company_ensures_compliance_with_local_and_national_labor_laws",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Understand how the company ensures compliance with local and national labor laws."
+                            "title": "Understand how the company ensures compliance with local and national labor laws.",
+                            "action": "Review the compliance measures in place for labor laws.",
+                            "description": "Ensuring compliance with local and national labor laws is a critical responsibility for HR. Understanding the measures in place to uphold these regulations is essential for promoting a fair and equitable workplace. This knowledge enables HR professionals to implement best practices and mitigate risks associated with non-compliance.\nBy familiarizing yourself with compliance protocols, you will enhance your ability to support the organization in maintaining legal standards and fostering a culture of accountability. This knowledge is vital for building a reputation as a responsible employer.",
+                            "content_instructions": {
+                                "role": "professional compliance officer",
+                                "topic": "Understand how the company ensures compliance with local and national labor laws."
+                            },
+                            "icon": "logo_43"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "managing_workplace_safety_and_compliance",
                     "type": "module",
                     "title": "Managing Workplace Safety and Compliance",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_policies_and_procedures_to_ensure_workplace_safety_and_compliance",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Overview of the policies and procedures to ensure workplace safety and compliance."
+                            "title": "Overview of the policies and procedures to ensure workplace safety and compliance.",
+                            "action": "Review workplace safety policies and compliance measures.",
+                            "description": "Workplace safety is a top priority for our organization. Understanding the policies and procedures in place to ensure a safe working environment is essential for protecting employees and minimizing risks. This knowledge enables HR professionals to advocate for safety measures and respond effectively to any safety concerns.\nBy familiarizing yourself with workplace safety protocols, you will enhance your ability to promote a culture of safety and compliance within the organization. This knowledge is vital for ensuring that all employees feel secure in their working environment.",
+                            "content_instructions": {
+                                "role": "professional safety officer",
+                                "topic": "Overview of the policies and procedures to ensure workplace safety and compliance."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "collaborating_with_our_finance_and_operations_teams",
             "type": "section",
             "title": "Collaborating with Our Finance and Operations Teams",
             "end_of_day": 27,
             "children": [
                 {
-                    "index": 0,
                     "id": "aligning_hr_budgets_with_finance",
                     "type": "module",
                     "title": "Aligning HR Budgets with Finance",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_hr_collaborates_with_finance_to_align_budgets_and_manage_costs",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Learn how HR collaborates with finance to align budgets and manage costs."
+                            "title": "Learn how HR collaborates with finance to align budgets and manage costs.",
+                            "action": "Review the processes for aligning HR budgets with finance.",
+                            "description": "Collaboration between HR and finance is essential for managing budgets effectively and ensuring that HR initiatives are financially viable. Understanding how to align HR budgets with overall financial goals is crucial for supporting organizational priorities and maximizing resource allocation.\nBy familiarizing yourself with budget alignment processes, you will enhance your ability to advocate for HR initiatives and contribute to financial planning. This knowledge is vital for ensuring that HR strategies are aligned with the company's financial objectives.",
+                            "content_instructions": {
+                                "role": "professional financial analyst",
+                                "topic": "Learn how HR collaborates with finance to align budgets and manage costs."
+                            },
+                            "icon": "logo_32"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "operational_support_for_hr_initiatives",
                     "type": "module",
                     "title": "Operational Support for HR Initiatives",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_support_provided_by_operations_for_hr_initiatives_such_as_office_management_and_logistics",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Understand the support provided by operations for HR initiatives, such as office management and logistics."
+                            "title": "Understand the support provided by operations for HR initiatives, such as office management and logistics.",
+                            "action": "Review the operational support available for HR initiatives.",
+                            "description": "Operational support is critical for the successful implementation of HR initiatives. Understanding how operations collaborate with HR to manage logistics, office management, and other support functions is essential for ensuring that HR programs run smoothly. This knowledge enables HR professionals to leverage operational resources effectively.\nBy familiarizing yourself with operational support structures, you will enhance your ability to coordinate HR initiatives and contribute to overall organizational efficiency. This knowledge is vital for fostering a culture of collaboration and teamwork.",
+                            "content_instructions": {
+                                "role": "professional operations manager",
+                                "topic": "Understand the support provided by operations for HR initiatives, such as office management and logistics."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "ensuring_smooth_communication_across_departments",
                     "type": "module",
                     "title": "Ensuring Smooth Communication Across Departments",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_communication_channels_used_to_ensure_smooth_collaboration_between_hr_finance_and_operations",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Overview of communication channels used to ensure smooth collaboration between HR, finance, and operations."
+                            "title": "Overview of communication channels used to ensure smooth collaboration between HR, finance, and operations.",
+                            "action": "Review the communication channels used for cross-department collaboration.",
+                            "description": "Effective communication across departments is essential for fostering collaboration and achieving organizational goals. Understanding the channels and tools used for communication between HR, finance, and operations is crucial for ensuring that information flows smoothly and that all teams are aligned.\nBy familiarizing yourself with these communication practices, you will enhance your ability to facilitate collaboration and address any communication challenges that may arise. This knowledge is vital for promoting a culture of transparency and teamwork.",
+                            "content_instructions": {
+                                "role": "professional communication specialist",
+                                "topic": "Overview of communication channels used to ensure smooth collaboration between HR, finance, and operations."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "diversity_and_inclusion_initiatives_at_our_company",
             "type": "section",
             "title": "Diversity and Inclusion Initiatives at Our Company",
-            "end_of_day": 29,
+            "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "promoting_workplace_diversity",
                     "type": "module",
                     "title": "Promoting Workplace Diversity",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_initiatives_in_place_to_promote_diversity_in_hiring_and_workplace_culture",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Learn about initiatives in place to promote diversity in hiring and workplace culture."
+                            "title": "Learn about initiatives in place to promote diversity in hiring and workplace culture.",
+                            "action": "Review diversity initiatives and their impact on the workplace.",
+                            "description": "Promoting workplace diversity is essential for creating an inclusive environment that values different perspectives and experiences. Understanding the initiatives in place to promote diversity in hiring and workplace culture is crucial for fostering a sense of belonging among employees. This knowledge enables HR professionals to advocate for diversity and inclusion initiatives effectively.\nBy familiarizing yourself with these initiatives, you will enhance your ability to support a diverse workforce and contribute to a culture of inclusivity. This knowledge is vital for ensuring that all employees feel valued and respected in their roles.",
+                            "content_instructions": {
+                                "role": "professional diversity officer",
+                                "topic": "Learn about initiatives in place to promote diversity in hiring and workplace culture."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "inclusive_hiring_practices",
                     "type": "module",
                     "title": "Inclusive Hiring Practices",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_the_company_ensures_inclusive_hiring_practices_and_removes_biases",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Understand how the company ensures inclusive hiring practices and removes biases."
+                            "title": "Understand how the company ensures inclusive hiring practices and removes biases.",
+                            "action": "Review the inclusive hiring practices and their significance.",
+                            "description": "Inclusive hiring practices are essential for attracting a diverse pool of candidates and ensuring that all applicants are evaluated fairly. Understanding the measures in place to remove biases from the hiring process is crucial for promoting equity and diversity within the organization. This knowledge enables HR professionals to implement best practices in recruitment and selection.\nBy familiarizing yourself with these practices, you will enhance your ability to support inclusive hiring initiatives and contribute to building a diverse workforce. This knowledge is vital for fostering a culture of fairness and equality in the hiring process.",
+                            "content_instructions": {
+                                "role": "professional recruitment specialist",
+                                "topic": "Understand how the company ensures inclusive hiring practices and removes biases."
+                            },
+                            "icon": "logo_1"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "employee_resource_groups_ergs",
                     "type": "module",
                     "title": "Employee Resource Groups (ERGs)",
-                    "end_of_day": 29,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_employee_resource_groups_and_their_role_in_fostering_inclusivity",
                             "type": "action",
-                            "end_of_day": 29,
-                            "title": "Overview of employee resource groups and their role in fostering inclusivity."
+                            "end_of_day": 30,
+                            "title": "Overview of employee resource groups and their role in fostering inclusivity.",
+                            "action": "Learn about the ERGs and their contributions to workplace culture.",
+                            "description": "Employee Resource Groups (ERGs) play a vital role in fostering inclusivity and providing support for diverse employee populations. Understanding the purpose and impact of ERGs is crucial for promoting a culture of belonging and engagement within the organization. This knowledge enables HR professionals to advocate for ERG initiatives and support their activities effectively.\nBy familiarizing yourself with ERGs, you will enhance your ability to promote inclusivity and support diverse employee communities. This knowledge is vital for creating a workplace where all employees feel valued and empowered.",
+                            "content_instructions": {
+                                "role": "professional ERG coordinator",
+                                "topic": "Overview of employee resource groups and their role in fostering inclusivity."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "learning_and_development_programs_at_our_company",
             "type": "section",
             "title": "Learning and Development Programs at Our Company",
-            "end_of_day": 30,
+            "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "career_development_programs",
                     "type": "module",
                     "title": "Career Development Programs",
-                    "end_of_day": 30,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_career_development_programs_available_to_employees_for_growth_and_advancement",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Learn about career development programs available to employees for growth and advancement."
+                            "end_of_day": 31,
+                            "title": "Learn about career development programs available to employees for growth and advancement.",
+                            "action": "Review the career development programs and their significance.",
+                            "description": "Career development programs are essential for supporting employee growth and advancement within the organization. Understanding the options available, such as mentorship programs, training opportunities, and leadership development, is crucial for promoting a culture of continuous learning. This knowledge enables HR professionals to advocate for employee development initiatives effectively.\nBy familiarizing yourself with these programs, you will enhance your ability to support employees in their career journeys and contribute to a culture of growth and advancement. This knowledge is vital for attracting and retaining top talent.",
+                            "content_instructions": {
+                                "role": "professional career development manager",
+                                "topic": "Learn about career development programs available to employees for growth and advancement."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "training_and_upskilling_initiatives",
                     "type": "module",
                     "title": "Training and Upskilling Initiatives",
-                    "end_of_day": 30,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_training_and_upskilling_opportunities_available_for_employees",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Understand the training and upskilling opportunities available for employees."
+                            "end_of_day": 31,
+                            "title": "Understand the training and upskilling opportunities available for employees.",
+                            "action": "Review the training initiatives and their impact on employee development.",
+                            "description": "Training and upskilling initiatives are crucial for enhancing employee skills and ensuring that the workforce remains competitive. Understanding the training options available, including workshops, online courses, and certifications, is essential for promoting a culture of continuous improvement. This knowledge enables HR professionals to support employee development and align training with organizational goals.\nBy familiarizing yourself with these initiatives, you will enhance your ability to advocate for training opportunities and contribute to employee success. This knowledge is vital for fostering a culture of learning and growth within the organization.",
+                            "content_instructions": {
+                                "role": "professional training coordinator",
+                                "topic": "Understand the training and upskilling opportunities available for employees."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "management_and_leadership_training",
                     "type": "module",
                     "title": "Management and Leadership Training",
-                    "end_of_day": 30,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_training_programs_designed_for_management_and_leadership_development",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Overview of training programs designed for management and leadership development."
+                            "end_of_day": 31,
+                            "title": "Overview of training programs designed for management and leadership development.",
+                            "action": "Review the management and leadership training programs available.",
+                            "description": "Management and leadership training programs are essential for developing effective leaders within the organization. Understanding the training options available, such as leadership workshops, coaching sessions, and mentorship programs, is crucial for fostering a culture of strong leadership. This knowledge enables HR professionals to support leadership development initiatives and ensure that leaders are equipped to drive organizational success.\nBy familiarizing yourself with these programs, you will enhance your ability to advocate for leadership development and contribute to a culture of excellence. This knowledge is vital for ensuring that the organization has a pipeline of effective leaders.",
+                            "content_instructions": {
+                                "role": "professional leadership development consultant",
+                                "topic": "Overview of training programs designed for management and leadership development."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "recruitment_and_talent_management_in_our_company",
             "type": "section",
             "title": "Recruitment and Talent Management in Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "end_to_end_recruitment_process",
                     "type": "module",
                     "title": "End-to-end Recruitment Process",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_recruitment_process_from_job_posting_to_candidate_selection",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about the recruitment process, from job posting to candidate selection."
+                            "title": "Learn about the recruitment process, from job posting to candidate selection.",
+                            "action": "Review the end-to-end recruitment process and its significance.",
+                            "description": "Understanding the end-to-end recruitment process is essential for attracting and selecting the best talent for the organization. This process includes job postings, candidate sourcing, interviewing, and selection. Familiarity with these steps enables HR professionals to guide hiring managers and ensure a consistent and fair recruitment process.\nBy mastering the recruitment process, you will enhance your ability to support talent acquisition efforts and contribute to building a high-performing workforce. This knowledge is vital for ensuring that the organization attracts and retains top talent.",
+                            "content_instructions": {
+                                "role": "professional recruitment manager",
+                                "topic": "Learn about the recruitment process, from job posting to candidate selection."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "talent_retention_strategies",
                     "type": "module",
                     "title": "Talent Retention Strategies",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_strategies_used_to_retain_top_talent_within_the_company",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand the strategies used to retain top talent within the company."
+                            "title": "Understand the strategies used to retain top talent within the company.",
+                            "action": "Review the talent retention strategies and their impact on employee engagement.",
+                            "description": "Talent retention strategies are essential for maintaining a skilled and engaged workforce. Understanding the initiatives in place to retain top talent, such as employee recognition programs, career development opportunities, and work-life balance initiatives, is crucial for fostering a positive workplace culture. This knowledge enables HR professionals to advocate for retention efforts and support employee engagement.\nBy familiarizing yourself with these strategies, you will enhance your ability to contribute to talent retention initiatives and promote a culture of engagement and satisfaction. This knowledge is vital for ensuring that the organization retains its most valuable assets - its employees.",
+                            "content_instructions": {
+                                "role": "professional engagement specialist",
+                                "topic": "Understand the strategies used to retain top talent within the company."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "succession_planning_and_internal_promotions",
                     "type": "module",
                     "title": "Succession Planning and Internal Promotions",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_the_company_manages_succession_planning_and_internal_promotions",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of how the company manages succession planning and internal promotions."
+                            "title": "Overview of how the company manages succession planning and internal promotions.",
+                            "action": "Review the succession planning processes and their significance.",
+                            "description": "Succession planning is essential for ensuring organizational stability and continuity. Understanding how the company identifies and develops internal talent for future leadership roles is crucial for fostering a culture of growth and advancement. This knowledge enables HR professionals to support succession planning efforts and advocate for internal promotions.\nBy familiarizing yourself with these processes, you will enhance your ability to contribute to talent development initiatives and ensure that the organization has a pipeline of future leaders. This knowledge is vital for promoting a culture of advancement and opportunity.",
+                            "content_instructions": {
+                                "role": "professional talent management consultant",
+                                "topic": "Overview of how the company manages succession planning and internal promotions."
+                            },
+                            "icon": "logo_40"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 12,
             "id": "ongoing_learning_and_industry_trends_in_our_company_3",
             "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "hr_certifications_and_courses",
                     "type": "module",
                     "title": "HR Certifications and Courses",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_hr_certifications_and_courses_available_for_professional_development",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about HR certifications and courses available for professional development."
+                            "title": "Learn about HR certifications and courses available for professional development.",
+                            "action": "Review the HR certifications and courses available for growth.",
+                            "description": "Pursuing HR certifications and courses is essential for professional development and staying updated on industry trends. Understanding the options available, such as SHRM, HRCI, and specialized training programs, is crucial for enhancing your skills and knowledge in HR practices. This knowledge enables HR professionals to advocate for continuous learning and development within the organization.\nBy familiarizing yourself with these opportunities, you will enhance your ability to support your own growth and contribute to a culture of learning within the organization. This knowledge is vital for ensuring that HR professionals remain competitive and effective in their roles.",
+                            "content_instructions": {
+                                "role": "professional HR educator",
+                                "topic": "Learn about HR certifications and courses available for professional development."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "staying_updated_on_hr_laws",
                     "type": "module",
                     "title": "Staying Updated on HR Laws",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_stay_updated_with_changing_hr_laws_and_regulations",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how to stay updated with changing HR laws and regulations."
+                            "title": "Understand how to stay updated with changing HR laws and regulations.",
+                            "action": "Review the resources available for staying informed about HR laws.",
+                            "description": "Staying updated on changing HR laws and regulations is crucial for ensuring compliance and protecting the organization. Understanding the resources available, such as legal updates, webinars, and professional associations, is essential for maintaining knowledge of current legal standards. This knowledge enables HR professionals to implement policies that align with regulations and mitigate risks.\nBy familiarizing yourself with these resources, you will enhance your ability to stay informed about HR laws and contribute to a compliant organization. This knowledge is vital for promoting a culture of accountability and transparency.",
+                            "content_instructions": {
+                                "role": "professional legal advisor",
+                                "topic": "Understand how to stay updated with changing HR laws and regulations."
+                            },
+                            "icon": "logo_35"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "attending_hr_conferences_and_events",
                     "type": "module",
                     "title": "Attending HR Conferences and Events",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_hr_conferences_and_events_that_provide_learning_and_networking_opportunities",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of HR conferences and events that provide learning and networking opportunities."
+                            "title": "Overview of HR conferences and events that provide learning and networking opportunities.",
+                            "action": "Explore HR conferences and events available for networking and learning.",
+                            "description": "Attending HR conferences and events is essential for professional development and networking within the industry. Understanding the opportunities available for learning from experts, sharing best practices, and connecting with other HR professionals is crucial for enhancing your career. This knowledge enables HR professionals to stay informed about industry trends and best practices.\nBy familiarizing yourself with these events, you will enhance your ability to engage in continuous learning and build valuable connections within the HR community. This knowledge is vital for fostering a culture of collaboration and growth.",
+                            "content_instructions": {
+                                "role": "professional conference coordinator",
+                                "topic": "Overview of HR conferences and events that provide learning and networking opportunities."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 }

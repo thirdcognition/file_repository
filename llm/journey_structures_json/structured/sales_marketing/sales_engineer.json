@@ -5,741 +5,923 @@
     "end_of_day": 31,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_10",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "meet_the_sales_team",
                     "type": "module",
                     "title": "Meet the Sales Team",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_sales_team_members_and_their_respective_roles",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Introduction to the sales team members and their respective roles."
+                            "title": "Introduction to the sales team members and their respective roles.",
+                            "action": "Familiarize yourself with each member of the sales team and their roles.",
+                            "description": "The sales team is the frontline of our company, responsible for driving revenue and building relationships with clients. Each member plays a unique role, from account executives who directly engage with customers to sales support staff who provide essential assistance. Understanding the roles and responsibilities of your colleagues will help you collaborate effectively and leverage each other's strengths.\nGetting to know your team members will also create a supportive work environment. Building these relationships early on is key to fostering communication and teamwork, ultimately enhancing the overall sales process.",
+                            "content_instructions": {
+                                "role": "professional sales manager",
+                                "topic": "Introduction to the sales team members and their respective roles."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "understanding_company_structure_and_goals",
                     "type": "module",
                     "title": "Understanding Company Structure and Goals",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_company_structure_and_how_sales_aligns_with_business_goals",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Overview of the company structure and how sales aligns with business goals."
+                            "title": "Overview of the company structure and how sales aligns with business goals.",
+                            "action": "Review the company's organizational structure and understand how sales contributes to overall goals.",
+                            "description": "Understanding the company's structure is essential for navigating your role effectively. Our organization is designed to promote collaboration across departments, with sales acting as a bridge between product development and customer needs. By aligning your efforts with the company's strategic goals, you can better position yourself to contribute to our success.\nSales plays a crucial role in shaping the direction of the company by providing insights into market demands and customer feedback. Recognizing how your work fits into the larger picture will empower you to make informed decisions and drive impactful results.",
+                            "content_instructions": {
+                                "role": "professional organizational strategist",
+                                "topic": "Overview of the company structure and how sales aligns with business goals."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "introduction_to_key_sales_stakeholders",
                     "type": "module",
                     "title": "Introduction to Key Sales Stakeholders",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_key_stakeholders_in_the_sales_process_and_their_responsibilities",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Learn about key stakeholders in the sales process and their responsibilities."
+                            "title": "Learn about key stakeholders in the sales process and their responsibilities.",
+                            "action": "Identify key stakeholders in the sales process and understand their roles.",
+                            "description": "In the sales process, various stakeholders play critical roles in ensuring successful outcomes. This includes not only your sales colleagues but also product managers, marketing teams, and customer support. Understanding the responsibilities of each stakeholder will help you navigate the sales process more effectively.\nBy building relationships with these stakeholders, you can facilitate smoother communication and collaboration. This understanding will also enhance your ability to address customer needs and provide comprehensive solutions that align with their expectations.",
+                            "content_instructions": {
+                                "role": "professional sales coordinator",
+                                "topic": "Learn about key stakeholders in the sales process and their responsibilities."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_products_and_solutions",
             "type": "section",
             "title": "Familiarize with Our Products and Solutions",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "product_overview_and_key_features",
                     "type": "module",
                     "title": "Product Overview and Key Features",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_key_features_and_benefits_of_our_products",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Understand the key features and benefits of our products."
+                            "title": "Understand the key features and benefits of our products.",
+                            "action": "Review the product features and how they provide value to customers.",
+                            "description": "Our products are designed to solve specific problems for our customers, and understanding their key features is essential for effective selling. Each feature has been carefully crafted to provide tangible benefits, whether it's improving efficiency, reducing costs, or enhancing user experience. Familiarizing yourself with these features will enable you to articulate their value clearly.\nMoreover, knowing the strengths and weaknesses of our products will allow you to position them effectively against competitors. This knowledge is crucial for building confidence in your sales conversations and responding to customer inquiries effectively.",
+                            "content_instructions": {
+                                "role": "professional product manager",
+                                "topic": "Understand the key features and benefits of our products."
+                            },
+                            "icon": "logo_4"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "solution_selling_and_use_cases",
                     "type": "module",
                     "title": "Solution Selling and Use Cases",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_solution_selling_approach_and_how_to_apply_product_use_cases_to_customer_needs",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Learn about the solution selling approach and how to apply product use cases to customer needs."
+                            "title": "Learn about the solution selling approach and how to apply product use cases to customer needs.",
+                            "action": "Explore solution selling techniques and identify relevant use cases.",
+                            "description": "Solution selling focuses on identifying and addressing the specific needs of customers rather than simply pushing products. This approach requires a deep understanding of customer pain points and how our solutions can resolve them. By learning to apply relevant use cases, you can demonstrate how our products fit into the customer's environment and provide real value.\nUnderstanding the nuances of solution selling will enhance your ability to engage with customers meaningfully. This method not only builds trust but also positions you as a consultative partner rather than just a salesperson.",
+                            "content_instructions": {
+                                "role": "professional sales consultant",
+                                "topic": "Learn about the solution selling approach and how to apply product use cases to customer needs."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "product_benefits_for_different_customer_segments",
                     "type": "module",
                     "title": "Product Benefits for Different Customer Segments",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_our_product_benefits_vary_across_different_customer_segments",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Overview of how our product benefits vary across different customer segments."
+                            "title": "Overview of how our product benefits vary across different customer segments.",
+                            "action": "Analyze the benefits of our products for various customer segments.",
+                            "description": "Different customer segments have unique needs and challenges, and our products can be tailored to meet those specific requirements. Understanding how our solutions benefit various segments will empower you to communicate more effectively with potential customers. For instance, the needs of a small business may differ significantly from those of a large enterprise.\nBy tailoring your messaging to resonate with specific segments, you can enhance your sales strategy and improve conversion rates. This targeted approach not only increases customer satisfaction but also fosters long-term relationships.",
+                            "content_instructions": {
+                                "role": "professional market analyst",
+                                "topic": "Overview of how our product benefits vary across different customer segments."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "our_technical_overview_of_product_features",
             "type": "section",
             "title": "Our Technical Overview of Product Features",
             "end_of_day": 9,
             "children": [
                 {
-                    "index": 0,
                     "id": "deep_dive_into_product_architecture",
                     "type": "module",
                     "title": "Deep Dive into Product Architecture",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_technical_architecture_of_our_products_and_how_they_are_designed",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Understand the technical architecture of our products and how they are designed."
+                            "title": "Understand the technical architecture of our products and how they are designed.",
+                            "action": "Review the technical architecture of our products to deepen your understanding.",
+                            "description": "A solid understanding of the technical architecture behind our products will enable you to communicate more effectively with technical stakeholders. This knowledge helps bridge the gap between sales and product development, allowing you to address technical questions and concerns confidently. Understanding how our products are designed will also help you identify potential customization opportunities for clients.\nBy familiarizing yourself with the architecture, you can better articulate the technical advantages of our products and how they integrate within a client's existing infrastructure. This understanding is crucial for building credibility and trust with potential customers.",
+                            "content_instructions": {
+                                "role": "professional solutions architect",
+                                "topic": "Understand the technical architecture of our products and how they are designed."
+                            },
+                            "icon": "logo_18"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "technical_specifications_and_integrations",
                     "type": "module",
                     "title": "Technical Specifications and Integrations",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_technical_specifications_and_how_our_products_integrate_with_other_systems",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Learn about the technical specifications and how our products integrate with other systems."
+                            "title": "Learn about the technical specifications and how our products integrate with other systems.",
+                            "action": "Explore the technical specifications and integration capabilities of our products.",
+                            "description": "Understanding the technical specifications of our products is essential for addressing customer inquiries and ensuring compatibility with their existing systems. This includes knowledge about APIs, data formats, and integration capabilities. By mastering these details, you can provide clients with accurate information and help them visualize how our products will fit into their technology stack.\nMoreover, being well-versed in integration possibilities allows you to present solutions that can enhance the client's current operations. This capability is crucial for closing deals, as clients often seek assurance that new solutions will work seamlessly with their existing systems.",
+                            "content_instructions": {
+                                "role": "professional integration specialist",
+                                "topic": "Learn about the technical specifications and how our products integrate with other systems."
+                            },
+                            "icon": "logo_28"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "product_performance_and_scalability",
                     "type": "module",
                     "title": "Product Performance and Scalability",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_product_performance_benchmarks_and_scalability_options",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Overview of product performance benchmarks and scalability options."
+                            "title": "Overview of product performance benchmarks and scalability options.",
+                            "action": "Review product performance benchmarks and scalability features.",
+                            "description": "Performance and scalability are critical factors for customers when evaluating new solutions. Understanding our product performance benchmarks will equip you to address concerns about speed, reliability, and capacity. Additionally, knowing how our products scale will allow you to reassure clients that their needs can be met as their business grows.\nBy being knowledgeable about these aspects, you can effectively communicate the long-term value of our solutions and help clients feel confident in their investment. This understanding is essential for building trust and ensuring customer satisfaction.",
+                            "content_instructions": {
+                                "role": "professional performance engineer",
+                                "topic": "Overview of product performance benchmarks and scalability options."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "familiarize_with_our_sales_tools_and_crm",
             "type": "section",
             "title": "Familiarize with Our Sales Tools and CRM",
             "end_of_day": 12,
             "children": [
                 {
-                    "index": 0,
                     "id": "crm_overview_and_usage",
                     "type": "module",
                     "title": "CRM Overview and Usage",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_navigate_and_use_the_company_s_crm_for_managing_leads_and_opportunities",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Learn how to navigate and use the company's CRM for managing leads and opportunities."
+                            "title": "Learn how to navigate and use the company's CRM for managing leads and opportunities.",
+                            "action": "Explore the CRM system and practice managing leads and opportunities.",
+                            "description": "The CRM system is a vital tool for managing customer relationships and tracking sales activities. Familiarizing yourself with its features will enable you to efficiently manage leads, track interactions, and monitor sales progress. Understanding how to use the CRM effectively is crucial for maximizing your productivity and ensuring that no opportunities are overlooked.\nBy mastering the CRM, you can streamline your sales process and enhance your ability to follow up with leads. This tool is essential for maintaining organized records and fostering strong relationships with clients.",
+                            "content_instructions": {
+                                "role": "professional CRM specialist",
+                                "topic": "Learn how to navigate and use the company's CRM for managing leads and opportunities."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "sales_automation_tools",
                     "type": "module",
                     "title": "Sales Automation Tools",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_sales_automation_tools_available_to_streamline_your_workflow",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Understand the sales automation tools available to streamline your workflow."
+                            "title": "Understand the sales automation tools available to streamline your workflow.",
+                            "action": "Review the sales automation tools and their functionalities.",
+                            "description": "Sales automation tools are designed to simplify repetitive tasks, allowing you to focus on building relationships and closing deals. Understanding the various tools available within our sales stack will help you maximize efficiency and productivity. These tools can assist with tasks such as email outreach, follow-ups, and lead scoring.\nBy leveraging these automation tools, you can enhance your workflow and ensure that you are spending your time on high-impact activities. This knowledge is essential for achieving your sales targets and driving revenue growth.",
+                            "content_instructions": {
+                                "role": "professional sales automation consultant",
+                                "topic": "Understand the sales automation tools available to streamline your workflow."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "tracking_sales_pipelines",
                     "type": "module",
                     "title": "Tracking Sales Pipelines",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_tracking_sales_pipelines_and_monitoring_deal_progress",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Overview of tracking sales pipelines and monitoring deal progress."
+                            "title": "Overview of tracking sales pipelines and monitoring deal progress.",
+                            "action": "Learn how to track sales pipelines and monitor the status of deals.",
+                            "description": "Tracking sales pipelines is crucial for understanding where each deal stands in the sales process. Familiarizing yourself with how to monitor deal progress will allow you to identify bottlenecks and prioritize your efforts effectively. Understanding the sales pipeline stages and what actions are required at each stage is essential for closing deals successfully.\nBy mastering pipeline tracking, you can improve your forecasting accuracy and ensure that you are consistently moving deals forward. This skill is vital for optimizing your sales strategy and achieving your quotas.",
+                            "content_instructions": {
+                                "role": "professional sales operations manager",
+                                "topic": "Overview of tracking sales pipelines and monitoring deal progress."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "understanding_our_customer_pain_points",
             "type": "section",
             "title": "Understanding Our Customer Pain Points",
             "end_of_day": 15,
             "children": [
                 {
-                    "index": 0,
                     "id": "identifying_customer_needs",
                     "type": "module",
                     "title": "Identifying Customer Needs",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_identify_and_assess_customer_needs_during_the_sales_process",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Learn how to identify and assess customer needs during the sales process."
+                            "title": "Learn how to identify and assess customer needs during the sales process.",
+                            "action": "Practice identifying customer needs through effective questioning techniques.",
+                            "description": "Identifying customer needs is a fundamental aspect of the sales process. By asking the right questions and actively listening, you can uncover pain points and tailor your solutions accordingly. This skill is essential for building rapport and trust with clients, as they will appreciate your genuine interest in understanding their challenges.\nBy honing your ability to assess customer needs, you can position our products as effective solutions that address their specific issues. This consultative approach is key to successful sales interactions and long-term customer relationships.",
+                            "content_instructions": {
+                                "role": "professional sales consultant",
+                                "topic": "Learn how to identify and assess customer needs during the sales process."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "common_industry_challenges",
                     "type": "module",
                     "title": "Common Industry Challenges",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_common_challenges_faced_by_customers_in_the_industry_and_how_our_solutions_address_them",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Understand common challenges faced by customers in the industry and how our solutions address them."
+                            "title": "Understand common challenges faced by customers in the industry and how our solutions address them.",
+                            "action": "Research common industry challenges and prepare to discuss them with clients.",
+                            "description": "Understanding the common challenges faced by customers in our industry is vital for positioning our solutions effectively. By being aware of these challenges, you can engage in meaningful conversations with clients and demonstrate how our products can alleviate their pain points. This knowledge will also allow you to anticipate objections and provide informed responses.\nBy preparing to address these common challenges, you can enhance your credibility and build stronger relationships with clients. This understanding is crucial for establishing yourself as a trusted advisor in the sales process.",
+                            "content_instructions": {
+                                "role": "professional industry analyst",
+                                "topic": "Understand common challenges faced by customers in the industry and how our solutions address them."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "solutions_for_customer_pain_points",
                     "type": "module",
                     "title": "Solutions for Customer Pain Points",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_key_solutions_we_offer_to_resolve_specific_customer_pain_points",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Overview of the key solutions we offer to resolve specific customer pain points."
+                            "title": "Overview of the key solutions we offer to resolve specific customer pain points.",
+                            "action": "Familiarize yourself with our solutions and how they address customer pain points.",
+                            "description": "Our solutions are designed to tackle specific customer pain points effectively. Understanding how each solution addresses these issues will empower you to communicate their value clearly to clients. By aligning our products with customer needs, you can enhance your sales strategy and increase the likelihood of closing deals.\nBy mastering the specifics of our solutions, you will be well-equipped to handle objections and provide tailored recommendations that resonate with clients. This knowledge is essential for building trust and driving successful sales outcomes.",
+                            "content_instructions": {
+                                "role": "professional solutions consultant",
+                                "topic": "Overview of the key solutions we offer to resolve specific customer pain points."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "collaborating_with_our_product_and_development_teams_2",
             "type": "section",
             "title": "Collaborating with Our Product and Development Teams",
             "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "communicating_customer_feedback_to_product",
                     "type": "module",
                     "title": "Communicating Customer Feedback to Product",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_effectively_communicate_customer_feedback_to_the_product_team_for_improvements",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Learn how to effectively communicate customer feedback to the product team for improvements."
+                            "title": "Learn how to effectively communicate customer feedback to the product team for improvements.",
+                            "action": "Practice documenting and conveying customer feedback to the product team.",
+                            "description": "Effective communication of customer feedback to the product team is essential for continuous improvement. By documenting feedback accurately and conveying it clearly, you can ensure that the product team understands customer needs and expectations. This collaboration fosters a culture of responsiveness and innovation.\nBy mastering this skill, you will contribute to the development of products that better meet customer needs. This practice not only enhances product quality but also strengthens the relationship between sales and product teams.",
+                            "content_instructions": {
+                                "role": "professional product manager",
+                                "topic": "Learn how to effectively communicate customer feedback to the product team for improvements."
+                            },
+                            "icon": "logo_37"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "working_together_on_custom_solutions",
                     "type": "module",
                     "title": "Working Together on Custom Solutions",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_collaborate_with_the_product_and_development_teams_to_create_custom_solutions_for_clients",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Understand how to collaborate with the product and development teams to create custom solutions for clients."
+                            "title": "Understand how to collaborate with the product and development teams to create custom solutions for clients.",
+                            "action": "Engage in discussions with product and development teams to explore custom solutions.",
+                            "description": "Collaboration with product and development teams is crucial when creating custom solutions for clients. By understanding the capabilities and constraints of our products, you can work effectively with these teams to design tailored solutions that meet specific client needs. This collaborative approach enhances customer satisfaction and strengthens client relationships.\nBy actively participating in these discussions, you will contribute to the successful delivery of custom solutions and ensure that client expectations are met. This teamwork is essential for driving business success and fostering innovation.",
+                            "content_instructions": {
+                                "role": "professional project manager",
+                                "topic": "Understand how to collaborate with the product and development teams to create custom solutions for clients."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "aligning_sales_and_product_development",
                     "type": "module",
                     "title": "Aligning Sales and Product Development",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_sales_and_product_development_align_to_ensure_customer_satisfaction",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Overview of how sales and product development align to ensure customer satisfaction."
+                            "title": "Overview of how sales and product development align to ensure customer satisfaction.",
+                            "action": "Review the processes that align sales and product development teams.",
+                            "description": "Alignment between sales and product development teams is crucial for ensuring customer satisfaction and delivering successful products. By understanding how these teams collaborate, you can better navigate the sales process and advocate for customer needs. This alignment allows for more effective communication and faster response times to customer inquiries.\nBy fostering this collaboration, you will help bridge any gaps between sales efforts and product capabilities. This alignment is essential for delivering products that truly meet customer needs and drive business growth.",
+                            "content_instructions": {
+                                "role": "professional sales operations manager",
+                                "topic": "Overview of how sales and product development align to ensure customer satisfaction."
+                            },
+                            "icon": "logo_45"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "creating_product_demos_and_presentations_for_our_solutions",
             "type": "section",
             "title": "Creating Product Demos and Presentations for Our Solutions",
             "end_of_day": 21,
             "children": [
                 {
-                    "index": 0,
                     "id": "demo_creation_best_practices",
                     "type": "module",
                     "title": "Demo Creation Best Practices",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_best_practices_for_creating_engaging_product_demos",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Learn best practices for creating engaging product demos."
+                            "title": "Learn best practices for creating engaging product demos.",
+                            "action": "Explore techniques for crafting compelling product demonstrations.",
+                            "description": "Creating engaging product demos is crucial for showcasing the value of our solutions. Best practices include understanding your audience, focusing on key features, and demonstrating real-world applications. By mastering these techniques, you can capture the attention of potential customers and effectively communicate the benefits of our products.\nA well-crafted demo not only highlights product features but also addresses customer pain points, making it a powerful sales tool. This skill is essential for driving interest and generating leads.",
+                            "content_instructions": {
+                                "role": "professional sales trainer",
+                                "topic": "Learn best practices for creating engaging product demos."
+                            },
+                            "icon": "logo_14"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "presentation_tools_and_techniques",
                     "type": "module",
                     "title": "Presentation Tools and Techniques",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_use_various_presentation_tools_and_techniques_to_deliver_compelling_product_demonstrations",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Understand how to use various presentation tools and techniques to deliver compelling product demonstrations."
+                            "title": "Understand how to use various presentation tools and techniques to deliver compelling product demonstrations.",
+                            "action": "Familiarize yourself with presentation tools and techniques for effective demos.",
+                            "description": "Using the right presentation tools and techniques can significantly enhance your product demonstrations. Familiarizing yourself with tools that facilitate visual storytelling and interactivity will allow you to create more engaging presentations. Understanding how to effectively communicate key messages will also help you connect with your audience.\nBy mastering these presentation skills, you can deliver impactful demos that resonate with potential clients. This capability is crucial for making a strong impression and driving sales success.",
+                            "content_instructions": {
+                                "role": "professional presentation coach",
+                                "topic": "Understand how to use various presentation tools and techniques to deliver compelling product demonstrations."
+                            },
+                            "icon": "logo_33"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "tailoring_demos_for_specific_clients",
                     "type": "module",
                     "title": "Tailoring Demos for Specific Clients",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_tailor_product_demos_to_meet_the_specific_needs_of_different_clients",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Overview of how to tailor product demos to meet the specific needs of different clients."
+                            "title": "Overview of how to tailor product demos to meet the specific needs of different clients.",
+                            "action": "Practice customizing product demos for specific client requirements.",
+                            "description": "Tailoring product demos to meet the specific needs of different clients is essential for demonstrating relevance and value. By understanding the unique challenges and goals of each client, you can customize your presentations to highlight the features that matter most to them. This personalized approach fosters stronger connections and increases the likelihood of closing deals.\nBy mastering this skill, you will enhance your ability to engage clients and showcase how our products can solve their specific problems. This capability is key to effective selling and building long-term relationships.",
+                            "content_instructions": {
+                                "role": "professional sales consultant",
+                                "topic": "Overview of how to tailor product demos to meet the specific needs of different clients."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "our_product_integration_and_configuration_process",
             "type": "section",
             "title": "Our Product Integration and Configuration Process",
             "end_of_day": 24,
             "children": [
                 {
-                    "index": 0,
                     "id": "product_implementation_guidelines",
                     "type": "module",
                     "title": "Product Implementation Guidelines",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_guidelines_for_implementing_and_configuring_products_for_clients",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Learn about the guidelines for implementing and configuring products for clients."
+                            "title": "Learn about the guidelines for implementing and configuring products for clients.",
+                            "action": "Review the implementation guidelines to understand the configuration process.",
+                            "description": "Understanding the guidelines for implementing and configuring our products is crucial for ensuring a smooth onboarding experience for clients. This includes knowledge about setup procedures, best practices, and potential challenges. By familiarizing yourself with these guidelines, you can provide clients with accurate information and support during the implementation phase.\nBy mastering the implementation process, you will enhance your ability to assist clients effectively and ensure that they derive maximum value from our solutions. This knowledge is essential for building trust and ensuring customer satisfaction.",
+                            "content_instructions": {
+                                "role": "professional implementation manager",
+                                "topic": "Learn about the guidelines for implementing and configuring products for clients."
+                            },
+                            "icon": "logo_9"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "custom_configurations_for_clients",
                     "type": "module",
                     "title": "Custom Configurations for Clients",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_customize_product_configurations_based_on_client_requirements",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Understand how to customize product configurations based on client requirements."
+                            "title": "Understand how to customize product configurations based on client requirements.",
+                            "action": "Explore customization options and how to tailor configurations for clients.",
+                            "description": "Customizing product configurations based on client requirements is essential for meeting their specific needs. Understanding how to assess client requirements and implement tailored solutions will empower you to deliver exceptional service. This capability enhances customer satisfaction and fosters long-term relationships.\nBy mastering the customization process, you will become a trusted advisor to your clients, ensuring that they receive solutions that align perfectly with their objectives. This skill is key to driving successful outcomes and building strong partnerships.",
+                            "content_instructions": {
+                                "role": "professional solutions engineer",
+                                "topic": "Understand how to customize product configurations based on client requirements."
+                            },
+                            "icon": "logo_45"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "integration_with_existing_systems",
                     "type": "module",
                     "title": "Integration with Existing Systems",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_integrate_our_solutions_with_a_client_s_existing_systems_and_infrastructure",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Overview of how to integrate our solutions with a client’s existing systems and infrastructure."
+                            "title": "Overview of how to integrate our solutions with a client's existing systems and infrastructure.",
+                            "action": "Learn about integration processes and best practices for seamless implementation.",
+                            "description": "Integrating our solutions with a client's existing systems is a critical aspect of the implementation process. Understanding the integration requirements and best practices will enable you to guide clients through this process smoothly. This capability is crucial for ensuring that our solutions work effectively within the client's technology stack.\nBy mastering the integration process, you will enhance your ability to provide value to clients and ensure a seamless transition to our products. This knowledge is essential for building credibility and trust with clients.",
+                            "content_instructions": {
+                                "role": "professional integration consultant",
+                                "topic": "Overview of how to integrate our solutions with a client's existing systems and infrastructure."
+                            },
+                            "icon": "logo_28"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "security_and_compliance_in_our_sales_solutions",
             "type": "section",
             "title": "Security and Compliance in Our Sales Solutions",
             "end_of_day": 27,
             "children": [
                 {
-                    "index": 0,
                     "id": "understanding_security_features",
                     "type": "module",
                     "title": "Understanding Security Features",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_key_security_features_of_our_products",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Learn about the key security features of our products."
+                            "title": "Learn about the key security features of our products.",
+                            "action": "Review the security features and how they benefit clients.",
+                            "description": "Understanding the key security features of our products is essential for addressing client concerns about data protection and compliance. Familiarizing yourself with these features will enable you to communicate their value effectively and assure clients that their information is secure. This knowledge is crucial for building trust and confidence in our solutions.\nBy mastering the security aspects of our products, you will be better equipped to handle objections and provide reassurance to clients. This capability is key to closing deals and maintaining long-term relationships.",
+                            "content_instructions": {
+                                "role": "professional security consultant",
+                                "topic": "Learn about the key security features of our products."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "compliance_with_industry_standards",
                     "type": "module",
                     "title": "Compliance with Industry Standards",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_our_solutions_comply_with_industry_standards_and_regulations",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Understand how our solutions comply with industry standards and regulations."
+                            "title": "Understand how our solutions comply with industry standards and regulations.",
+                            "action": "Review compliance requirements and how our solutions meet them.",
+                            "description": "Compliance with industry standards and regulations is a critical consideration for clients when evaluating solutions. Understanding how our products adhere to these standards will enable you to address client inquiries confidently. This capability is essential for building credibility and ensuring that clients feel secure in their decision to partner with us.\nBy mastering compliance aspects, you will enhance your ability to communicate the value of our solutions and provide reassurance to clients. This knowledge is vital for driving successful sales outcomes.",
+                            "content_instructions": {
+                                "role": "professional compliance officer",
+                                "topic": "Understand how our solutions comply with industry standards and regulations."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "communicating_security_to_clients",
                     "type": "module",
                     "title": "Communicating Security to Clients",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_effectively_communicate_product_security_features_to_clients",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Overview of how to effectively communicate product security features to clients."
+                            "title": "Overview of how to effectively communicate product security features to clients.",
+                            "action": "Practice communicating security features and compliance to clients.",
+                            "description": "Effectively communicating product security features to clients is essential for addressing their concerns and building trust. By understanding the key security aspects of our products, you can provide clear and concise explanations that reassure clients about data protection. This capability is crucial for fostering confidence in our solutions.\nBy mastering this communication skill, you will enhance your ability to engage clients and position our products as secure and compliant solutions. This knowledge is essential for driving successful sales interactions.",
+                            "content_instructions": {
+                                "role": "professional security consultant",
+                                "topic": "Overview of how to effectively communicate product security features to clients."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "our_negotiation_and_contracting_process",
             "type": "section",
             "title": "Our Negotiation and Contracting Process",
             "end_of_day": 29,
             "children": [
                 {
-                    "index": 0,
                     "id": "contracting_and_legal_requirements",
                     "type": "module",
                     "title": "Contracting and Legal Requirements",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_legal_requirements_and_processes_for_contracting_with_clients",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Learn the legal requirements and processes for contracting with clients."
+                            "title": "Learn the legal requirements and processes for contracting with clients.",
+                            "action": "Review the contracting process and legal considerations.",
+                            "description": "Understanding the legal requirements and processes for contracting with clients is crucial for ensuring compliance and protecting the company's interests. Familiarizing yourself with these requirements will empower you to navigate contract negotiations confidently. This knowledge is essential for building trust and ensuring that both parties are aligned on expectations.\nBy mastering the contracting process, you will enhance your ability to close deals effectively and ensure that all legal considerations are addressed. This capability is key to maintaining strong client relationships.",
+                            "content_instructions": {
+                                "role": "professional legal advisor",
+                                "topic": "Learn the legal requirements and processes for contracting with clients."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "negotiation_tactics",
                     "type": "module",
                     "title": "Negotiation Tactics",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_best_negotiation_tactics_to_close_deals_effectively",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Understand the best negotiation tactics to close deals effectively."
+                            "title": "Understand the best negotiation tactics to close deals effectively.",
+                            "action": "Explore negotiation tactics and practice applying them.",
+                            "description": "Negotiation is a critical skill for sales professionals, as it directly impacts the outcome of deals. Understanding the best negotiation tactics will empower you to advocate for your clients while also protecting the company's interests. Familiarizing yourself with these tactics will enhance your ability to navigate discussions and reach mutually beneficial agreements.\nBy mastering negotiation skills, you will improve your effectiveness in closing deals and ensuring customer satisfaction. This capability is essential for driving revenue growth and building long-term partnerships.",
+                            "content_instructions": {
+                                "role": "professional negotiation trainer",
+                                "topic": "Understand the best negotiation tactics to close deals effectively."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "finalizing_deals_and_contracts",
                     "type": "module",
                     "title": "Finalizing Deals and Contracts",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_steps_to_finalize_contracts_and_close_deals",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Overview of the steps to finalize contracts and close deals."
+                            "title": "Overview of the steps to finalize contracts and close deals.",
+                            "action": "Review the steps necessary to finalize contracts and close deals.",
+                            "description": "Finalizing deals and contracts involves several critical steps, including confirming terms, addressing any last-minute concerns, and ensuring that all parties are aligned on expectations. Understanding this process is essential for ensuring a smooth transition from negotiation to execution. This capability is crucial for maintaining momentum and ensuring that deals are closed efficiently.\nBy mastering the steps involved in finalizing contracts, you will enhance your ability to close deals successfully and contribute to the company's revenue goals. This knowledge is key to building strong client relationships.",
+                            "content_instructions": {
+                                "role": "professional sales manager",
+                                "topic": "Overview of the steps to finalize contracts and close deals."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "handling_customer_feedback_in_our_company",
             "type": "section",
             "title": "Handling Customer Feedback in Our Company",
             "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "collecting_and_analyzing_feedback",
                     "type": "module",
                     "title": "Collecting and Analyzing Feedback",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_collect_and_analyze_feedback_from_customers",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Learn how to collect and analyze feedback from customers."
+                            "title": "Learn how to collect and analyze feedback from customers.",
+                            "action": "Practice collecting and analyzing customer feedback effectively.",
+                            "description": "Collecting and analyzing customer feedback is essential for understanding their needs and improving our products. By implementing effective feedback collection methods, you can gain valuable insights into customer satisfaction and areas for improvement. This capability is crucial for driving product enhancements and ensuring client satisfaction.\nBy mastering the feedback analysis process, you will enhance your ability to advocate for customer needs and contribute to continuous improvement efforts. This knowledge is vital for maintaining strong client relationships and fostering loyalty.",
+                            "content_instructions": {
+                                "role": "professional customer experience manager",
+                                "topic": "Learn how to collect and analyze feedback from customers."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "implementing_product_improvements",
                     "type": "module",
                     "title": "Implementing Product Improvements",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_feedback_is_used_to_improve_products_and_services",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Understand how feedback is used to improve products and services."
+                            "title": "Understand how feedback is used to improve products and services.",
+                            "action": "Review the process of implementing product improvements based on feedback.",
+                            "description": "Understanding how feedback is utilized to improve products and services is crucial for driving continuous improvement. By familiarizing yourself with this process, you can advocate for necessary changes and ensure that client needs are met. This capability is essential for fostering a culture of responsiveness and innovation within the company.\nBy mastering the product improvement process, you will enhance your ability to contribute to the development of solutions that truly meet customer needs. This knowledge is key to maintaining strong client relationships.",
+                            "content_instructions": {
+                                "role": "professional product development manager",
+                                "topic": "Understand how feedback is used to improve products and services."
+                            },
+                            "icon": "logo_29"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "maintaining_long_term_relationships",
                     "type": "module",
                     "title": "Maintaining Long-term Relationships",
                     "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_maintain_and_strengthen_long_term_customer_relationships",
                             "type": "action",
                             "end_of_day": 30,
-                            "title": "Overview of how to maintain and strengthen long-term customer relationships."
+                            "title": "Overview of how to maintain and strengthen long-term customer relationships.",
+                            "action": "Explore strategies for maintaining and nurturing long-term client relationships.",
+                            "description": "Maintaining long-term customer relationships is essential for driving repeat business and fostering loyalty. By implementing effective relationship management strategies, you can ensure that clients feel valued and supported throughout their journey with our company. This capability is crucial for building trust and ensuring customer satisfaction.\nBy mastering relationship management techniques, you will enhance your ability to engage clients meaningfully and position yourself as a trusted partner. This knowledge is vital for driving long-term success and growth.",
+                            "content_instructions": {
+                                "role": "professional relationship manager",
+                                "topic": "Overview of how to maintain and strengthen long-term customer relationships."
+                            },
+                            "icon": "logo_31"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "our_sales_metrics_and_kpis",
             "type": "section",
             "title": "Our Sales Metrics and KPIs",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "sales_quota_tracking",
                     "type": "module",
                     "title": "Sales Quota Tracking",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_track_and_achieve_your_sales_quotas",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn how to track and achieve your sales quotas."
+                            "title": "Learn how to track and achieve your sales quotas.",
+                            "action": "Review the sales quota tracking process and set your goals.",
+                            "description": "Tracking and achieving your sales quotas is essential for measuring your performance and driving revenue growth. By understanding the quota tracking process, you can set realistic goals and monitor your progress effectively. This capability is crucial for staying focused and motivated in your sales efforts.\nBy mastering quota tracking techniques, you will enhance your ability to meet and exceed your sales targets. This knowledge is key to building a successful sales career and contributing to the company's success.",
+                            "content_instructions": {
+                                "role": "professional sales performance analyst",
+                                "topic": "Learn how to track and achieve your sales quotas."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "pipeline_velocity",
                     "type": "module",
                     "title": "Pipeline Velocity",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_monitor_pipeline_velocity_and_close_deals_faster",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how to monitor pipeline velocity and close deals faster."
+                            "title": "Understand how to monitor pipeline velocity and close deals faster.",
+                            "action": "Explore techniques for monitoring pipeline velocity and improving efficiency.",
+                            "description": "Monitoring pipeline velocity is crucial for understanding the efficiency of your sales process. By analyzing how quickly deals move through the pipeline, you can identify bottlenecks and implement strategies to close deals faster. This capability is essential for maximizing your productivity and achieving your sales targets.\nBy mastering pipeline velocity monitoring techniques, you will enhance your ability to optimize your sales processes and drive revenue growth. This knowledge is vital for building a successful sales career.",
+                            "content_instructions": {
+                                "role": "professional sales operations manager",
+                                "topic": "Understand how to monitor pipeline velocity and close deals faster."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "customer_satisfaction_scores",
                     "type": "module",
                     "title": "Customer Satisfaction Scores",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_customer_satisfaction_is_measured_and_improved",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of how customer satisfaction is measured and improved."
+                            "title": "Overview of how customer satisfaction is measured and improved.",
+                            "action": "Review customer satisfaction measurement techniques and improvement strategies.",
+                            "description": "Measuring and improving customer satisfaction is essential for driving loyalty and repeat business. By understanding the metrics used to gauge satisfaction, you can identify areas for improvement and implement strategies to enhance the customer experience. This capability is crucial for building strong relationships and ensuring long-term success.\nBy mastering customer satisfaction measurement techniques, you will enhance your ability to advocate for client needs and contribute to continuous improvement efforts. This knowledge is key to maintaining strong client relationships.",
+                            "content_instructions": {
+                                "role": "professional customer experience manager",
+                                "topic": "Overview of how customer satisfaction is measured and improved."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 12,
             "id": "ongoing_learning_and_industry_trends_at_our_company",
             "type": "section",
             "title": "Ongoing Learning and Industry Trends at Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "industry_certifications_and_learning",
                     "type": "module",
                     "title": "Industry Certifications and Learning",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_industry_certifications_and_continuous_learning_opportunities_for_sales_engineers",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about industry certifications and continuous learning opportunities for sales engineers."
+                            "title": "Learn about industry certifications and continuous learning opportunities for sales engineers.",
+                            "action": "Explore available certifications and learning resources.",
+                            "description": "Continuous learning is essential for staying competitive in the sales engineering field. By pursuing industry certifications and engaging in ongoing training, you can enhance your skills and knowledge, positioning yourself as a valuable asset to the company. Understanding the available learning resources will empower you to take charge of your professional development.\nBy mastering the learning opportunities available, you will enhance your ability to adapt to changing market conditions and continue to provide value to clients. This knowledge is vital for long-term career success.",
+                            "content_instructions": {
+                                "role": "professional learning and development manager",
+                                "topic": "Learn about industry certifications and continuous learning opportunities for sales engineers."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "staying_updated_with_market_trends",
                     "type": "module",
                     "title": "Staying Updated with Market Trends",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_stay_informed_about_the_latest_market_trends_and_updates",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand how to stay informed about the latest market trends and updates."
+                            "title": "Understand how to stay informed about the latest market trends and updates.",
+                            "action": "Review strategies for staying updated on industry trends.",
+                            "description": "Staying informed about the latest market trends is crucial for understanding customer needs and positioning our solutions effectively. By following industry news, attending webinars, and engaging with professional networks, you can ensure that you remain knowledgeable about developments in the sales engineering field. This capability is essential for maintaining a competitive edge.\nBy mastering trend monitoring techniques, you will enhance your ability to anticipate changes in the market and adapt your sales strategies accordingly. This knowledge is vital for long-term success.",
+                            "content_instructions": {
+                                "role": "professional market analyst",
+                                "topic": "Understand how to stay informed about the latest market trends and updates."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "sales_process_improvements",
                     "type": "module",
                     "title": "Sales Process Improvements",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_continuously_improve_your_sales_process_and_techniques",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of how to continuously improve your sales process and techniques."
+                            "title": "Overview of how to continuously improve your sales process and techniques.",
+                            "action": "Explore strategies for ongoing sales process improvements.",
+                            "description": "Continuous improvement of your sales process is essential for maximizing efficiency and effectiveness. By regularly assessing your techniques and seeking feedback, you can identify areas for enhancement and implement changes that drive better results. This capability is crucial for maintaining high performance and achieving your sales targets.\nBy mastering improvement strategies, you will enhance your ability to refine your sales approach and ensure that you are consistently delivering value to clients. This knowledge is vital for building a successful sales career.",
+                            "content_instructions": {
+                                "role": "professional sales coach",
+                                "topic": "Overview of how to continuously improve your sales process and techniques."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 }

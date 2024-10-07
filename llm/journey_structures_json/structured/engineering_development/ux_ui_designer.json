@@ -2,744 +2,2291 @@
     "id": "ux_ui_designer",
     "type": "journey",
     "title": "UX/UI Designer",
-    "end_of_day": 31,
+    "end_of_day": 0,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_3",
             "type": "section",
             "title": "Introduction to the Company & Team",
-            "end_of_day": 2,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "design_team_structure",
                     "type": "module",
                     "title": "Design Team Structure",
-                    "end_of_day": 1,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_the_structure_of_the_design_team_and_individual_responsibilities",
+                            "id": "description_71",
                             "type": "action",
-                            "end_of_day": 1,
-                            "title": "Understand the structure of the design team and individual responsibilities."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_71",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_71",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_71",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_71",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_71",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_71",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_71",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "meet_cross_functional_teams",
                     "type": "module",
                     "title": "Meet Cross-Functional Teams",
-                    "end_of_day": 2,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "introduction_to_the_cross_functional_teams_you_will_collaborate_with",
+                            "id": "description_72",
                             "type": "action",
-                            "end_of_day": 2,
-                            "title": "Introduction to the cross-functional teams you will collaborate with."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_72",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_72",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_72",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_72",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_72",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_72",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_72",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "our_design_workflow",
                     "type": "module",
                     "title": "Our Design Workflow",
-                    "end_of_day": 2,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_our_design_workflow_and_how_it_integrates_with_product_and_development_teams",
+                            "id": "description_73",
                             "type": "action",
-                            "end_of_day": 2,
-                            "title": "Overview of our design workflow and how it integrates with product and development teams."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_73",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_73",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_73",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_73",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_73",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_73",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_73",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_our_product_vision",
             "type": "section",
             "title": "Familiarize with Our Product Vision",
-            "end_of_day": 5,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "product_roadmap_and_strategy",
                     "type": "module",
                     "title": "Product Roadmap and Strategy",
-                    "end_of_day": 3,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_the_product_roadmap_and_how_design_aligns_with_the_overall_strategy",
+                            "id": "description_74",
                             "type": "action",
-                            "end_of_day": 3,
-                            "title": "Understand the product roadmap and how design aligns with the overall strategy."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_74",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_74",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_74",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_74",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_74",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_74",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_74",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "target_users_and_personas",
                     "type": "module",
                     "title": "Target Users and Personas",
-                    "end_of_day": 4,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_about_the_key_target_users_and_personas_our_designs_cater_to",
+                            "id": "description_75",
                             "type": "action",
-                            "end_of_day": 4,
-                            "title": "Learn about the key target users and personas our designs cater to."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_75",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_75",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_75",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_75",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_75",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_75",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_75",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "long_term_design_goals",
                     "type": "module",
                     "title": "Long-Term Design Goals",
-                    "end_of_day": 5,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_the_long_term_design_goals_and_their_impact_on_the_product",
+                            "id": "description_76",
                             "type": "action",
-                            "end_of_day": 5,
-                            "title": "Overview of the long-term design goals and their impact on the product."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_76",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_76",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_76",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_76",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_76",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_76",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_76",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "our_design_system_and_guidelines",
             "type": "section",
             "title": "Our Design System and Guidelines",
-            "end_of_day": 7,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "ui_components_and_patterns",
                     "type": "module",
                     "title": "UI Components and Patterns",
-                    "end_of_day": 6,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "introduction_to_our_design_system_and_commonly_used_ui_components",
+                            "id": "description_77",
                             "type": "action",
-                            "end_of_day": 6,
-                            "title": "Introduction to our design system and commonly used UI components."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_77",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_77",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_77",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_77",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_77",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_77",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_77",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "branding_guidelines",
                     "type": "module",
                     "title": "Branding Guidelines",
-                    "end_of_day": 7,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_our_branding_guidelines_and_how_they_influence_design",
+                            "id": "description_78",
                             "type": "action",
-                            "end_of_day": 7,
-                            "title": "Understand our branding guidelines and how they influence design."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_78",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_78",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_78",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_78",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_78",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_78",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_78",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "consistency_across_platforms",
                     "type": "module",
                     "title": "Consistency Across Platforms",
-                    "end_of_day": 7,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_about_ensuring_design_consistency_across_various_platforms_and_devices",
+                            "id": "description_79",
                             "type": "action",
-                            "end_of_day": 7,
-                            "title": "Learn about ensuring design consistency across various platforms and devices."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_79",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_79",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_79",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_79",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_79",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_79",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_79",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "understanding_our_user_research_and_personas",
             "type": "section",
             "title": "Understanding Our User Research and Personas",
-            "end_of_day": 10,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "user_research_methods",
                     "type": "module",
                     "title": "User Research Methods",
-                    "end_of_day": 8,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_the_user_research_methods_we_use_to_gather_insights",
+                            "id": "description_80",
                             "type": "action",
-                            "end_of_day": 8,
-                            "title": "Overview of the user research methods we use to gather insights."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_80",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_80",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_80",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_80",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_80",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_80",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_80",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "creating_and_updating_personas",
                     "type": "module",
                     "title": "Creating and Updating Personas",
-                    "end_of_day": 9,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_we_create_and_maintain_user_personas_based_on_research_findings",
+                            "id": "description_81",
                             "type": "action",
-                            "end_of_day": 9,
-                            "title": "Learn how we create and maintain user personas based on research findings."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_81",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_81",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_81",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_81",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_81",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_81",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_81",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "analyzing_user_behavior",
                     "type": "module",
                     "title": "Analyzing User Behavior",
-                    "end_of_day": 10,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "introduction_to_techniques_for_analyzing_user_behavior_to_inform_design_decisions",
+                            "id": "description_82",
                             "type": "action",
-                            "end_of_day": 10,
-                            "title": "Introduction to techniques for analyzing user behavior to inform design decisions."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_82",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_82",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_82",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_82",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_82",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_82",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_82",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "our_product_and_user_flows",
             "type": "section",
             "title": "Our Product and User Flows",
-            "end_of_day": 13,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "user_journey_mapping",
                     "type": "module",
                     "title": "User Journey Mapping",
-                    "end_of_day": 11,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_to_map_user_journeys_and_understand_key_user_touchpoints",
+                            "id": "description_83",
                             "type": "action",
-                            "end_of_day": 11,
-                            "title": "Learn how to map user journeys and understand key user touchpoints."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_83",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_83",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_83",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_83",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_83",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_83",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_83",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "wireflow_and_interaction_design",
                     "type": "module",
                     "title": "Wireflow and Interaction Design",
-                    "end_of_day": 12,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_wireflows_and_interaction_design_principles_for_building_user_centric_products",
+                            "id": "description_84",
                             "type": "action",
-                            "end_of_day": 12,
-                            "title": "Overview of wireflows and interaction design principles for building user-centric products."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_84",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_84",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_84",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_84",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_84",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_84",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_84",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "usability_testing_feedback",
                     "type": "module",
                     "title": "Usability Testing Feedback",
-                    "end_of_day": 13,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_to_conduct_usability_testing_and_gather_actionable_feedback",
+                            "id": "description_85",
                             "type": "action",
-                            "end_of_day": 13,
-                            "title": "Learn how to conduct usability testing and gather actionable feedback."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_85",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_85",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_85",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_85",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_85",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_85",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_85",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "familiarize_with_our_wireframing_and_prototyping_tools",
             "type": "section",
             "title": "Familiarize with Our Wireframing and Prototyping Tools",
-            "end_of_day": 16,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "prototyping_software_overview",
                     "type": "module",
                     "title": "Prototyping Software Overview",
-                    "end_of_day": 14,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "introduction_to_the_prototyping_software_we_use_such_as_figma_and_sketch",
+                            "id": "description_86",
                             "type": "action",
-                            "end_of_day": 14,
-                            "title": "Introduction to the prototyping software we use, such as Figma and Sketch."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_86",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_86",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_86",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_86",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_86",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_86",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_86",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "creating_interactive_prototypes",
                     "type": "module",
                     "title": "Creating Interactive Prototypes",
-                    "end_of_day": 15,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_to_create_interactive_prototypes_to_visualize_user_flows",
+                            "id": "description_87",
                             "type": "action",
-                            "end_of_day": 15,
-                            "title": "Learn how to create interactive prototypes to visualize user flows."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_87",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_87",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_87",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_87",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_87",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_87",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_87",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "feedback_and_iteration_process",
                     "type": "module",
                     "title": "Feedback and Iteration Process",
-                    "end_of_day": 16,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_how_we_gather_feedback_on_prototypes_and_iterate_based_on_user_input",
+                            "id": "description_88",
                             "type": "action",
-                            "end_of_day": 16,
-                            "title": "Overview of how we gather feedback on prototypes and iterate based on user input."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_88",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_88",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_88",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_88",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_88",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_88",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_88",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "collaborating_with_our_product_and_development_teams",
             "type": "section",
             "title": "Collaborating with Our Product and Development Teams",
-            "end_of_day": 19,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "handing_off_designs",
                     "type": "module",
                     "title": "Handing Off Designs",
-                    "end_of_day": 17,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_to_hand_off_designs_to_the_development_team_effectively",
+                            "id": "description_89",
                             "type": "action",
-                            "end_of_day": 17,
-                            "title": "Learn how to hand off designs to the development team effectively."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_89",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_89",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_89",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_89",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_89",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_89",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_89",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "design_and_development_syncs",
                     "type": "module",
                     "title": "Design and Development Syncs",
-                    "end_of_day": 18,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_the_importance_of_syncing_with_development_teams_throughout_the_design_process",
+                            "id": "description_90",
                             "type": "action",
-                            "end_of_day": 18,
-                            "title": "Understand the importance of syncing with development teams throughout the design process."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_90",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_90",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_90",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_90",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_90",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_90",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_90",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "iterating_based_on_developer_feedback",
                     "type": "module",
                     "title": "Iterating Based on Developer Feedback",
-                    "end_of_day": 19,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_how_design_iterations_are_informed_by_developer_feedback",
+                            "id": "description_91",
                             "type": "action",
-                            "end_of_day": 19,
-                            "title": "Overview of how design iterations are informed by developer feedback."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_91",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_91",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_91",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_91",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_91",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_91",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_91",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "our_accessibility_guidelines_and_best_practices",
             "type": "section",
             "title": "Our Accessibility Guidelines and Best Practices",
-            "end_of_day": 21,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "wcag_guidelines_overview",
                     "type": "module",
                     "title": "WCAG Guidelines Overview",
-                    "end_of_day": 20,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "introduction_to_wcag_guidelines_and_how_we_ensure_accessibility_compliance",
+                            "id": "description_92",
                             "type": "action",
-                            "end_of_day": 20,
-                            "title": "Introduction to WCAG guidelines and how we ensure accessibility compliance."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_92",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_92",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_92",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_92",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_92",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_92",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_92",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "accessible_design_patterns",
                     "type": "module",
                     "title": "Accessible Design Patterns",
-                    "end_of_day": 21,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_about_accessible_design_patterns_and_their_application_in_our_products",
+                            "id": "description_93",
                             "type": "action",
-                            "end_of_day": 21,
-                            "title": "Learn about accessible design patterns and their application in our products."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_93",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_93",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_93",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_93",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_93",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_93",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_93",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "testing_for_accessibility_compliance",
                     "type": "module",
                     "title": "Testing for Accessibility Compliance",
-                    "end_of_day": 21,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_tools_and_processes_for_testing_design_accessibility_compliance",
+                            "id": "description_94",
                             "type": "action",
-                            "end_of_day": 21,
-                            "title": "Overview of tools and processes for testing design accessibility compliance."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_94",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_94",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_94",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_94",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_94",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_94",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_94",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "familiarize_with_our_visual_design_principles",
             "type": "section",
             "title": "Familiarize with Our Visual Design Principles",
-            "end_of_day": 24,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "color_theory_and_contrast",
                     "type": "module",
                     "title": "Color Theory and Contrast",
-                    "end_of_day": 22,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_the_principles_of_color_theory_and_contrast_in_design",
+                            "id": "description_95",
                             "type": "action",
-                            "end_of_day": 22,
-                            "title": "Understand the principles of color theory and contrast in design."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_95",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_95",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_95",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_95",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_95",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_95",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_95",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "typography_and_hierarchy",
                     "type": "module",
                     "title": "Typography and Hierarchy",
-                    "end_of_day": 23,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_to_apply_typography_and_hierarchy_principles_to_create_effective_designs",
+                            "id": "description_96",
                             "type": "action",
-                            "end_of_day": 23,
-                            "title": "Learn how to apply typography and hierarchy principles to create effective designs."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_96",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_96",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_96",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_96",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_96",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_96",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_96",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "iconography_standards",
                     "type": "module",
                     "title": "Iconography Standards",
-                    "end_of_day": 24,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_iconography_standards_and_how_they_contribute_to_consistent_visual_design",
+                            "id": "description_97",
                             "type": "action",
-                            "end_of_day": 24,
-                            "title": "Overview of iconography standards and how they contribute to consistent visual design."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_97",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_97",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_97",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_97",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_97",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_97",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_97",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "introduction_to_our_ui_design_tools",
             "type": "section",
             "title": "Introduction to Our UI Design Tools",
-            "end_of_day": 27,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "ui_design_software_figma_sketch_etc",
                     "type": "module",
                     "title": "UI Design Software (Figma, Sketch, etc.)",
-                    "end_of_day": 25,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "introduction_to_the_ui_design_software_we_use_and_their_features",
+                            "id": "description_98",
                             "type": "action",
-                            "end_of_day": 25,
-                            "title": "Introduction to the UI design software we use and their features."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_98",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_98",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_98",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_98",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_98",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_98",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_98",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "designing_for_responsive_layouts",
                     "type": "module",
                     "title": "Designing for Responsive Layouts",
-                    "end_of_day": 26,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_to_design_for_responsive_layouts_across_different_devices",
+                            "id": "description_99",
                             "type": "action",
-                            "end_of_day": 26,
-                            "title": "Learn how to design for responsive layouts across different devices."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_99",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_99",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_99",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_99",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_99",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_99",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_99",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "collaborating_on_design_files",
                     "type": "module",
                     "title": "Collaborating on Design Files",
-                    "end_of_day": 27,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_best_practices_for_collaborating_on_design_files_within_our_team",
+                            "id": "description_100",
                             "type": "action",
-                            "end_of_day": 27,
-                            "title": "Understand best practices for collaborating on design files within our team."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_100",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_100",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_100",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_100",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_100",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_100",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_100",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "user_testing_and_feedback_collection_at_our_company",
             "type": "section",
             "title": "User Testing and Feedback Collection at Our Company",
-            "end_of_day": 29,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "moderated_vs_unmoderated_testing",
                     "type": "module",
                     "title": "Moderated vs Unmoderated Testing",
-                    "end_of_day": 28,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_the_differences_between_moderated_and_unmoderated_testing",
+                            "id": "description_101",
                             "type": "action",
-                            "end_of_day": 28,
-                            "title": "Overview of the differences between moderated and unmoderated testing."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_101",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_101",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_101",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_101",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_101",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_101",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_101",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "gathering_and_synthesizing_feedback",
                     "type": "module",
                     "title": "Gathering and Synthesizing Feedback",
-                    "end_of_day": 29,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_to_gather_and_synthesize_feedback_from_user_testing",
+                            "id": "description_102",
                             "type": "action",
-                            "end_of_day": 29,
-                            "title": "Learn how to gather and synthesize feedback from user testing."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_102",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_102",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_102",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_102",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_102",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_102",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_102",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "iterating_on_design_based_on_feedback",
                     "type": "module",
                     "title": "Iterating on Design Based on Feedback",
-                    "end_of_day": 29,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_how_to_iterate_on_designs_based_on_feedback_from_users_and_stakeholders",
+                            "id": "description_103",
                             "type": "action",
-                            "end_of_day": 29,
-                            "title": "Understand how to iterate on designs based on feedback from users and stakeholders."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_103",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_103",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_103",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_103",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_103",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_103",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_103",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "our_design_review_and_approval_process",
             "type": "section",
             "title": "Our Design Review and Approval Process",
-            "end_of_day": 30,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "design_critique_sessions",
                     "type": "module",
                     "title": "Design Critique Sessions",
-                    "end_of_day": 30,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_how_to_participate_in_and_contribute_to_design_critique_sessions",
+                            "id": "description_104",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Learn how to participate in and contribute to design critique sessions."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_104",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_104",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_104",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_104",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_104",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_104",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_104",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "final_review_and_sign_off",
                     "type": "module",
                     "title": "Final Review and Sign-Off",
-                    "end_of_day": 30,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_the_process_for_final_design_review_and_sign_off_by_stakeholders",
+                            "id": "description_105",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Overview of the process for final design review and sign-off by stakeholders."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_105",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_105",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_105",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_105",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_105",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_105",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_105",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "stakeholder_presentation",
                     "type": "module",
                     "title": "Stakeholder Presentation",
-                    "end_of_day": 30,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_how_to_present_designs_to_stakeholders_and_gather_final_feedback",
+                            "id": "description_106",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Understand how to present designs to stakeholders and gather final feedback."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_106",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_106",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_106",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_106",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_106",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_106",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_106",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 12,
             "id": "ongoing_learning_and_design_trends_in_our_company",
             "type": "section",
             "title": "Ongoing Learning and Design Trends in Our Company",
-            "end_of_day": 31,
+            "end_of_day": 0,
             "children": [
                 {
-                    "index": 0,
                     "id": "design_trend_workshops",
                     "type": "module",
                     "title": "Design Trend Workshops",
-                    "end_of_day": 31,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "learn_about_design_trend_workshops_and_opportunities_for_continuous_learning",
+                            "id": "description_107",
                             "type": "action",
-                            "end_of_day": 31,
-                            "title": "Learn about design trend workshops and opportunities for continuous learning."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_107",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_107",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_107",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_107",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_107",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_107",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_107",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "access_to_design_resources",
                     "type": "module",
                     "title": "Access to Design Resources",
-                    "end_of_day": 31,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "overview_of_the_design_resources_available_for_ongoing_professional_development",
+                            "id": "description_108",
                             "type": "action",
-                            "end_of_day": 31,
-                            "title": "Overview of the design resources available for ongoing professional development."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_108",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_108",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_108",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_108",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_108",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_108",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_108",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "continuous_feedback_and_growth",
                     "type": "module",
                     "title": "Continuous Feedback and Growth",
-                    "end_of_day": 31,
+                    "end_of_day": 0,
                     "children": [
                         {
-                            "index": 0,
-                            "id": "understand_the_feedback_loops_in_place_to_ensure_continuous_growth_as_a_designer",
+                            "id": "description_109",
                             "type": "action",
-                            "end_of_day": 31,
-                            "title": "Understand the feedback loops in place to ensure continuous growth as a designer."
+                            "title": "description",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "day_109",
+                            "type": "action",
+                            "title": "day",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "action_109",
+                            "type": "action",
+                            "title": "action",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "content_109",
+                            "type": "action",
+                            "title": "content",
+                            "end_of_day": 0
+                        },
+                        {
+                            "id": "system_prompt_109",
+                            "type": "action",
+                            "title": "system_prompt",
+                            "end_of_day": 0,
+                            "children": [
+                                {
+                                    "id": "role_109",
+                                    "title": "role",
+                                    "end_of_day": 0
+                                },
+                                {
+                                    "id": "topic_109",
+                                    "title": "topic",
+                                    "end_of_day": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "logo_109",
+                            "type": "action",
+                            "title": "logo",
+                            "end_of_day": 0
                         }
                     ]
                 }

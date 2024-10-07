@@ -5,684 +5,852 @@
     "end_of_day": 31,
     "children": [
         {
-            "index": 0,
             "id": "introduction_to_the_company_team_7",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
-                    "index": 0,
                     "id": "meet_the_scrum_team_members",
                     "type": "module",
                     "title": "Meet the Scrum Team Members",
                     "end_of_day": 1,
                     "children": [
                         {
-                            "index": 0,
                             "id": "introduction_to_the_scrum_team_members_and_their_roles",
                             "type": "action",
                             "end_of_day": 1,
-                            "title": "Introduction to the Scrum team members and their roles."
+                            "title": "Introduction to the Scrum team members and their roles.",
+                            "action": "Meet your Scrum team members and learn about their roles and responsibilities.",
+                            "description": "The Scrum team is composed of diverse roles, each contributing unique skills and perspectives to the project. Understanding who is on your team and what they do will foster collaboration and streamline communication. Each member plays a critical role in ensuring the success of the Scrum process, from the Product Owner to the Development Team.\nAs a Scrum Master, it's essential to build relationships with your team members early on. This connection will facilitate open communication and create a supportive environment where everyone feels valued and empowered to contribute their best work.",
+                            "content_instructions": {
+                                "role": "professional HR manager",
+                                "topic": "Introduction to the Scrum team members and their roles."
+                            },
+                            "icon": "logo_2"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "understanding_company_structure",
                     "type": "module",
                     "title": "Understanding Company Structure",
                     "end_of_day": 2,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_company_s_structure_and_how_it_impacts_scrum_teams",
                             "type": "action",
                             "end_of_day": 2,
-                            "title": "Overview of the company's structure and how it impacts Scrum teams."
+                            "title": "Overview of the company's structure and how it impacts Scrum teams.",
+                            "action": "Review the company's organizational structure and its impact on Scrum teams.",
+                            "description": "Understanding the company's structure is crucial for navigating your role as a Scrum Master. The organizational hierarchy influences how Scrum teams interact with other departments, including Product Management, Engineering, and Quality Assurance. \nBy familiarizing yourself with this structure, you will be better equipped to facilitate communication and collaboration across teams, ensuring that the Scrum process aligns with broader organizational goals and initiatives.",
+                            "content_instructions": {
+                                "role": "professional organizational strategist",
+                                "topic": "Overview of the company's structure and how it impacts Scrum teams."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "introduction_to_scrum_master_role",
                     "type": "module",
                     "title": "Introduction to Scrum Master Role",
                     "end_of_day": 3,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_key_responsibilities_and_expectations_for_the_scrum_master_role",
                             "type": "action",
                             "end_of_day": 3,
-                            "title": "Understand the key responsibilities and expectations for the Scrum Master role."
+                            "title": "Understand the key responsibilities and expectations for the Scrum Master role.",
+                            "action": "Explore the responsibilities and expectations of the Scrum Master role.",
+                            "description": "As a Scrum Master, you are a servant leader responsible for facilitating the Scrum process, coaching the team, and removing impediments. Your role is pivotal in fostering an environment conducive to high performance and continuous improvement. \nUnderstanding the expectations associated with this role will help you navigate challenges effectively and ensure that your team adheres to Scrum principles and practices. Your ability to lead by example and support your team will be key to their success.",
+                            "content_instructions": {
+                                "role": "professional Agile coach",
+                                "topic": "Understand the key responsibilities and expectations for the Scrum Master role."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 1,
             "id": "familiarize_with_agile_principles_at_our_company",
             "type": "section",
             "title": "Familiarize with Agile Principles at Our Company",
             "end_of_day": 6,
             "children": [
                 {
-                    "index": 0,
                     "id": "agile_manifesto_overview",
                     "type": "module",
                     "title": "Agile Manifesto Overview",
                     "end_of_day": 4,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_the_principles_of_the_agile_manifesto_and_how_they_guide_our_practices",
                             "type": "action",
                             "end_of_day": 4,
-                            "title": "Learn the principles of the Agile Manifesto and how they guide our practices."
+                            "title": "Learn the principles of the Agile Manifesto and how they guide our practices.",
+                            "action": "Study the Agile Manifesto and reflect on its significance in our work.",
+                            "description": "The Agile Manifesto serves as the foundation for Agile methodologies, emphasizing values such as individuals and interactions, working software, customer collaboration, and responding to change. Understanding these principles is crucial for aligning your work and the team's efforts with Agile practices. \nBy internalizing the Agile Manifesto, you will be better equipped to foster a culture of collaboration and adaptability, ensuring that your team remains focused on delivering value to customers while embracing change.",
+                            "content_instructions": {
+                                "role": "professional Agile practitioner",
+                                "topic": "Learn the principles of the Agile Manifesto and how they guide our practices."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "agile_values_and_principles_in_practice",
                     "type": "module",
                     "title": "Agile Values and Principles in Practice",
                     "end_of_day": 5,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_agile_values_and_principles_are_implemented_in_day_to_day_work",
                             "type": "action",
                             "end_of_day": 5,
-                            "title": "Understand how Agile values and principles are implemented in day-to-day work."
+                            "title": "Understand how Agile values and principles are implemented in day-to-day work.",
+                            "action": "Observe and analyze how Agile principles are applied in our daily operations.",
+                            "description": "Agile values and principles are not just theoretical concepts; they are actively practiced in our daily work. This includes regular communication, iterative development, and continuous feedback loops. Understanding these practices will help you facilitate Agile ceremonies and support your team in adhering to these principles. \nBy observing how these values manifest in day-to-day activities, you can identify areas for improvement and advocate for practices that enhance team performance and product quality.",
+                            "content_instructions": {
+                                "role": "professional Scrum Master",
+                                "topic": "Understand how Agile values and principles are implemented in day-to-day work."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "adapting_agile_in_our_company",
                     "type": "module",
                     "title": "Adapting Agile in Our Company",
                     "end_of_day": 6,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_agile_practices_are_adapted_to_fit_the_company_s_unique_needs",
                             "type": "action",
                             "end_of_day": 6,
-                            "title": "Overview of how Agile practices are adapted to fit the company's unique needs."
+                            "title": "Overview of how Agile practices are adapted to fit the company's unique needs.",
+                            "action": "Explore how Agile practices are tailored to meet our company's specific requirements.",
+                            "description": "Every organization has its unique culture and challenges, which necessitates the adaptation of Agile practices. In our company, we have tailored Agile methodologies to align with our specific goals, team dynamics, and project demands. Understanding these adaptations will help you effectively implement Agile practices that resonate with your team. \nBy familiarizing yourself with how Agile is adapted in our context, you will be better positioned to facilitate effective Scrum ceremonies and support your team in achieving their goals.",
+                            "content_instructions": {
+                                "role": "professional Agile consultant",
+                                "topic": "Overview of how Agile practices are adapted to fit the company's unique needs."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 2,
             "id": "scrum_methodology_at_our_company",
             "type": "section",
             "title": "Scrum Methodology at Our Company",
             "end_of_day": 9,
             "children": [
                 {
-                    "index": 0,
                     "id": "scrum_framework_overview",
                     "type": "module",
                     "title": "Scrum Framework Overview",
                     "end_of_day": 7,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_scrum_framework_and_its_application_in_our_company",
                             "type": "action",
                             "end_of_day": 7,
-                            "title": "Understand the Scrum framework and its application in our company."
+                            "title": "Understand the Scrum framework and its application in our company.",
+                            "action": "Review the Scrum framework and its components as they apply to our projects.",
+                            "description": "The Scrum framework consists of roles, events, and artifacts that promote effective collaboration and iterative development. Familiarizing yourself with the components of Scrum will help you facilitate the process effectively. Understanding how these elements interconnect will enable you to guide your team in adhering to Scrum principles and practices. \nBy mastering the Scrum framework, you will be better equipped to support your team in delivering high-quality products efficiently and effectively.",
+                            "content_instructions": {
+                                "role": "professional Scrum Master",
+                                "topic": "Understand the Scrum framework and its application in our company."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "scrum_ceremonies_and_their_importance",
                     "type": "module",
                     "title": "Scrum Ceremonies and Their Importance",
                     "end_of_day": 8,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_key_scrum_ceremonies_and_their_significance",
                             "type": "action",
                             "end_of_day": 8,
-                            "title": "Learn about the key Scrum ceremonies and their significance."
+                            "title": "Learn about the key Scrum ceremonies and their significance.",
+                            "action": "Understand the purpose and structure of Scrum ceremonies.",
+                            "description": "Scrum ceremonies, including Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives, are integral to the Scrum process. Each ceremony serves a specific purpose, facilitating communication, collaboration, and continuous improvement. Understanding the significance of these ceremonies will enable you to facilitate them effectively and ensure that your team derives maximum value from each session. \nBy mastering the structure and objectives of these ceremonies, you can foster a culture of openness and collaboration within your team, leading to better outcomes.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Learn about the key Scrum ceremonies and their significance."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "scrum_roles_and_responsibilities",
                     "type": "module",
                     "title": "Scrum Roles and Responsibilities",
                     "end_of_day": 9,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_the_roles_and_responsibilities_within_the_scrum_team",
                             "type": "action",
                             "end_of_day": 9,
-                            "title": "Overview of the roles and responsibilities within the Scrum team."
+                            "title": "Overview of the roles and responsibilities within the Scrum team.",
+                            "action": "Explore the distinct roles within the Scrum team and their responsibilities.",
+                            "description": "Understanding the roles within a Scrum team is essential for effective collaboration. The Scrum Master, Product Owner, and Development Team each have unique responsibilities that contribute to the team's success. By familiarizing yourself with these roles, you will be better equipped to facilitate communication and collaboration between team members. \nRecognizing the strengths and challenges of each role will help you support your team in achieving their objectives and maintaining a productive working environment.",
+                            "content_instructions": {
+                                "role": "professional Scrum Master",
+                                "topic": "Overview of the roles and responsibilities within the Scrum team."
+                            },
+                            "icon": "logo_2"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 3,
             "id": "roles_and_responsibilities_in_scrum_at_our_company",
             "type": "section",
             "title": "Roles and Responsibilities in Scrum at Our Company",
             "end_of_day": 12,
             "children": [
                 {
-                    "index": 0,
                     "id": "product_owner_vs_scrum_master",
                     "type": "module",
                     "title": "Product Owner vs Scrum Master",
                     "end_of_day": 10,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_differences_between_the_roles_of_the_product_owner_and_scrum_master",
                             "type": "action",
                             "end_of_day": 10,
-                            "title": "Understand the differences between the roles of the Product Owner and Scrum Master."
+                            "title": "Understand the differences between the roles of the Product Owner and Scrum Master.",
+                            "action": "Explore the distinctions between the Product Owner and Scrum Master roles.",
+                            "description": "The Product Owner and Scrum Master play distinct but complementary roles in a Scrum team. While the Product Owner focuses on maximizing product value and managing the backlog, the Scrum Master is responsible for facilitating the Scrum process and supporting the team. Understanding these differences is crucial for effective collaboration and ensuring that both roles work in harmony to achieve project goals. \nBy recognizing the unique contributions of each role, you can foster a productive working relationship with the Product Owner, leading to better alignment and outcomes for the team.",
+                            "content_instructions": {
+                                "role": "professional Agile coach",
+                                "topic": "Understand the differences between the roles of the Product Owner and Scrum Master."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "development_team_roles",
                     "type": "module",
                     "title": "Development Team Roles",
                     "end_of_day": 11,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_roles_and_responsibilities_of_the_development_team",
                             "type": "action",
                             "end_of_day": 11,
-                            "title": "Learn about the roles and responsibilities of the development team."
+                            "title": "Learn about the roles and responsibilities of the development team.",
+                            "action": "Explore the distinct roles within the development team and their contributions.",
+                            "description": "The development team is composed of cross-functional members who collaborate to deliver high-quality products. Understanding the roles and responsibilities of each team member is essential for fostering effective collaboration and accountability. Each member brings unique skills and perspectives that contribute to the team's success. \nBy familiarizing yourself with the development team's structure, you can better support their efforts, facilitate communication, and encourage a collaborative environment that promotes innovation and efficiency.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Learn about the roles and responsibilities of the development team."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "supporting_self_organizing_teams",
                     "type": "module",
                     "title": "Supporting Self-Organizing Teams",
                     "end_of_day": 12,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_the_scrum_master_supports_self_organizing_teams",
                             "type": "action",
                             "end_of_day": 12,
-                            "title": "Overview of how the Scrum Master supports self-organizing teams."
+                            "title": "Overview of how the Scrum Master supports self-organizing teams.",
+                            "action": "Learn how to empower and support self-organizing teams.",
+                            "description": "Self-organizing teams are a cornerstone of the Scrum framework, where team members take ownership of their work and collaborate to achieve goals. As a Scrum Master, your role is to empower these teams by providing guidance, removing impediments, and fostering an environment of trust and collaboration. Understanding how to support self-organizing teams will enable you to facilitate their growth and effectiveness. \nBy encouraging team autonomy and accountability, you can help your team reach its full potential and deliver exceptional results.",
+                            "content_instructions": {
+                                "role": "professional Agile coach",
+                                "topic": "Overview of how the Scrum Master supports self-organizing teams."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 4,
             "id": "facilitating_scrum_ceremonies_in_our_company",
             "type": "section",
             "title": "Facilitating Scrum Ceremonies in Our Company",
             "end_of_day": 15,
             "children": [
                 {
-                    "index": 0,
                     "id": "daily_stand_ups_1",
                     "type": "module",
                     "title": "Daily Stand-ups",
                     "end_of_day": 13,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_facilitate_daily_stand_ups_effectively",
                             "type": "action",
                             "end_of_day": 13,
-                            "title": "Learn how to facilitate daily stand-ups effectively."
+                            "title": "Learn how to facilitate daily stand-ups effectively.",
+                            "action": "Practice facilitating daily stand-ups and understand their purpose.",
+                            "description": "Daily stand-ups are a vital Scrum ceremony that promotes transparency and accountability within the team. As a Scrum Master, facilitating these meetings effectively ensures that team members share updates, discuss challenges, and align on daily goals. Understanding the best practices for conducting daily stand-ups will help you create a focused and productive environment. \nBy mastering this ceremony, you can foster open communication and keep the team aligned, ultimately enhancing their performance and collaboration.",
+                            "content_instructions": {
+                                "role": "professional Scrum Master",
+                                "topic": "Learn how to facilitate daily stand-ups effectively."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "sprint_planning_and_review",
                     "type": "module",
                     "title": "Sprint Planning and Review",
                     "end_of_day": 14,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_facilitating_sprint_planning_and_review_sessions",
                             "type": "action",
                             "end_of_day": 14,
-                            "title": "Overview of facilitating sprint planning and review sessions."
+                            "title": "Overview of facilitating sprint planning and review sessions.",
+                            "action": "Learn how to guide sprint planning and review sessions effectively.",
+                            "description": "Sprint planning and review sessions are crucial for setting the direction of the sprint and evaluating progress. As a Scrum Master, your role is to facilitate these sessions, ensuring that the team collaborates effectively to define sprint goals and review completed work. Understanding the structure and objectives of these ceremonies will enable you to guide discussions and keep the team focused. \nBy mastering sprint planning and review sessions, you can help your team set realistic goals and celebrate their achievements, fostering a culture of continuous improvement.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Overview of facilitating sprint planning and review sessions."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "retrospectives_and_continuous_improvement",
                     "type": "module",
                     "title": "Retrospectives and Continuous Improvement",
                     "end_of_day": 15,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_retrospectives_are_conducted_to_drive_continuous_improvement",
                             "type": "action",
                             "end_of_day": 15,
-                            "title": "Understand how retrospectives are conducted to drive continuous improvement."
+                            "title": "Understand how retrospectives are conducted to drive continuous improvement.",
+                            "action": "Learn the process of conducting effective retrospectives.",
+                            "description": "Retrospectives are essential for fostering a culture of continuous improvement within the Scrum team. These sessions provide an opportunity for team members to reflect on the sprint, discuss successes and challenges, and identify actionable improvements. As a Scrum Master, facilitating retrospectives effectively will enable the team to learn from their experiences and enhance their processes. \nBy mastering the retrospective process, you can help your team cultivate a mindset of growth and innovation, ultimately leading to better outcomes in future sprints.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Understand how retrospectives are conducted to drive continuous improvement."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 5,
             "id": "sprint_planning_and_execution_at_our_company",
             "type": "section",
             "title": "Sprint Planning and Execution at Our Company",
             "end_of_day": 18,
             "children": [
                 {
-                    "index": 0,
                     "id": "creating_sprint_backlog",
                     "type": "module",
                     "title": "Creating Sprint Backlog",
                     "end_of_day": 16,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_create_and_prioritize_a_sprint_backlog",
                             "type": "action",
                             "end_of_day": 16,
-                            "title": "Learn how to create and prioritize a sprint backlog."
+                            "title": "Learn how to create and prioritize a sprint backlog.",
+                            "action": "Practice creating and managing a sprint backlog.",
+                            "description": "Creating a sprint backlog is a critical step in sprint planning, where the team identifies and prioritizes work for the upcoming sprint. As a Scrum Master, your role is to facilitate this process, ensuring that the team collaborates effectively to select the most valuable items from the product backlog. Understanding how to create and manage a sprint backlog will help you guide your team in making informed decisions about their work. \nBy mastering this process, you can support your team in setting achievable goals and delivering value in each sprint.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Learn how to create and prioritize a sprint backlog."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "defining_sprint_goals",
                     "type": "module",
                     "title": "Defining Sprint Goals",
                     "end_of_day": 17,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_define_clear_and_achievable_sprint_goals",
                             "type": "action",
                             "end_of_day": 17,
-                            "title": "Understand how to define clear and achievable sprint goals."
+                            "title": "Understand how to define clear and achievable sprint goals.",
+                            "action": "Learn how to define effective sprint goals in collaboration with the team.",
+                            "description": "Defining clear and achievable sprint goals is essential for guiding the team's focus and ensuring alignment with project objectives. As a Scrum Master, your role is to facilitate discussions that help the team articulate their goals for the sprint. Understanding how to create effective sprint goals will enable you to support your team in maintaining clarity and direction throughout the sprint. \nBy mastering this process, you can foster a shared understanding of objectives, ultimately enhancing team performance and collaboration.",
+                            "content_instructions": {
+                                "role": "professional Agile coach",
+                                "topic": "Understand how to define clear and achievable sprint goals."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "ensuring_successful_sprint_execution",
                     "type": "module",
                     "title": "Ensuring Successful Sprint Execution",
                     "end_of_day": 18,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_to_ensure_successful_execution_of_sprints",
                             "type": "action",
                             "end_of_day": 18,
-                            "title": "Overview of how to ensure successful execution of sprints."
+                            "title": "Overview of how to ensure successful execution of sprints.",
+                            "action": "Learn best practices for monitoring and supporting sprint execution.",
+                            "description": "Ensuring successful sprint execution involves monitoring progress, addressing impediments, and facilitating communication among team members. As a Scrum Master, your role is to support the team in maintaining focus and momentum throughout the sprint. Understanding best practices for sprint execution will help you guide your team in overcoming challenges and delivering high-quality results. \nBy mastering this process, you can foster a culture of accountability and collaboration, ultimately contributing to the team's success.",
+                            "content_instructions": {
+                                "role": "professional Scrum Master",
+                                "topic": "Overview of how to ensure successful execution of sprints."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 6,
             "id": "collaborating_with_our_product_and_development_teams_1",
             "type": "section",
             "title": "Collaborating with Our Product and Development Teams",
             "end_of_day": 21,
             "children": [
                 {
-                    "index": 0,
                     "id": "facilitating_cross_team_communication",
                     "type": "module",
                     "title": "Facilitating Cross-team Communication",
                     "end_of_day": 19,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_facilitate_communication_between_product_and_development_teams",
                             "type": "action",
                             "end_of_day": 19,
-                            "title": "Understand how to facilitate communication between product and development teams."
+                            "title": "Understand how to facilitate communication between product and development teams.",
+                            "action": "Learn strategies for fostering effective communication across teams.",
+                            "description": "Effective communication between product and development teams is essential for aligning goals and ensuring successful project outcomes. As a Scrum Master, your role is to facilitate discussions and collaboration between these teams, ensuring that everyone is on the same page. Understanding strategies for fostering cross-team communication will enable you to bridge gaps and enhance collaboration. \nBy mastering this skill, you can help create a cohesive environment where both teams work together towards common objectives.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Understand how to facilitate communication between product and development teams."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "collaborating_on_product_backlog",
                     "type": "module",
                     "title": "Collaborating on Product Backlog",
                     "end_of_day": 20,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_collaborate_effectively_on_managing_the_product_backlog",
                             "type": "action",
                             "end_of_day": 20,
-                            "title": "Learn how to collaborate effectively on managing the product backlog."
+                            "title": "Learn how to collaborate effectively on managing the product backlog.",
+                            "action": "Explore best practices for collaborating on the product backlog.",
+                            "description": "Collaborating on the product backlog is crucial for ensuring that the team is focused on delivering value to customers. As a Scrum Master, your role is to facilitate discussions between the Product Owner and the development team, ensuring that backlog items are well-defined and prioritized. Understanding best practices for backlog collaboration will help you guide these discussions effectively. \nBy mastering this process, you can support your team in maintaining a healthy backlog that aligns with project goals and customer needs.",
+                            "content_instructions": {
+                                "role": "professional Agile coach",
+                                "topic": "Learn how to collaborate effectively on managing the product backlog."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "resolving_inter_team_conflicts",
                     "type": "module",
                     "title": "Resolving Inter-team Conflicts",
                     "end_of_day": 21,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_strategies_for_resolving_conflicts_between_teams",
                             "type": "action",
                             "end_of_day": 21,
-                            "title": "Overview of strategies for resolving conflicts between teams."
+                            "title": "Overview of strategies for resolving conflicts between teams.",
+                            "action": "Learn conflict resolution techniques to address inter-team challenges.",
+                            "description": "Conflicts between teams can arise due to differing priorities, communication styles, or misunderstandings. As a Scrum Master, your role is to facilitate conflict resolution by promoting open communication and understanding. Understanding strategies for resolving inter-team conflicts will enable you to navigate these challenges effectively. \nBy mastering conflict resolution techniques, you can foster a collaborative environment where teams work together harmoniously towards common goals.",
+                            "content_instructions": {
+                                "role": "professional conflict resolution specialist",
+                                "topic": "Overview of strategies for resolving conflicts between teams."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 7,
             "id": "tracking_progress_and_metrics_in_our_scrum_teams",
             "type": "section",
             "title": "Tracking Progress and Metrics in Our Scrum Teams",
             "end_of_day": 24,
             "children": [
                 {
-                    "index": 0,
                     "id": "velocity_and_burndown_charts",
                     "type": "module",
                     "title": "Velocity and Burndown Charts",
                     "end_of_day": 22,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_track_team_progress_using_velocity_and_burndown_charts",
                             "type": "action",
                             "end_of_day": 22,
-                            "title": "Learn how to track team progress using velocity and burndown charts."
+                            "title": "Learn how to track team progress using velocity and burndown charts.",
+                            "action": "Explore how to use velocity and burndown charts to monitor progress.",
+                            "description": "Velocity and burndown charts are essential tools for tracking team progress in Scrum. These metrics provide valuable insights into the team's performance and help identify trends over time. As a Scrum Master, understanding how to interpret and utilize these charts will enable you to facilitate discussions around progress and areas for improvement. \nBy mastering these metrics, you can support your team in making informed decisions and maintaining accountability throughout the sprint.",
+                            "content_instructions": {
+                                "role": "professional Agile coach",
+                                "topic": "Learn how to track team progress using velocity and burndown charts."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "tracking_team_progress",
                     "type": "module",
                     "title": "Tracking Team Progress",
                     "end_of_day": 23,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_methods_used_to_track_progress_across_the_scrum_team",
                             "type": "action",
                             "end_of_day": 23,
-                            "title": "Understand the methods used to track progress across the Scrum team."
+                            "title": "Understand the methods used to track progress across the Scrum team.",
+                            "action": "Review the various methods for tracking team progress.",
+                            "description": "Tracking team progress is crucial for ensuring that the Scrum process is effective and that the team is on track to meet its goals. As a Scrum Master, understanding the various methods for tracking progress, including daily stand-ups, sprint reviews, and retrospective feedback, will enable you to facilitate these discussions effectively. \nBy mastering these tracking methods, you can help your team maintain focus and accountability, ultimately contributing to their success.",
+                            "content_instructions": {
+                                "role": "professional Scrum Master",
+                                "topic": "Understand the methods used to track progress across the Scrum team."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "measuring_team_effectiveness",
                     "type": "module",
                     "title": "Measuring Team Effectiveness",
                     "end_of_day": 24,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_metrics_used_to_measure_team_effectiveness_in_scrum",
                             "type": "action",
                             "end_of_day": 24,
-                            "title": "Overview of metrics used to measure team effectiveness in Scrum."
+                            "title": "Overview of metrics used to measure team effectiveness in Scrum.",
+                            "action": "Learn about the key metrics for assessing team effectiveness.",
+                            "description": "Measuring team effectiveness is essential for continuous improvement in Scrum. Key metrics include team velocity, cycle time, and customer satisfaction. As a Scrum Master, understanding these metrics will enable you to assess the team's performance and identify areas for improvement. \nBy mastering these assessment techniques, you can support your team in setting realistic goals and continuously enhancing their processes.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Overview of metrics used to measure team effectiveness in Scrum."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 8,
             "id": "removing_roadblocks_for_our_teams",
             "type": "section",
             "title": "Removing Roadblocks for Our Teams",
             "end_of_day": 27,
             "children": [
                 {
-                    "index": 0,
                     "id": "identifying_and_resolving_impediments",
                     "type": "module",
                     "title": "Identifying and Resolving Impediments",
                     "end_of_day": 25,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_identify_and_resolve_impediments_that_block_the_team_s_progress",
                             "type": "action",
                             "end_of_day": 25,
-                            "title": "Learn how to identify and resolve impediments that block the team's progress."
+                            "title": "Learn how to identify and resolve impediments that block the team's progress.",
+                            "action": "Explore techniques for identifying and addressing impediments.",
+                            "description": "Identifying and resolving impediments is a critical responsibility of the Scrum Master. Impediments can arise from various sources, including communication barriers, resource limitations, or external dependencies. Understanding how to recognize these obstacles and facilitate their resolution will empower your team to maintain momentum. \nBy mastering this skill, you can help create a supportive environment where team members feel comfortable raising issues and collaboratively finding solutions.",
+                            "content_instructions": {
+                                "role": "professional Scrum Master",
+                                "topic": "Learn how to identify and resolve impediments that block the team's progress."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "supporting_team_through_challenges",
                     "type": "module",
                     "title": "Supporting Team Through Challenges",
                     "end_of_day": 26,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_support_the_team_through_technical_or_process_challenges",
                             "type": "action",
                             "end_of_day": 26,
-                            "title": "Understand how to support the team through technical or process challenges."
+                            "title": "Understand how to support the team through technical or process challenges.",
+                            "action": "Learn strategies for providing support during team challenges.",
+                            "description": "Supporting the team through challenges is a vital aspect of the Scrum Master's role. Whether the challenges are technical, process-related, or interpersonal, your ability to provide guidance and support will help the team navigate these difficulties effectively. Understanding strategies for offering support will enable you to foster resilience and collaboration within the team. \nBy mastering this skill, you can help create an environment where team members feel empowered to tackle challenges and continuously improve their processes.",
+                            "content_instructions": {
+                                "role": "professional Agile coach",
+                                "topic": "Understand how to support the team through technical or process challenges."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "escalating_critical_issues",
                     "type": "module",
                     "title": "Escalating Critical Issues",
                     "end_of_day": 27,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_when_and_how_to_escalate_critical_issues_that_require_external_support",
                             "type": "action",
                             "end_of_day": 27,
-                            "title": "Overview of when and how to escalate critical issues that require external support."
+                            "title": "Overview of when and how to escalate critical issues that require external support.",
+                            "action": "Learn the process for escalating critical issues effectively.",
+                            "description": "Escalating critical issues is sometimes necessary to ensure that obstacles are addressed promptly. As a Scrum Master, understanding when and how to escalate issues will enable you to advocate for your team and ensure that they receive the support they need. This process involves clear communication and collaboration with stakeholders to facilitate timely resolutions. \nBy mastering this skill, you can help maintain team morale and ensure that critical issues do not impede progress.",
+                            "content_instructions": {
+                                "role": "professional project manager",
+                                "topic": "Overview of when and how to escalate critical issues that require external support."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 9,
             "id": "continuous_improvement_and_retrospectives_at_our_company",
             "type": "section",
             "title": "Continuous Improvement and Retrospectives at Our Company",
-            "end_of_day": 29,
+            "end_of_day": 30,
             "children": [
                 {
-                    "index": 0,
                     "id": "conducting_effective_retrospectives",
                     "type": "module",
                     "title": "Conducting Effective Retrospectives",
                     "end_of_day": 28,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_how_to_conduct_retrospectives_that_lead_to_actionable_improvements",
                             "type": "action",
                             "end_of_day": 28,
-                            "title": "Learn how to conduct retrospectives that lead to actionable improvements."
+                            "title": "Learn how to conduct retrospectives that lead to actionable improvements.",
+                            "action": "Practice facilitating effective retrospectives with the team.",
+                            "description": "Conducting effective retrospectives is essential for driving continuous improvement within the team. These sessions provide an opportunity to reflect on the sprint, discuss what went well and what didn't, and identify actionable improvements. As a Scrum Master, facilitating these discussions will enable the team to learn from their experiences and enhance their processes. \nBy mastering this skill, you can help create a culture of openness and collaboration, ultimately leading to better outcomes in future sprints.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Learn how to conduct retrospectives that lead to actionable improvements."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "identifying_areas_for_improvement",
                     "type": "module",
                     "title": "Identifying Areas for Improvement",
                     "end_of_day": 29,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_how_to_identify_areas_for_improvement_in_the_team_s_processes",
                             "type": "action",
                             "end_of_day": 29,
-                            "title": "Understand how to identify areas for improvement in the team's processes."
+                            "title": "Understand how to identify areas for improvement in the team's processes.",
+                            "action": "Explore techniques for identifying process improvement opportunities.",
+                            "description": "Identifying areas for improvement is a critical part of the Scrum Master's role. By analyzing team performance, gathering feedback, and observing processes, you can pinpoint opportunities for enhancement. Understanding how to facilitate discussions around these areas will empower your team to take ownership of their growth and development. \nBy mastering this skill, you can help create a culture of continuous improvement where team members feel comfortable suggesting changes and experimenting with new approaches.",
+                            "content_instructions": {
+                                "role": "professional Agile coach",
+                                "topic": "Understand how to identify areas for improvement in the team's processes."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "implementing_process_improvements",
                     "type": "module",
                     "title": "Implementing Process Improvements",
-                    "end_of_day": 29,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_how_process_improvements_are_implemented_based_on_retrospective_feedback",
                             "type": "action",
-                            "end_of_day": 29,
-                            "title": "Overview of how process improvements are implemented based on retrospective feedback."
+                            "end_of_day": 30,
+                            "title": "Overview of how process improvements are implemented based on retrospective feedback.",
+                            "action": "Learn how to implement process improvements effectively.",
+                            "description": "Implementing process improvements based on retrospective feedback is essential for driving continuous growth within the team. As a Scrum Master, your role is to facilitate discussions around feedback and guide the team in prioritizing and implementing changes. Understanding how to effectively implement these improvements will empower your team to enhance their processes and outcomes. \nBy mastering this skill, you can help create a culture of accountability and innovation, ultimately leading to better performance and collaboration.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Overview of how process improvements are implemented based on retrospective feedback."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 10,
             "id": "agile_tools_and_software_at_our_company",
             "type": "section",
             "title": "Agile Tools and Software at Our Company",
-            "end_of_day": 30,
+            "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "scrum_management_tools",
                     "type": "module",
                     "title": "Scrum Management Tools",
-                    "end_of_day": 30,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_the_tools_we_use_to_manage_scrum_projects_such_as_jira",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Learn about the tools we use to manage Scrum projects, such as JIRA."
+                            "end_of_day": 31,
+                            "title": "Learn about the tools we use to manage Scrum projects, such as JIRA.",
+                            "action": "Explore the Scrum management tools and their functionalities.",
+                            "description": "Effective management of Scrum projects relies on the use of specialized tools that facilitate tracking, collaboration, and reporting. Tools like JIRA provide a platform for managing backlogs, sprint planning, and progress tracking. As a Scrum Master, familiarizing yourself with these tools will enable you to guide your team in utilizing them effectively. \nBy mastering these tools, you can help streamline workflows and enhance team collaboration, ultimately contributing to the success of Scrum projects.",
+                            "content_instructions": {
+                                "role": "professional project manager",
+                                "topic": "Learn about the tools we use to manage Scrum projects, such as JIRA."
+                            },
+                            "icon": "logo_42"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "real_time_tracking_software",
                     "type": "module",
                     "title": "Real-time Tracking Software",
-                    "end_of_day": 30,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_software_used_for_real_time_tracking_of_sprint_progress",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Overview of software used for real-time tracking of sprint progress."
+                            "end_of_day": 31,
+                            "title": "Overview of software used for real-time tracking of sprint progress.",
+                            "action": "Learn how to utilize real-time tracking software effectively.",
+                            "description": "Real-time tracking software plays a crucial role in monitoring sprint progress and team performance. These tools provide visibility into the team's work and help identify bottlenecks or areas for improvement. As a Scrum Master, understanding how to effectively use these tools will enable you to facilitate discussions around progress and accountability. \nBy mastering real-time tracking software, you can help your team maintain focus and transparency, ultimately enhancing their performance and collaboration.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Overview of software used for real-time tracking of sprint progress."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "collaboration_and_communication_platforms",
                     "type": "module",
                     "title": "Collaboration and Communication Platforms",
-                    "end_of_day": 30,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_platforms_we_use_for_communication_and_collaboration_within_scrum_teams",
                             "type": "action",
-                            "end_of_day": 30,
-                            "title": "Understand the platforms we use for communication and collaboration within Scrum teams."
+                            "end_of_day": 31,
+                            "title": "Understand the platforms we use for communication and collaboration within Scrum teams.",
+                            "action": "Explore the collaboration platforms that facilitate team communication.",
+                            "description": "Effective communication and collaboration are essential for the success of Scrum teams. Platforms such as Slack, Microsoft Teams, or Confluence provide channels for real-time communication, document sharing, and project management. As a Scrum Master, familiarizing yourself with these platforms will enable you to guide your team in utilizing them effectively. \nBy mastering these collaboration tools, you can help create a cohesive and communicative environment, ultimately leading to better team collaboration and project outcomes.",
+                            "content_instructions": {
+                                "role": "professional Agile facilitator",
+                                "topic": "Understand the platforms we use for communication and collaboration within Scrum teams."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 }
             ]
         },
         {
-            "index": 11,
             "id": "ongoing_learning_and_development_resources_at_our_company_4",
             "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
             "end_of_day": 31,
             "children": [
                 {
-                    "index": 0,
                     "id": "scrum_master_certifications",
                     "type": "module",
                     "title": "Scrum Master Certifications",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "learn_about_available_scrum_master_certifications_for_further_professional_development",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Learn about available Scrum Master certifications for further professional development."
+                            "title": "Learn about available Scrum Master certifications for further professional development.",
+                            "action": "Explore the Scrum Master certification options available.",
+                            "description": "Continuing education and professional development are vital for your growth as a Scrum Master. Various certification programs, such as Certified ScrumMaster (CSM) or Professional Scrum Master (PSM), provide valuable knowledge and credentials. Understanding these options will enable you to pursue further development opportunities that align with your career goals. \nBy engaging in certification programs, you can enhance your skills and knowledge, ultimately contributing to your effectiveness as a Scrum Master.",
+                            "content_instructions": {
+                                "role": "professional learning and development manager",
+                                "topic": "Learn about available Scrum Master certifications for further professional development."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 1,
                     "id": "agile_and_scrum_conferences",
                     "type": "module",
                     "title": "Agile and Scrum Conferences",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "overview_of_industry_conferences_and_events_focused_on_agile_and_scrum",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Overview of industry conferences and events focused on Agile and Scrum."
+                            "title": "Overview of industry conferences and events focused on Agile and Scrum.",
+                            "action": "Research Agile and Scrum conferences and events for networking and learning.",
+                            "description": "Attending industry conferences and events is a valuable way to network with other professionals, learn about the latest trends, and gain insights from experts in Agile and Scrum. Understanding the key conferences and events available will enable you to identify opportunities for professional growth and development. \nBy participating in these events, you can enhance your knowledge, build connections, and contribute to your ongoing development as a Scrum Master.",
+                            "content_instructions": {
+                                "role": "professional Agile consultant",
+                                "topic": "Overview of industry conferences and events focused on Agile and Scrum."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
                 {
-                    "index": 2,
                     "id": "internal_agile_workshops",
                     "type": "module",
                     "title": "Internal Agile Workshops",
                     "end_of_day": 31,
                     "children": [
                         {
-                            "index": 0,
                             "id": "understand_the_internal_workshops_available_for_deepening_agile_and_scrum_knowledge",
                             "type": "action",
                             "end_of_day": 31,
-                            "title": "Understand the internal workshops available for deepening Agile and Scrum knowledge."
+                            "title": "Understand the internal workshops available for deepening Agile and Scrum knowledge.",
+                            "action": "Explore internal workshops that focus on Agile and Scrum practices.",
+                            "description": "Internal workshops provide an excellent opportunity for team members to deepen their understanding of Agile and Scrum practices. These workshops often cover specific topics, techniques, or tools, allowing for hands-on learning and collaboration. Understanding the available workshops will enable you to participate actively in your development journey. \nBy engaging in these workshops, you can enhance your skills and contribute to a culture of continuous learning within the organization.",
+                            "content_instructions": {
+                                "role": "professional learning and development manager",
+                                "topic": "Understand the internal workshops available for deepening Agile and Scrum knowledge."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 }
