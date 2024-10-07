@@ -6,22 +6,22 @@
     "children": [
         {
             "index": 0,
-            "id": "introduction_to_the_company_team_876",
-            "type": "subject",
+            "id": "introduction_to_the_company_team_5",
+            "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 2,
             "children": [
                 {
                     "index": 0,
-                    "id": "meet_key_stakeholders_99",
-                    "type": "subsubject",
+                    "id": "meet_key_stakeholders_1",
+                    "type": "module",
                     "title": "Meet Key Stakeholders",
                     "end_of_day": 1,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_key_stakeholders_and_their_roles_in_the_product_lifecycle",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 1,
                             "title": "Introduction to key stakeholders and their roles in the product lifecycle."
                         }
@@ -30,14 +30,14 @@
                 {
                     "index": 1,
                     "id": "understanding_company_culture_and_values",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Understanding Company Culture and Values",
                     "end_of_day": 2,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_company_s_culture_and_values_and_how_they_align_with_product_strategy",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 2,
                             "title": "Learn about the company's culture and values, and how they align with product strategy."
                         }
@@ -46,14 +46,14 @@
                 {
                     "index": 2,
                     "id": "product_team_structure_and_roles",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Product Team Structure and Roles",
                     "end_of_day": 2,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_structure_of_the_product_team_and_individual_roles",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 2,
                             "title": "Understand the structure of the product team and individual roles."
                         }
@@ -64,21 +64,21 @@
         {
             "index": 1,
             "id": "familiarize_with_our_product_vision_and_roadmap",
-            "type": "subject",
+            "type": "section",
             "title": "Familiarize with Our Product Vision and Roadmap",
             "end_of_day": 5,
             "children": [
                 {
                     "index": 0,
                     "id": "product_strategy_overview",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Product Strategy Overview",
                     "end_of_day": 3,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_product_strategy_and_how_it_drives_decision_making",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 3,
                             "title": "Overview of the product strategy and how it drives decision-making."
                         }
@@ -87,14 +87,14 @@
                 {
                     "index": 1,
                     "id": "current_and_future_roadmap",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Current and Future Roadmap",
                     "end_of_day": 4,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_current_and_future_roadmap_for_our_products",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 4,
                             "title": "Learn about the current and future roadmap for our products."
                         }
@@ -103,14 +103,14 @@
                 {
                     "index": 2,
                     "id": "competitive_landscape",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Competitive Landscape",
                     "end_of_day": 5,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_competitive_landscape_and_how_it_impacts_our_product_roadmap",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 5,
                             "title": "Understand the competitive landscape and how it impacts our product roadmap."
                         }
@@ -121,21 +121,21 @@
         {
             "index": 2,
             "id": "overview_of_our_product_development_lifecycle",
-            "type": "subject",
+            "type": "section",
             "title": "Overview of Our Product Development Lifecycle",
             "end_of_day": 8,
             "children": [
                 {
                     "index": 0,
                     "id": "from_concept_to_launch",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "From Concept to Launch",
                     "end_of_day": 6,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_process_of_taking_a_product_from_concept_to_launch",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 6,
                             "title": "Learn about the process of taking a product from concept to launch."
                         }
@@ -144,14 +144,14 @@
                 {
                     "index": 1,
                     "id": "feature_prioritization_and_timelines",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Feature Prioritization and Timelines",
                     "end_of_day": 7,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_features_are_prioritized_and_their_timelines_for_delivery",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 7,
                             "title": "Understand how features are prioritized and their timelines for delivery."
                         }
@@ -160,14 +160,14 @@
                 {
                     "index": 2,
                     "id": "cross_team_collaboration",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cross-team Collaboration",
                     "end_of_day": 8,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_collaboration_between_product_design_and_engineering_teams_throughout_the_lifecycle",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 8,
                             "title": "Overview of collaboration between product, design, and engineering teams throughout the lifecycle."
                         }
@@ -178,21 +178,21 @@
         {
             "index": 3,
             "id": "collaborating_with_our_engineering_and_design_teams",
-            "type": "subject",
+            "type": "section",
             "title": "Collaborating with Our Engineering and Design Teams",
             "end_of_day": 11,
             "children": [
                 {
                     "index": 0,
                     "id": "handing_off_product_specs",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Handing Off Product Specs",
                     "end_of_day": 9,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_effectively_hand_off_product_specifications_to_engineering_and_design_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 9,
                             "title": "Learn how to effectively hand off product specifications to engineering and design teams."
                         }
@@ -201,14 +201,14 @@
                 {
                     "index": 1,
                     "id": "design_development_product_alignment",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Design-Development-Product Alignment",
                     "end_of_day": 10,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_maintain_alignment_between_design_development_and_product_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 10,
                             "title": "Understand how to maintain alignment between design, development, and product teams."
                         }
@@ -217,14 +217,14 @@
                 {
                     "index": 2,
                     "id": "feedback_loops_and_iteration",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Feedback Loops and Iteration",
                     "end_of_day": 11,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_feedback_loops_between_teams_and_how_iterations_are_managed",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 11,
                             "title": "Overview of the feedback loops between teams and how iterations are managed."
                         }
@@ -235,21 +235,21 @@
         {
             "index": 4,
             "id": "understanding_our_customer_needs_and_market_research",
-            "type": "subject",
+            "type": "section",
             "title": "Understanding Our Customer Needs and Market Research",
             "end_of_day": 14,
             "children": [
                 {
                     "index": 0,
                     "id": "customer_persona_development",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Customer Persona Development",
                     "end_of_day": 12,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_develop_customer_personas_based_on_research_and_feedback",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 12,
                             "title": "Learn how to develop customer personas based on research and feedback."
                         }
@@ -258,14 +258,14 @@
                 {
                     "index": 1,
                     "id": "market_trends_and_competitor_analysis",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Market Trends and Competitor Analysis",
                     "end_of_day": 13,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_market_trends_and_how_competitor_analysis_informs_our_product_decisions",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 13,
                             "title": "Overview of market trends and how competitor analysis informs our product decisions."
                         }
@@ -274,14 +274,14 @@
                 {
                     "index": 2,
                     "id": "customer_feedback_integration",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Customer Feedback Integration",
                     "end_of_day": 14,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_customer_feedback_is_integrated_into_the_product_development_process",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 14,
                             "title": "Understand how customer feedback is integrated into the product development process."
                         }
@@ -292,21 +292,21 @@
         {
             "index": 5,
             "id": "our_prioritization_frameworks",
-            "type": "subject",
+            "type": "section",
             "title": "Our Prioritization Frameworks",
             "end_of_day": 17,
             "children": [
                 {
                     "index": 0,
                     "id": "kano_model",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Kano Model",
                     "end_of_day": 15,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_the_kano_model_and_how_it_is_used_for_feature_prioritization",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 15,
                             "title": "Introduction to the Kano Model and how it is used for feature prioritization."
                         }
@@ -315,14 +315,14 @@
                 {
                     "index": 1,
                     "id": "rice_scoring",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "RICE Scoring",
                     "end_of_day": 16,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_rice_scoring_is_applied_to_prioritize_features_and_tasks",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 16,
                             "title": "Learn how RICE scoring is applied to prioritize features and tasks."
                         }
@@ -331,14 +331,14 @@
                 {
                     "index": 2,
                     "id": "moscow_prioritization",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "MoSCoW Prioritization",
                     "end_of_day": 17,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_moscow_prioritization_and_how_it_s_used_in_our_projects",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 17,
                             "title": "Overview of MoSCoW prioritization and how it's used in our projects."
                         }
@@ -349,21 +349,21 @@
         {
             "index": 6,
             "id": "agile_methodologies_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Agile Methodologies at Our Company",
             "end_of_day": 20,
             "children": [
                 {
                     "index": 0,
                     "id": "product_role_in_agile",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Product Role in Agile",
                     "end_of_day": 18,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_the_role_of_product_managers_in_agile_methodologies",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 18,
                             "title": "Learn the role of product managers in Agile methodologies."
                         }
@@ -372,14 +372,14 @@
                 {
                     "index": 1,
                     "id": "backlog_refinement_and_prioritization",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Backlog Refinement and Prioritization",
                     "end_of_day": 19,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_backlog_refinement_and_prioritization_is_managed_within_our_agile_framework",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 19,
                             "title": "Understand how backlog refinement and prioritization is managed within our Agile framework."
                         }
@@ -388,14 +388,14 @@
                 {
                     "index": 2,
                     "id": "sprint_review_and_feedback",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Sprint Review and Feedback",
                     "end_of_day": 20,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_sprint_reviews_and_how_feedback_is_collected_and_acted_upon",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 20,
                             "title": "Overview of sprint reviews and how feedback is collected and acted upon."
                         }
@@ -406,21 +406,21 @@
         {
             "index": 7,
             "id": "defining_product_requirements_and_specifications_for_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Defining Product Requirements and Specifications for Our Company",
             "end_of_day": 23,
             "children": [
                 {
                     "index": 0,
                     "id": "user_stories_and_epics",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "User Stories and Epics",
                     "end_of_day": 21,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_write_user_stories_and_epics_that_define_product_requirements",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 21,
                             "title": "Learn how to write user stories and epics that define product requirements."
                         }
@@ -429,14 +429,14 @@
                 {
                     "index": 1,
                     "id": "writing_clear_and_concise_specs",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Writing Clear and Concise Specs",
                     "end_of_day": 22,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_write_clear_and_concise_product_specifications",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 22,
                             "title": "Understand how to write clear and concise product specifications."
                         }
@@ -445,14 +445,14 @@
                 {
                     "index": 2,
                     "id": "acceptance_criteria_and_definition_of_done",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Acceptance Criteria and Definition of Done",
                     "end_of_day": 23,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_defining_acceptance_criteria_and_what_constitutes_done_for_features",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 23,
                             "title": "Overview of defining acceptance criteria and what constitutes 'done' for features."
                         }
@@ -463,21 +463,21 @@
         {
             "index": 8,
             "id": "our_product_metrics_and_kpis",
-            "type": "subject",
+            "type": "section",
             "title": "Our Product Metrics and KPIs",
             "end_of_day": 26,
             "children": [
                 {
                     "index": 0,
                     "id": "key_success_metrics",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Key Success Metrics",
                     "end_of_day": 24,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_key_metrics_used_to_measure_product_success",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 24,
                             "title": "Learn about the key metrics used to measure product success."
                         }
@@ -486,14 +486,14 @@
                 {
                     "index": 1,
                     "id": "tracking_and_analyzing_product_performance",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Tracking and Analyzing Product Performance",
                     "end_of_day": 25,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_product_performance_is_tracked_and_analyzed_using_metrics",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 25,
                             "title": "Understand how product performance is tracked and analyzed using metrics."
                         }
@@ -502,14 +502,14 @@
                 {
                     "index": 2,
                     "id": "kpis_for_growth_and_engagement",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "KPIs for Growth and Engagement",
                     "end_of_day": 26,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_kpis_used_to_measure_growth_and_user_engagement",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 26,
                             "title": "Overview of KPIs used to measure growth and user engagement."
                         }
@@ -520,21 +520,21 @@
         {
             "index": 9,
             "id": "our_product_launch_and_post_launch_processes",
-            "type": "subject",
+            "type": "section",
             "title": "Our Product Launch and Post-Launch Processes",
             "end_of_day": 29,
             "children": [
                 {
                     "index": 0,
                     "id": "launch_strategy_and_coordination",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Launch Strategy and Coordination",
                     "end_of_day": 27,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_strategy_and_coordination_involved_in_a_successful_product_launch",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 27,
                             "title": "Learn about the strategy and coordination involved in a successful product launch."
                         }
@@ -543,14 +543,14 @@
                 {
                     "index": 1,
                     "id": "post_launch_feedback_collection",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Post-Launch Feedback Collection",
                     "end_of_day": 28,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_feedback_is_collected_post_launch_to_improve_future_iterations",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 28,
                             "title": "Understand how feedback is collected post-launch to improve future iterations."
                         }
@@ -559,14 +559,14 @@
                 {
                     "index": 2,
                     "id": "post_launch_performance_tracking",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Post-Launch Performance Tracking",
                     "end_of_day": 29,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_tracking_product_performance_post_launch_and_responding_to_issues",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 29,
                             "title": "Overview of tracking product performance post-launch and responding to issues."
                         }
@@ -577,21 +577,21 @@
         {
             "index": 10,
             "id": "managing_stakeholders_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Managing Stakeholders at Our Company",
             "end_of_day": 30,
             "children": [
                 {
                     "index": 0,
                     "id": "aligning_stakeholder_expectations",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Aligning Stakeholder Expectations",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_strategies_for_aligning_stakeholder_expectations_with_product_goals",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Learn strategies for aligning stakeholder expectations with product goals."
                         }
@@ -600,14 +600,14 @@
                 {
                     "index": 1,
                     "id": "communicating_progress_and_risks",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Communicating Progress and Risks",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_communicate_progress_and_potential_risks_to_stakeholders",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Understand how to communicate progress and potential risks to stakeholders."
                         }
@@ -616,14 +616,14 @@
                 {
                     "index": 2,
                     "id": "conflict_resolution_techniques",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Conflict Resolution Techniques",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_techniques_for_resolving_conflicts_with_stakeholders",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Overview of techniques for resolving conflicts with stakeholders."
                         }
@@ -634,21 +634,21 @@
         {
             "index": 11,
             "id": "feedback_loops_and_iteration_in_our_product_development",
-            "type": "subject",
+            "type": "section",
             "title": "Feedback Loops and Iteration in Our Product Development",
             "end_of_day": 31,
             "children": [
                 {
                     "index": 0,
                     "id": "continuous_improvement",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Continuous Improvement",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_continuous_improvement_processes_in_product_development",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Learn about the continuous improvement processes in product development."
                         }
@@ -657,14 +657,14 @@
                 {
                     "index": 1,
                     "id": "capturing_and_utilizing_feedback",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Capturing and Utilizing Feedback",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_feedback_is_captured_and_utilized_to_iterate_on_the_product",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Understand how feedback is captured and utilized to iterate on the product."
                         }
@@ -673,14 +673,14 @@
                 {
                     "index": 2,
                     "id": "iterating_based_on_feedback",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Iterating Based on Feedback",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_product_features_and_functionalities_are_iterated_upon_based_on_feedback",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Overview of how product features and functionalities are iterated upon based on feedback."
                         }
@@ -691,21 +691,21 @@
         {
             "index": 12,
             "id": "ongoing_learning_and_industry_trends_in_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 31,
             "children": [
                 {
                     "index": 0,
                     "id": "industry_reports_and_publications",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Industry Reports and Publications",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "access_to_industry_reports_and_publications_relevant_to_product_management",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Access to industry reports and publications relevant to product management."
                         }
@@ -714,14 +714,14 @@
                 {
                     "index": 1,
                     "id": "networking_and_conferences",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Networking and Conferences",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_opportunities_to_attend_networking_events_and_industry_conferences",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Learn about opportunities to attend networking events and industry conferences."
                         }
@@ -730,14 +730,14 @@
                 {
                     "index": 2,
                     "id": "learning_platforms_for_product_managers",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Learning Platforms for Product Managers",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_learning_platforms_available_to_product_managers_for_ongoing_professional_development",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Overview of learning platforms available to product managers for ongoing professional development."
                         }

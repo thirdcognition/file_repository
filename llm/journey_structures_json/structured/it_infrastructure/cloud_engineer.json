@@ -6,22 +6,22 @@
     "children": [
         {
             "index": 0,
-            "id": "introduction_to_the_company_team_152",
-            "type": "subject",
+            "id": "introduction_to_the_company_team_9",
+            "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
                     "index": 0,
                     "id": "meet_the_cloud_engineering_team",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Meet the Cloud Engineering Team",
                     "end_of_day": 1,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_the_cloud_engineering_team_and_their_roles",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 1,
                             "title": "Introduction to the cloud engineering team and their roles."
                         }
@@ -30,14 +30,14 @@
                 {
                     "index": 1,
                     "id": "cloud_architecture_stakeholders",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cloud Architecture Stakeholders",
                     "end_of_day": 2,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_key_stakeholders_involved_in_cloud_architecture_decisions",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 2,
                             "title": "Learn about the key stakeholders involved in cloud architecture decisions."
                         }
@@ -46,14 +46,14 @@
                 {
                     "index": 2,
                     "id": "cross_functional_teams",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cross-functional Teams",
                     "end_of_day": 3,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_cloud_engineers_collaborate_with_cross_functional_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 3,
                             "title": "Understand how cloud engineers collaborate with cross-functional teams."
                         }
@@ -64,21 +64,21 @@
         {
             "index": 1,
             "id": "familiarize_with_our_cloud_architecture",
-            "type": "subject",
+            "type": "section",
             "title": "Familiarize with Our Cloud Architecture",
             "end_of_day": 6,
             "children": [
                 {
                     "index": 0,
                     "id": "cloud_infrastructure_overview",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cloud Infrastructure Overview",
                     "end_of_day": 4,
                     "children": [
                         {
                             "index": 0,
                             "id": "get_an_overview_of_the_company_s_cloud_infrastructure_and_key_components",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 4,
                             "title": "Get an overview of the company's cloud infrastructure and key components."
                         }
@@ -87,14 +87,14 @@
                 {
                     "index": 1,
                     "id": "hybrid_and_multi_cloud_strategies",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Hybrid and Multi-Cloud Strategies",
                     "end_of_day": 5,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_company_s_strategies_for_hybrid_and_multi_cloud_environments",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 5,
                             "title": "Understand the company's strategies for hybrid and multi-cloud environments."
                         }
@@ -103,14 +103,14 @@
                 {
                     "index": 2,
                     "id": "cloud_networking",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cloud Networking",
                     "end_of_day": 6,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_networking_setups_within_the_cloud_infrastructure",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 6,
                             "title": "Learn about the networking setups within the cloud infrastructure."
                         }
@@ -121,21 +121,21 @@
         {
             "index": 2,
             "id": "overview_of_our_cloud_service_providers_e_g_aws_azure",
-            "type": "subject",
+            "type": "section",
             "title": "Overview of Our Cloud Service Providers (e.g., AWS, Azure)",
             "end_of_day": 9,
             "children": [
                 {
                     "index": 0,
                     "id": "cloud_provider_selection_criteria",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cloud Provider Selection Criteria",
                     "end_of_day": 7,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_the_company_selects_cloud_service_providers_based_on_needs_and_performance",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 7,
                             "title": "Learn how the company selects cloud service providers based on needs and performance."
                         }
@@ -144,14 +144,14 @@
                 {
                     "index": 1,
                     "id": "aws_azure_services_overview",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "AWS/Azure Services Overview",
                     "end_of_day": 8,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_key_services_provided_by_aws_azure_and_how_they_are_utilized",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 8,
                             "title": "Understand the key services provided by AWS/Azure and how they are utilized."
                         }
@@ -160,14 +160,14 @@
                 {
                     "index": 2,
                     "id": "service_pricing_and_management",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Service Pricing and Management",
                     "end_of_day": 9,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_cloud_service_pricing_models_and_how_to_manage_costs_effectively",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 9,
                             "title": "Overview of cloud service pricing models and how to manage costs effectively."
                         }
@@ -178,21 +178,21 @@
         {
             "index": 3,
             "id": "our_cloud_security_best_practices",
-            "type": "subject",
+            "type": "section",
             "title": "Our Cloud Security Best Practices",
             "end_of_day": 12,
             "children": [
                 {
                     "index": 0,
                     "id": "identity_and_access_management",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Identity and Access Management",
                     "end_of_day": 10,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_best_practices_for_identity_and_access_management_in_the_cloud",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 10,
                             "title": "Learn about best practices for identity and access management in the cloud."
                         }
@@ -201,14 +201,14 @@
                 {
                     "index": 1,
                     "id": "encryption_and_data_protection",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Encryption and Data Protection",
                     "end_of_day": 11,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_strategies_used_for_encrypting_and_protecting_data_in_the_cloud",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 11,
                             "title": "Understand the strategies used for encrypting and protecting data in the cloud."
                         }
@@ -217,14 +217,14 @@
                 {
                     "index": 2,
                     "id": "securing_cloud_networks",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Securing Cloud Networks",
                     "end_of_day": 12,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_securing_cloud_networks_to_prevent_unauthorized_access",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 12,
                             "title": "Overview of securing cloud networks to prevent unauthorized access."
                         }
@@ -235,21 +235,21 @@
         {
             "index": 4,
             "id": "our_infrastructure_as_code_iac_approach",
-            "type": "subject",
+            "type": "section",
             "title": "Our Infrastructure as Code (IaC) Approach",
             "end_of_day": 15,
             "children": [
                 {
                     "index": 0,
-                    "id": "iac_tools_and_frameworks_493",
-                    "type": "subsubject",
+                    "id": "iac_tools_and_frameworks_1",
+                    "type": "module",
                     "title": "IaC Tools and Frameworks",
                     "end_of_day": 13,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_tools_and_frameworks_used_for_infrastructure_as_code_iac",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 13,
                             "title": "Learn about the tools and frameworks used for Infrastructure as Code (IaC)."
                         }
@@ -258,14 +258,14 @@
                 {
                     "index": 1,
                     "id": "versioning_and_change_management",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Versioning and Change Management",
                     "end_of_day": 14,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_versioning_and_change_management_are_handled_in_iac",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 14,
                             "title": "Understand how versioning and change management are handled in IaC."
                         }
@@ -274,14 +274,14 @@
                 {
                     "index": 2,
                     "id": "best_practices_for_iac",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Best Practices for IaC",
                     "end_of_day": 15,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_best_practices_for_managing_cloud_infrastructure_through_code",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 15,
                             "title": "Overview of best practices for managing cloud infrastructure through code."
                         }
@@ -292,21 +292,21 @@
         {
             "index": 5,
             "id": "containerization_and_orchestration_tools_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Containerization and Orchestration Tools at Our Company",
             "end_of_day": 18,
             "children": [
                 {
                     "index": 0,
                     "id": "docker_and_kubernetes_overview",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Docker and Kubernetes Overview",
                     "end_of_day": 16,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_docker_and_kubernetes_and_their_roles_in_container_orchestration",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 16,
                             "title": "Learn about Docker and Kubernetes and their roles in container orchestration."
                         }
@@ -315,14 +315,14 @@
                 {
                     "index": 1,
                     "id": "container_orchestration",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Container Orchestration",
                     "end_of_day": 17,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_containers_are_orchestrated_for_deployment_and_scaling",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 17,
                             "title": "Understand how containers are orchestrated for deployment and scaling."
                         }
@@ -331,14 +331,14 @@
                 {
                     "index": 2,
                     "id": "best_practices_for_container_security",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Best Practices for Container Security",
                     "end_of_day": 18,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_best_practices_for_securing_containers_in_the_cloud",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 18,
                             "title": "Overview of best practices for securing containers in the cloud."
                         }
@@ -349,21 +349,21 @@
         {
             "index": 6,
             "id": "monitoring_and_logging_in_our_cloud_environments",
-            "type": "subject",
+            "type": "section",
             "title": "Monitoring and Logging in Our Cloud Environments",
             "end_of_day": 21,
             "children": [
                 {
                     "index": 0,
                     "id": "cloud_monitoring_tools",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cloud Monitoring Tools",
                     "end_of_day": 19,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_tools_used_to_monitor_cloud_infrastructure_performance",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 19,
                             "title": "Learn about the tools used to monitor cloud infrastructure performance."
                         }
@@ -372,14 +372,14 @@
                 {
                     "index": 1,
                     "id": "log_management_systems",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Log Management Systems",
                     "end_of_day": 20,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_log_management_systems_help_track_cloud_activities",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 20,
                             "title": "Understand how log management systems help track cloud activities."
                         }
@@ -388,14 +388,14 @@
                 {
                     "index": 2,
                     "id": "alerting_and_incident_response",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Alerting and Incident Response",
                     "end_of_day": 21,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_alerts_are_configured_and_incidents_are_responded_to_in_the_cloud",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 21,
                             "title": "Overview of how alerts are configured and incidents are responded to in the cloud."
                         }
@@ -406,21 +406,21 @@
         {
             "index": 7,
             "id": "cost_optimization_strategies_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Cost Optimization Strategies at Our Company",
             "end_of_day": 24,
             "children": [
                 {
                     "index": 0,
                     "id": "monitoring_cloud_costs",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Monitoring Cloud Costs",
                     "end_of_day": 22,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_monitor_cloud_usage_and_costs_effectively",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 22,
                             "title": "Learn how to monitor cloud usage and costs effectively."
                         }
@@ -429,14 +429,14 @@
                 {
                     "index": 1,
                     "id": "optimizing_resource_usage",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Optimizing Resource Usage",
                     "end_of_day": 23,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_strategies_for_optimizing_resource_usage_in_the_cloud_to_reduce_costs",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 23,
                             "title": "Understand strategies for optimizing resource usage in the cloud to reduce costs."
                         }
@@ -445,14 +445,14 @@
                 {
                     "index": 2,
                     "id": "cost_effective_cloud_architecture",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cost-effective Cloud Architecture",
                     "end_of_day": 24,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_designing_cost_effective_cloud_architectures_for_scalability",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 24,
                             "title": "Overview of designing cost-effective cloud architectures for scalability."
                         }
@@ -463,21 +463,21 @@
         {
             "index": 8,
             "id": "collaborating_with_our_development_and_devops_teams",
-            "type": "subject",
+            "type": "section",
             "title": "Collaborating with Our Development and DevOps Teams",
             "end_of_day": 27,
             "children": [
                 {
                     "index": 0,
                     "id": "aligning_cloud_infrastructure_with_development",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Aligning Cloud Infrastructure with Development",
                     "end_of_day": 25,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_align_cloud_infrastructure_with_the_needs_of_the_development_team",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 25,
                             "title": "Learn how to align cloud infrastructure with the needs of the development team."
                         }
@@ -486,14 +486,14 @@
                 {
                     "index": 1,
                     "id": "supporting_devops_in_cloud_deployments",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Supporting DevOps in Cloud Deployments",
                     "end_of_day": 26,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_cloud_engineers_support_devops_in_continuous_deployments",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 26,
                             "title": "Understand how cloud engineers support DevOps in continuous deployments."
                         }
@@ -502,14 +502,14 @@
                 {
                     "index": 2,
                     "id": "troubleshooting_cloud_related_issues",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Troubleshooting Cloud-related Issues",
                     "end_of_day": 27,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_cloud_engineers_troubleshoot_and_resolve_cloud_related_issues",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 27,
                             "title": "Overview of how cloud engineers troubleshoot and resolve cloud-related issues."
                         }
@@ -520,21 +520,21 @@
         {
             "index": 9,
             "id": "our_ci_cd_in_cloud_environments",
-            "type": "subject",
+            "type": "section",
             "title": "Our CI/CD in Cloud Environments",
             "end_of_day": 29,
             "children": [
                 {
                     "index": 0,
                     "id": "ci_cd_pipeline_integration",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "CI/CD Pipeline Integration",
                     "end_of_day": 28,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_integrating_cloud_infrastructure_with_ci_cd_pipelines",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 28,
                             "title": "Learn about integrating cloud infrastructure with CI/CD pipelines."
                         }
@@ -543,14 +543,14 @@
                 {
                     "index": 1,
                     "id": "continuous_delivery_in_the_cloud",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Continuous Delivery in the Cloud",
                     "end_of_day": 29,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_continuous_delivery_is_managed_in_cloud_environments",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 29,
                             "title": "Understand how continuous delivery is managed in cloud environments."
                         }
@@ -559,14 +559,14 @@
                 {
                     "index": 2,
                     "id": "deploying_to_cloud_with_automation",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Deploying to Cloud with Automation",
                     "end_of_day": 29,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_automated_deployment_processes_for_cloud_based_applications",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 29,
                             "title": "Overview of automated deployment processes for cloud-based applications."
                         }
@@ -577,21 +577,21 @@
         {
             "index": 10,
             "id": "our_data_storage_and_backup_solutions",
-            "type": "subject",
+            "type": "section",
             "title": "Our Data Storage and Backup Solutions",
             "end_of_day": 30,
             "children": [
                 {
                     "index": 0,
                     "id": "cloud_storage_solutions",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cloud Storage Solutions",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_different_cloud_storage_solutions_used_within_the_company",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Learn about the different cloud storage solutions used within the company."
                         }
@@ -600,14 +600,14 @@
                 {
                     "index": 1,
                     "id": "backup_and_recovery_processes",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Backup and Recovery Processes",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_processes_for_backing_up_and_recovering_data_in_the_cloud",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Understand the processes for backing up and recovering data in the cloud."
                         }
@@ -616,14 +616,14 @@
                 {
                     "index": 2,
                     "id": "data_archiving_strategies",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Data Archiving Strategies",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_strategies_for_long_term_data_archiving_and_retention_in_the_cloud",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Overview of strategies for long-term data archiving and retention in the cloud."
                         }
@@ -634,21 +634,21 @@
         {
             "index": 11,
             "id": "our_disaster_recovery_in_cloud_systems",
-            "type": "subject",
+            "type": "section",
             "title": "Our Disaster Recovery in Cloud Systems",
             "end_of_day": 31,
             "children": [
                 {
                     "index": 0,
-                    "id": "failover_and_recovery_plans_98",
-                    "type": "subsubject",
+                    "id": "failover_and_recovery_plans_1",
+                    "type": "module",
                     "title": "Failover and Recovery Plans",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_failover_strategies_and_recovery_plans_for_cloud_systems",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Learn about failover strategies and recovery plans for cloud systems."
                         }
@@ -656,15 +656,15 @@
                 },
                 {
                     "index": 1,
-                    "id": "disaster_recovery_drills_704",
-                    "type": "subsubject",
+                    "id": "disaster_recovery_drills_1",
+                    "type": "module",
                     "title": "Disaster Recovery Drills",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_disaster_recovery_drills_are_conducted_in_cloud_environments",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Understand how disaster recovery drills are conducted in cloud environments."
                         }
@@ -673,14 +673,14 @@
                 {
                     "index": 2,
                     "id": "cloud_specific_recovery_solutions",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cloud-specific Recovery Solutions",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_recovery_solutions_specific_to_cloud_platforms",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Overview of recovery solutions specific to cloud platforms."
                         }
@@ -690,22 +690,22 @@
         },
         {
             "index": 12,
-            "id": "ongoing_learning_and_certification_opportunities_at_our_company_497",
-            "type": "subject",
+            "id": "ongoing_learning_and_certification_opportunities_at_our_company_1",
+            "type": "section",
             "title": "Ongoing Learning and Certification Opportunities at Our Company",
             "end_of_day": 31,
             "children": [
                 {
                     "index": 0,
                     "id": "cloud_certifications",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cloud Certifications",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_available_certifications_for_cloud_engineers_such_as_aws_or_azure",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Learn about available certifications for cloud engineers, such as AWS or Azure."
                         }
@@ -714,14 +714,14 @@
                 {
                     "index": 1,
                     "id": "internal_learning_platforms",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Internal Learning Platforms",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_internal_learning_platforms_to_enhance_cloud_skills",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Overview of internal learning platforms to enhance cloud skills."
                         }
@@ -730,14 +730,14 @@
                 {
                     "index": 2,
                     "id": "industry_conferences_and_meetups",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Industry Conferences and Meetups",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_opportunities_to_attend_cloud_focused_conferences_and_meetups",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Understand opportunities to attend cloud-focused conferences and meetups."
                         }

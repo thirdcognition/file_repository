@@ -6,22 +6,22 @@
     "children": [
         {
             "index": 0,
-            "id": "introduction_to_the_company_team_700",
-            "type": "subject",
+            "id": "introduction_to_the_company_team_3",
+            "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 2,
             "children": [
                 {
                     "index": 0,
                     "id": "design_team_structure",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Design Team Structure",
                     "end_of_day": 1,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_structure_of_the_design_team_and_individual_responsibilities",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 1,
                             "title": "Understand the structure of the design team and individual responsibilities."
                         }
@@ -30,14 +30,14 @@
                 {
                     "index": 1,
                     "id": "meet_cross_functional_teams",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Meet Cross-Functional Teams",
                     "end_of_day": 2,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_the_cross_functional_teams_you_will_collaborate_with",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 2,
                             "title": "Introduction to the cross-functional teams you will collaborate with."
                         }
@@ -46,14 +46,14 @@
                 {
                     "index": 2,
                     "id": "our_design_workflow",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Our Design Workflow",
                     "end_of_day": 2,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_our_design_workflow_and_how_it_integrates_with_product_and_development_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 2,
                             "title": "Overview of our design workflow and how it integrates with product and development teams."
                         }
@@ -64,21 +64,21 @@
         {
             "index": 1,
             "id": "familiarize_with_our_product_vision",
-            "type": "subject",
+            "type": "section",
             "title": "Familiarize with Our Product Vision",
             "end_of_day": 5,
             "children": [
                 {
                     "index": 0,
                     "id": "product_roadmap_and_strategy",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Product Roadmap and Strategy",
                     "end_of_day": 3,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_product_roadmap_and_how_design_aligns_with_the_overall_strategy",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 3,
                             "title": "Understand the product roadmap and how design aligns with the overall strategy."
                         }
@@ -87,14 +87,14 @@
                 {
                     "index": 1,
                     "id": "target_users_and_personas",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Target Users and Personas",
                     "end_of_day": 4,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_key_target_users_and_personas_our_designs_cater_to",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 4,
                             "title": "Learn about the key target users and personas our designs cater to."
                         }
@@ -103,14 +103,14 @@
                 {
                     "index": 2,
                     "id": "long_term_design_goals",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Long-Term Design Goals",
                     "end_of_day": 5,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_long_term_design_goals_and_their_impact_on_the_product",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 5,
                             "title": "Overview of the long-term design goals and their impact on the product."
                         }
@@ -121,21 +121,21 @@
         {
             "index": 2,
             "id": "our_design_system_and_guidelines",
-            "type": "subject",
+            "type": "section",
             "title": "Our Design System and Guidelines",
             "end_of_day": 7,
             "children": [
                 {
                     "index": 0,
                     "id": "ui_components_and_patterns",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "UI Components and Patterns",
                     "end_of_day": 6,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_our_design_system_and_commonly_used_ui_components",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 6,
                             "title": "Introduction to our design system and commonly used UI components."
                         }
@@ -144,14 +144,14 @@
                 {
                     "index": 1,
                     "id": "branding_guidelines",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Branding Guidelines",
                     "end_of_day": 7,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_our_branding_guidelines_and_how_they_influence_design",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 7,
                             "title": "Understand our branding guidelines and how they influence design."
                         }
@@ -160,14 +160,14 @@
                 {
                     "index": 2,
                     "id": "consistency_across_platforms",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Consistency Across Platforms",
                     "end_of_day": 7,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_ensuring_design_consistency_across_various_platforms_and_devices",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 7,
                             "title": "Learn about ensuring design consistency across various platforms and devices."
                         }
@@ -178,21 +178,21 @@
         {
             "index": 3,
             "id": "understanding_our_user_research_and_personas",
-            "type": "subject",
+            "type": "section",
             "title": "Understanding Our User Research and Personas",
             "end_of_day": 10,
             "children": [
                 {
                     "index": 0,
                     "id": "user_research_methods",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "User Research Methods",
                     "end_of_day": 8,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_user_research_methods_we_use_to_gather_insights",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 8,
                             "title": "Overview of the user research methods we use to gather insights."
                         }
@@ -201,14 +201,14 @@
                 {
                     "index": 1,
                     "id": "creating_and_updating_personas",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Creating and Updating Personas",
                     "end_of_day": 9,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_we_create_and_maintain_user_personas_based_on_research_findings",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 9,
                             "title": "Learn how we create and maintain user personas based on research findings."
                         }
@@ -217,14 +217,14 @@
                 {
                     "index": 2,
                     "id": "analyzing_user_behavior",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Analyzing User Behavior",
                     "end_of_day": 10,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_techniques_for_analyzing_user_behavior_to_inform_design_decisions",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 10,
                             "title": "Introduction to techniques for analyzing user behavior to inform design decisions."
                         }
@@ -235,21 +235,21 @@
         {
             "index": 4,
             "id": "our_product_and_user_flows",
-            "type": "subject",
+            "type": "section",
             "title": "Our Product and User Flows",
             "end_of_day": 13,
             "children": [
                 {
                     "index": 0,
                     "id": "user_journey_mapping",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "User Journey Mapping",
                     "end_of_day": 11,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_map_user_journeys_and_understand_key_user_touchpoints",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 11,
                             "title": "Learn how to map user journeys and understand key user touchpoints."
                         }
@@ -258,14 +258,14 @@
                 {
                     "index": 1,
                     "id": "wireflow_and_interaction_design",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Wireflow and Interaction Design",
                     "end_of_day": 12,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_wireflows_and_interaction_design_principles_for_building_user_centric_products",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 12,
                             "title": "Overview of wireflows and interaction design principles for building user-centric products."
                         }
@@ -274,14 +274,14 @@
                 {
                     "index": 2,
                     "id": "usability_testing_feedback",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Usability Testing Feedback",
                     "end_of_day": 13,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_conduct_usability_testing_and_gather_actionable_feedback",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 13,
                             "title": "Learn how to conduct usability testing and gather actionable feedback."
                         }
@@ -292,21 +292,21 @@
         {
             "index": 5,
             "id": "familiarize_with_our_wireframing_and_prototyping_tools",
-            "type": "subject",
+            "type": "section",
             "title": "Familiarize with Our Wireframing and Prototyping Tools",
             "end_of_day": 16,
             "children": [
                 {
                     "index": 0,
                     "id": "prototyping_software_overview",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Prototyping Software Overview",
                     "end_of_day": 14,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_the_prototyping_software_we_use_such_as_figma_and_sketch",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 14,
                             "title": "Introduction to the prototyping software we use, such as Figma and Sketch."
                         }
@@ -315,14 +315,14 @@
                 {
                     "index": 1,
                     "id": "creating_interactive_prototypes",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Creating Interactive Prototypes",
                     "end_of_day": 15,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_create_interactive_prototypes_to_visualize_user_flows",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 15,
                             "title": "Learn how to create interactive prototypes to visualize user flows."
                         }
@@ -331,14 +331,14 @@
                 {
                     "index": 2,
                     "id": "feedback_and_iteration_process",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Feedback and Iteration Process",
                     "end_of_day": 16,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_we_gather_feedback_on_prototypes_and_iterate_based_on_user_input",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 16,
                             "title": "Overview of how we gather feedback on prototypes and iterate based on user input."
                         }
@@ -349,21 +349,21 @@
         {
             "index": 6,
             "id": "collaborating_with_our_product_and_development_teams",
-            "type": "subject",
+            "type": "section",
             "title": "Collaborating with Our Product and Development Teams",
             "end_of_day": 19,
             "children": [
                 {
                     "index": 0,
                     "id": "handing_off_designs",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Handing Off Designs",
                     "end_of_day": 17,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_hand_off_designs_to_the_development_team_effectively",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 17,
                             "title": "Learn how to hand off designs to the development team effectively."
                         }
@@ -372,14 +372,14 @@
                 {
                     "index": 1,
                     "id": "design_and_development_syncs",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Design and Development Syncs",
                     "end_of_day": 18,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_importance_of_syncing_with_development_teams_throughout_the_design_process",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 18,
                             "title": "Understand the importance of syncing with development teams throughout the design process."
                         }
@@ -388,14 +388,14 @@
                 {
                     "index": 2,
                     "id": "iterating_based_on_developer_feedback",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Iterating Based on Developer Feedback",
                     "end_of_day": 19,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_design_iterations_are_informed_by_developer_feedback",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 19,
                             "title": "Overview of how design iterations are informed by developer feedback."
                         }
@@ -406,21 +406,21 @@
         {
             "index": 7,
             "id": "our_accessibility_guidelines_and_best_practices",
-            "type": "subject",
+            "type": "section",
             "title": "Our Accessibility Guidelines and Best Practices",
             "end_of_day": 21,
             "children": [
                 {
                     "index": 0,
                     "id": "wcag_guidelines_overview",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "WCAG Guidelines Overview",
                     "end_of_day": 20,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_wcag_guidelines_and_how_we_ensure_accessibility_compliance",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 20,
                             "title": "Introduction to WCAG guidelines and how we ensure accessibility compliance."
                         }
@@ -429,14 +429,14 @@
                 {
                     "index": 1,
                     "id": "accessible_design_patterns",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Accessible Design Patterns",
                     "end_of_day": 21,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_accessible_design_patterns_and_their_application_in_our_products",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 21,
                             "title": "Learn about accessible design patterns and their application in our products."
                         }
@@ -445,14 +445,14 @@
                 {
                     "index": 2,
                     "id": "testing_for_accessibility_compliance",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Testing for Accessibility Compliance",
                     "end_of_day": 21,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_tools_and_processes_for_testing_design_accessibility_compliance",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 21,
                             "title": "Overview of tools and processes for testing design accessibility compliance."
                         }
@@ -463,21 +463,21 @@
         {
             "index": 8,
             "id": "familiarize_with_our_visual_design_principles",
-            "type": "subject",
+            "type": "section",
             "title": "Familiarize with Our Visual Design Principles",
             "end_of_day": 24,
             "children": [
                 {
                     "index": 0,
                     "id": "color_theory_and_contrast",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Color Theory and Contrast",
                     "end_of_day": 22,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_principles_of_color_theory_and_contrast_in_design",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 22,
                             "title": "Understand the principles of color theory and contrast in design."
                         }
@@ -486,14 +486,14 @@
                 {
                     "index": 1,
                     "id": "typography_and_hierarchy",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Typography and Hierarchy",
                     "end_of_day": 23,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_apply_typography_and_hierarchy_principles_to_create_effective_designs",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 23,
                             "title": "Learn how to apply typography and hierarchy principles to create effective designs."
                         }
@@ -502,14 +502,14 @@
                 {
                     "index": 2,
                     "id": "iconography_standards",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Iconography Standards",
                     "end_of_day": 24,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_iconography_standards_and_how_they_contribute_to_consistent_visual_design",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 24,
                             "title": "Overview of iconography standards and how they contribute to consistent visual design."
                         }
@@ -520,21 +520,21 @@
         {
             "index": 9,
             "id": "introduction_to_our_ui_design_tools",
-            "type": "subject",
+            "type": "section",
             "title": "Introduction to Our UI Design Tools",
             "end_of_day": 27,
             "children": [
                 {
                     "index": 0,
                     "id": "ui_design_software_figma_sketch_etc",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "UI Design Software (Figma, Sketch, etc.)",
                     "end_of_day": 25,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_the_ui_design_software_we_use_and_their_features",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 25,
                             "title": "Introduction to the UI design software we use and their features."
                         }
@@ -543,14 +543,14 @@
                 {
                     "index": 1,
                     "id": "designing_for_responsive_layouts",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Designing for Responsive Layouts",
                     "end_of_day": 26,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_design_for_responsive_layouts_across_different_devices",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 26,
                             "title": "Learn how to design for responsive layouts across different devices."
                         }
@@ -559,14 +559,14 @@
                 {
                     "index": 2,
                     "id": "collaborating_on_design_files",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Collaborating on Design Files",
                     "end_of_day": 27,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_best_practices_for_collaborating_on_design_files_within_our_team",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 27,
                             "title": "Understand best practices for collaborating on design files within our team."
                         }
@@ -577,21 +577,21 @@
         {
             "index": 10,
             "id": "user_testing_and_feedback_collection_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "User Testing and Feedback Collection at Our Company",
             "end_of_day": 29,
             "children": [
                 {
                     "index": 0,
                     "id": "moderated_vs_unmoderated_testing",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Moderated vs Unmoderated Testing",
                     "end_of_day": 28,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_differences_between_moderated_and_unmoderated_testing",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 28,
                             "title": "Overview of the differences between moderated and unmoderated testing."
                         }
@@ -600,14 +600,14 @@
                 {
                     "index": 1,
                     "id": "gathering_and_synthesizing_feedback",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Gathering and Synthesizing Feedback",
                     "end_of_day": 29,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_gather_and_synthesize_feedback_from_user_testing",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 29,
                             "title": "Learn how to gather and synthesize feedback from user testing."
                         }
@@ -616,14 +616,14 @@
                 {
                     "index": 2,
                     "id": "iterating_on_design_based_on_feedback",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Iterating on Design Based on Feedback",
                     "end_of_day": 29,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_iterate_on_designs_based_on_feedback_from_users_and_stakeholders",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 29,
                             "title": "Understand how to iterate on designs based on feedback from users and stakeholders."
                         }
@@ -634,21 +634,21 @@
         {
             "index": 11,
             "id": "our_design_review_and_approval_process",
-            "type": "subject",
+            "type": "section",
             "title": "Our Design Review and Approval Process",
             "end_of_day": 30,
             "children": [
                 {
                     "index": 0,
                     "id": "design_critique_sessions",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Design Critique Sessions",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_participate_in_and_contribute_to_design_critique_sessions",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Learn how to participate in and contribute to design critique sessions."
                         }
@@ -657,14 +657,14 @@
                 {
                     "index": 1,
                     "id": "final_review_and_sign_off",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Final Review and Sign-Off",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_process_for_final_design_review_and_sign_off_by_stakeholders",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Overview of the process for final design review and sign-off by stakeholders."
                         }
@@ -673,14 +673,14 @@
                 {
                     "index": 2,
                     "id": "stakeholder_presentation",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Stakeholder Presentation",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_present_designs_to_stakeholders_and_gather_final_feedback",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Understand how to present designs to stakeholders and gather final feedback."
                         }
@@ -691,21 +691,21 @@
         {
             "index": 12,
             "id": "ongoing_learning_and_design_trends_in_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Ongoing Learning and Design Trends in Our Company",
             "end_of_day": 31,
             "children": [
                 {
                     "index": 0,
                     "id": "design_trend_workshops",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Design Trend Workshops",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_design_trend_workshops_and_opportunities_for_continuous_learning",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Learn about design trend workshops and opportunities for continuous learning."
                         }
@@ -714,14 +714,14 @@
                 {
                     "index": 1,
                     "id": "access_to_design_resources",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Access to Design Resources",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_design_resources_available_for_ongoing_professional_development",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Overview of the design resources available for ongoing professional development."
                         }
@@ -730,14 +730,14 @@
                 {
                     "index": 2,
                     "id": "continuous_feedback_and_growth",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Continuous Feedback and Growth",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_feedback_loops_in_place_to_ensure_continuous_growth_as_a_designer",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Understand the feedback loops in place to ensure continuous growth as a designer."
                         }

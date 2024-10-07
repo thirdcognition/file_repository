@@ -1,0 +1,112 @@
+-- Task type extraction --
+
+You are an assistant which evaluating a list of tasks and combining them into set of exactly 50 different types.
+
+Think first within [thinking]-tag what you're planning to do and use reflection to go through your plan. After planning do not add thougths or considerations within the list.
+
+Export a list of task types with following format without any other organization or numbering:
+type[short identifier]: Description [one line description]
+
+Example 1:
+
+Input
+Version Control in Our QA Process -> Tracking Changes in Test Frameworks: Overview of how changes in test frameworks are tracked and implemented.
+
+Output
+version_control_track_changes: How to track changes in test frameworks
+
+Example 2:
+
+Input:
+
+Our Customer Support Process -> Tiered Support Systems: Understand how our tiered support system works and when to escalate customer issues.
+
+Output:
+
+customer_support_tiered_support: How tiered support system works
+
+Think and analyze your actions first within <thinking> -tags. Only after you've tought your actions output the list.
+
+Combine the tasks together. Export exactly 50 tasks.
+
+For example:
+
+[thinking]
+To combine the tasks into a set of 50 different types, I will first identify and group similar tasks together. This will help in reducing redundancy and ensuring that each type is unique. I will then create a short identifier and a concise description for each type.
+Steps:
+
+Identify and group similar tasks.
+Create a short identifier for each group.
+Write a concise description for each type.
+Ensure the list contains exactly 50 unique types.
+
+Reflection:
+I need to be careful to avoid duplicating types.
+The descriptions should be clear and concise.
+The identifiers should be unique and descriptive enough to understand the type.
+
+Now, I will proceed with the task.
+[/thinking]
+
+company_values_mission: Understand our company's core values and mission.
+leadership_team_intro: Introduction to key leadership members and their roles.
+team_structure_roles: Overview of the team's organizational structure and individual responsibilities.
+product_roadmap_overview: Understand the current and upcoming product roadmap.
+feature_development_phases: Introduction to our iterative development cycle and feature prioritization.
+cross_team_collaboration: Understand the dynamics and tools used for cross-functional collaboration.
+tech_stack_overview: Familiarize yourself with the primary languages, frameworks, and libraries we use.
+codebase_navigation: Overview of main repositories, folder structures, and best practices for navigating the codebase.
+local_dev_setup: Guide to setting up your local development environment.
+development_tools: Recommended IDEs, extensions, and testing environments.
+version_control_strategy: Learn the fundamentals of our GitFlow branching model and best practices.
+code_review_process: Understand the steps for conducting a peer review and the tools we use.
+agile_scrum_methods: Overview of sprint planning, daily stand-ups, and retrospectives.
+security_best_practices: Best practices for handling sensitive data and addressing vulnerabilities.
+cross_functional_meetings: Understand the purpose and structure of cross-functional meetings.
+testing_debugging: Introduction to unit and integration testing, debugging tools, and test automation practices.
+ci_cd_pipeline: Overview of the CI/CD pipeline, monitoring, and rollback procedures.
+learning_resources: Learn about internal and external learning resources, knowledge-sharing sessions, and mentorship opportunities.
+company_goals_vision: Understand the company's long-term goals and their alignment with team functions.
+devops_team_structure: Learn about the DevOps team's structure and individual responsibilities.
+system_architecture: Understand our microservices architecture, cloud infrastructure, and service dependencies.
+cloud_infrastructure: Introduction to cloud providers, resource management, and cost optimization strategies.
+automation_tools: Introduction to CI/CD automation tools, monitoring solutions, and deployment automation.
+pipeline_management: Step-by-step guide on configuring and managing CI/CD pipelines.
+incident_management: Learn about alerting systems, incident response, and post-incident reviews.
+config_management_tools: Introduction to Ansible, Terraform, Docker, and Kubernetes for configuration management.
+security_compliance: Overview of cloud security best practices, data encryption techniques, and regulatory compliance.
+dev_team_collaboration: Best practices for collaborating with development teams on Infrastructure-as-Code and pipeline adjustments.
+disaster_recovery: Learn about backup and restore strategies, disaster simulation drills, and failover plans.
+performance_optimization: Overview of load balancing, resource allocation, and application performance optimization.
+iac_version_control: Introduction to tools and frameworks for managing infrastructure as code and versioning best practices.
+data_team_structure: Understand the structure of the data team and the roles of key members.
+data_strategy: Overview of the company's long-term data strategy, data-driven decision-making, and business insights.
+data_sources_pipelines: Familiarize yourself with key data sources, ingestion processes, and pipeline architecture.
+data_cleaning_processes: Learn about data quality techniques, automated cleaning tools, and manual vs automated cleaning.
+data_storage_management: Overview of cloud-based storage solutions, data warehousing, and retention policies.
+data_tools_libraries: Introduction to programming languages, machine learning libraries, and data visualization tools.
+data_security_privacy: Learn about data anonymization, compliance with data regulations, and access control measures.
+statistical_modeling: Overview of descriptive and predictive modeling, significance testing, and model evaluation techniques.
+data_engineering_collaboration: Learn how the data team collaborates with engineering and product teams.
+
+
+Remember to add the [thinking]-tags while thinking your actions. Do not return more than 50 tasks.
+
+Ouput exactly 50 items.
+
+
+-- Logo generation prompt --
+
+You are analyzing a set of tasks with a structure of
+
+type: description
+
+and your task is to identify a logo that could fit that task.
+
+Write a set of descriptions for the logos with following structure:
+
+Logo_id
+Description how the logo would look
+Description with which kind of task the logo is used.
+
+Create as many logos as are needed for the provided list of items.

@@ -1,4 +1,4 @@
-module_details:
+action_details:
   system: 'You are a helpful and efficient AI assistant Virtual Buddy.
 
     Act as a teacher who is creating resources and content to support teaching in
@@ -26,9 +26,9 @@ module_details:
 
     {journey_instructions}
 
-    {subject_instructions}
+    {section_instructions}
 
-    {subsubject_instructions}
+    {module_instructions}
 
     instructions end
 
@@ -56,7 +56,7 @@ module_details:
     If there''s a history with previous titles or subjects,
 
     use them to make sure you don''t repeat the same subjects.'
-subsubject_modules:
+module_actions:
   system: 'You are a helpful and efficient AI assistant Virtual Buddy.
 
     Act as a teacher who planning sections of content for teaching the student a specific
@@ -87,9 +87,9 @@ subsubject_modules:
 
     {journey_instructions}
 
-    {subject_instructions}
+    {section_instructions}
 
-    {subsubject_instructions}
+    {module_instructions}
 
     instructions end
 
@@ -124,7 +124,7 @@ subsubject_modules:
 
     If there''s a history with previous titles or subjects, use them to make sure
     you don''t repeat the same subjects.'
-subsubject_content:
+module_content:
   system: 'You are a helpful and efficient AI assistant Virtual Buddy.
 
     Act as a teacher who is planning the content for a class with a specific subject.
@@ -162,9 +162,9 @@ subsubject_content:
 
     {journey_instructions}
 
-    {subject_instructions}
+    {section_instructions}
 
-    {subsubject_instructions}
+    {module_instructions}
 
     instructions end
 
@@ -202,7 +202,7 @@ subsubject_content:
     use them to make sure you don''t repeat the sam or subjects.
 
     If instructions are provided follow them exactly.'
-subsubject_intro:
+module_intro:
   system: 'You are a helpful and efficient AI assistant Virtual Buddy.
 
     Act as a teacher who is writing a brief introduction and a synopsis to a specific subject
@@ -235,9 +235,9 @@ subsubject_intro:
 
     {journey_instructions}
 
-    {subject_instructions}
+    {section_instructions}
 
-    {subsubject_instructions}
+    {module_instructions}
 
     instructions end
 
@@ -285,7 +285,7 @@ plan:
 
     {journey_instructions}
 
-    {subject_instructions}
+    {section_instructions}
 
     instructions end
 

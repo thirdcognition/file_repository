@@ -1,0 +1,151 @@
+saas_product_icon:
+  logo_1:
+    description: A stylized tree with deep roots and spreading branches, encircled by a ribbon with the words “Core Values” and “Mission.”
+    use_case: Understanding the company’s core values, mission, long-term goals, and vision; introduction to the company’s leadership team and their respective roles.
+  logo_2:
+    description: A group of abstract human figures standing in a semi-circle, with one figure slightly elevated.
+    use_case: Introduction to key leadership members, their roles, and the structure of various teams (e.g., DevOps, QA, Design); introducing Scrum team members and their roles.
+  logo_3:
+    description: An organizational chart icon with interconnected nodes.
+    use_case: Overview of the team’s organizational structure, individual responsibilities, and cross-functional collaboration; understanding the structure of engineering departments.
+  logo_4:
+    description: A winding road leading to a flag, with milestones marked along the way.
+    use_case: Understanding the current and upcoming product roadmap, long-term design goals, and strategic planning; tracking progress on the technical roadmap.
+  logo_5:
+    description: A series of gears in motion, each labeled with different phases like “Planning,” “Development,” and “Testing.”
+    use_case: Introduction to the iterative development cycle, feature prioritization, and the testing lifecycle; overview of the CI/CD pipeline, monitoring, rollback procedures, and automated testing integration.
+  logo_6:
+    description: Two interlocking puzzle pieces, each with different team icons.
+    use_case: Explaining the dynamics and tools used for cross-functional collaboration, including design and development syncs; collaboration between product, design, and engineering teams.
+  logo_7:
+    description: A stack of books, each labeled with different programming languages, frameworks, and libraries.
+    use_case: Familiarizing with primary languages, frameworks, libraries, and data tools used; introduction to programming languages, machine learning libraries, and data visualization tools.
+  logo_8:
+    description: A magnifying glass over a folder structure.
+    use_case: Overview of main repositories, folder structures, best practices for navigating the codebase, and feature specification reviews; explanation of how feature specifications are reviewed collaboratively with product teams.
+  logo_9:
+    description: A computer monitor with a wrench and screwdriver crossed in front of it.
+    use_case: Guiding the setup of your local development environment, including IDEs, extensions, and testing environments; procedures for setting up new employees, understanding software installation protocols, and managing hardware inventory and tracking equipment.
+  logo_10:
+    description: A branching tree diagram with nodes representing different versions.
+    use_case: Teaching the fundamentals of the GitFlow branching model, version control, and Infrastructure-as-Code versioning; understanding the company’s network architecture and server infrastructure.
+  logo_11:
+    description: A checklist with a magnifying glass.
+    use_case: Steps for conducting a peer review, bug reporting standards, and triaging and resolving reported issues; identifying areas for improvement in the team’s processes, implementing process improvements based on retrospective feedback.
+  logo_12:
+    description: A sprinting figure with a clock.
+    use_case: Overview of agile and scrum methodologies, sprint planning, daily stand-ups, and retrospectives; facilitating sprint planning and review sessions, conducting retrospectives to drive continuous improvement.
+  logo_13:
+    description: A shield with a lock in the center.
+    use_case: Best practices for handling sensitive data, addressing vulnerabilities, and ensuring secure development practices; overview of cloud security best practices, data encryption techniques, and regulatory compliance.
+  logo_14:
+    description: A round table with different team icons around it.
+    use_case: Purpose and structure of cross-functional meetings, design critique sessions, and collaboration processes; collaboration between program management and other teams, synchronizing program and product roadmaps.
+  logo_15:
+    description: A bug icon with a magnifying glass over it.
+    use_case: Introduction to unit and integration testing, debugging tools, and test automation practices; explanation of debugging tools and techniques for common issues in the codebase.
+  logo_16:
+    description: An open book with a lightbulb above it.
+    use_case: Introduction to internal and external learning resources, knowledge-sharing sessions, and mentorship opportunities; learning about available certifications and training programs for program managers.
+  logo_17:
+    description: A telescope pointing towards a star.
+    use_case: Understanding the company’s long-term goals, vision, and their alignment with team functions; defining clear and achievable sprint goals, ensuring successful execution of sprints.
+  logo_18:
+    description: A blueprint with interconnected components.
+    use_case: Understanding system architecture, microservices, cloud infrastructure, and service dependencies; overview of cloud-based storage solutions, data warehousing, and retention policies.
+  logo_19:
+    description: A cloud with interconnected nodes and arrows.
+    use_case: Introduction to cloud providers, resource management, cost optimization strategies, and cloud security best practices; understanding hybrid and multi-cloud strategies, and cloud networking.
+  logo_20:
+    description: A robot with gears.
+    use_case: Introduction to CI/CD automation tools, monitoring solutions, deployment automation, and machine learning deployment; understanding automated deployment processes and troubleshooting.
+  logo_21:
+    description: An alarm bell with a checklist.
+    use_case: Explanation of alerting systems, incident response, post-incident reviews, and disaster recovery strategies; coordinating incident response across teams, dissemination of technical knowledge between teams to improve support processes.
+  logo_22:
+    description: A toolbox with icons of Ansible, Terraform, Docker, and Kubernetes.
+    use_case: Introduction to configuration management tools and their application in infrastructure management; understanding container orchestration and security.
+  logo_23:
+    description: Two shaking hands with a code snippet in the background.
+    use_case: Best practices for collaborating with development teams on Infrastructure-as-Code and pipeline adjustments; aligning stakeholder expectations with product goals, communicating progress and potential risks.
+  logo_24:
+    description: A lifebuoy with a server icon.
+    use_case: Explanation of backup and restore strategies, disaster simulation drills, and failover plans; understanding backup and recovery processes and disaster recovery drills.
+  logo_25:
+    description: A speedometer with a rocket.
+    use_case: Overview of load balancing, resource allocation, and application performance optimization; tracking and achieving sales quotas and pipeline velocity.
+  logo_26:
+    description: A network diagram with data nodes.
+    use_case: Explanation of the structure of the data team, roles of key members, and collaboration with other teams; understanding how tiered support systems work, customer support structures, and operational hierarchy.
+  logo_27:
+    description: A chessboard with data icons.
+    use_case: Overview of the company’s long-term data strategy, data-driven decision-making, and business insights; understanding the process of escalating complex issues, critical customer issues, and operational risks.
+  logo_28:
+    description: A pipeline with data droplets.
+    use_case: Familiarization with key data sources, ingestion processes, and pipeline architecture; overview of how to integrate solutions with existing systems and security features.
+  logo_29:
+    description: A broom sweeping data icons.
+    use_case: Explanation of data quality techniques, automated cleaning tools, and manual vs automated cleaning; understanding how feedback is used to drive process improvements.
+  logo_30:
+    description: A lock with a data icon.
+    use_case: Explanation of data anonymization, compliance with data regulations, and access control measures; understanding strategies to retain customers, employee retention, and data security.
+  logo_31:
+    description: A graph with statistical data points.
+    use_case: Overview of descriptive and predictive modeling, significance testing, and model evaluation techniques; understanding how customer churn is measured, managing underperformance, and identifying inefficiencies.
+  logo_32:
+    description: Two gears interlocking with data icons.
+    use_case: Explanation of how the data team collaborates with engineering and product teams; collaboration between customer success and support teams, operations alignment with business strategy.
+  logo_33:
+    description: A bar chart with a magnifying glass.
+    use_case: Overview of standard reporting templates, data storytelling techniques, and visualization best practices; learning how to read and analyze financial statements, data visualization tools, and financial reporting.
+  logo_34:
+    description: A robot with a monitor.
+    use_case: Introduction to model deployment frameworks, monitoring, and versioning; understanding automated financial reporting, operational automation, and process streamlining.
+  logo_35:
+    description: A gavel with a data icon.
+    use_case: Overview of internal data governance guidelines, GDPR/CCPA compliance, and ethical use of data; understanding GAAP compliance, financial regulations, and audit processes.
+  logo_36:
+    description: A microscope with a data icon.
+    use_case: Explanation of opportunities for data science research projects, industry meetups, and online learning platforms; understanding the continuous learning programs in place to help operations managers stay updated.
+  logo_37:
+    description: A document with a magnifying glass.
+    use_case: Explanation of how feature specifications are reviewed collaboratively with product teams; understanding the process for expense approvals, audit trails, and compliance with regulations.
+  logo_38:
+    description: A bug icon with a priority list.
+    use_case: Explanation of how bugs are triaged and prioritized across teams; understanding how operational expenses are tracked, expense reporting tools, and budget management.
+  logo_39:
+    description: A rollback arrow with a server icon.
+    use_case: Explanation of how to perform a deployment rollback in case of issues; understanding how to perform a deployment rollback in case of issues.
+  logo_40:
+    description: Two figures, one guiding the other.
+    use_case: Exploration of mentorship and coaching opportunities within the team; understanding the roles and responsibilities of engineering leaders.
+  logo_41:
+    description: A cloud with a shield.
+    use_case: Overview of best practices for securing cloud infrastructure; understanding network security within the company, managing firewall settings and VPN access for remote employees.
+  logo_42:
+    description: A lock with a key.
+    use_case: Explanation of data encryption techniques used to secure sensitive data; understanding data protection policies, and learning about the tools we use to manage Scrum projects.
+  logo_43:
+    description: A scale with data icons.
+    use_case: Explanation of the company’s policies on the ethical use of data; understanding how customer churn is measured, managing underperformance, and identifying inefficiencies.
+  logo_44:
+    description: A palette with design tools.
+    use_case: Explanation of the structure of the design team and individual responsibilities; understanding the structure of engineering departments.
+  logo_45:
+    description: Interlocking gears with different team icons.
+    use_case: Introduction to the cross-functional teams you will collaborate with; collaboration between customer success and support teams, operations alignment with business strategy.
+  logo_46:
+    description: A flowchart with design icons.
+    use_case: Overview of the design workflow and how it integrates with product and development teams; understanding the iterative development cycle, feature prioritization, and the testing lifecycle.
+  logo_47:
+    description: A roadmap with design and product icons.
+    use_case: Explanation of the product roadmap and how design aligns with the overall strategy; tracking progress on the technical roadmap.
+  logo_48:
+    description: A target with user icons.
+    use_case: Explanation of the key target users and personas the designs cater to; understanding how customer churn is measured, managing underperformance, and identifying inefficiencies.
+  logo_49:
+    description: A flag on a mountain peak with design icons.
+    use_case: Overview of the long-term design goals and their impact on the product; defining clear and achievable sprint goals, ensuring successful execution of sprints.
+  logo_50:
+    description: A grid with UI components.
+    use_case: Introduction to the design system and commonly used UI components; understanding the company’s network architecture and server infrastructure.

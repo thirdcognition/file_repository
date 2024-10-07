@@ -6,22 +6,22 @@
     "children": [
         {
             "index": 0,
-            "id": "introduction_to_the_company_team_630",
-            "type": "subject",
+            "id": "introduction_to_the_company_team_4",
+            "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 2,
             "children": [
                 {
                     "index": 0,
                     "id": "qa_team_structure",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "QA Team Structure",
                     "end_of_day": 1,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_structure_of_the_qa_team_and_individual_roles",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 1,
                             "title": "Understand the structure of the QA team and individual roles."
                         }
@@ -30,14 +30,14 @@
                 {
                     "index": 1,
                     "id": "meet_the_development_teams",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Meet the Development Teams",
                     "end_of_day": 2,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_the_development_teams_you_ll_be_working_closely_with",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 2,
                             "title": "Introduction to the development teams you'll be working closely with."
                         }
@@ -46,14 +46,14 @@
                 {
                     "index": 2,
                     "id": "cross_team_collaboration_processes",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Cross-Team Collaboration Processes",
                     "end_of_day": 2,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_qa_collaborates_with_development_product_and_design_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 2,
                             "title": "Overview of how QA collaborates with development, product, and design teams."
                         }
@@ -64,21 +64,21 @@
         {
             "index": 1,
             "id": "familiarize_with_our_qa_processes",
-            "type": "subject",
+            "type": "section",
             "title": "Familiarize with Our QA Processes",
             "end_of_day": 5,
             "children": [
                 {
                     "index": 0,
                     "id": "testing_lifecycle_overview",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Testing Lifecycle Overview",
                     "end_of_day": 3,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_full_lifecycle_of_testing_from_planning_to_release",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 3,
                             "title": "Understand the full lifecycle of testing from planning to release."
                         }
@@ -87,14 +87,14 @@
                 {
                     "index": 1,
                     "id": "bug_reporting_standards",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Bug Reporting Standards",
                     "end_of_day": 4,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_the_standards_for_reporting_bugs_and_issues_in_the_system",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 4,
                             "title": "Learn the standards for reporting bugs and issues in the system."
                         }
@@ -103,14 +103,14 @@
                 {
                     "index": 2,
                     "id": "defining_quality_metrics",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Defining Quality Metrics",
                     "end_of_day": 5,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_key_quality_metrics_used_to_evaluate_software_performance",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 5,
                             "title": "Overview of key quality metrics used to evaluate software performance."
                         }
@@ -121,21 +121,21 @@
         {
             "index": 2,
             "id": "overview_of_our_testing_tools",
-            "type": "subject",
+            "type": "section",
             "title": "Overview of Our Testing Tools",
             "end_of_day": 7,
             "children": [
                 {
                     "index": 0,
                     "id": "automated_testing_tools",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Automated Testing Tools",
                     "end_of_day": 6,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_the_automated_testing_tools_used_by_our_qa_team",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 6,
                             "title": "Introduction to the automated testing tools used by our QA team."
                         }
@@ -144,14 +144,14 @@
                 {
                     "index": 1,
                     "id": "manual_testing_frameworks",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Manual Testing Frameworks",
                     "end_of_day": 7,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_manual_testing_frameworks_and_when_they_are_applied",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 7,
                             "title": "Overview of the manual testing frameworks and when they are applied."
                         }
@@ -160,14 +160,14 @@
                 {
                     "index": 2,
                     "id": "test_reporting_tools",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Test Reporting Tools",
                     "end_of_day": 7,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_tools_used_for_generating_test_reports_and_tracking_results",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 7,
                             "title": "Learn about the tools used for generating test reports and tracking results."
                         }
@@ -177,22 +177,22 @@
         },
         {
             "index": 3,
-            "id": "collaborating_with_our_development_teams_962",
-            "type": "subject",
+            "id": "collaborating_with_our_development_teams_1",
+            "type": "section",
             "title": "Collaborating with Our Development Teams",
             "end_of_day": 9,
             "children": [
                 {
                     "index": 0,
                     "id": "agile_collaboration_and_standups",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Agile Collaboration and Standups",
                     "end_of_day": 8,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_role_of_qa_in_agile_ceremonies_such_as_standups_and_retrospectives",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 8,
                             "title": "Understand the role of QA in Agile ceremonies such as standups and retrospectives."
                         }
@@ -201,14 +201,14 @@
                 {
                     "index": 1,
                     "id": "test_case_review_with_developers",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Test Case Review with Developers",
                     "end_of_day": 9,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_collaborate_with_developers_during_test_case_review_sessions",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 9,
                             "title": "Learn how to collaborate with developers during test case review sessions."
                         }
@@ -217,14 +217,14 @@
                 {
                     "index": 2,
                     "id": "feedback_loop_for_test_results",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Feedback Loop for Test Results",
                     "end_of_day": 9,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_test_results_are_communicated_and_fed_back_into_development",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 9,
                             "title": "Overview of how test results are communicated and fed back into development."
                         }
@@ -235,21 +235,21 @@
         {
             "index": 4,
             "id": "our_bug_tracking_and_issue_resolution_process",
-            "type": "subject",
+            "type": "section",
             "title": "Our Bug Tracking and Issue Resolution Process",
             "end_of_day": 12,
             "children": [
                 {
                     "index": 0,
                     "id": "jira_ticketing_system",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "JIRA Ticketing System",
                     "end_of_day": 10,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_navigate_and_use_the_jira_ticketing_system_for_bug_tracking",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 10,
                             "title": "Learn how to navigate and use the JIRA ticketing system for bug tracking."
                         }
@@ -258,14 +258,14 @@
                 {
                     "index": 1,
                     "id": "bug_prioritization_and_escalation",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Bug Prioritization and Escalation",
                     "end_of_day": 11,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_bugs_are_prioritized_and_escalated_for_resolution",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 11,
                             "title": "Understand how bugs are prioritized and escalated for resolution."
                         }
@@ -274,14 +274,14 @@
                 {
                     "index": 2,
                     "id": "issue_triage_process",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Issue Triage Process",
                     "end_of_day": 12,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_process_for_triaging_and_resolving_reported_issues",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 12,
                             "title": "Overview of the process for triaging and resolving reported issues."
                         }
@@ -292,21 +292,21 @@
         {
             "index": 5,
             "id": "introduction_to_our_testing_framework_and_automation",
-            "type": "subject",
+            "type": "section",
             "title": "Introduction to Our Testing Framework and Automation",
             "end_of_day": 15,
             "children": [
                 {
                     "index": 0,
                     "id": "selenium_and_test_automation",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Selenium and Test Automation",
                     "end_of_day": 13,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_the_selenium_framework_and_its_use_in_automated_testing",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 13,
                             "title": "Introduction to the Selenium framework and its use in automated testing."
                         }
@@ -315,14 +315,14 @@
                 {
                     "index": 1,
                     "id": "regression_testing_suite",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Regression Testing Suite",
                     "end_of_day": 14,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_regression_testing_suite_and_how_it_s_maintained",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 14,
                             "title": "Overview of the regression testing suite and how it's maintained."
                         }
@@ -331,14 +331,14 @@
                 {
                     "index": 2,
                     "id": "automated_test_reporting",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Automated Test Reporting",
                     "end_of_day": 15,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_automated_test_results_are_reported_and_analyzed",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 15,
                             "title": "Learn how automated test results are reported and analyzed."
                         }
@@ -349,21 +349,21 @@
         {
             "index": 6,
             "id": "manual_vs_automated_testing_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Manual vs. Automated Testing at Our Company",
             "end_of_day": 17,
             "children": [
                 {
                     "index": 0,
                     "id": "defining_manual_vs_automated_scenarios",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Defining Manual vs Automated Scenarios",
                     "end_of_day": 16,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_when_to_use_manual_vs_automated_testing_in_our_processes",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 16,
                             "title": "Understand when to use manual vs automated testing in our processes."
                         }
@@ -372,14 +372,14 @@
                 {
                     "index": 1,
                     "id": "when_to_use_each_testing_approach",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "When to Use Each Testing Approach",
                     "end_of_day": 17,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_the_criteria_for_selecting_the_appropriate_testing_approach_for_a_given_task",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 17,
                             "title": "Learn the criteria for selecting the appropriate testing approach for a given task."
                         }
@@ -388,14 +388,14 @@
                 {
                     "index": 2,
                     "id": "balancing_speed_and_thoroughness",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Balancing Speed and Thoroughness",
                     "end_of_day": 17,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_strategies_for_balancing_speed_and_thoroughness_in_testing",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 17,
                             "title": "Overview of strategies for balancing speed and thoroughness in testing."
                         }
@@ -406,21 +406,21 @@
         {
             "index": 7,
             "id": "security_testing_in_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Security Testing in Our Company",
             "end_of_day": 20,
             "children": [
                 {
                     "index": 0,
                     "id": "penetration_testing_overview",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Penetration Testing Overview",
                     "end_of_day": 18,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_penetration_testing_and_its_importance_in_security_validation",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 18,
                             "title": "Introduction to penetration testing and its importance in security validation."
                         }
@@ -429,14 +429,14 @@
                 {
                     "index": 1,
                     "id": "vulnerability_assessment_tools",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Vulnerability Assessment Tools",
                     "end_of_day": 19,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_tools_used_for_vulnerability_assessment_in_our_infrastructure",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 19,
                             "title": "Learn about the tools used for vulnerability assessment in our infrastructure."
                         }
@@ -445,14 +445,14 @@
                 {
                     "index": 2,
                     "id": "ensuring_secure_development_practices",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Ensuring Secure Development Practices",
                     "end_of_day": 20,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_qa_contributes_to_ensuring_secure_development_practices",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 20,
                             "title": "Understand how QA contributes to ensuring secure development practices."
                         }
@@ -463,21 +463,21 @@
         {
             "index": 8,
             "id": "performance_and_load_testing_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Performance and Load Testing at Our Company",
             "end_of_day": 23,
             "children": [
                 {
                     "index": 0,
                     "id": "performance_test_scenarios",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Performance Test Scenarios",
                     "end_of_day": 21,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_scenarios_used_in_performance_testing",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 21,
                             "title": "Learn about the scenarios used in performance testing."
                         }
@@ -486,14 +486,14 @@
                 {
                     "index": 1,
                     "id": "load_testing_tools_and_metrics",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Load Testing Tools and Metrics",
                     "end_of_day": 22,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_tools_and_metrics_used_for_load_testing_and_performance_analysis",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 22,
                             "title": "Overview of the tools and metrics used for load testing and performance analysis."
                         }
@@ -502,14 +502,14 @@
                 {
                     "index": 2,
                     "id": "performance_optimization_techniques",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Performance Optimization Techniques",
                     "end_of_day": 23,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_the_techniques_used_to_optimize_system_performance_based_on_testing_results",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 23,
                             "title": "Learn the techniques used to optimize system performance based on testing results."
                         }
@@ -520,21 +520,21 @@
         {
             "index": 9,
             "id": "version_control_in_our_qa_process",
-            "type": "subject",
+            "type": "section",
             "title": "Version Control in Our QA Process",
             "end_of_day": 25,
             "children": [
                 {
                     "index": 0,
                     "id": "test_case_versioning",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Test Case Versioning",
                     "end_of_day": 24,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_test_cases_are_versioned_and_maintained",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 24,
                             "title": "Understand how test cases are versioned and maintained."
                         }
@@ -543,14 +543,14 @@
                 {
                     "index": 1,
                     "id": "managing_test_repositories",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Managing Test Repositories",
                     "end_of_day": 25,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_managing_test_repositories_and_ensuring_consistency",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 25,
                             "title": "Learn about managing test repositories and ensuring consistency."
                         }
@@ -559,14 +559,14 @@
                 {
                     "index": 2,
                     "id": "tracking_changes_in_test_frameworks",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Tracking Changes in Test Frameworks",
                     "end_of_day": 25,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_changes_in_test_frameworks_are_tracked_and_implemented",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 25,
                             "title": "Overview of how changes in test frameworks are tracked and implemented."
                         }
@@ -577,21 +577,21 @@
         {
             "index": 10,
             "id": "continuous_testing_in_our_ci_cd_pipeline",
-            "type": "subject",
+            "type": "section",
             "title": "Continuous Testing in Our CI/CD Pipeline",
             "end_of_day": 28,
             "children": [
                 {
                     "index": 0,
                     "id": "integration_of_testing_into_ci",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Integration of Testing into CI",
                     "end_of_day": 26,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_testing_is_integrated_into_the_continuous_integration_ci_process",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 26,
                             "title": "Learn how testing is integrated into the continuous integration (CI) process."
                         }
@@ -600,14 +600,14 @@
                 {
                     "index": 1,
                     "id": "automated_test_triggers",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Automated Test Triggers",
                     "end_of_day": 27,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_automated_triggers_for_running_tests_during_ci_cd_pipelines",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 27,
                             "title": "Overview of automated triggers for running tests during CI/CD pipelines."
                         }
@@ -616,14 +616,14 @@
                 {
                     "index": 2,
                     "id": "pipeline_monitoring_for_failures",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Pipeline Monitoring for Failures",
                     "end_of_day": 28,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_monitor_pipelines_and_troubleshoot_test_failures",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 28,
                             "title": "Understand how to monitor pipelines and troubleshoot test failures."
                         }
@@ -633,22 +633,22 @@
         },
         {
             "index": 11,
-            "id": "ongoing_learning_and_development_resources_at_our_company_168",
-            "type": "subject",
+            "id": "ongoing_learning_and_development_resources_at_our_company_2",
+            "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
             "end_of_day": 31,
             "children": [
                 {
                     "index": 0,
                     "id": "qa_certifications_and_resources",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "QA Certifications and Resources",
                     "end_of_day": 29,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_available_certifications_and_resources_for_qa_professionals",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 29,
                             "title": "Learn about available certifications and resources for QA professionals."
                         }
@@ -657,14 +657,14 @@
                 {
                     "index": 1,
                     "id": "qa_team_knowledge_sharing",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "QA Team Knowledge Sharing",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_internal_knowledge_sharing_practices_within_the_qa_team",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Overview of internal knowledge-sharing practices within the QA team."
                         }
@@ -673,14 +673,14 @@
                 {
                     "index": 2,
                     "id": "internal_qa_workshops",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Internal QA Workshops",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_internal_workshops_designed_to_enhance_qa_skills_and_techniques",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Learn about internal workshops designed to enhance QA skills and techniques."
                         }

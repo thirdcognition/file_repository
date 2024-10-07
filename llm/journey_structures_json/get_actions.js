@@ -14,12 +14,9 @@ function get_id(str, uniq = true) {
         .replace(/ +/g, "_");
 
     // Check if id has been used previously
-    let counter = 1;
-    origId = id
     while (uniq && usedIds.has(id)) {
-        // If id has been used, append the next available integer to it
-        id = origId +"_" + counter;
-        counter++;
+        // If id has been used, append a unique number to it
+        id += "_" + Math.floor(Math.random() * 1000);
     }
 
     // Add id to the set of used ids

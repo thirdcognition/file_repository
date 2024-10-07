@@ -6,22 +6,22 @@
     "children": [
         {
             "index": 0,
-            "id": "introduction_to_the_company_team_468",
-            "type": "subject",
+            "id": "introduction_to_the_company_team_16",
+            "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
                     "index": 0,
-                    "id": "meet_the_leadership_team_679",
-                    "type": "subsubject",
+                    "id": "meet_the_leadership_team_2",
+                    "type": "module",
                     "title": "Meet the Leadership Team",
                     "end_of_day": 1,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_the_company_s_leadership_team_and_their_respective_roles",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 1,
                             "title": "Introduction to the company's leadership team and their respective roles."
                         }
@@ -30,14 +30,14 @@
                 {
                     "index": 1,
                     "id": "company_vision_and_technology_alignment",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Company Vision and Technology Alignment",
                     "end_of_day": 2,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_company_s_vision_and_how_technology_aligns_with_business_goals",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 2,
                             "title": "Understand the company's vision and how technology aligns with business goals."
                         }
@@ -46,14 +46,14 @@
                 {
                     "index": 2,
                     "id": "introduction_to_key_stakeholders",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Introduction to Key Stakeholders",
                     "end_of_day": 3,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_key_stakeholders_and_their_role_in_technology_decision_making",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 3,
                             "title": "Overview of key stakeholders and their role in technology decision-making."
                         }
@@ -64,21 +64,21 @@
         {
             "index": 1,
             "id": "ensuring_cross_functional_alignment",
-            "type": "subject",
+            "type": "section",
             "title": "Ensuring Cross-Functional Alignment",
             "end_of_day": 6,
             "children": [
                 {
                     "index": 0,
-                    "id": "ensuring_cross_functional_alignment_16",
-                    "type": "subsubject",
+                    "id": "ensuring_cross_functional_alignment_1",
+                    "type": "module",
                     "title": "Ensuring Cross-Functional Alignment",
                     "end_of_day": 4,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_ensure_alignment_between_product_engineering_and_technology_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 4,
                             "title": "Learn how to ensure alignment between product, engineering, and technology teams."
                         }
@@ -87,14 +87,14 @@
                 {
                     "index": 1,
                     "id": "setting_engineering_priorities",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Setting Engineering Priorities",
                     "end_of_day": 5,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_engineering_priorities_are_set_in_alignment_with_product_and_business_goals",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 5,
                             "title": "Understand how engineering priorities are set in alignment with product and business goals."
                         }
@@ -103,14 +103,14 @@
                 {
                     "index": 2,
                     "id": "supporting_product_development",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Supporting Product Development",
                     "end_of_day": 6,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_cto_s_role_in_supporting_product_development_and_innovation",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 6,
                             "title": "Overview of the CTO’s role in supporting product development and innovation."
                         }
@@ -121,21 +121,21 @@
         {
             "index": 2,
             "id": "our_budgeting_and_resource_allocation_process",
-            "type": "subject",
+            "type": "section",
             "title": "Our Budgeting and Resource Allocation Process",
             "end_of_day": 9,
             "children": [
                 {
                     "index": 0,
                     "id": "technology_budget_planning",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Technology Budget Planning",
                     "end_of_day": 7,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_plan_and_allocate_budgets_for_technology_initiatives",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 7,
                             "title": "Learn how to plan and allocate budgets for technology initiatives."
                         }
@@ -144,14 +144,14 @@
                 {
                     "index": 1,
                     "id": "resource_allocation_across_teams",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Resource Allocation Across Teams",
                     "end_of_day": 8,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_resources_are_allocated_across_engineering_r_d_and_technical_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 8,
                             "title": "Understand how resources are allocated across engineering, R&D, and technical teams."
                         }
@@ -160,14 +160,14 @@
                 {
                     "index": 2,
                     "id": "monitoring_r_d_expenditures",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Monitoring R&D Expenditures",
                     "end_of_day": 9,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_r_d_expenditures_are_monitored_and_controlled_for_efficiency",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 9,
                             "title": "Overview of how R&D expenditures are monitored and controlled for efficiency."
                         }
@@ -178,21 +178,21 @@
         {
             "index": 3,
             "id": "hiring_and_talent_management_in_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Hiring and Talent Management in Our Company",
             "end_of_day": 12,
             "children": [
                 {
                     "index": 0,
                     "id": "technical_hiring_strategies",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Technical Hiring Strategies",
                     "end_of_day": 10,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_the_strategies_for_hiring_top_technical_talent_and_building_high_performing_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 10,
                             "title": "Learn the strategies for hiring top technical talent and building high-performing teams."
                         }
@@ -201,14 +201,14 @@
                 {
                     "index": 1,
                     "id": "developing_tech_talent",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Developing Tech Talent",
                     "end_of_day": 11,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_importance_of_developing_and_nurturing_tech_talent_for_long_term_growth",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 11,
                             "title": "Understand the importance of developing and nurturing tech talent for long-term growth."
                         }
@@ -217,14 +217,14 @@
                 {
                     "index": 2,
                     "id": "employee_retention_and_career_growth",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Employee Retention and Career Growth",
                     "end_of_day": 12,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_employee_retention_strategies_and_fostering_career_growth_within_the_tech_team",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 12,
                             "title": "Overview of employee retention strategies and fostering career growth within the tech team."
                         }
@@ -235,21 +235,21 @@
         {
             "index": 4,
             "id": "technology_stack_decisions_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Technology Stack Decisions at Our Company",
             "end_of_day": 15,
             "children": [
                 {
                     "index": 0,
                     "id": "evaluating_new_technologies",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Evaluating New Technologies",
                     "end_of_day": 13,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_evaluate_and_adopt_new_technologies_to_stay_ahead_of_the_competition",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 13,
                             "title": "Learn how to evaluate and adopt new technologies to stay ahead of the competition."
                         }
@@ -258,14 +258,14 @@
                 {
                     "index": 1,
                     "id": "selecting_and_implementing_tech_stack",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Selecting and Implementing Tech Stack",
                     "end_of_day": 14,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_decision_making_process_for_selecting_the_company_s_tech_stack",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 14,
                             "title": "Understand the decision-making process for selecting the company's tech stack."
                         }
@@ -274,14 +274,14 @@
                 {
                     "index": 2,
                     "id": "balancing_innovation_with_stability",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Balancing Innovation with Stability",
                     "end_of_day": 15,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_to_balance_adopting_new_innovations_with_maintaining_system_stability",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 15,
                             "title": "Overview of how to balance adopting new innovations with maintaining system stability."
                         }
@@ -292,21 +292,21 @@
         {
             "index": 5,
             "id": "security_and_compliance_oversight_in_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Security and Compliance Oversight in Our Company",
             "end_of_day": 18,
             "children": [
                 {
                     "index": 0,
                     "id": "overseeing_cybersecurity_initiatives",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Overseeing Cybersecurity Initiatives",
                     "end_of_day": 16,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_the_cto_oversees_cybersecurity_initiatives_to_protect_company_assets",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 16,
                             "title": "Learn how the CTO oversees cybersecurity initiatives to protect company assets."
                         }
@@ -315,14 +315,14 @@
                 {
                     "index": 1,
                     "id": "ensuring_compliance_with_regulations",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Ensuring Compliance with Regulations",
                     "end_of_day": 17,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_regulatory_compliance_requirements_related_to_technology",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 17,
                             "title": "Understand the regulatory compliance requirements related to technology."
                         }
@@ -331,14 +331,14 @@
                 {
                     "index": 2,
                     "id": "managing_security_audits",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Managing Security Audits",
                     "end_of_day": 18,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_security_audits_are_managed_to_ensure_compliance_and_risk_mitigation",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 18,
                             "title": "Overview of how security audits are managed to ensure compliance and risk mitigation."
                         }
@@ -349,21 +349,21 @@
         {
             "index": 6,
             "id": "our_risk_management_and_incident_response_strategies",
-            "type": "subject",
+            "type": "section",
             "title": "Our Risk Management and Incident Response Strategies",
             "end_of_day": 21,
             "children": [
                 {
                     "index": 0,
                     "id": "identifying_and_mitigating_technology_risks",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Identifying and Mitigating Technology Risks",
                     "end_of_day": 19,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_identify_and_mitigate_technology_related_risks",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 19,
                             "title": "Learn how to identify and mitigate technology-related risks."
                         }
@@ -371,15 +371,15 @@
                 },
                 {
                     "index": 1,
-                    "id": "incident_response_procedures_42",
-                    "type": "subsubject",
+                    "id": "incident_response_procedures_1",
+                    "type": "module",
                     "title": "Incident Response Procedures",
                     "end_of_day": 20,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_procedures_for_responding_to_and_managing_technology_incidents",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 20,
                             "title": "Understand the procedures for responding to and managing technology incidents."
                         }
@@ -388,14 +388,14 @@
                 {
                     "index": 2,
                     "id": "crisis_management_and_communication",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Crisis Management and Communication",
                     "end_of_day": 21,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_crisis_management_strategies_and_how_to_communicate_during_technology_crises",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 21,
                             "title": "Overview of crisis management strategies and how to communicate during technology crises."
                         }
@@ -406,21 +406,21 @@
         {
             "index": 7,
             "id": "stakeholder_management_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Stakeholder Management at Our Company",
             "end_of_day": 24,
             "children": [
                 {
                     "index": 0,
                     "id": "communicating_technology_strategy_to_stakeholders",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Communicating Technology Strategy to Stakeholders",
                     "end_of_day": 22,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_effectively_communicate_the_technology_strategy_to_both_internal_and_external_stakeholders",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 22,
                             "title": "Learn how to effectively communicate the technology strategy to both internal and external stakeholders."
                         }
@@ -428,15 +428,15 @@
                 },
                 {
                     "index": 1,
-                    "id": "aligning_stakeholder_expectations_522",
-                    "type": "subsubject",
+                    "id": "aligning_stakeholder_expectations_1",
+                    "type": "module",
                     "title": "Aligning Stakeholder Expectations",
                     "end_of_day": 23,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_align_stakeholder_expectations_with_technology_deliverables",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 23,
                             "title": "Understand how to align stakeholder expectations with technology deliverables."
                         }
@@ -445,14 +445,14 @@
                 {
                     "index": 2,
                     "id": "engaging_with_investors_on_technology_strategy",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Engaging with Investors on Technology Strategy",
                     "end_of_day": 24,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_to_engage_with_investors_and_communicate_the_value_of_technology_initiatives",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 24,
                             "title": "Overview of how to engage with investors and communicate the value of technology initiatives."
                         }
@@ -463,21 +463,21 @@
         {
             "index": 8,
             "id": "performance_metrics_and_kpis_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Performance Metrics and KPIs at Our Company",
             "end_of_day": 27,
             "children": [
                 {
                     "index": 0,
                     "id": "measuring_technology_success",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Measuring Technology Success",
                     "end_of_day": 25,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_the_key_metrics_used_to_measure_the_success_of_technology_initiatives",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 25,
                             "title": "Learn the key metrics used to measure the success of technology initiatives."
                         }
@@ -486,14 +486,14 @@
                 {
                     "index": 1,
                     "id": "tracking_r_d_productivity",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Tracking R&D Productivity",
                     "end_of_day": 26,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_r_d_productivity_is_tracked_and_measured_against_goals",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 26,
                             "title": "Understand how R&D productivity is tracked and measured against goals."
                         }
@@ -502,14 +502,14 @@
                 {
                     "index": 2,
                     "id": "kpis_for_engineering_teams",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "KPIs for Engineering Teams",
                     "end_of_day": 27,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_kpis_used_to_assess_engineering_team_performance_and_productivity",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 27,
                             "title": "Overview of the KPIs used to assess engineering team performance and productivity."
                         }
@@ -519,22 +519,22 @@
         },
         {
             "index": 9,
-            "id": "ongoing_learning_and_industry_trends_in_our_company_689",
-            "type": "subject",
+            "id": "ongoing_learning_and_industry_trends_in_our_company_4",
+            "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 30,
             "children": [
                 {
                     "index": 0,
                     "id": "staying_updated_on_emerging_technologies",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Staying Updated on Emerging Technologies",
                     "end_of_day": 28,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_stay_updated_on_emerging_technologies_and_trends_in_the_industry",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 28,
                             "title": "Learn how to stay updated on emerging technologies and trends in the industry."
                         }
@@ -543,14 +543,14 @@
                 {
                     "index": 1,
                     "id": "industry_conferences_and_networking",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Industry Conferences and Networking",
                     "end_of_day": 29,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_importance_of_attending_industry_conferences_and_networking_with_peers",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 29,
                             "title": "Understand the importance of attending industry conferences and networking with peers."
                         }
@@ -559,14 +559,14 @@
                 {
                     "index": 2,
                     "id": "continuous_learning_for_technology_leaders",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Continuous Learning for Technology Leaders",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_continuous_learning_opportunities_available_for_technology_leaders",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Overview of the continuous learning opportunities available for technology leaders."
                         }

@@ -6,22 +6,22 @@
     "children": [
         {
             "index": 0,
-            "id": "introduction_to_the_company_team_317",
-            "type": "subject",
+            "id": "introduction_to_the_company_team_7",
+            "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
             "children": [
                 {
                     "index": 0,
                     "id": "meet_the_scrum_team_members",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Meet the Scrum Team Members",
                     "end_of_day": 1,
                     "children": [
                         {
                             "index": 0,
                             "id": "introduction_to_the_scrum_team_members_and_their_roles",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 1,
                             "title": "Introduction to the Scrum team members and their roles."
                         }
@@ -30,14 +30,14 @@
                 {
                     "index": 1,
                     "id": "understanding_company_structure",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Understanding Company Structure",
                     "end_of_day": 2,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_company_s_structure_and_how_it_impacts_scrum_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 2,
                             "title": "Overview of the company's structure and how it impacts Scrum teams."
                         }
@@ -46,14 +46,14 @@
                 {
                     "index": 2,
                     "id": "introduction_to_scrum_master_role",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Introduction to Scrum Master Role",
                     "end_of_day": 3,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_key_responsibilities_and_expectations_for_the_scrum_master_role",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 3,
                             "title": "Understand the key responsibilities and expectations for the Scrum Master role."
                         }
@@ -64,21 +64,21 @@
         {
             "index": 1,
             "id": "familiarize_with_agile_principles_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Familiarize with Agile Principles at Our Company",
             "end_of_day": 6,
             "children": [
                 {
                     "index": 0,
                     "id": "agile_manifesto_overview",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Agile Manifesto Overview",
                     "end_of_day": 4,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_the_principles_of_the_agile_manifesto_and_how_they_guide_our_practices",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 4,
                             "title": "Learn the principles of the Agile Manifesto and how they guide our practices."
                         }
@@ -87,14 +87,14 @@
                 {
                     "index": 1,
                     "id": "agile_values_and_principles_in_practice",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Agile Values and Principles in Practice",
                     "end_of_day": 5,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_agile_values_and_principles_are_implemented_in_day_to_day_work",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 5,
                             "title": "Understand how Agile values and principles are implemented in day-to-day work."
                         }
@@ -103,14 +103,14 @@
                 {
                     "index": 2,
                     "id": "adapting_agile_in_our_company",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Adapting Agile in Our Company",
                     "end_of_day": 6,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_agile_practices_are_adapted_to_fit_the_company_s_unique_needs",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 6,
                             "title": "Overview of how Agile practices are adapted to fit the company's unique needs."
                         }
@@ -121,21 +121,21 @@
         {
             "index": 2,
             "id": "scrum_methodology_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Scrum Methodology at Our Company",
             "end_of_day": 9,
             "children": [
                 {
                     "index": 0,
                     "id": "scrum_framework_overview",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Scrum Framework Overview",
                     "end_of_day": 7,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_scrum_framework_and_its_application_in_our_company",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 7,
                             "title": "Understand the Scrum framework and its application in our company."
                         }
@@ -144,14 +144,14 @@
                 {
                     "index": 1,
                     "id": "scrum_ceremonies_and_their_importance",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Scrum Ceremonies and Their Importance",
                     "end_of_day": 8,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_key_scrum_ceremonies_and_their_significance",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 8,
                             "title": "Learn about the key Scrum ceremonies and their significance."
                         }
@@ -160,14 +160,14 @@
                 {
                     "index": 2,
                     "id": "scrum_roles_and_responsibilities",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Scrum Roles and Responsibilities",
                     "end_of_day": 9,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_the_roles_and_responsibilities_within_the_scrum_team",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 9,
                             "title": "Overview of the roles and responsibilities within the Scrum team."
                         }
@@ -178,21 +178,21 @@
         {
             "index": 3,
             "id": "roles_and_responsibilities_in_scrum_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Roles and Responsibilities in Scrum at Our Company",
             "end_of_day": 12,
             "children": [
                 {
                     "index": 0,
                     "id": "product_owner_vs_scrum_master",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Product Owner vs Scrum Master",
                     "end_of_day": 10,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_differences_between_the_roles_of_the_product_owner_and_scrum_master",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 10,
                             "title": "Understand the differences between the roles of the Product Owner and Scrum Master."
                         }
@@ -201,14 +201,14 @@
                 {
                     "index": 1,
                     "id": "development_team_roles",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Development Team Roles",
                     "end_of_day": 11,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_roles_and_responsibilities_of_the_development_team",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 11,
                             "title": "Learn about the roles and responsibilities of the development team."
                         }
@@ -217,14 +217,14 @@
                 {
                     "index": 2,
                     "id": "supporting_self_organizing_teams",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Supporting Self-Organizing Teams",
                     "end_of_day": 12,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_the_scrum_master_supports_self_organizing_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 12,
                             "title": "Overview of how the Scrum Master supports self-organizing teams."
                         }
@@ -235,21 +235,21 @@
         {
             "index": 4,
             "id": "facilitating_scrum_ceremonies_in_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Facilitating Scrum Ceremonies in Our Company",
             "end_of_day": 15,
             "children": [
                 {
                     "index": 0,
-                    "id": "daily_stand_ups_543",
-                    "type": "subsubject",
+                    "id": "daily_stand_ups_1",
+                    "type": "module",
                     "title": "Daily Stand-ups",
                     "end_of_day": 13,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_facilitate_daily_stand_ups_effectively",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 13,
                             "title": "Learn how to facilitate daily stand-ups effectively."
                         }
@@ -258,14 +258,14 @@
                 {
                     "index": 1,
                     "id": "sprint_planning_and_review",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Sprint Planning and Review",
                     "end_of_day": 14,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_facilitating_sprint_planning_and_review_sessions",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 14,
                             "title": "Overview of facilitating sprint planning and review sessions."
                         }
@@ -274,14 +274,14 @@
                 {
                     "index": 2,
                     "id": "retrospectives_and_continuous_improvement",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Retrospectives and Continuous Improvement",
                     "end_of_day": 15,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_retrospectives_are_conducted_to_drive_continuous_improvement",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 15,
                             "title": "Understand how retrospectives are conducted to drive continuous improvement."
                         }
@@ -292,21 +292,21 @@
         {
             "index": 5,
             "id": "sprint_planning_and_execution_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Sprint Planning and Execution at Our Company",
             "end_of_day": 18,
             "children": [
                 {
                     "index": 0,
                     "id": "creating_sprint_backlog",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Creating Sprint Backlog",
                     "end_of_day": 16,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_create_and_prioritize_a_sprint_backlog",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 16,
                             "title": "Learn how to create and prioritize a sprint backlog."
                         }
@@ -315,14 +315,14 @@
                 {
                     "index": 1,
                     "id": "defining_sprint_goals",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Defining Sprint Goals",
                     "end_of_day": 17,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_define_clear_and_achievable_sprint_goals",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 17,
                             "title": "Understand how to define clear and achievable sprint goals."
                         }
@@ -331,14 +331,14 @@
                 {
                     "index": 2,
                     "id": "ensuring_successful_sprint_execution",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Ensuring Successful Sprint Execution",
                     "end_of_day": 18,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_to_ensure_successful_execution_of_sprints",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 18,
                             "title": "Overview of how to ensure successful execution of sprints."
                         }
@@ -348,22 +348,22 @@
         },
         {
             "index": 6,
-            "id": "collaborating_with_our_product_and_development_teams_622",
-            "type": "subject",
+            "id": "collaborating_with_our_product_and_development_teams_1",
+            "type": "section",
             "title": "Collaborating with Our Product and Development Teams",
             "end_of_day": 21,
             "children": [
                 {
                     "index": 0,
                     "id": "facilitating_cross_team_communication",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Facilitating Cross-team Communication",
                     "end_of_day": 19,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_facilitate_communication_between_product_and_development_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 19,
                             "title": "Understand how to facilitate communication between product and development teams."
                         }
@@ -372,14 +372,14 @@
                 {
                     "index": 1,
                     "id": "collaborating_on_product_backlog",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Collaborating on Product Backlog",
                     "end_of_day": 20,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_collaborate_effectively_on_managing_the_product_backlog",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 20,
                             "title": "Learn how to collaborate effectively on managing the product backlog."
                         }
@@ -388,14 +388,14 @@
                 {
                     "index": 2,
                     "id": "resolving_inter_team_conflicts",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Resolving Inter-team Conflicts",
                     "end_of_day": 21,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_strategies_for_resolving_conflicts_between_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 21,
                             "title": "Overview of strategies for resolving conflicts between teams."
                         }
@@ -406,21 +406,21 @@
         {
             "index": 7,
             "id": "tracking_progress_and_metrics_in_our_scrum_teams",
-            "type": "subject",
+            "type": "section",
             "title": "Tracking Progress and Metrics in Our Scrum Teams",
             "end_of_day": 24,
             "children": [
                 {
                     "index": 0,
                     "id": "velocity_and_burndown_charts",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Velocity and Burndown Charts",
                     "end_of_day": 22,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_track_team_progress_using_velocity_and_burndown_charts",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 22,
                             "title": "Learn how to track team progress using velocity and burndown charts."
                         }
@@ -429,14 +429,14 @@
                 {
                     "index": 1,
                     "id": "tracking_team_progress",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Tracking Team Progress",
                     "end_of_day": 23,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_methods_used_to_track_progress_across_the_scrum_team",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 23,
                             "title": "Understand the methods used to track progress across the Scrum team."
                         }
@@ -445,14 +445,14 @@
                 {
                     "index": 2,
                     "id": "measuring_team_effectiveness",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Measuring Team Effectiveness",
                     "end_of_day": 24,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_metrics_used_to_measure_team_effectiveness_in_scrum",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 24,
                             "title": "Overview of metrics used to measure team effectiveness in Scrum."
                         }
@@ -463,21 +463,21 @@
         {
             "index": 8,
             "id": "removing_roadblocks_for_our_teams",
-            "type": "subject",
+            "type": "section",
             "title": "Removing Roadblocks for Our Teams",
             "end_of_day": 27,
             "children": [
                 {
                     "index": 0,
                     "id": "identifying_and_resolving_impediments",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Identifying and Resolving Impediments",
                     "end_of_day": 25,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_identify_and_resolve_impediments_that_block_the_team_s_progress",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 25,
                             "title": "Learn how to identify and resolve impediments that block the team's progress."
                         }
@@ -486,14 +486,14 @@
                 {
                     "index": 1,
                     "id": "supporting_team_through_challenges",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Supporting Team Through Challenges",
                     "end_of_day": 26,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_support_the_team_through_technical_or_process_challenges",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 26,
                             "title": "Understand how to support the team through technical or process challenges."
                         }
@@ -502,14 +502,14 @@
                 {
                     "index": 2,
                     "id": "escalating_critical_issues",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Escalating Critical Issues",
                     "end_of_day": 27,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_when_and_how_to_escalate_critical_issues_that_require_external_support",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 27,
                             "title": "Overview of when and how to escalate critical issues that require external support."
                         }
@@ -520,21 +520,21 @@
         {
             "index": 9,
             "id": "continuous_improvement_and_retrospectives_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Continuous Improvement and Retrospectives at Our Company",
             "end_of_day": 29,
             "children": [
                 {
                     "index": 0,
                     "id": "conducting_effective_retrospectives",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Conducting Effective Retrospectives",
                     "end_of_day": 28,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_how_to_conduct_retrospectives_that_lead_to_actionable_improvements",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 28,
                             "title": "Learn how to conduct retrospectives that lead to actionable improvements."
                         }
@@ -543,14 +543,14 @@
                 {
                     "index": 1,
                     "id": "identifying_areas_for_improvement",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Identifying Areas for Improvement",
                     "end_of_day": 29,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_how_to_identify_areas_for_improvement_in_the_team_s_processes",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 29,
                             "title": "Understand how to identify areas for improvement in the team's processes."
                         }
@@ -559,14 +559,14 @@
                 {
                     "index": 2,
                     "id": "implementing_process_improvements",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Implementing Process Improvements",
                     "end_of_day": 29,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_how_process_improvements_are_implemented_based_on_retrospective_feedback",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 29,
                             "title": "Overview of how process improvements are implemented based on retrospective feedback."
                         }
@@ -577,21 +577,21 @@
         {
             "index": 10,
             "id": "agile_tools_and_software_at_our_company",
-            "type": "subject",
+            "type": "section",
             "title": "Agile Tools and Software at Our Company",
             "end_of_day": 30,
             "children": [
                 {
                     "index": 0,
                     "id": "scrum_management_tools",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Scrum Management Tools",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_the_tools_we_use_to_manage_scrum_projects_such_as_jira",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Learn about the tools we use to manage Scrum projects, such as JIRA."
                         }
@@ -600,14 +600,14 @@
                 {
                     "index": 1,
                     "id": "real_time_tracking_software",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Real-time Tracking Software",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_software_used_for_real_time_tracking_of_sprint_progress",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Overview of software used for real-time tracking of sprint progress."
                         }
@@ -616,14 +616,14 @@
                 {
                     "index": 2,
                     "id": "collaboration_and_communication_platforms",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Collaboration and Communication Platforms",
                     "end_of_day": 30,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_platforms_we_use_for_communication_and_collaboration_within_scrum_teams",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 30,
                             "title": "Understand the platforms we use for communication and collaboration within Scrum teams."
                         }
@@ -633,22 +633,22 @@
         },
         {
             "index": 11,
-            "id": "ongoing_learning_and_development_resources_at_our_company_463",
-            "type": "subject",
+            "id": "ongoing_learning_and_development_resources_at_our_company_4",
+            "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
             "end_of_day": 31,
             "children": [
                 {
                     "index": 0,
                     "id": "scrum_master_certifications",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Scrum Master Certifications",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "learn_about_available_scrum_master_certifications_for_further_professional_development",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Learn about available Scrum Master certifications for further professional development."
                         }
@@ -657,14 +657,14 @@
                 {
                     "index": 1,
                     "id": "agile_and_scrum_conferences",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Agile and Scrum Conferences",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "overview_of_industry_conferences_and_events_focused_on_agile_and_scrum",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Overview of industry conferences and events focused on Agile and Scrum."
                         }
@@ -673,14 +673,14 @@
                 {
                     "index": 2,
                     "id": "internal_agile_workshops",
-                    "type": "subsubject",
+                    "type": "module",
                     "title": "Internal Agile Workshops",
                     "end_of_day": 31,
                     "children": [
                         {
                             "index": 0,
                             "id": "understand_the_internal_workshops_available_for_deepening_agile_and_scrum_knowledge",
-                            "type": "module",
+                            "type": "action",
                             "end_of_day": 31,
                             "title": "Understand the internal workshops available for deepening Agile and Scrum knowledge."
                         }
