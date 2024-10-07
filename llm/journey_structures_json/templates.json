@@ -3514,7 +3514,7 @@
                 }  
             ]  
         }  
-    },  
+    },   
     "Sales Engineer": {  
         "Introduction to the Company & Team": {  
             "Meet the Sales Team": [  
@@ -3522,7 +3522,8 @@
                     "description": "Introduction to the sales team members and their respective roles.",  
                     "day": 1,  
                     "action": "Familiarize yourself with each member of the sales team and their roles.",  
-                    "content": "The sales team is the frontline of our company, responsible for driving revenue and building relationships with clients. Each member plays a unique role, from account executives who directly engage with customers to sales support staff who provide essential assistance. Understanding the roles and responsibilities of your colleagues will help you collaborate effectively and leverage each other's strengths.\nGetting to know your team members will also create a supportive work environment. Building these relationships early on is key to fostering communication and teamwork, ultimately enhancing the overall sales process."  
+                    "content": "The sales team is the frontline of our company, responsible for driving revenue and building relationships with clients. Each member plays a unique role, from account executives who directly engage with customers to sales support staff who provide essential assistance. Understanding the roles and responsibilities of your colleagues will help you collaborate effectively and leverage each other's strengths.\nGetting to know your team members will also create a supportive work environment. Building these relationships early on is key to fostering communication and teamwork, ultimately enhancing the overall sales process.",  
+                    "system_prompt": "Act like a professional sales manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Introduction to the sales team members and their respective roles.'"  
                 }  
             ],  
             "Understanding Company Structure and Goals": [  
@@ -3530,7 +3531,8 @@
                     "description": "Overview of the company structure and how sales aligns with business goals.",  
                     "day": 2,  
                     "action": "Review the company's organizational structure and understand how sales contributes to overall goals.",  
-                    "content": "Understanding the company's structure is essential for navigating your role effectively. Our organization is designed to promote collaboration across departments, with sales acting as a bridge between product development and customer needs. By aligning your efforts with the company's strategic goals, you can better position yourself to contribute to our success.\nSales plays a crucial role in shaping the direction of the company by providing insights into market demands and customer feedback. Recognizing how your work fits into the larger picture will empower you to make informed decisions and drive impactful results."  
+                    "content": "Understanding the company's structure is essential for navigating your role effectively. Our organization is designed to promote collaboration across departments, with sales acting as a bridge between product development and customer needs. By aligning your efforts with the company's strategic goals, you can better position yourself to contribute to our success.\nSales plays a crucial role in shaping the direction of the company by providing insights into market demands and customer feedback. Recognizing how your work fits into the larger picture will empower you to make informed decisions and drive impactful results.",  
+                    "system_prompt": "Act like a professional organizational strategist, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of the company structure and how sales aligns with business goals.'"  
                 }  
             ],  
             "Introduction to Key Sales Stakeholders": [  
@@ -3538,7 +3540,8 @@
                     "description": "Learn about key stakeholders in the sales process and their responsibilities.",  
                     "day": 3,  
                     "action": "Identify key stakeholders in the sales process and understand their roles.",  
-                    "content": "In the sales process, various stakeholders play critical roles in ensuring successful outcomes. This includes not only your sales colleagues but also product managers, marketing teams, and customer support. Understanding the responsibilities of each stakeholder will help you navigate the sales process more effectively.\nBy building relationships with these stakeholders, you can facilitate smoother communication and collaboration. This understanding will also enhance your ability to address customer needs and provide comprehensive solutions that align with their expectations."  
+                    "content": "In the sales process, various stakeholders play critical roles in ensuring successful outcomes. This includes not only your sales colleagues but also product managers, marketing teams, and customer support. Understanding the responsibilities of each stakeholder will help you navigate the sales process more effectively.\nBy building relationships with these stakeholders, you can facilitate smoother communication and collaboration. This understanding will also enhance your ability to address customer needs and provide comprehensive solutions that align with their expectations.",  
+                    "system_prompt": "Act like a professional sales coordinator, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn about key stakeholders in the sales process and their responsibilities.'"  
                 }  
             ]  
         },  
@@ -3548,7 +3551,8 @@
                     "description": "Understand the key features and benefits of our products.",  
                     "day": 4,  
                     "action": "Review the product features and how they provide value to customers.",  
-                    "content": "Our products are designed to solve specific problems for our customers, and understanding their key features is essential for effective selling. Each feature has been carefully crafted to provide tangible benefits, whether it's improving efficiency, reducing costs, or enhancing user experience. Familiarizing yourself with these features will enable you to articulate their value clearly.\nMoreover, knowing the strengths and weaknesses of our products will allow you to position them effectively against competitors. This knowledge is crucial for building confidence in your sales conversations and responding to customer inquiries effectively."  
+                    "content": "Our products are designed to solve specific problems for our customers, and understanding their key features is essential for effective selling. Each feature has been carefully crafted to provide tangible benefits, whether it's improving efficiency, reducing costs, or enhancing user experience. Familiarizing yourself with these features will enable you to articulate their value clearly.\nMoreover, knowing the strengths and weaknesses of our products will allow you to position them effectively against competitors. This knowledge is crucial for building confidence in your sales conversations and responding to customer inquiries effectively.",  
+                    "system_prompt": "Act like a professional product manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand the key features and benefits of our products.'"  
                 }  
             ],  
             "Solution Selling and Use Cases": [  
@@ -3556,7 +3560,8 @@
                     "description": "Learn about the solution selling approach and how to apply product use cases to customer needs.",  
                     "day": 5,  
                     "action": "Explore solution selling techniques and identify relevant use cases.",  
-                    "content": "Solution selling focuses on identifying and addressing the specific needs of customers rather than simply pushing products. This approach requires a deep understanding of customer pain points and how our solutions can resolve them. By learning to apply relevant use cases, you can demonstrate how our products fit into the customer's environment and provide real value.\nUnderstanding the nuances of solution selling will enhance your ability to engage with customers meaningfully. This method not only builds trust but also positions you as a consultative partner rather than just a salesperson."  
+                    "content": "Solution selling focuses on identifying and addressing the specific needs of customers rather than simply pushing products. This approach requires a deep understanding of customer pain points and how our solutions can resolve them. By learning to apply relevant use cases, you can demonstrate how our products fit into the customer's environment and provide real value.\nUnderstanding the nuances of solution selling will enhance your ability to engage with customers meaningfully. This method not only builds trust but also positions you as a consultative partner rather than just a salesperson.",  
+                    "system_prompt": "Act like a professional sales consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn about the solution selling approach and how to apply product use cases to customer needs.'"  
                 }  
             ],  
             "Product Benefits for Different Customer Segments": [  
@@ -3564,7 +3569,8 @@
                     "description": "Overview of how our product benefits vary across different customer segments.",  
                     "day": 6,  
                     "action": "Analyze the benefits of our products for various customer segments.",  
-                    "content": "Different customer segments have unique needs and challenges, and our products can be tailored to meet those specific requirements. Understanding how our solutions benefit various segments will empower you to communicate more effectively with potential customers. For instance, the needs of a small business may differ significantly from those of a large enterprise.\nBy tailoring your messaging to resonate with specific segments, you can enhance your sales strategy and improve conversion rates. This targeted approach not only increases customer satisfaction but also fosters long-term relationships."  
+                    "content": "Different customer segments have unique needs and challenges, and our products can be tailored to meet those specific requirements. Understanding how our solutions benefit various segments will empower you to communicate more effectively with potential customers. For instance, the needs of a small business may differ significantly from those of a large enterprise.\nBy tailoring your messaging to resonate with specific segments, you can enhance your sales strategy and improve conversion rates. This targeted approach not only increases customer satisfaction but also fosters long-term relationships.",  
+                    "system_prompt": "Act like a professional market analyst, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how our product benefits vary across different customer segments.'"  
                 }  
             ]  
         },  
@@ -3574,7 +3580,8 @@
                     "description": "Understand the technical architecture of our products and how they are designed.",  
                     "day": 7,  
                     "action": "Review the technical architecture of our products to deepen your understanding.",  
-                    "content": "A solid understanding of the technical architecture behind our products will enable you to communicate more effectively with technical stakeholders. This knowledge helps bridge the gap between sales and product development, allowing you to address technical questions and concerns confidently. Understanding how our products are designed will also help you identify potential customization opportunities for clients.\nBy familiarizing yourself with the architecture, you can better articulate the technical advantages of our products and how they integrate within a client's existing infrastructure. This understanding is crucial for building credibility and trust with potential customers."  
+                    "content": "A solid understanding of the technical architecture behind our products will enable you to communicate more effectively with technical stakeholders. This knowledge helps bridge the gap between sales and product development, allowing you to address technical questions and concerns confidently. Understanding how our products are designed will also help you identify potential customization opportunities for clients.\nBy familiarizing yourself with the architecture, you can better articulate the technical advantages of our products and how they integrate within a client's existing infrastructure. This understanding is crucial for building credibility and trust with potential customers.",  
+                    "system_prompt": "Act like a professional solutions architect, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand the technical architecture of our products and how they are designed.'"  
                 }  
             ],  
             "Technical Specifications and Integrations": [  
@@ -3582,7 +3589,8 @@
                     "description": "Learn about the technical specifications and how our products integrate with other systems.",  
                     "day": 8,  
                     "action": "Explore the technical specifications and integration capabilities of our products.",  
-                    "content": "Understanding the technical specifications of our products is essential for addressing customer inquiries and ensuring compatibility with their existing systems. This includes knowledge about APIs, data formats, and integration capabilities. By mastering these details, you can provide clients with accurate information and help them visualize how our products will fit into their technology stack.\nMoreover, being well-versed in integration possibilities allows you to present solutions that can enhance the client's current operations. This capability is crucial for closing deals, as clients often seek assurance that new solutions will work seamlessly with their existing systems."  
+                    "content": "Understanding the technical specifications of our products is essential for addressing customer inquiries and ensuring compatibility with their existing systems. This includes knowledge about APIs, data formats, and integration capabilities. By mastering these details, you can provide clients with accurate information and help them visualize how our products will fit into their technology stack.\nMoreover, being well-versed in integration possibilities allows you to present solutions that can enhance the client's current operations. This capability is crucial for closing deals, as clients often seek assurance that new solutions will work seamlessly with their existing systems.",  
+                    "system_prompt": "Act like a professional integration specialist, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn about the technical specifications and how our products integrate with other systems.'"  
                 }  
             ],  
             "Product Performance and Scalability": [  
@@ -3590,7 +3598,8 @@
                     "description": "Overview of product performance benchmarks and scalability options.",  
                     "day": 9,  
                     "action": "Review product performance benchmarks and scalability features.",  
-                    "content": "Performance and scalability are critical factors for customers when evaluating new solutions. Understanding our product performance benchmarks will equip you to address concerns about speed, reliability, and capacity. Additionally, knowing how our products scale will allow you to reassure clients that their needs can be met as their business grows.\nBy being knowledgeable about these aspects, you can effectively communicate the long-term value of our solutions and help clients feel confident in their investment. This understanding is essential for building trust and ensuring customer satisfaction."  
+                    "content": "Performance and scalability are critical factors for customers when evaluating new solutions. Understanding our product performance benchmarks will equip you to address concerns about speed, reliability, and capacity. Additionally, knowing how our products scale will allow you to reassure clients that their needs can be met as their business grows.\nBy being knowledgeable about these aspects, you can effectively communicate the long-term value of our solutions and help clients feel confident in their investment. This understanding is essential for building trust and ensuring customer satisfaction.",  
+                    "system_prompt": "Act like a professional performance engineer, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of product performance benchmarks and scalability options.'"  
                 }  
             ]  
         },  
@@ -3600,7 +3609,8 @@
                     "description": "Learn how to navigate and use the company's CRM for managing leads and opportunities.",  
                     "day": 10,  
                     "action": "Explore the CRM system and practice managing leads and opportunities.",  
-                    "content": "The CRM system is a vital tool for managing customer relationships and tracking sales activities. Familiarizing yourself with its features will enable you to efficiently manage leads, track interactions, and monitor sales progress. Understanding how to use the CRM effectively is crucial for maximizing your productivity and ensuring that no opportunities are overlooked.\nBy mastering the CRM, you can streamline your sales process and enhance your ability to follow up with leads. This tool is essential for maintaining organized records and fostering strong relationships with clients."  
+                    "content": "The CRM system is a vital tool for managing customer relationships and tracking sales activities. Familiarizing yourself with its features will enable you to efficiently manage leads, track interactions, and monitor sales progress. Understanding how to use the CRM effectively is crucial for maximizing your productivity and ensuring that no opportunities are overlooked.\nBy mastering the CRM, you can streamline your sales process and enhance your ability to follow up with leads. This tool is essential for maintaining organized records and fostering strong relationships with clients.",  
+                    "system_prompt": "Act like a professional CRM specialist, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how to navigate and use the company's CRM for managing leads and opportunities.'"  
                 }  
             ],  
             "Sales Automation Tools": [  
@@ -3608,7 +3618,8 @@
                     "description": "Understand the sales automation tools available to streamline your workflow.",  
                     "day": 11,  
                     "action": "Review the sales automation tools and their functionalities.",  
-                    "content": "Sales automation tools are designed to simplify repetitive tasks, allowing you to focus on building relationships and closing deals. Understanding the various tools available within our sales stack will help you maximize efficiency and productivity. These tools can assist with tasks such as email outreach, follow-ups, and lead scoring.\nBy leveraging these automation tools, you can enhance your workflow and ensure that you are spending your time on high-impact activities. This knowledge is essential for achieving your sales targets and driving revenue growth."  
+                    "content": "Sales automation tools are designed to simplify repetitive tasks, allowing you to focus on building relationships and closing deals. Understanding the various tools available within our sales stack will help you maximize efficiency and productivity. These tools can assist with tasks such as email outreach, follow-ups, and lead scoring.\nBy leveraging these automation tools, you can enhance your workflow and ensure that you are spending your time on high-impact activities. This knowledge is essential for achieving your sales targets and driving revenue growth.",  
+                    "system_prompt": "Act like a professional sales automation consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand the sales automation tools available to streamline your workflow.'"  
                 }  
             ],  
             "Tracking Sales Pipelines": [  
@@ -3616,7 +3627,8 @@
                     "description": "Overview of tracking sales pipelines and monitoring deal progress.",  
                     "day": 12,  
                     "action": "Learn how to track sales pipelines and monitor the status of deals.",  
-                    "content": "Tracking sales pipelines is crucial for understanding where each deal stands in the sales process. Familiarizing yourself with how to monitor deal progress will allow you to identify bottlenecks and prioritize your efforts effectively. Understanding the sales pipeline stages and what actions are required at each stage is essential for closing deals successfully.\nBy mastering pipeline tracking, you can improve your forecasting accuracy and ensure that you are consistently moving deals forward. This skill is vital for optimizing your sales strategy and achieving your quotas."  
+                    "content": "Tracking sales pipelines is crucial for understanding where each deal stands in the sales process. Familiarizing yourself with how to monitor deal progress will allow you to identify bottlenecks and prioritize your efforts effectively. Understanding the sales pipeline stages and what actions are required at each stage is essential for closing deals successfully.\nBy mastering pipeline tracking, you can improve your forecasting accuracy and ensure that you are consistently moving deals forward. This skill is vital for optimizing your sales strategy and achieving your quotas.",  
+                    "system_prompt": "Act like a professional sales operations manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of tracking sales pipelines and monitoring deal progress.'"  
                 }  
             ]  
         },  
@@ -3626,7 +3638,8 @@
                     "description": "Learn how to identify and assess customer needs during the sales process.",  
                     "day": 13,  
                     "action": "Practice identifying customer needs through effective questioning techniques.",  
-                    "content": "Identifying customer needs is a fundamental aspect of the sales process. By asking the right questions and actively listening, you can uncover pain points and tailor your solutions accordingly. This skill is essential for building rapport and trust with clients, as they will appreciate your genuine interest in understanding their challenges.\nBy honing your ability to assess customer needs, you can position our products as effective solutions that address their specific issues. This consultative approach is key to successful sales interactions and long-term customer relationships."  
+                    "content": "Identifying customer needs is a fundamental aspect of the sales process. By asking the right questions and actively listening, you can uncover pain points and tailor your solutions accordingly. This skill is essential for building rapport and trust with clients, as they will appreciate your genuine interest in understanding their challenges.\nBy honing your ability to assess customer needs, you can position our products as effective solutions that address their specific issues. This consultative approach is key to successful sales interactions and long-term customer relationships.",  
+                    "system_prompt": "Act like a professional sales consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how to identify and assess customer needs during the sales process.'"  
                 }  
             ],  
             "Common Industry Challenges": [  
@@ -3634,7 +3647,8 @@
                     "description": "Understand common challenges faced by customers in the industry and how our solutions address them.",  
                     "day": 14,  
                     "action": "Research common industry challenges and prepare to discuss them with clients.",  
-                    "content": "Understanding the common challenges faced by customers in our industry is vital for positioning our solutions effectively. By being aware of these challenges, you can engage in meaningful conversations with clients and demonstrate how our products can alleviate their pain points. This knowledge will also allow you to anticipate objections and provide informed responses.\nBy preparing to address these common challenges, you can enhance your credibility and build stronger relationships with clients. This understanding is crucial for establishing yourself as a trusted advisor in the sales process."  
+                    "content": "Understanding the common challenges faced by customers in our industry is vital for positioning our solutions effectively. By being aware of these challenges, you can engage in meaningful conversations with clients and demonstrate how our products can alleviate their pain points. This knowledge will also allow you to anticipate objections and provide informed responses.\nBy preparing to address these common challenges, you can enhance your credibility and build stronger relationships with clients. This understanding is crucial for establishing yourself as a trusted advisor in the sales process.",  
+                    "system_prompt": "Act like a professional industry analyst, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand common challenges faced by customers in the industry and how our solutions address them.'"  
                 }  
             ],  
             "Solutions for Customer Pain Points": [  
@@ -3642,7 +3656,8 @@
                     "description": "Overview of the key solutions we offer to resolve specific customer pain points.",  
                     "day": 15,  
                     "action": "Familiarize yourself with our solutions and how they address customer pain points.",  
-                    "content": "Our solutions are designed to tackle specific customer pain points effectively. Understanding how each solution addresses these issues will empower you to communicate their value clearly to clients. By aligning our products with customer needs, you can enhance your sales strategy and increase the likelihood of closing deals.\nBy mastering the specifics of our solutions, you will be well-equipped to handle objections and provide tailored recommendations that resonate with clients. This knowledge is essential for building trust and driving successful sales outcomes."  
+                    "content": "Our solutions are designed to tackle specific customer pain points effectively. Understanding how each solution addresses these issues will empower you to communicate their value clearly to clients. By aligning our products with customer needs, you can enhance your sales strategy and increase the likelihood of closing deals.\nBy mastering the specifics of our solutions, you will be well-equipped to handle objections and provide tailored recommendations that resonate with clients. This knowledge is essential for building trust and driving successful sales outcomes.",  
+                    "system_prompt": "Act like a professional solutions consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of the key solutions we offer to resolve specific customer pain points.'"  
                 }  
             ]  
         },  
@@ -3652,7 +3667,8 @@
                     "description": "Learn how to effectively communicate customer feedback to the product team for improvements.",  
                     "day": 16,  
                     "action": "Practice documenting and conveying customer feedback to the product team.",  
-                    "content": "Effective communication of customer feedback to the product team is essential for continuous improvement. By documenting feedback accurately and conveying it clearly, you can ensure that the product team understands customer needs and expectations. This collaboration fosters a culture of responsiveness and innovation.\nBy mastering this skill, you will contribute to the development of products that better meet customer needs. This practice not only enhances product quality but also strengthens the relationship between sales and product teams."  
+                    "content": "Effective communication of customer feedback to the product team is essential for continuous improvement. By documenting feedback accurately and conveying it clearly, you can ensure that the product team understands customer needs and expectations. This collaboration fosters a culture of responsiveness and innovation.\nBy mastering this skill, you will contribute to the development of products that better meet customer needs. This practice not only enhances product quality but also strengthens the relationship between sales and product teams.",  
+                    "system_prompt": "Act like a professional product manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how to effectively communicate customer feedback to the product team for improvements.'"  
                 }  
             ],  
             "Working Together on Custom Solutions": [  
@@ -3660,7 +3676,8 @@
                     "description": "Understand how to collaborate with the product and development teams to create custom solutions for clients.",  
                     "day": 17,  
                     "action": "Engage in discussions with product and development teams to explore custom solutions.",  
-                    "content": "Collaboration with product and development teams is crucial when creating custom solutions for clients. By understanding the capabilities and constraints of our products, you can work effectively with these teams to design tailored solutions that meet specific client needs. This collaborative approach enhances customer satisfaction and strengthens client relationships.\nBy actively participating in these discussions, you will contribute to the successful delivery of custom solutions and ensure that client expectations are met. This teamwork is essential for driving business success and fostering innovation."  
+                    "content": "Collaboration with product and development teams is crucial when creating custom solutions for clients. By understanding the capabilities and constraints of our products, you can work effectively with these teams to design tailored solutions that meet specific client needs. This collaborative approach enhances customer satisfaction and strengthens client relationships.\nBy actively participating in these discussions, you will contribute to the successful delivery of custom solutions and ensure that client expectations are met. This teamwork is essential for driving business success and fostering innovation.",  
+                    "system_prompt": "Act like a professional project manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how to collaborate with the product and development teams to create custom solutions for clients.'"  
                 }  
             ],  
             "Aligning Sales and Product Development": [  
@@ -3668,7 +3685,8 @@
                     "description": "Overview of how sales and product development align to ensure customer satisfaction.",  
                     "day": 18,  
                     "action": "Review the processes that align sales and product development teams.",  
-                    "content": "Alignment between sales and product development teams is crucial for ensuring customer satisfaction and delivering successful products. By understanding how these teams collaborate, you can better navigate the sales process and advocate for customer needs. This alignment allows for more effective communication and faster response times to customer inquiries.\nBy fostering this collaboration, you will help bridge any gaps between sales efforts and product capabilities. This alignment is essential for delivering products that truly meet customer needs and drive business growth."  
+                    "content": "Alignment between sales and product development teams is crucial for ensuring customer satisfaction and delivering successful products. By understanding how these teams collaborate, you can better navigate the sales process and advocate for customer needs. This alignment allows for more effective communication and faster response times to customer inquiries.\nBy fostering this collaboration, you will help bridge any gaps between sales efforts and product capabilities. This alignment is essential for delivering products that truly meet customer needs and drive business growth.",  
+                    "system_prompt": "Act like a professional sales operations manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how sales and product development align to ensure customer satisfaction.'"  
                 }  
             ]  
         },  
@@ -3678,7 +3696,8 @@
                     "description": "Learn best practices for creating engaging product demos.",  
                     "day": 19,  
                     "action": "Explore techniques for crafting compelling product demonstrations.",  
-                    "content": "Creating engaging product demos is crucial for showcasing the value of our solutions. Best practices include understanding your audience, focusing on key features, and demonstrating real-world applications. By mastering these techniques, you can capture the attention of potential customers and effectively communicate the benefits of our products.\nA well-crafted demo not only highlights product features but also addresses customer pain points, making it a powerful sales tool. This skill is essential for driving interest and generating leads."  
+                    "content": "Creating engaging product demos is crucial for showcasing the value of our solutions. Best practices include understanding your audience, focusing on key features, and demonstrating real-world applications. By mastering these techniques, you can capture the attention of potential customers and effectively communicate the benefits of our products.\nA well-crafted demo not only highlights product features but also addresses customer pain points, making it a powerful sales tool. This skill is essential for driving interest and generating leads.",  
+                    "system_prompt": "Act like a professional sales trainer, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn best practices for creating engaging product demos.'"  
                 }  
             ],  
             "Presentation Tools and Techniques": [  
@@ -3686,7 +3705,8 @@
                     "description": "Understand how to use various presentation tools and techniques to deliver compelling product demonstrations.",  
                     "day": 20,  
                     "action": "Familiarize yourself with presentation tools and techniques for effective demos.",  
-                    "content": "Using the right presentation tools and techniques can significantly enhance your product demonstrations. Familiarizing yourself with tools that facilitate visual storytelling and interactivity will allow you to create more engaging presentations. Understanding how to effectively communicate key messages will also help you connect with your audience.\nBy mastering these presentation skills, you can deliver impactful demos that resonate with potential clients. This capability is crucial for making a strong impression and driving sales success."  
+                    "content": "Using the right presentation tools and techniques can significantly enhance your product demonstrations. Familiarizing yourself with tools that facilitate visual storytelling and interactivity will allow you to create more engaging presentations. Understanding how to effectively communicate key messages will also help you connect with your audience.\nBy mastering these presentation skills, you can deliver impactful demos that resonate with potential clients. This capability is crucial for making a strong impression and driving sales success.",  
+                    "system_prompt": "Act like a professional presentation coach, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how to use various presentation tools and techniques to deliver compelling product demonstrations.'"  
                 }  
             ],  
             "Tailoring Demos for Specific Clients": [  
@@ -3694,7 +3714,8 @@
                     "description": "Overview of how to tailor product demos to meet the specific needs of different clients.",  
                     "day": 21,  
                     "action": "Practice customizing product demos for specific client requirements.",  
-                    "content": "Tailoring product demos to meet the specific needs of different clients is essential for demonstrating relevance and value. By understanding the unique challenges and goals of each client, you can customize your presentations to highlight the features that matter most to them. This personalized approach fosters stronger connections and increases the likelihood of closing deals.\nBy mastering this skill, you will enhance your ability to engage clients and showcase how our products can solve their specific problems. This capability is key to effective selling and building long-term relationships."  
+                    "content": "Tailoring product demos to meet the specific needs of different clients is essential for demonstrating relevance and value. By understanding the unique challenges and goals of each client, you can customize your presentations to highlight the features that matter most to them. This personalized approach fosters stronger connections and increases the likelihood of closing deals.\nBy mastering this skill, you will enhance your ability to engage clients and showcase how our products can solve their specific problems. This capability is key to effective selling and building long-term relationships.",  
+                    "system_prompt": "Act like a professional sales consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how to tailor product demos to meet the specific needs of different clients.'"  
                 }  
             ]  
         },  
@@ -3704,7 +3725,8 @@
                     "description": "Learn about the guidelines for implementing and configuring products for clients.",  
                     "day": 22,  
                     "action": "Review the implementation guidelines to understand the configuration process.",  
-                    "content": "Understanding the guidelines for implementing and configuring our products is crucial for ensuring a smooth onboarding experience for clients. This includes knowledge about setup procedures, best practices, and potential challenges. By familiarizing yourself with these guidelines, you can provide clients with accurate information and support during the implementation phase.\nBy mastering the implementation process, you will enhance your ability to assist clients effectively and ensure that they derive maximum value from our solutions. This knowledge is essential for building trust and ensuring customer satisfaction."  
+                    "content": "Understanding the guidelines for implementing and configuring our products is crucial for ensuring a smooth onboarding experience for clients. This includes knowledge about setup procedures, best practices, and potential challenges. By familiarizing yourself with these guidelines, you can provide clients with accurate information and support during the implementation phase.\nBy mastering the implementation process, you will enhance your ability to assist clients effectively and ensure that they derive maximum value from our solutions. This knowledge is essential for building trust and ensuring customer satisfaction.",  
+                    "system_prompt": "Act like a professional implementation manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn about the guidelines for implementing and configuring products for clients.'"  
                 }  
             ],  
             "Custom Configurations for Clients": [  
@@ -3712,7 +3734,8 @@
                     "description": "Understand how to customize product configurations based on client requirements.",  
                     "day": 23,  
                     "action": "Explore customization options and how to tailor configurations for clients.",  
-                    "content": "Customizing product configurations based on client requirements is essential for meeting their specific needs. Understanding how to assess client requirements and implement tailored solutions will empower you to deliver exceptional service. This capability enhances customer satisfaction and fosters long-term relationships.\nBy mastering the customization process, you will become a trusted advisor to your clients, ensuring that they receive solutions that align perfectly with their objectives. This skill is key to driving successful outcomes and building strong partnerships."  
+                    "content": "Customizing product configurations based on client requirements is essential for meeting their specific needs. Understanding how to assess client requirements and implement tailored solutions will empower you to deliver exceptional service. This capability enhances customer satisfaction and fosters long-term relationships.\nBy mastering the customization process, you will become a trusted advisor to your clients, ensuring that they receive solutions that align perfectly with their objectives. This skill is key to driving successful outcomes and building strong partnerships.",  
+                    "system_prompt": "Act like a professional solutions engineer, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how to customize product configurations based on client requirements.'"  
                 }  
             ],  
             "Integration with Existing Systems": [  
@@ -3720,7 +3743,8 @@
                     "description": "Overview of how to integrate our solutions with a client’s existing systems and infrastructure.",  
                     "day": 24,  
                     "action": "Learn about integration processes and best practices for seamless implementation.",  
-                    "content": "Integrating our solutions with a client’s existing systems is a critical aspect of the implementation process. Understanding the integration requirements and best practices will enable you to guide clients through this process smoothly. This capability is crucial for ensuring that our solutions work effectively within the client's technology stack.\nBy mastering the integration process, you will enhance your ability to provide value to clients and ensure a seamless transition to our products. This knowledge is essential for building credibility and trust with clients."  
+                    "content": "Integrating our solutions with a client’s existing systems is a critical aspect of the implementation process. Understanding the integration requirements and best practices will enable you to guide clients through this process smoothly. This capability is crucial for ensuring that our solutions work effectively within the client's technology stack.\nBy mastering the integration process, you will enhance your ability to provide value to clients and ensure a seamless transition to our products. This knowledge is essential for building credibility and trust with clients.",  
+                    "system_prompt": "Act like a professional integration consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how to integrate our solutions with a client’s existing systems and infrastructure.'"  
                 }  
             ]  
         },  
@@ -3730,7 +3754,8 @@
                     "description": "Learn about the key security features of our products.",  
                     "day": 25,  
                     "action": "Review the security features and how they benefit clients.",  
-                    "content": "Understanding the key security features of our products is essential for addressing client concerns about data protection and compliance. Familiarizing yourself with these features will enable you to communicate their value effectively and assure clients that their information is secure. This knowledge is crucial for building trust and confidence in our solutions.\nBy mastering the security aspects of our products, you will be better equipped to handle objections and provide reassurance to clients. This capability is key to closing deals and maintaining long-term relationships."  
+                    "content": "Understanding the key security features of our products is essential for addressing client concerns about data protection and compliance. Familiarizing yourself with these features will enable you to communicate their value effectively and assure clients that their information is secure. This knowledge is crucial for building trust and confidence in our solutions.\nBy mastering the security aspects of our products, you will be better equipped to handle objections and provide reassurance to clients. This capability is key to closing deals and maintaining long-term relationships.",  
+                    "system_prompt": "Act like a professional security consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn about the key security features of our products.'"  
                 }  
             ],  
             "Compliance with Industry Standards": [  
@@ -3738,7 +3763,8 @@
                     "description": "Understand how our solutions comply with industry standards and regulations.",  
                     "day": 26,  
                     "action": "Review compliance requirements and how our solutions meet them.",  
-                    "content": "Compliance with industry standards and regulations is a critical consideration for clients when evaluating solutions. Understanding how our products adhere to these standards will enable you to address client inquiries confidently. This capability is essential for building credibility and ensuring that clients feel secure in their decision to partner with us.\nBy mastering compliance aspects, you will enhance your ability to communicate the value of our solutions and provide reassurance to clients. This knowledge is vital for driving successful sales outcomes."  
+                    "content": "Compliance with industry standards and regulations is a critical consideration for clients when evaluating solutions. Understanding how our products adhere to these standards will enable you to address client inquiries confidently. This capability is essential for building credibility and ensuring that clients feel secure in their decision to partner with us.\nBy mastering compliance aspects, you will enhance your ability to communicate the value of our solutions and provide reassurance to clients. This knowledge is vital for driving successful sales outcomes.",  
+                    "system_prompt": "Act like a professional compliance officer, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how our solutions comply with industry standards and regulations.'"  
                 }  
             ],  
             "Communicating Security to Clients": [  
@@ -3746,7 +3772,8 @@
                     "description": "Overview of how to effectively communicate product security features to clients.",  
                     "day": 27,  
                     "action": "Practice communicating security features and compliance to clients.",  
-                    "content": "Effectively communicating product security features to clients is essential for addressing their concerns and building trust. By understanding the key security aspects of our products, you can provide clear and concise explanations that reassure clients about data protection. This capability is crucial for fostering confidence in our solutions.\nBy mastering this communication skill, you will enhance your ability to engage clients and position our products as secure and compliant solutions. This knowledge is essential for driving successful sales interactions."  
+                    "content": "Effectively communicating product security features to clients is essential for addressing their concerns and building trust. By understanding the key security aspects of our products, you can provide clear and concise explanations that reassure clients about data protection. This capability is crucial for fostering confidence in our solutions.\nBy mastering this communication skill, you will enhance your ability to engage clients and position our products as secure and compliant solutions. This knowledge is essential for driving successful sales interactions.",  
+                    "system_prompt": "Act like a professional security consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how to effectively communicate product security features to clients.'"  
                 }  
             ]  
         },  
@@ -3756,7 +3783,8 @@
                     "description": "Learn the legal requirements and processes for contracting with clients.",  
                     "day": 28,  
                     "action": "Review the contracting process and legal considerations.",  
-                    "content": "Understanding the legal requirements and processes for contracting with clients is crucial for ensuring compliance and protecting the company's interests. Familiarizing yourself with these requirements will empower you to navigate contract negotiations confidently. This knowledge is essential for building trust and ensuring that both parties are aligned on expectations.\nBy mastering the contracting process, you will enhance your ability to close deals effectively and ensure that all legal considerations are addressed. This capability is key to maintaining strong client relationships."  
+                    "content": "Understanding the legal requirements and processes for contracting with clients is crucial for ensuring compliance and protecting the company's interests. Familiarizing yourself with these requirements will empower you to navigate contract negotiations confidently. This knowledge is essential for building trust and ensuring that both parties are aligned on expectations.\nBy mastering the contracting process, you will enhance your ability to close deals effectively and ensure that all legal considerations are addressed. This capability is key to maintaining strong client relationships.",  
+                    "system_prompt": "Act like a professional legal advisor, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn the legal requirements and processes for contracting with clients.'"  
                 }  
             ],  
             "Negotiation Tactics": [  
@@ -3764,7 +3792,8 @@
                     "description": "Understand the best negotiation tactics to close deals effectively.",  
                     "day": 29,  
                     "action": "Explore negotiation tactics and practice applying them.",  
-                    "content": "Negotiation is a critical skill for sales professionals, as it directly impacts the outcome of deals. Understanding the best negotiation tactics will empower you to advocate for your clients while also protecting the company's interests. Familiarizing yourself with these tactics will enhance your ability to navigate discussions and reach mutually beneficial agreements.\nBy mastering negotiation skills, you will improve your effectiveness in closing deals and ensuring customer satisfaction. This capability is essential for driving revenue growth and building long-term partnerships."  
+                    "content": "Negotiation is a critical skill for sales professionals, as it directly impacts the outcome of deals. Understanding the best negotiation tactics will empower you to advocate for your clients while also protecting the company's interests. Familiarizing yourself with these tactics will enhance your ability to navigate discussions and reach mutually beneficial agreements.\nBy mastering negotiation skills, you will improve your effectiveness in closing deals and ensuring customer satisfaction. This capability is essential for driving revenue growth and building long-term partnerships.",  
+                    "system_prompt": "Act like a professional negotiation trainer, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand the best negotiation tactics to close deals effectively.'"  
                 }  
             ],  
             "Finalizing Deals and Contracts": [  
@@ -3772,7 +3801,8 @@
                     "description": "Overview of the steps to finalize contracts and close deals.",  
                     "day": 29,  
                     "action": "Review the steps necessary to finalize contracts and close deals.",  
-                    "content": "Finalizing deals and contracts involves several critical steps, including confirming terms, addressing any last-minute concerns, and ensuring that all parties are aligned on expectations. Understanding this process is essential for ensuring a smooth transition from negotiation to execution. This capability is crucial for maintaining momentum and ensuring that deals are closed efficiently.\nBy mastering the steps involved in finalizing contracts, you will enhance your ability to close deals successfully and contribute to the company's revenue goals. This knowledge is key to building strong client relationships."  
+                    "content": "Finalizing deals and contracts involves several critical steps, including confirming terms, addressing any last-minute concerns, and ensuring that all parties are aligned on expectations. Understanding this process is essential for ensuring a smooth transition from negotiation to execution. This capability is crucial for maintaining momentum and ensuring that deals are closed efficiently.\nBy mastering the steps involved in finalizing contracts, you will enhance your ability to close deals successfully and contribute to the company's revenue goals. This knowledge is key to building strong client relationships.",  
+                    "system_prompt": "Act like a professional sales manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of the steps to finalize contracts and close deals.'"  
                 }  
             ]  
         },  
@@ -3782,7 +3812,8 @@
                     "description": "Learn how to collect and analyze feedback from customers.",  
                     "day": 30,  
                     "action": "Practice collecting and analyzing customer feedback effectively.",  
-                    "content": "Collecting and analyzing customer feedback is essential for understanding their needs and improving our products. By implementing effective feedback collection methods, you can gain valuable insights into customer satisfaction and areas for improvement. This capability is crucial for driving product enhancements and ensuring client satisfaction.\nBy mastering the feedback analysis process, you will enhance your ability to advocate for customer needs and contribute to continuous improvement efforts. This knowledge is vital for maintaining strong client relationships and fostering loyalty."  
+                    "content": "Collecting and analyzing customer feedback is essential for understanding their needs and improving our products. By implementing effective feedback collection methods, you can gain valuable insights into customer satisfaction and areas for improvement. This capability is crucial for driving product enhancements and ensuring client satisfaction.\nBy mastering the feedback analysis process, you will enhance your ability to advocate for customer needs and contribute to continuous improvement efforts. This knowledge is vital for maintaining strong client relationships and fostering loyalty.",  
+                    "system_prompt": "Act like a professional customer experience manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how to collect and analyze feedback from customers.'"  
                 }  
             ],  
             "Implementing Product Improvements": [  
@@ -3790,7 +3821,8 @@
                     "description": "Understand how feedback is used to improve products and services.",  
                     "day": 30,  
                     "action": "Review the process of implementing product improvements based on feedback.",  
-                    "content": "Understanding how feedback is utilized to improve products and services is crucial for driving continuous improvement. By familiarizing yourself with this process, you can advocate for necessary changes and ensure that client needs are met. This capability is essential for fostering a culture of responsiveness and innovation within the company.\nBy mastering the product improvement process, you will enhance your ability to contribute to the development of solutions that truly meet customer needs. This knowledge is key to maintaining strong client relationships."  
+                    "content": "Understanding how feedback is utilized to improve products and services is crucial for driving continuous improvement. By familiarizing yourself with this process, you can advocate for necessary changes and ensure that client needs are met. This capability is essential for fostering a culture of responsiveness and innovation within the company.\nBy mastering the product improvement process, you will enhance your ability to contribute to the development of solutions that truly meet customer needs. This knowledge is key to maintaining strong client relationships.",  
+                    "system_prompt": "Act like a professional product development manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how feedback is used to improve products and services.'"  
                 }  
             ],  
             "Maintaining Long-term Relationships": [  
@@ -3798,7 +3830,8 @@
                     "description": "Overview of how to maintain and strengthen long-term customer relationships.",  
                     "day": 30,  
                     "action": "Explore strategies for maintaining and nurturing long-term client relationships.",  
-                    "content": "Maintaining long-term customer relationships is essential for driving repeat business and fostering loyalty. By implementing effective relationship management strategies, you can ensure that clients feel valued and supported throughout their journey with our company. This capability is crucial for building trust and ensuring customer satisfaction.\nBy mastering relationship management techniques, you will enhance your ability to engage clients meaningfully and position yourself as a trusted partner. This knowledge is vital for driving long-term success and growth."  
+                    "content": "Maintaining long-term customer relationships is essential for driving repeat business and fostering loyalty. By implementing effective relationship management strategies, you can ensure that clients feel valued and supported throughout their journey with our company. This capability is crucial for building trust and ensuring customer satisfaction.\nBy mastering relationship management techniques, you will enhance your ability to engage clients meaningfully and position yourself as a trusted partner. This knowledge is vital for driving long-term success and growth.",  
+                    "system_prompt": "Act like a professional relationship manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how to maintain and strengthen long-term customer relationships.'"  
                 }  
             ]  
         },  
@@ -3808,7 +3841,8 @@
                     "description": "Learn how to track and achieve your sales quotas.",  
                     "day": 31,  
                     "action": "Review the sales quota tracking process and set your goals.",  
-                    "content": "Tracking and achieving your sales quotas is essential for measuring your performance and driving revenue growth. By understanding the quota tracking process, you can set realistic goals and monitor your progress effectively. This capability is crucial for staying focused and motivated in your sales efforts.\nBy mastering quota tracking techniques, you will enhance your ability to meet and exceed your sales targets. This knowledge is key to building a successful sales career and contributing to the company's success."  
+                    "content": "Tracking and achieving your sales quotas is essential for measuring your performance and driving revenue growth. By understanding the quota tracking process, you can set realistic goals and monitor your progress effectively. This capability is crucial for staying focused and motivated in your sales efforts.\nBy mastering quota tracking techniques, you will enhance your ability to meet and exceed your sales targets. This knowledge is key to building a successful sales career and contributing to the company's success.",  
+                    "system_prompt": "Act like a professional sales performance analyst, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how to track and achieve your sales quotas.'"  
                 }  
             ],  
             "Pipeline Velocity": [  
@@ -3816,7 +3850,8 @@
                     "description": "Understand how to monitor pipeline velocity and close deals faster.",  
                     "day": 31,  
                     "action": "Explore techniques for monitoring pipeline velocity and improving efficiency.",  
-                    "content": "Monitoring pipeline velocity is crucial for understanding the efficiency of your sales process. By analyzing how quickly deals move through the pipeline, you can identify bottlenecks and implement strategies to close deals faster. This capability is essential for maximizing your productivity and achieving your sales targets.\nBy mastering pipeline velocity monitoring techniques, you will enhance your ability to optimize your sales processes and drive revenue growth. This knowledge is vital for building a successful sales career."  
+                    "content": "Monitoring pipeline velocity is crucial for understanding the efficiency of your sales process. By analyzing how quickly deals move through the pipeline, you can identify bottlenecks and implement strategies to close deals faster. This capability is essential for maximizing your productivity and achieving your sales targets.\nBy mastering pipeline velocity monitoring techniques, you will enhance your ability to optimize your sales processes and drive revenue growth. This knowledge is vital for building a successful sales career.",  
+                    "system_prompt": "Act like a professional sales operations manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how to monitor pipeline velocity and close deals faster.'"  
                 }  
             ],  
             "Customer Satisfaction Scores": [  
@@ -3824,7 +3859,8 @@
                     "description": "Overview of how customer satisfaction is measured and improved.",  
                     "day": 31,  
                     "action": "Review customer satisfaction measurement techniques and improvement strategies.",  
-                    "content": "Measuring and improving customer satisfaction is essential for driving loyalty and repeat business. By understanding the metrics used to gauge satisfaction, you can identify areas for improvement and implement strategies to enhance the customer experience. This capability is crucial for building strong relationships and ensuring long-term success.\nBy mastering customer satisfaction measurement techniques, you will enhance your ability to advocate for client needs and contribute to continuous improvement efforts. This knowledge is key to maintaining strong client relationships."  
+                    "content": "Measuring and improving customer satisfaction is essential for driving loyalty and repeat business. By understanding the metrics used to gauge satisfaction, you can identify areas for improvement and implement strategies to enhance the customer experience. This capability is crucial for building strong relationships and ensuring long-term success.\nBy mastering customer satisfaction measurement techniques, you will enhance your ability to advocate for client needs and contribute to continuous improvement efforts. This knowledge is key to maintaining strong client relationships.",  
+                    "system_prompt": "Act like a professional customer experience manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how customer satisfaction is measured and improved.'"  
                 }  
             ]  
         },  
@@ -3834,7 +3870,8 @@
                     "description": "Learn about industry certifications and continuous learning opportunities for sales engineers.",  
                     "day": 31,  
                     "action": "Explore available certifications and learning resources.",  
-                    "content": "Continuous learning is essential for staying competitive in the sales engineering field. By pursuing industry certifications and engaging in ongoing training, you can enhance your skills and knowledge, positioning yourself as a valuable asset to the company. Understanding the available learning resources will empower you to take charge of your professional development.\nBy mastering the learning opportunities available, you will enhance your ability to adapt to changing market conditions and continue to provide value to clients. This knowledge is vital for long-term career success."  
+                    "content": "Continuous learning is essential for staying competitive in the sales engineering field. By pursuing industry certifications and engaging in ongoing training, you can enhance your skills and knowledge, positioning yourself as a valuable asset to the company. Understanding the available learning resources will empower you to take charge of your professional development.\nBy mastering the learning opportunities available, you will enhance your ability to adapt to changing market conditions and continue to provide value to clients. This knowledge is vital for long-term career success.",  
+                    "system_prompt": "Act like a professional learning and development manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn about industry certifications and continuous learning opportunities for sales engineers.'"  
                 }  
             ],  
             "Staying Updated with Market Trends": [  
@@ -3842,7 +3879,8 @@
                     "description": "Understand how to stay informed about the latest market trends and updates.",  
                     "day": 31,  
                     "action": "Review strategies for staying updated on industry trends.",  
-                    "content": "Staying informed about the latest market trends is crucial for understanding customer needs and positioning our solutions effectively. By following industry news, attending webinars, and engaging with professional networks, you can ensure that you remain knowledgeable about developments in the sales engineering field. This capability is essential for maintaining a competitive edge.\nBy mastering trend monitoring techniques, you will enhance your ability to anticipate changes in the market and adapt your sales strategies accordingly. This knowledge is vital for long-term success."  
+                    "content": "Staying informed about the latest market trends is crucial for understanding customer needs and positioning our solutions effectively. By following industry news, attending webinars, and engaging with professional networks, you can ensure that you remain knowledgeable about developments in the sales engineering field. This capability is essential for maintaining a competitive edge.\nBy mastering trend monitoring techniques, you will enhance your ability to anticipate changes in the market and adapt your sales strategies accordingly. This knowledge is vital for long-term success.",  
+                    "system_prompt": "Act like a professional market analyst, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how to stay informed about the latest market trends and updates.'"  
                 }  
             ],  
             "Sales Process Improvements": [  
@@ -3850,7 +3888,8 @@
                     "description": "Overview of how to continuously improve your sales process and techniques.",  
                     "day": 31,  
                     "action": "Explore strategies for ongoing sales process improvements.",  
-                    "content": "Continuous improvement of your sales process is essential for maximizing efficiency and effectiveness. By regularly assessing your techniques and seeking feedback, you can identify areas for enhancement and implement changes that drive better results. This capability is crucial for maintaining high performance and achieving your sales targets.\nBy mastering improvement strategies, you will enhance your ability to refine your sales approach and ensure that you are consistently delivering value to clients. This knowledge is vital for building a successful sales career."  
+                    "content": "Continuous improvement of your sales process is essential for maximizing efficiency and effectiveness. By regularly assessing your techniques and seeking feedback, you can identify areas for enhancement and implement changes that drive better results. This capability is crucial for maintaining high performance and achieving your sales targets.\nBy mastering improvement strategies, you will enhance your ability to refine your sales approach and ensure that you are consistently delivering value to clients. This knowledge is vital for building a successful sales career.",  
+                    "system_prompt": "Act like a professional sales coach, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how to continuously improve your sales process and techniques.'"  
                 }  
             ]  
         }  
@@ -6304,31 +6343,34 @@
                 }  
             ]  
         }  
-    },  
+    },    
     "Chief Product Officer (CPO)": {  
         "Introduction to the Company & Team": {  
             "Meet the Product Leadership": [  
                 {  
                     "description": "Introduction to the product leadership team and their responsibilities.",  
                     "day": 1,  
-                    "action": "Familiarize yourself with the product leadership team and their roles.",  
-                    "content": "The product leadership team is responsible for setting the strategic direction of our products and ensuring alignment with the company's vision. Each member of the leadership team brings a unique set of skills and experiences that contribute to product innovation and success. Understanding their roles will give you insight into how decisions are made and how you can collaborate effectively.\nBy knowing the key players in the product landscape, you can better navigate the organization and seek guidance when needed. This foundational knowledge will help you build strong relationships within the team and facilitate smoother communication as you embark on your journey."  
+                    "action": "Familiarize yourself with the product leadership team and their individual responsibilities.",  
+                    "content": "The product leadership team is crucial in guiding the overall direction of our product initiatives. Each member plays a unique role that contributes to the strategic planning and execution of our product vision. Understanding the responsibilities of your colleagues will allow you to navigate the team dynamics more effectively and identify who to approach for specific queries or collaborations.\nBy knowing your leadership team, you will gain insights into their experiences, expertise, and expectations, which will help you align your objectives with the broader organizational goals.",  
+                    "system_prompt": "Act like a professional organizational development consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Introduction to the product leadership team and their responsibilities.'"  
                 }  
             ],  
             "Introduction to Product Team Structure": [  
                 {  
                     "description": "Overview of the structure of the product team and key roles.",  
                     "day": 2,  
-                    "action": "Review the product team structure and identify key roles.",  
-                    "content": "Our product team is organized to promote collaboration and innovation, with distinct roles that focus on various aspects of product development. Each role plays a vital part in the lifecycle of our products, from conception to launch. Understanding this structure will help you identify who to approach for specific needs and how to leverage the strengths of your colleagues.\nBy familiarizing yourself with the team structure, you will enhance your ability to communicate effectively and coordinate efforts across different functions, ultimately leading to more successful product outcomes."  
+                    "action": "Review the organizational structure of the product team and identify key roles.",  
+                    "content": "Understanding the organizational structure of the product team is essential for effective collaboration and communication. Each role within the team has specific responsibilities and contributions to the product development lifecycle. Familiarity with this structure will help you know who to collaborate with on different aspects of product management, from ideation to execution.\nBy reviewing the key roles and their functions, you will not only enhance your ability to work within the team but also better understand how your role as CPO fits into the bigger picture of our organizational strategy.",  
+                    "system_prompt": "Act like a professional HR analyst, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of the structure of the product team and key roles.'"  
                 }  
             ],  
             "Understanding the CPO’s Role": [  
                 {  
                     "description": "Learn about the responsibilities and key objectives of the CPO role in driving product strategy.",  
                     "day": 3,  
-                    "action": "Explore the core responsibilities of the CPO and how they shape product strategy.",  
-                    "content": "As the Chief Product Officer, your role encompasses a wide range of responsibilities, including defining the product vision, leading product strategy, and ensuring alignment with overall business goals. You will be tasked with making critical decisions that affect the direction of our products and the satisfaction of our customers. Understanding these responsibilities will help you prioritize your efforts and focus on delivering value.\nYour leadership will be instrumental in fostering a culture of innovation and collaboration within the product team. By embracing this role, you will have the opportunity to drive significant impact and contribute to the long-term success of our organization."  
+                    "action": "Explore the key responsibilities and objectives of the Chief Product Officer role.",  
+                    "content": "The Chief Product Officer plays a pivotal role in shaping the product strategy and vision for the company. This position involves aligning product goals with the overall business strategy, overseeing product development, and fostering innovation. Understanding the nuances of this role will help you navigate your responsibilities effectively and contribute to the long-term success of our products.\nBy grasping the key objectives and expectations associated with the CPO role, you will be better positioned to lead your team, engage stakeholders, and drive product initiatives that resonate with customer needs and market trends.",  
+                    "system_prompt": "Act like a professional executive coach, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn about the responsibilities and key objectives of the CPO role in driving product strategy.'"  
                 }  
             ]  
         },  
@@ -6337,24 +6379,27 @@
                 {  
                     "description": "Understand how the product vision aligns with the overall company strategy.",  
                     "day": 4,  
-                    "action": "Analyze the product vision and its alignment with the company's strategic objectives.",  
-                    "content": "The product vision serves as a guiding light for our development efforts and helps ensure that all initiatives align with the broader goals of the organization. By understanding how the product vision interconnects with the company's strategy, you can make informed decisions that drive both product innovation and business success.\nThis alignment is crucial for prioritizing projects and ensuring that resources are allocated effectively. As you engage with the product vision, you will be better equipped to advocate for initiatives that resonate with our long-term objectives."  
+                    "action": "Explore the alignment between product vision and the broader company strategy.",  
+                    "content": "A clear understanding of how the product vision aligns with the company's overall strategy is essential for any Chief Product Officer. This alignment ensures that product initiatives contribute directly to the company's goals and objectives, creating a cohesive approach to achieving success. It involves analyzing market trends, customer feedback, and internal capabilities to craft a vision that not only excites stakeholders but also drives tangible results.\nBy grasping this alignment, you will be empowered to make informed decisions that support the company's mission, engage your team effectively, and advocate for the necessary resources and support to execute the product vision successfully.",  
+                    "system_prompt": "Act like a professional strategic planner, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how the product vision aligns with the overall company strategy.'"  
                 }  
             ],  
             "Product Roadmap and Innovation Planning": [  
                 {  
                     "description": "Learn how the product roadmap is built with a focus on innovation and long-term growth.",  
                     "day": 5,  
-                    "action": "Review the product roadmap and understand the innovation planning process.",  
-                    "content": "The product roadmap outlines our strategic priorities and serves as a blueprint for future development. It reflects our commitment to innovation and guides the team in delivering high-quality products that meet customer needs. Familiarizing yourself with the roadmap will provide insight into how we plan for growth and respond to market trends.\nBy understanding the innovation planning process, you can contribute to refining the roadmap and ensuring that it aligns with our vision. This knowledge will empower you to make strategic decisions that foster a culture of continuous improvement and excellence."  
+                    "action": "Review the processes involved in creating a product roadmap that emphasizes innovation.",  
+                    "content": "Building a product roadmap is a strategic exercise that outlines the vision, direction, and progress of product initiatives over time. It requires a balance between innovation and practical execution, ensuring that the team is not only addressing current market needs but also anticipating future opportunities. Understanding how to create and maintain an effective roadmap will enable you to prioritize initiatives, allocate resources wisely, and communicate progress to stakeholders effectively.\nBy mastering the art of roadmap planning, you will be in a position to lead your team towards achieving long-term growth while fostering a culture of innovation and adaptability.",  
+                    "system_prompt": "Act like a professional product strategist, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how the product roadmap is built with a focus on innovation and long-term growth.'"  
                 }  
             ],  
             "Defining Long-Term Product Goals": [  
                 {  
                     "description": "Overview of how long-term product goals are set and communicated.",  
                     "day": 6,  
-                    "action": "Explore the processes for defining and communicating long-term product goals.",  
-                    "content": "Setting long-term product goals is essential for guiding our strategic direction and ensuring that everyone is aligned on our vision. These goals provide a framework for decision-making and help the team focus on delivering value to our customers. Understanding how these goals are defined and communicated will enable you to align your efforts with the broader objectives of the organization.\nEffective communication of these goals is crucial for maintaining transparency and fostering collaboration across teams. As you engage in this process, you will be better equipped to inspire and motivate your team to achieve outstanding results."  
+                    "action": "Learn the methods for setting and communicating long-term product goals.",  
+                    "content": "Setting long-term product goals is a critical responsibility for the Chief Product Officer. These goals guide the product strategy and help the team stay focused on delivering value to customers. It involves analyzing market trends, understanding customer needs, and aligning with the overall business strategy to define achievable yet ambitious objectives. Communicating these goals effectively to the team and stakeholders is equally essential to ensure alignment and commitment.\nBy mastering this process, you will not only clarify the direction for your product team but also inspire and motivate them to pursue ambitious yet attainable goals that contribute to the company’s success.",  
+                    "system_prompt": "Act like a professional business strategist, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how long-term product goals are set and communicated.'"  
                 }  
             ]  
         },  
@@ -6363,24 +6408,27 @@
                 {  
                     "description": "Learn how product and engineering teams collaborate to ensure seamless product development.",  
                     "day": 7,  
-                    "action": "Understand the collaboration dynamics between product and engineering teams.",  
-                    "content": "Collaboration between product and engineering teams is vital for the successful development of our products. This partnership ensures that product requirements are translated into actionable engineering tasks, and that technical feasibility is considered in the product planning process. By understanding how these teams work together, you can facilitate smoother communication and collaboration.\nThis synergy is essential for delivering high-quality products that meet customer expectations. By fostering a strong relationship between product and engineering, you will be better positioned to drive successful outcomes and enhance overall product performance."  
+                    "action": "Explore the collaboration dynamics between product and engineering teams.",  
+                    "content": "Collaboration between product and engineering teams is vital for the successful development and launch of products. This partnership fosters a shared understanding of customer needs, technical constraints, and market opportunities. As CPO, facilitating this collaboration involves creating a culture of open communication, aligning goals, and ensuring that both teams work towards common objectives. By effectively bridging the gap between product management and engineering, you will enhance the team's ability to innovate and respond to changing market demands.\nBy understanding the dynamics of this collaboration, you will be better equipped to navigate challenges, advocate for resources, and drive initiatives that lead to successful product outcomes.",  
+                    "system_prompt": "Act like a professional product development manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how product and engineering teams collaborate to ensure seamless product development.'"  
                 }  
             ],  
             "Supporting Product Marketing Strategies": [  
                 {  
                     "description": "Understand the role of the CPO in supporting marketing strategies for product promotion.",  
                     "day": 8,  
-                    "action": "Explore how the CPO collaborates with marketing teams to promote products.",  
-                    "content": "As the CPO, your role extends beyond product development; it also encompasses supporting marketing strategies to effectively promote our products. Understanding the marketing landscape and how it aligns with product goals is crucial for creating impactful campaigns that resonate with our target audience. By collaborating with marketing teams, you can ensure that product messaging is aligned with customer needs and market trends.\nThis collaboration is essential for maximizing product visibility and driving customer engagement. By actively supporting marketing initiatives, you will contribute to the overall success of our products in the market."  
+                    "action": "Review how product marketing strategies are supported and developed.",  
+                    "content": "The Chief Product Officer plays a crucial role in shaping and supporting product marketing strategies. This involves understanding target audiences, competitive positioning, and market dynamics to develop effective marketing plans. As CPO, you need to collaborate closely with marketing teams to ensure that product messaging aligns with customer needs and business objectives. By actively supporting marketing initiatives, you can help amplify product visibility and drive customer engagement, ultimately contributing to the product's success in the market.\nBy mastering this role, you will enable your team to effectively communicate the value of products and leverage marketing strategies that resonate with customers and stakeholders.",  
+                    "system_prompt": "Act like a professional marketing strategist, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand the role of the CPO in supporting marketing strategies for product promotion.'"  
                 }  
             ],  
             "Cross-functional Team Coordination": [  
                 {  
                     "description": "Overview of how cross-functional teams are coordinated to ensure product success.",  
                     "day": 9,  
-                    "action": "Learn about the coordination strategies for cross-functional teams.",  
-                    "content": "Effective coordination among cross-functional teams is essential for ensuring the success of our products. This involves aligning efforts across product, engineering, marketing, and other departments to achieve common goals. By understanding how these teams interact and collaborate, you can identify opportunities for improvement and streamline processes.\nStrong cross-functional coordination fosters a culture of collaboration and innovation, enabling us to respond quickly to market changes and customer feedback. As you engage in this coordination, you will enhance your ability to lead successful product initiatives."  
+                    "action": "Learn the best practices for coordinating cross-functional teams.",  
+                    "content": "Coordinating cross-functional teams is essential for achieving product success. This involves aligning the efforts of various departments, including product, engineering, design, and marketing, to work together effectively towards common goals. As CPO, it is your responsibility to facilitate communication, foster collaboration, and resolve conflicts that may arise during the product development process. Implementing structured processes for regular updates and feedback loops can significantly enhance team collaboration and ensure that everyone is working towards the same objectives.\nBy mastering cross-functional coordination, you will foster a culture of teamwork and collaboration that contributes to more efficient product development and successful launches.",  
+                    "system_prompt": "Act like a professional project coordinator, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how cross-functional teams are coordinated to ensure product success.'"  
                 }  
             ]  
         },  
@@ -6389,24 +6437,27 @@
                 {  
                     "description": "Learn how the product roadmap is built and communicated to stakeholders.",  
                     "day": 10,  
-                    "action": "Review the roadmap development process and its importance in stakeholder communication.",  
-                    "content": "Building a product roadmap involves careful consideration of market needs, customer feedback, and strategic objectives. Communicating this roadmap to stakeholders is equally important to ensure alignment and set expectations. Understanding this process will enable you to effectively advocate for the product vision and manage stakeholder relationships.\nA well-communicated roadmap fosters transparency and trust, allowing stakeholders to understand the direction of the product and how their feedback is incorporated. By mastering this process, you will enhance your effectiveness as a leader in product strategy."  
+                    "action": "Review the process for building and communicating the product roadmap.",  
+                    "content": "Building a product roadmap is a strategic endeavor that outlines the vision and direction of product initiatives over time. It requires careful consideration of market trends, customer needs, and internal capabilities. As CPO, effectively communicating the roadmap to stakeholders ensures alignment and clarity regarding product priorities and objectives. This involves presenting the roadmap in a way that highlights key milestones, expected outcomes, and resource allocation, making it easier for stakeholders to understand and support product initiatives.\nBy mastering this process, you will enhance transparency and foster trust among stakeholders, ultimately contributing to the successful execution of the product strategy.",  
+                    "system_prompt": "Act like a professional product manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how the product roadmap is built and communicated to stakeholders.'"  
                 }  
             ],  
             "Setting Priorities and Managing Backlogs": [  
                 {  
                     "description": "Understand how priorities are set and backlogs are managed for optimal product development.",  
                     "day": 11,  
-                    "action": "Explore the prioritization process and backlog management strategies.",  
-                    "content": "Setting priorities is crucial for effective product development, ensuring that the team focuses on the most impactful initiatives. Understanding how we prioritize features and manage backlogs will enable you to align your efforts with strategic goals and deliver maximum value. This process involves balancing customer needs, market demands, and technical feasibility.\nBy mastering backlog management, you will enhance the team's ability to respond to changing priorities and deliver high-quality products on time. This knowledge is essential for maintaining a competitive edge in the market."  
+                    "action": "Explore the methods for setting priorities and managing product backlogs.",  
+                    "content": "Setting priorities and managing product backlogs are crucial responsibilities for the Chief Product Officer. These tasks involve evaluating customer feedback, market conditions, and business objectives to determine which features and initiatives should be prioritized. Managing the backlog effectively ensures that the team focuses on delivering maximum value and aligns with the overall product strategy. Techniques such as prioritization frameworks and regular backlog reviews can help maintain clarity and focus, enabling the team to work efficiently and effectively.\nBy mastering these practices, you will empower your team to deliver impactful features that resonate with customers and drive business success.",  
+                    "system_prompt": "Act like a professional project manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how priorities are set and backlogs are managed for optimal product development.'"  
                 }  
             ],  
             "Balancing Innovation with Customer Needs": [  
                 {  
                     "description": "Overview of how innovation is balanced with customer needs and market demands.",  
                     "day": 12,  
-                    "action": "Learn about the strategies for balancing innovation with customer expectations.",  
-                    "content": "Balancing innovation with customer needs is a key challenge for product leaders. It requires a deep understanding of market trends and customer feedback to ensure that new features resonate with users while driving product innovation. Familiarizing yourself with our strategies for achieving this balance will empower you to make informed decisions that support both growth and customer satisfaction.\nBy prioritizing initiatives that align with customer needs and market opportunities, you will enhance the overall value of our products and strengthen customer loyalty."  
+                    "action": "Learn the strategies for balancing innovation with customer requirements.",  
+                    "content": "Balancing innovation with customer needs is a critical aspect of product management. As CPO, you must ensure that the product development efforts not only address current customer demands but also anticipate future trends and opportunities. This involves fostering a culture of innovation while actively seeking and incorporating customer feedback into the product development process. By leveraging data analytics and market research, you can identify emerging trends and align product initiatives with customer expectations, thus ensuring that your products remain competitive and relevant.\nBy mastering this balance, you will enhance your team's ability to innovate while delivering products that truly meet customer needs and drive business success.",  
+                    "system_prompt": "Act like a professional innovation manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how innovation is balanced with customer needs and market demands.'"  
                 }  
             ]  
         },  
@@ -6415,24 +6466,27 @@
                 {  
                     "description": "Learn how customer feedback is collected, analyzed, and integrated into product development.",  
                     "day": 13,  
-                    "action": "Explore the methods for gathering and analyzing customer feedback.",  
-                    "content": "Customer feedback is a vital source of information that informs our product development efforts. Understanding how we collect and analyze this feedback will enable you to identify trends and areas for improvement. This process involves utilizing surveys, interviews, and analytics to gather insights that shape our product roadmap.\nBy integrating customer feedback into our development process, you ensure that our products meet user needs and expectations. This practice fosters a customer-centric culture and drives continuous improvement."  
+                    "action": "Explore the methods for collecting and analyzing customer feedback.",  
+                    "content": "Collecting and analyzing customer feedback is essential for informing product development and ensuring that offerings align with customer expectations. Various methods such as surveys, interviews, and user testing can be employed to gather valuable insights. As CPO, you will need to establish processes for systematically analyzing this feedback and integrating it into product iterations. This feedback loop enables continuous improvement and helps your team prioritize features that resonate with users.\nBy mastering these practices, you will empower your team to create products that not only meet but exceed customer expectations, driving satisfaction and loyalty.",  
+                    "system_prompt": "Act like a professional customer insights analyst, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how customer feedback is collected, analyzed, and integrated into product development.'"  
                 }  
             ],  
             "Conducting Market Research": [  
                 {  
                     "description": "Understand the process of conducting market research to inform product decisions.",  
                     "day": 14,  
-                    "action": "Review our market research methodologies and their importance in product strategy.",  
-                    "content": "Conducting market research is essential for understanding the competitive landscape and identifying opportunities for product innovation. Familiarizing yourself with our research methodologies will empower you to make data-driven decisions that enhance our product offerings. This process involves analyzing market trends, competitor activities, and customer preferences.\nBy leveraging market research, you can align our product strategy with market demands and ensure that we remain competitive. This knowledge is crucial for driving long-term growth and success."  
+                    "action": "Review the methods and tools for conducting effective market research.",  
+                    "content": "Conducting market research is vital for understanding the competitive landscape and identifying opportunities for innovation. As CPO, you will need to employ various research methodologies, including qualitative and quantitative studies, to gather insights about market trends, customer preferences, and competitor strategies. This knowledge will guide product decisions and help your team stay ahead of the competition. Effective market research also involves synthesizing findings into actionable strategies that can inform the product roadmap and development priorities.\nBy mastering this process, you will enhance your team’s ability to make informed product decisions that are rooted in data and aligned with market demands.",  
+                    "system_prompt": "Act like a professional market research analyst, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand the process of conducting market research to inform product decisions.'"  
                 }  
             ],  
             "Integrating Feedback into Product Development": [  
                 {  
                     "description": "Overview of how customer feedback is incorporated into product iterations.",  
                     "day": 15,  
-                    "action": "Learn about the integration process for customer feedback in product development.",  
-                    "content": "Integrating customer feedback into product iterations is crucial for enhancing user satisfaction and driving product improvements. Understanding how we incorporate feedback into our development cycles will enable you to advocate for user needs and ensure that our products evolve in alignment with market expectations. This process involves prioritizing feedback and making iterative changes based on user insights.\nBy actively engaging in this integration process, you will contribute to creating products that resonate with our customers and drive loyalty. This practice reinforces our commitment to continuous improvement and customer-centricity."  
+                    "action": "Learn how to integrate customer feedback into the product development cycle.",  
+                    "content": "Integrating customer feedback into product development is essential for creating products that truly meet user needs. This process involves not only collecting feedback but also analyzing it to identify patterns and actionable insights. As CPO, you will need to establish clear channels for integrating this feedback into the product development cycle, ensuring that your team understands the importance of customer insights in shaping product features and enhancements. Regular feedback reviews and collaboration with cross-functional teams can facilitate this integration, making it a part of the development culture.\nBy mastering this integration process, you will foster a product culture that values customer input and drives continuous improvement, ultimately resulting in higher customer satisfaction and loyalty.",  
+                    "system_prompt": "Act like a professional product development facilitator, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how customer feedback is incorporated into product iterations.'"  
                 }  
             ]  
         },  
@@ -6441,24 +6495,27 @@
                 {  
                     "description": "Learn strategies for managing stakeholder expectations during the product development process.",  
                     "day": 16,  
-                    "action": "Explore techniques for effective stakeholder communication and expectation management.",  
-                    "content": "Managing stakeholder expectations is a critical aspect of product leadership. Understanding how to communicate effectively with stakeholders will enable you to set realistic expectations and foster trust. This involves regular updates, transparent communication, and addressing concerns proactively. By mastering these strategies, you can ensure that stakeholders remain informed and engaged throughout the product development process.\nEffective expectation management leads to stronger relationships and enhances collaboration across teams. By prioritizing this aspect of your role, you will contribute to a positive product development experience for all stakeholders."  
+                    "action": "Explore best practices for engaging stakeholders and managing their expectations.",  
+                    "content": "Effectively managing stakeholder expectations is crucial for the success of any product initiative. As CPO, you will be responsible for maintaining open lines of communication with stakeholders, providing regular updates on product progress, and setting realistic expectations regarding deliverables and timelines. Understanding their needs and concerns will help you build trust and ensure alignment throughout the development process. Employing strategies such as regular check-ins, transparent reporting, and soliciting feedback can enhance your stakeholder engagement efforts.\nBy mastering these strategies, you will create a supportive environment where stakeholders feel informed and valued, ultimately leading to smoother product development and successful outcomes.",  
+                    "system_prompt": "Act like a professional stakeholder engagement consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn strategies for managing stakeholder expectations during the product development process.'"  
                 }  
             ],  
             "Communicating Product Strategy to Executives": [  
                 {  
                     "description": "Understand how to effectively communicate the product strategy to executive leadership.",  
                     "day": 17,  
-                    "action": "Review best practices for presenting product strategy to executives.",  
-                    "content": "Communicating product strategy to executive leadership requires clarity, confidence, and a strong understanding of the business landscape. Familiarizing yourself with best practices for presenting your strategy will enhance your ability to convey the value and impact of product initiatives. This includes preparing data-driven presentations and aligning your strategy with overall business objectives.\nBy effectively communicating with executives, you can secure buy-in and support for your product initiatives. This practice is essential for driving alignment and ensuring that product goals are integrated into the broader organizational strategy."  
+                    "action": "Review best practices for presenting product strategies to executives.",  
+                    "content": "Effectively communicating the product strategy to executive leadership is essential for securing buy-in and support for product initiatives. This involves presenting the strategy in a clear and compelling manner, highlighting key objectives, anticipated outcomes, and resource requirements. As CPO, you must tailor your communication to resonate with executive priorities and ensure alignment with the overall business strategy. Utilizing data, visuals, and storytelling techniques can enhance your presentations and make your strategic vision more relatable.\nBy mastering this communication, you will foster stronger relationships with executive leadership and position your product initiatives for success.",  
+                    "system_prompt": "Act like a professional executive communication coach, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how to effectively communicate the product strategy to executive leadership.'"  
                 }  
             ],  
             "Aligning Stakeholders on Product Vision": [  
                 {  
                     "description": "Overview of how stakeholders are aligned with the product vision and roadmap.",  
                     "day": 18,  
-                    "action": "Learn about the strategies for aligning stakeholders with the product vision.",  
-                    "content": "Aligning stakeholders with the product vision is essential for ensuring that everyone is working towards common goals. Understanding how to communicate the vision and roadmap effectively will enable you to foster a shared understanding and commitment among stakeholders. This process involves regular updates, collaborative discussions, and addressing concerns proactively.\nBy prioritizing stakeholder alignment, you can enhance collaboration and drive successful product outcomes. This practice is crucial for maintaining momentum and ensuring that all teams are focused on delivering value."  
+                    "action": "Learn strategies for aligning stakeholders with the product vision.",  
+                    "content": "Aligning stakeholders with the product vision is crucial for ensuring that everyone is working towards common goals. This involves engaging stakeholders early in the product development process, soliciting their feedback, and addressing any concerns that may arise. As CPO, you must create an inclusive environment where stakeholders feel valued and invested in the product’s success. Regular workshops, vision presentations, and collaborative planning sessions can help foster this alignment and ensure that stakeholders understand the product roadmap and its implications.\nBy mastering these alignment strategies, you will facilitate smoother collaboration and enhance the likelihood of successful product outcomes.",  
+                    "system_prompt": "Act like a professional team alignment facilitator, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how stakeholders are aligned with the product vision and roadmap.'"  
                 }  
             ]  
         },  
@@ -6467,24 +6524,27 @@
                 {  
                     "description": "Learn about the key metrics used to track product success and performance.",  
                     "day": 19,  
-                    "action": "Explore the key performance indicators (KPIs) that measure product success.",  
-                    "content": "Tracking product success metrics is crucial for understanding how our products perform in the market. Familiarizing yourself with key metrics will enable you to assess product effectiveness and identify areas for improvement. This includes metrics related to user engagement, revenue, and customer satisfaction.\nBy monitoring these metrics, you can make informed decisions that drive product enhancements and align with business objectives. This practice is essential for maintaining a competitive edge and ensuring that we deliver value to our customers."  
+                    "action": "Explore the key success metrics and how they inform product decisions.",  
+                    "content": "Tracking product success metrics is essential for understanding how well a product is performing in the market. As CPO, you will need to define key performance indicators (KPIs) that align with your product goals and provide actionable insights. These metrics can include user adoption rates, customer satisfaction scores, revenue growth, and more. Regularly reviewing these metrics will allow you to make informed decisions and pivot strategies as needed to ensure continued success.\nBy mastering the tracking of these success metrics, you will empower your team to focus on delivering value and achieving measurable outcomes.",  
+                    "system_prompt": "Act like a professional data analyst, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn about the key metrics used to track product success and performance.'"  
                 }  
             ],  
             "KPIs for Customer Satisfaction and Usage": [  
                 {  
                     "description": "Understand the KPIs used to measure customer satisfaction and product usage.",  
                     "day": 20,  
-                    "action": "Review the key performance indicators that gauge customer satisfaction.",  
-                    "content": "Customer satisfaction is a critical metric for product success. Understanding the KPIs used to measure satisfaction and product usage will enable you to assess how well our products meet user needs. This includes metrics such as Net Promoter Score (NPS), customer retention rates, and user engagement levels.\nBy focusing on these KPIs, you can identify opportunities for improvement and drive initiatives that enhance the customer experience. This practice is essential for maintaining strong customer relationships and ensuring long-term success."  
+                    "action": "Review the key KPIs that gauge customer satisfaction and product engagement.",  
+                    "content": "Understanding KPIs for customer satisfaction and product usage is critical for driving improvements and ensuring that products meet user needs. These KPIs can include metrics such as Net Promoter Score (NPS), Customer Satisfaction Score (CSAT), and average session duration. As CPO, you will be responsible for defining these metrics and ensuring they are tracked consistently. Analyzing these KPIs will provide valuable insights into user behavior and satisfaction, allowing you to make data-driven decisions that enhance product offerings.\nBy mastering this understanding, you will be better positioned to advocate for changes that improve customer experience and drive product adoption.",  
+                    "system_prompt": "Act like a professional customer experience manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand the KPIs used to measure customer satisfaction and product usage.'"  
                 }  
             ],  
             "Product Innovation Metrics": [  
                 {  
                     "description": "Overview of the metrics used to track innovation and product growth.",  
                     "day": 21,  
-                    "action": "Learn about the metrics that measure innovation and growth in our products.",  
-                    "content": "Tracking innovation metrics is essential for understanding how our products evolve and grow in response to market demands. Familiarizing yourself with these metrics will enable you to assess the effectiveness of our innovation strategies. This includes metrics related to new feature adoption, time to market, and product enhancements.\nBy monitoring innovation metrics, you can drive initiatives that foster creativity and ensure that our products remain competitive. This practice is crucial for maintaining a culture of innovation and delivering value to our customers."  
+                    "action": "Explore the metrics that indicate innovation and growth within product lines.",  
+                    "content": "Tracking innovation and growth metrics is essential for assessing the impact of new product initiatives and enhancements. These metrics can include the rate of new feature adoption, the number of innovative ideas generated, and revenue generated from new products. As CPO, you will need to establish a framework for measuring innovation outcomes and ensuring that the team is held accountable for driving growth. Regularly reviewing these metrics will facilitate informed discussions about future product directions and strategic investments.\nBy mastering these innovation metrics, you will ensure that your product initiatives align with business growth objectives and foster a culture of continuous improvement.",  
+                    "system_prompt": "Act like a professional product growth strategist, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of the metrics used to track innovation and product growth.'"  
                 }  
             ]  
         },  
@@ -6493,24 +6553,27 @@
                 {  
                     "description": "Learn how Agile development practices are implemented across product teams.",  
                     "day": 22,  
-                    "action": "Explore the Agile practices that guide our product development processes.",  
-                    "content": "Agile development practices are fundamental to our approach to product development. Understanding how these practices are implemented will enable you to foster a culture of collaboration and continuous improvement within the product teams. This includes methodologies such as Scrum, Kanban, and Lean.\nBy embracing Agile practices, you can ensure that our teams remain flexible and responsive to changing market needs. This practice is essential for delivering high-quality products that meet customer expectations and drive business success."  
+                    "action": "Explore the Agile practices that guide product development.",  
+                    "content": "Implementing Agile development practices is essential for fostering a responsive and adaptive product development environment. As CPO, you will need to ensure that the product teams are equipped with the necessary frameworks, such as Scrum or Kanban, and understand how to apply Agile principles in their daily workflows. This involves promoting collaboration, encouraging iterative development, and valuing customer feedback. By creating a culture that embraces Agile methodologies, you will enhance the team’s ability to deliver products that meet changing market demands and customer needs.\nBy mastering these practices, you will empower your teams to be more flexible and innovative, leading to successful product outcomes.",  
+                    "system_prompt": "Act like a professional Agile coach, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how Agile development practices are implemented across product teams.'"  
                 }  
             ],  
             "Collaborating with Scrum Teams": [  
                 {  
                     "description": "Understand how the CPO collaborates with Scrum teams to ensure continuous product delivery.",  
                     "day": 23,  
-                    "action": "Learn about the collaboration dynamics between the CPO and Scrum teams.",  
-                    "content": "Collaboration with Scrum teams is vital for ensuring that product development remains on track and aligned with our strategic goals. Understanding how to work effectively with Scrum teams will enable you to support their efforts and facilitate a smooth product delivery process. This includes participating in sprint planning, reviews, and retrospectives.\nBy fostering collaboration with Scrum teams, you can enhance communication and drive successful outcomes. This practice is essential for maintaining momentum and delivering high-quality products in a timely manner."  
+                    "action": "Review the collaboration dynamics between the CPO and Scrum teams.",  
+                    "content": "Collaboration with Scrum teams is essential for ensuring that product delivery is continuous and aligned with customer needs. As CPO, you will need to engage with Scrum teams to facilitate communication, provide guidance on product priorities, and help resolve any impediments to progress. Understanding the Scrum framework and actively participating in Scrum ceremonies will enable you to support the teams effectively and ensure that they stay focused on delivering value to customers. By fostering a collaborative environment, you will enhance the effectiveness of Scrum practices and contribute to the successful delivery of products.\nBy mastering this collaboration, you will empower your teams to work more efficiently and achieve their goals.",  
+                    "system_prompt": "Act like a professional Scrum Master, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how the CPO collaborates with Scrum teams to ensure continuous product delivery.'"  
                 }  
             ],  
             "Iterating Based on Product Performance": [  
                 {  
                     "description": "Overview of how product performance data is used to inform product iterations.",  
                     "day": 24,  
-                    "action": "Explore the process of using performance data to drive product iterations.",  
-                    "content": "Using product performance data to inform iterations is crucial for ensuring that our products remain relevant and effective. Understanding how to analyze this data will enable you to identify trends and areas for improvement. This process involves leveraging analytics tools and customer feedback to assess product performance and inform decision-making.\nBy embracing data-driven iterations, you can ensure that our products evolve in response to user needs and market demands. This practice is essential for maintaining a competitive edge and delivering value to our customers."  
+                    "action": "Learn how to leverage product performance data for iterative improvements.",  
+                    "content": "Leveraging product performance data is essential for driving iterative improvements and optimizing product offerings. As CPO, you will need to analyze data related to user engagement, feature usage, and customer feedback to identify areas for enhancement. This data-driven approach allows you to make informed decisions that align with user needs and market demands. Regularly reviewing performance metrics and integrating insights into the product development cycle will facilitate continuous improvement and innovation.\nBy mastering this iterative process, you will ensure that your products evolve in response to customer feedback and performance metrics, leading to higher satisfaction and engagement.",  
+                    "system_prompt": "Act like a professional data-driven product manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how product performance data is used to inform product iterations.'"  
                 }  
             ]  
         },  
@@ -6519,24 +6582,27 @@
                 {  
                     "description": "Learn how product teams are structured for efficient collaboration and innovation.",  
                     "day": 25,  
-                    "action": "Explore the team structure and its role in fostering collaboration.",  
-                    "content": "Structuring product teams effectively is essential for promoting collaboration and driving innovation. Understanding how our teams are organized will enable you to leverage their strengths and facilitate efficient workflows. This includes roles such as product managers, designers, and engineers, each contributing to the product lifecycle.\nBy prioritizing effective team structures, you can enhance communication and collaboration, ensuring that everyone is aligned on product goals. This practice is crucial for delivering high-quality products that meet customer needs."  
+                    "action": "Review the strategies for structuring product teams effectively.",  
+                    "content": "Structuring product teams effectively is crucial for fostering collaboration and driving innovation. As CPO, you will need to assess team dynamics, skill sets, and project requirements to determine the best structure for your teams. This involves creating cross-functional teams that encourage collaboration between product management, design, and engineering, as well as ensuring clear roles and responsibilities. By optimizing team structures, you can enhance communication, streamline workflows, and drive successful product outcomes.\nBy mastering this structuring process, you will empower your teams to work together more effectively and innovate continuously.",  
+                    "system_prompt": "Act like a professional team structure consultant, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how product teams are structured for efficient collaboration and innovation.'"  
                 }  
             ],  
             "Promoting Cross-functional Collaboration": [  
                 {  
                     "description": "Understand how to foster cross-functional collaboration across product, engineering, and marketing teams.",  
                     "day": 26,  
-                    "action": "Learn about strategies for promoting cross-functional collaboration.",  
-                    "content": "Promoting cross-functional collaboration is vital for ensuring that all teams work towards common goals. Understanding how to facilitate communication and collaboration between product, engineering, and marketing will enable you to drive successful outcomes. This involves creating opportunities for collaboration, such as joint meetings and workshops.\nBy fostering a culture of collaboration, you can enhance innovation and ensure that all teams are aligned on product vision and strategy. This practice is essential for delivering high-quality products that resonate with our customers."  
+                    "action": "Explore best practices for promoting cross-functional collaboration.",  
+                    "content": "Promoting cross-functional collaboration is essential for successful product development. As CPO, you will need to create an environment that encourages open communication, shared goals, and mutual respect among different teams. This involves organizing joint workshops, regular check-ins, and collaborative planning sessions to ensure that all teams are aligned and working towards common objectives. By fostering this collaboration, you can enhance innovation and ensure that all perspectives are considered in the product development process.\nBy mastering these collaboration practices, you will create a unified team culture that drives successful product outcomes.",  
+                    "system_prompt": "Act like a professional collaboration facilitator, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how to foster cross-functional collaboration across product, engineering, and marketing teams.'"  
                 }  
             ],  
             "Developing Product Leadership": [  
                 {  
                     "description": "Overview of how leadership is developed within the product team for long-term success.",  
                     "day": 27,  
-                    "action": "Explore the strategies for developing leadership within the product team.",  
-                    "content": "Developing strong leadership within the product team is essential for long-term success. Understanding how to nurture leadership skills among team members will enable you to build a high-performing team that drives innovation and collaboration. This includes providing mentorship, training, and opportunities for professional growth.\nBy prioritizing leadership development, you can create a culture of empowerment and accountability, ensuring that the team is equipped to tackle challenges and seize opportunities. This practice is crucial for maintaining a competitive edge and delivering value to our customers."  
+                    "action": "Learn the strategies for nurturing leadership within product teams.",  
+                    "content": "Developing leadership within product teams is crucial for ensuring long-term success and sustainability. As CPO, you will need to identify potential leaders within your teams and provide them with opportunities for growth, mentorship, and skill development. This involves creating a culture of feedback, encouraging ownership of projects, and providing access to leadership training and resources. By nurturing leadership skills, you can empower your team members to take initiative and drive product success.\nBy mastering these development strategies, you will cultivate a strong leadership pipeline that contributes to the overall effectiveness and innovation of your product teams.",  
+                    "system_prompt": "Act like a professional leadership development coach, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how leadership is developed within the product team for long-term success.'"  
                 }  
             ]  
         },  
@@ -6545,24 +6611,27 @@
                 {  
                     "description": "Learn about managing budgets for product development and innovation projects.",  
                     "day": 28,  
-                    "action": "Explore the budgeting process and its role in product development.",  
-                    "content": "Managing product budgets effectively is crucial for ensuring that resources are allocated efficiently and that innovation initiatives are supported. Understanding how budgets are developed and managed will enable you to make informed decisions that drive product success. This involves assessing costs, forecasting expenditures, and monitoring budget performance.\nBy mastering the budgeting process, you can ensure that product initiatives are adequately funded and aligned with strategic goals. This practice is essential for maintaining financial health and supporting long-term growth."  
+                    "action": "Review the processes involved in managing product budgets effectively.",  
+                    "content": "Managing product budgets is a critical responsibility for the Chief Product Officer. This involves allocating resources to various initiatives, tracking expenses, and ensuring that spending aligns with strategic objectives. As CPO, you will need to establish clear budget guidelines, conduct regular reviews, and communicate budgetary needs to stakeholders. By mastering budget management, you can ensure that your product initiatives are adequately funded and aligned with the company’s overall goals.\nBy understanding these budget management processes, you will enhance your ability to advocate for necessary resources and drive successful product outcomes.",  
+                    "system_prompt": "Act like a professional financial analyst, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn about managing budgets for product development and innovation projects.'"  
                 }  
             ],  
             "Allocating Resources for R&D": [  
                 {  
                     "description": "Understand how resources are allocated for R&D initiatives and innovation.",  
                     "day": 29,  
-                    "action": "Review the resource allocation process for R&D projects.",  
-                    "content": "Allocating resources for research and development (R&D) is essential for driving innovation and staying competitive in the market. Understanding how resources are allocated for R&D initiatives will enable you to prioritize projects that align with our strategic goals. This process involves assessing project needs, evaluating potential returns, and ensuring that resources are used effectively.\nBy prioritizing R&D initiatives, you can foster a culture of innovation and ensure that our products remain relevant and effective. This practice is crucial for maintaining a competitive edge and delivering value to our customers."  
+                    "action": "Explore the strategies for allocating resources to R&D projects.",  
+                    "content": "Allocating resources for research and development (R&D) initiatives is essential for fostering innovation and keeping pace with market trends. As CPO, you will need to evaluate potential R&D projects, assess their alignment with business goals, and allocate resources accordingly. This involves balancing short-term needs with long-term strategic objectives, ensuring that your teams have the necessary support to explore new ideas and drive product innovation. Regularly reviewing resource allocation strategies will help maintain alignment with evolving business priorities.\nBy mastering this resource allocation process, you will empower your teams to innovate effectively and contribute to the company’s success.",  
+                    "system_prompt": "Act like a professional R&D manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how resources are allocated for R&D initiatives and innovation.'"  
                 }  
             ],  
             "Monitoring Product Development Costs": [  
                 {  
                     "description": "Overview of how product development costs are tracked and managed.",  
                     "day": 30,  
-                    "action": "Learn about the processes for tracking and managing development costs.",  
-                    "content": "Monitoring product development costs is essential for ensuring that projects remain within budget and that resources are allocated effectively. Understanding how costs are tracked and managed will enable you to identify areas for improvement and optimize spending. This process involves regular budget reviews, cost analysis, and performance monitoring.\nBy mastering cost management practices, you can ensure that product initiatives are financially sustainable and aligned with strategic objectives. This practice is crucial for maintaining financial health and supporting long-term growth."  
+                    "action": "Learn the methods for monitoring and managing product development costs.",  
+                    "content": "Monitoring product development costs is essential for ensuring that projects stay within budget and deliver value. As CPO, you will need to establish processes for tracking expenses, analyzing cost variances, and reporting on budget performance. This involves collaborating with finance teams to implement robust tracking systems and regularly reviewing cost data to identify potential savings or areas of concern. By mastering these cost management strategies, you can ensure that your product initiatives are financially viable and aligned with the company’s overall strategy.\nBy understanding these monitoring practices, you will enhance your ability to manage product development costs effectively and contribute to successful product outcomes.",  
+                    "system_prompt": "Act like a professional financial controller, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how product development costs are tracked and managed.'"  
                 }  
             ]  
         },  
@@ -6571,24 +6640,27 @@
                 {  
                     "description": "Learn the steps involved in planning and executing successful product launches.",  
                     "day": 31,  
-                    "action": "Explore the launch planning process and its significance.",  
-                    "content": "Planning and executing successful product launches is a critical aspect of product management. Understanding the key steps involved in this process will enable you to coordinate efforts across teams and ensure that launches are executed smoothly. This includes developing launch plans, coordinating marketing efforts, and preparing for customer feedback.\nBy mastering the launch process, you can enhance product visibility and drive customer engagement. This practice is essential for maximizing the impact of product launches and ensuring long-term success."  
+                    "action": "Review the processes for planning and executing effective product launches.",  
+                    "content": "Planning and executing product launches is a critical responsibility for the Chief Product Officer. This involves coordinating efforts across multiple teams, including product, marketing, and sales, to ensure a successful introduction to the market. Key steps include defining launch objectives, developing communication strategies, and monitoring performance post-launch to gather feedback. By mastering these launch processes, you will facilitate a smooth transition from development to market and enhance the chances of product success.\nBy understanding these steps, you will position your products for successful market entry and customer adoption.",  
+                    "system_prompt": "Act like a professional product launch manager, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn the steps involved in planning and executing successful product launches.'"  
                 }  
             ],  
             "Coordinating Cross-Functional Launch Teams": [  
                 {  
                     "description": "Understand how cross-functional teams are coordinated during product launches.",  
                     "day": 31,  
-                    "action": "Learn about the coordination strategies for cross-functional launch teams.",  
-                    "content": "Coordinating cross-functional teams during product launches is essential for ensuring that all efforts are aligned and that the launch is executed effectively. Understanding how to facilitate communication and collaboration among teams will enable you to drive successful outcomes. This involves creating clear roles, responsibilities, and timelines for each team involved in the launch.\nBy fostering cross-functional coordination, you can enhance collaboration and ensure that all teams are focused on delivering a successful launch. This practice is crucial for maintaining momentum and ensuring that our products resonate with customers."  
+                    "action": "Explore best practices for coordinating cross-functional teams during launches.",  
+                    "content": "Coordinating cross-functional teams during product launches is essential for ensuring alignment and effective execution. As CPO, you will need to establish clear communication channels, set shared objectives, and foster collaboration among teams to drive successful launches. Regular check-ins, collaborative planning sessions, and post-launch reviews can enhance team coordination and ensure that everyone is on the same page. By mastering these coordination practices, you will facilitate seamless collaboration and drive successful product outcomes.\nBy understanding these best practices, you will empower your teams to work together effectively and achieve launch success.",  
+                    "system_prompt": "Act like a professional launch coordinator, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand how cross-functional teams are coordinated during product launches.'"  
                 }  
             ],  
             "Post-Launch Feedback and Iteration": [  
                 {  
                     "description": "Overview of how post-launch feedback is collected and used to iterate on the product.",  
                     "day": 31,  
-                    "action": "Explore the process for collecting and integrating post-launch feedback.",  
-                    "content": "Collecting and integrating post-launch feedback is crucial for ensuring that our products evolve in response to user needs. Understanding how this feedback is gathered and analyzed will enable you to identify areas for improvement and drive product iterations. This process involves leveraging customer insights, performance data, and market trends to inform future development efforts.\nBy actively engaging in this feedback process, you can ensure that our products remain relevant and effective, ultimately enhancing customer satisfaction and loyalty. This practice is essential for maintaining a customer-centric approach to product development."  
+                    "action": "Learn how to gather and analyze post-launch feedback for product iterations.",  
+                    "content": "Collecting and analyzing post-launch feedback is essential for driving continuous improvement and ensuring that products meet customer needs. As CPO, you will need to establish processes for gathering feedback from various sources, including customer surveys, user testing, and sales data. This feedback should then be analyzed and integrated into product iterations to enhance features and address any issues that may arise. By mastering this feedback loop, you will foster a culture of continuous improvement and ensure that your products evolve based on user input.\nBy understanding these feedback processes, you will enhance your team's ability to respond to customer needs and drive product success.",  
+                    "system_prompt": "Act like a professional product feedback analyst, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of how post-launch feedback is collected and used to iterate on the product.'"  
                 }  
             ]  
         },  
@@ -6597,24 +6669,27 @@
                 {  
                     "description": "Learn how to stay updated with the latest trends in product management and innovation.",  
                     "day": 31,  
-                    "action": "Explore resources for staying informed about industry trends.",  
-                    "content": "Staying updated with the latest trends in product management is essential for maintaining a competitive edge and driving innovation. Understanding how to leverage industry resources, such as blogs, podcasts, and webinars, will enable you to stay informed about emerging practices and technologies. This knowledge will empower you to make data-driven decisions and adapt to changing market conditions.\nBy actively engaging with industry trends, you can foster a culture of continuous learning and improvement within the product team. This practice is crucial for ensuring that our products remain relevant and effective in a dynamic market."  
+                    "action": "Explore resources for staying informed about product management trends.",  
+                    "content": "Staying updated with the latest trends in product management is crucial for ensuring that your strategies remain relevant and effective. This involves actively engaging with industry publications, attending conferences, and participating in professional networks to gather insights on emerging trends, best practices, and innovative approaches. As CPO, fostering a culture of continuous learning within your team will enhance your collective ability to respond to market changes and drive product innovation.\nBy mastering these practices, you will position yourself and your team as industry leaders who are well-informed and proactive in adapting to new developments.",  
+                    "system_prompt": "Act like a professional product management educator, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Learn how to stay updated with the latest trends in product management and innovation.'"  
                 }  
             ],  
             "Product Management Certifications and Training": [  
                 {  
                     "description": "Overview of certifications and training opportunities available for product managers.",  
                     "day": 31,  
-                    "action": "Explore certifications and training programs that can enhance your skills.",  
-                    "content": "Pursuing certifications and training opportunities in product management can significantly enhance your skills and knowledge. Understanding the available programs will enable you to identify opportunities for professional growth and development. This includes exploring certifications from recognized organizations and participating in workshops and training sessions.\nBy investing in your professional development, you can enhance your expertise and contribute more effectively to the product team. This practice is crucial for maintaining a competitive edge and ensuring long-term success."  
+                    "action": "Review the certifications and training programs available for professional development.",  
+                    "content": "Engaging in certifications and training programs is essential for personal and professional growth in product management. As CPO, you will need to identify relevant programs that align with your career goals and those of your team members. These programs can range from formal certifications in Agile methodologies to training in data analysis and user experience design. By prioritizing continuous education, you will enhance your team’s skills and ensure they are equipped to tackle the evolving challenges of product management.\nBy mastering these educational opportunities, you will foster a culture of growth and development that contributes to the success of your product initiatives.",  
+                    "system_prompt": "Act like a professional development coordinator, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Overview of certifications and training opportunities available for product managers.'"  
                 }  
             ],  
             "Attending Industry Conferences and Workshops": [  
                 {  
                     "description": "Understand the value of attending industry conferences and workshops for continued learning.",  
                     "day": 31,  
-                    "action": "Explore opportunities for attending industry events and networking.",  
-                    "content": "Attending industry conferences and workshops provides valuable opportunities for networking and learning from experts in the field. Understanding the benefits of participating in these events will enable you to stay informed about emerging trends and best practices in product management. This includes attending sessions, participating in discussions, and networking with peers and industry leaders.\nBy actively engaging in industry events, you can foster connections that enhance your professional network and contribute to your growth as a product leader. This practice is crucial for maintaining a competitive edge and driving innovation within the organization."  
+                    "action": "Learn about the benefits of participating in industry events.",  
+                    "content": "Attending industry conferences and workshops is a valuable opportunity for networking, learning, and sharing insights with peers. As CPO, participating in these events allows you to stay informed about the latest trends, tools, and strategies in product management. It also provides a platform to connect with other professionals, share experiences, and explore potential collaborations. By prioritizing attendance at these events, you will enhance your knowledge and broaden your professional network, ultimately benefiting your product initiatives and the organization as a whole.\nBy understanding these benefits, you will encourage your team to actively engage in industry events and foster a culture of continuous learning and professional development.",  
+                    "system_prompt": "Act like a professional conference organizer, and based on the information available between ### below, provide a very nice and detailed description that the new hires could go through and become onboarded on the topic: 'Understand the value of attending industry conferences and workshops for continued learning.'"  
                 }  
             ]  
         }  
@@ -6969,4 +7044,4 @@
             ]  
         }  
     }  
-} 
+}
