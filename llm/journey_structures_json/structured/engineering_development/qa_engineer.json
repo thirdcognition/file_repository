@@ -140,7 +140,7 @@
                                 "role": "professional quality manager",
                                 "topic": "Overview of key quality metrics used to evaluate software performance."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_15"
                         }
                     ]
                 }
@@ -169,7 +169,7 @@
                                 "role": "professional automation engineer",
                                 "topic": "Introduction to the automated testing tools used by our QA team."
                             },
-                            "icon": "logo_5"
+                            "icon": "logo_20"
                         }
                     ]
                 },
@@ -190,7 +190,7 @@
                                 "role": "professional QA specialist",
                                 "topic": "Overview of the manual testing frameworks and when they are applied."
                             },
-                            "icon": "logo_15"
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                                 "role": "professional QA analyst",
                                 "topic": "Learn about the tools used for generating test reports and tracking results."
                             },
-                            "icon": "logo_5"
+                            "icon": "logo_33"
                         }
                     ]
                 }
@@ -261,7 +261,7 @@
                                 "role": "professional QA lead",
                                 "topic": "Learn how to collaborate with developers during test case review sessions."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_14"
                         }
                     ]
                 },
@@ -282,7 +282,7 @@
                                 "role": "professional QA coordinator",
                                 "topic": "Overview of how test results are communicated and fed back into development."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_21"
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                                 "role": "professional JIRA administrator",
                                 "topic": "Learn how to navigate and use the JIRA ticketing system for bug tracking."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_38"
                         }
                     ]
                 },
@@ -332,7 +332,7 @@
                                 "role": "professional QA manager",
                                 "topic": "Understand how bugs are prioritized and escalated for resolution."
                             },
-                            "icon": "logo_38"
+                            "icon": "logo_10"
                         }
                     ]
                 },
@@ -353,7 +353,7 @@
                                 "role": "professional QA analyst",
                                 "topic": "Overview of the process for triaging and resolving reported issues."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_37"
                         }
                     ]
                 }
@@ -382,7 +382,7 @@
                                 "role": "professional automation engineer",
                                 "topic": "Introduction to the Selenium framework and its use in automated testing."
                             },
-                            "icon": "logo_15"
+                            "icon": "logo_7"
                         }
                     ]
                 },
@@ -403,7 +403,7 @@
                                 "role": "professional QA lead",
                                 "topic": "Overview of the regression testing suite and how it's maintained."
                             },
-                            "icon": "logo_15"
+                            "icon": "logo_46"
                         }
                     ]
                 },
@@ -424,7 +424,7 @@
                                 "role": "professional QA analyst",
                                 "topic": "Learn how automated test results are reported and analyzed."
                             },
-                            "icon": "logo_15"
+                            "icon": "logo_34"
                         }
                     ]
                 }
@@ -453,7 +453,7 @@
                                 "role": "professional QA strategist",
                                 "topic": "Understand when to use manual vs automated testing in our processes."
                             },
-                            "icon": "logo_15"
+                            "icon": "logo_9"
                         }
                     ]
                 },
@@ -474,7 +474,7 @@
                                 "role": "professional QA consultant",
                                 "topic": "Learn the criteria for selecting the appropriate testing approach for a given task."
                             },
-                            "icon": "logo_5"
+                            "icon": "logo_16"
                         }
                     ]
                 },
@@ -495,7 +495,7 @@
                                 "role": "professional QA lead",
                                 "topic": "Overview of strategies for balancing speed and thoroughness in testing."
                             },
-                            "icon": "logo_5"
+                            "icon": "logo_4"
                         }
                     ]
                 }
@@ -545,7 +545,7 @@
                                 "role": "professional cybersecurity expert",
                                 "topic": "Learn about the tools used for vulnerability assessment in our infrastructure."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_18"
                         }
                     ]
                 },
@@ -566,7 +566,7 @@
                                 "role": "professional security officer",
                                 "topic": "Understand how QA contributes to ensuring secure development practices."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_41"
                         }
                     ]
                 }
@@ -595,7 +595,7 @@
                                 "role": "professional performance engineer",
                                 "topic": "Learn about the scenarios used in performance testing."
                             },
-                            "icon": "logo_5"
+                            "icon": "logo_25"
                         }
                     ]
                 },
@@ -616,7 +616,7 @@
                                 "role": "professional load testing engineer",
                                 "topic": "Overview of the tools and metrics used for load testing and performance analysis."
                             },
-                            "icon": "logo_25"
+                            "icon": "logo_19"
                         }
                     ]
                 },
@@ -637,7 +637,7 @@
                                 "role": "professional performance optimization specialist",
                                 "topic": "Learn the techniques used to optimize system performance based on testing results."
                             },
-                            "icon": "logo_5"
+                            "icon": "logo_17"
                         }
                     ]
                 }
@@ -666,7 +666,7 @@
                                 "role": "professional QA manager",
                                 "topic": "Understand how test cases are versioned and maintained."
                             },
-                            "icon": "logo_10"
+                            "icon": "logo_22"
                         }
                     ]
                 },
@@ -687,7 +687,7 @@
                                 "role": "professional QA coordinator",
                                 "topic": "Learn about managing test repositories and ensuring consistency."
                             },
-                            "icon": "logo_8"
+                            "icon": "logo_26"
                         }
                     ]
                 },
@@ -708,7 +708,7 @@
                                 "role": "professional QA lead",
                                 "topic": "Overview of how changes in test frameworks are tracked and implemented."
                             },
-                            "icon": "logo_15"
+                            "icon": "logo_32"
                         }
                     ]
                 }
@@ -737,7 +737,7 @@
                                 "role": "professional DevOps engineer",
                                 "topic": "Learn how testing is integrated into the continuous integration (CI) process."
                             },
-                            "icon": "logo_5"
+                            "icon": "logo_23"
                         }
                     ]
                 },
@@ -758,7 +758,7 @@
                                 "role": "professional CI/CD engineer",
                                 "topic": "Overview of automated triggers for running tests during CI/CD pipelines."
                             },
-                            "icon": "logo_5"
+                            "icon": "logo_28"
                         }
                     ]
                 },
@@ -779,7 +779,7 @@
                                 "role": "professional DevOps specialist",
                                 "topic": "Understand how to monitor pipelines and troubleshoot test failures."
                             },
-                            "icon": "logo_20"
+                            "icon": "logo_24"
                         }
                     ]
                 }
@@ -808,7 +808,7 @@
                                 "role": "professional learning and development manager",
                                 "topic": "Learn about available certifications and resources for QA professionals."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_36"
                         }
                     ]
                 },
@@ -829,7 +829,7 @@
                                 "role": "professional facilitator",
                                 "topic": "Overview of internal knowledge-sharing practices within the QA team."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_40"
                         }
                     ]
                 },
@@ -850,7 +850,7 @@
                                 "role": "professional training coordinator",
                                 "topic": "Learn about internal workshops designed to enhance QA skills and techniques."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_29"
                         }
                     ]
                 }

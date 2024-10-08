@@ -98,7 +98,7 @@
                                 "role": "professional Agile practitioner",
                                 "topic": "Learn the principles of the Agile Manifesto and how they guide our practices."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_5"
                         }
                     ]
                 },
@@ -119,7 +119,7 @@
                                 "role": "professional Scrum Master",
                                 "topic": "Understand how Agile values and principles are implemented in day-to-day work."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_6"
                         }
                     ]
                 },
@@ -140,7 +140,7 @@
                                 "role": "professional Agile consultant",
                                 "topic": "Overview of how Agile practices are adapted to fit the company's unique needs."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_14"
                         }
                     ]
                 }
@@ -169,7 +169,7 @@
                                 "role": "professional Scrum Master",
                                 "topic": "Understand the Scrum framework and its application in our company."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_46"
                         }
                     ]
                 },
@@ -190,7 +190,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Learn about the key Scrum ceremonies and their significance."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_11"
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                                 "role": "professional Scrum Master",
                                 "topic": "Overview of the roles and responsibilities within the Scrum team."
                             },
-                            "icon": "logo_2"
+                            "icon": "logo_45"
                         }
                     ]
                 }
@@ -240,7 +240,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "Understand the differences between the roles of the Product Owner and Scrum Master."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_23"
                         }
                     ]
                 },
@@ -261,7 +261,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Learn about the roles and responsibilities of the development team."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_26"
                         }
                     ]
                 },
@@ -282,7 +282,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "Overview of how the Scrum Master supports self-organizing teams."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_17"
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                                 "role": "professional Scrum Master",
                                 "topic": "Learn how to facilitate daily stand-ups effectively."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_40"
                         }
                     ]
                 },
@@ -332,7 +332,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Overview of facilitating sprint planning and review sessions."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_4"
                         }
                     ]
                 },
@@ -353,7 +353,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Understand how retrospectives are conducted to drive continuous improvement."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_1"
                         }
                     ]
                 }
@@ -382,7 +382,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Learn how to create and prioritize a sprint backlog."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_10"
                         }
                     ]
                 },
@@ -403,7 +403,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "Understand how to define clear and achievable sprint goals."
                             },
-                            "icon": "logo_17"
+                            "icon": "logo_49"
                         }
                     ]
                 },
@@ -424,7 +424,7 @@
                                 "role": "professional Scrum Master",
                                 "topic": "Overview of how to ensure successful execution of sprints."
                             },
-                            "icon": "logo_17"
+                            "icon": "logo_8"
                         }
                     ]
                 }
@@ -453,7 +453,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Understand how to facilitate communication between product and development teams."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_32"
                         }
                     ]
                 },
@@ -474,7 +474,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "Learn how to collaborate effectively on managing the product backlog."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_16"
                         }
                     ]
                 },
@@ -495,7 +495,7 @@
                                 "role": "professional conflict resolution specialist",
                                 "topic": "Overview of strategies for resolving conflicts between teams."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_21"
                         }
                     ]
                 }
@@ -524,7 +524,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "Learn how to track team progress using velocity and burndown charts."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_25"
                         }
                     ]
                 },
@@ -545,7 +545,7 @@
                                 "role": "professional Scrum Master",
                                 "topic": "Understand the methods used to track progress across the Scrum team."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_47"
                         }
                     ]
                 },
@@ -566,7 +566,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Overview of metrics used to measure team effectiveness in Scrum."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_31"
                         }
                     ]
                 }
@@ -595,7 +595,7 @@
                                 "role": "professional Scrum Master",
                                 "topic": "Learn how to identify and resolve impediments that block the team's progress."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_15"
                         }
                     ]
                 },
@@ -616,7 +616,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "Understand how to support the team through technical or process challenges."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_9"
                         }
                     ]
                 },
@@ -666,7 +666,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Learn how to conduct retrospectives that lead to actionable improvements."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_29"
                         }
                     ]
                 },
@@ -687,7 +687,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "Understand how to identify areas for improvement in the team's processes."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_18"
                         }
                     ]
                 },
@@ -708,7 +708,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Overview of how process improvements are implemented based on retrospective feedback."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_34"
                         }
                     ]
                 }
@@ -758,7 +758,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Overview of software used for real-time tracking of sprint progress."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_20"
                         }
                     ]
                 },
@@ -808,7 +808,7 @@
                                 "role": "professional learning and development manager",
                                 "topic": "Learn about available Scrum Master certifications for further professional development."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_7"
                         }
                     ]
                 },
@@ -829,7 +829,7 @@
                                 "role": "professional Agile consultant",
                                 "topic": "Overview of industry conferences and events focused on Agile and Scrum."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_36"
                         }
                     ]
                 },

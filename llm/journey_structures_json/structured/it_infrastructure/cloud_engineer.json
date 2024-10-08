@@ -27,7 +27,7 @@
                                 "role": "professional team lead",
                                 "topic": "Introduction to the cloud engineering team and their roles."
                             },
-                            "icon": "logo_26"
+                            "icon": "logo_2"
                         }
                     ]
                 },
@@ -48,7 +48,7 @@
                                 "role": "professional cloud architect",
                                 "topic": "Learn about the key stakeholders involved in cloud architecture decisions."
                             },
-                            "icon": "logo_19"
+                            "icon": "logo_3"
                         }
                     ]
                 },
@@ -98,7 +98,7 @@
                                 "role": "professional cloud solutions architect",
                                 "topic": "Get an overview of the company's cloud infrastructure and key components."
                             },
-                            "icon": "logo_18"
+                            "icon": "logo_10"
                         }
                     ]
                 },
@@ -140,7 +140,7 @@
                                 "role": "professional network engineer",
                                 "topic": "Learn about the networking setups within the cloud infrastructure."
                             },
-                            "icon": "logo_41"
+                            "icon": "logo_18"
                         }
                     ]
                 }
@@ -169,7 +169,7 @@
                                 "role": "professional cloud consultant",
                                 "topic": "Learn how the company selects cloud service providers based on needs and performance."
                             },
-                            "icon": "logo_19"
+                            "icon": "logo_13"
                         }
                     ]
                 },
@@ -190,7 +190,7 @@
                                 "role": "professional cloud architect",
                                 "topic": "Understand the key services provided by AWS/Azure and how they are utilized."
                             },
-                            "icon": "logo_19"
+                            "icon": "logo_7"
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                                 "role": "professional financial analyst",
                                 "topic": "Overview of cloud service pricing models and how to manage costs effectively."
                             },
-                            "icon": "logo_19"
+                            "icon": "logo_25"
                         }
                     ]
                 }
@@ -282,7 +282,7 @@
                                 "role": "professional network security engineer",
                                 "topic": "Overview of securing cloud networks to prevent unauthorized access."
                             },
-                            "icon": "logo_41"
+                            "icon": "logo_21"
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                                 "role": "professional DevOps engineer",
                                 "topic": "Learn about the tools and frameworks used for Infrastructure as Code (IaC)."
                             },
-                            "icon": "logo_22"
+                            "icon": "logo_20"
                         }
                     ]
                 },
@@ -332,7 +332,7 @@
                                 "role": "professional change manager",
                                 "topic": "Understand how versioning and change management are handled in IaC."
                             },
-                            "icon": "logo_10"
+                            "icon": "logo_5"
                         }
                     ]
                 },
@@ -382,7 +382,7 @@
                                 "role": "professional containerization expert",
                                 "topic": "Learn about Docker and Kubernetes and their roles in container orchestration."
                             },
-                            "icon": "logo_22"
+                            "icon": "logo_4"
                         }
                     ]
                 },
@@ -403,7 +403,7 @@
                                 "role": "professional orchestration engineer",
                                 "topic": "Understand how containers are orchestrated for deployment and scaling."
                             },
-                            "icon": "logo_22"
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -424,7 +424,7 @@
                                 "role": "professional security analyst",
                                 "topic": "Overview of best practices for securing containers in the cloud."
                             },
-                            "icon": "logo_22"
+                            "icon": "logo_30"
                         }
                     ]
                 }
@@ -453,7 +453,7 @@
                                 "role": "professional systems administrator",
                                 "topic": "Learn about the tools used to monitor cloud infrastructure performance."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_9"
                         }
                     ]
                 },
@@ -474,7 +474,7 @@
                                 "role": "professional log analyst",
                                 "topic": "Understand how log management systems help track cloud activities."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_11"
                         }
                     ]
                 },
@@ -495,7 +495,7 @@
                                 "role": "professional incident manager",
                                 "topic": "Overview of how alerts are configured and incidents are responded to in the cloud."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_24"
                         }
                     ]
                 }
@@ -524,7 +524,7 @@
                                 "role": "professional financial analyst",
                                 "topic": "Learn how to monitor cloud usage and costs effectively."
                             },
-                            "icon": "logo_19"
+                            "icon": "logo_23"
                         }
                     ]
                 },
@@ -545,7 +545,7 @@
                                 "role": "professional cloud architect",
                                 "topic": "Understand strategies for optimizing resource usage in the cloud to reduce costs."
                             },
-                            "icon": "logo_19"
+                            "icon": "logo_28"
                         }
                     ]
                 },
@@ -566,7 +566,7 @@
                                 "role": "professional cloud solutions architect",
                                 "topic": "Overview of designing cost-effective cloud architectures for scalability."
                             },
-                            "icon": "logo_19"
+                            "icon": "logo_32"
                         }
                     ]
                 }
@@ -595,7 +595,7 @@
                                 "role": "professional cloud consultant",
                                 "topic": "Learn how to align cloud infrastructure with the needs of the development team."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_14"
                         }
                     ]
                 },
@@ -616,7 +616,7 @@
                                 "role": "professional DevOps engineer",
                                 "topic": "Understand how cloud engineers support DevOps in continuous deployments."
                             },
-                            "icon": "logo_20"
+                            "icon": "logo_12"
                         }
                     ]
                 },
@@ -637,7 +637,7 @@
                                 "role": "professional support engineer",
                                 "topic": "Overview of how cloud engineers troubleshoot and resolve cloud-related issues."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_15"
                         }
                     ]
                 }
@@ -666,7 +666,7 @@
                                 "role": "professional CI/CD engineer",
                                 "topic": "Learn about integrating cloud infrastructure with CI/CD pipelines."
                             },
-                            "icon": "logo_20"
+                            "icon": "logo_16"
                         }
                     ]
                 },
@@ -687,7 +687,7 @@
                                 "role": "professional delivery manager",
                                 "topic": "Understand how continuous delivery is managed in cloud environments."
                             },
-                            "icon": "logo_20"
+                            "icon": "logo_34"
                         }
                     ]
                 },
@@ -708,7 +708,7 @@
                                 "role": "professional automation engineer",
                                 "topic": "Overview of automated deployment processes for cloud-based applications."
                             },
-                            "icon": "logo_20"
+                            "icon": "logo_26"
                         }
                     ]
                 }
@@ -737,7 +737,7 @@
                                 "role": "professional cloud storage architect",
                                 "topic": "Learn about the different cloud storage solutions used within the company."
                             },
-                            "icon": "logo_18"
+                            "icon": "logo_27"
                         }
                     ]
                 },
@@ -758,7 +758,7 @@
                                 "role": "professional data recovery specialist",
                                 "topic": "Understand the processes for backing up and recovering data in the cloud."
                             },
-                            "icon": "logo_24"
+                            "icon": "logo_39"
                         }
                     ]
                 },
@@ -779,7 +779,7 @@
                                 "role": "professional data governance officer",
                                 "topic": "Overview of strategies for long-term data archiving and retention in the cloud."
                             },
-                            "icon": "logo_24"
+                            "icon": "logo_35"
                         }
                     ]
                 }
@@ -829,7 +829,7 @@
                                 "role": "professional training coordinator",
                                 "topic": "Understand how disaster recovery drills are conducted in cloud environments."
                             },
-                            "icon": "logo_24"
+                            "icon": "logo_17"
                         }
                     ]
                 },
@@ -850,7 +850,7 @@
                                 "role": "professional cloud recovery engineer",
                                 "topic": "Overview of recovery solutions specific to cloud platforms."
                             },
-                            "icon": "logo_24"
+                            "icon": "logo_45"
                         }
                     ]
                 }
@@ -879,7 +879,7 @@
                                 "role": "professional career advisor",
                                 "topic": "Learn about available certifications for cloud engineers, such as AWS or Azure."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_36"
                         }
                     ]
                 },
@@ -900,7 +900,7 @@
                                 "role": "professional training manager",
                                 "topic": "Overview of internal learning platforms to enhance cloud skills."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_40"
                         }
                     ]
                 },

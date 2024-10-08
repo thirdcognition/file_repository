@@ -27,7 +27,7 @@
                                 "role": "professional HR manager",
                                 "topic": "Introduction to the leadership team and their role in program success."
                             },
-                            "icon": "logo_2"
+                            "icon": "logo_1"
                         }
                     ]
                 },
@@ -48,7 +48,7 @@
                                 "role": "professional program director",
                                 "topic": "Overview of program goals and their alignment with company objectives."
                             },
-                            "icon": "logo_17"
+                            "icon": "logo_4"
                         }
                     ]
                 },
@@ -98,7 +98,7 @@
                                 "role": "professional project manager",
                                 "topic": "Understand the key deliverables and milestones of the program."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_11"
                         }
                     ]
                 },
@@ -140,7 +140,7 @@
                                 "role": "professional business analyst",
                                 "topic": "Overview of how the program objectives are aligned with the company's long-term business goals."
                             },
-                            "icon": "logo_17"
+                            "icon": "logo_27"
                         }
                     ]
                 }
@@ -190,7 +190,7 @@
                                 "role": "professional metrics analyst",
                                 "topic": "Learn the metrics used to track progress in Agile projects."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_5"
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                                 "role": "professional Agile facilitator",
                                 "topic": "Overview of how Program Increment (PI) planning is conducted."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_14"
                         }
                     ]
                 }
@@ -240,7 +240,7 @@
                                 "role": "professional collaboration expert",
                                 "topic": "Learn how the program management team collaborates with engineering and product teams."
                             },
-                            "icon": "logo_14"
+                            "icon": "logo_6"
                         }
                     ]
                 },
@@ -261,7 +261,7 @@
                                 "role": "professional product manager",
                                 "topic": "Understand the process of synchronizing the program and product roadmaps to ensure alignment."
                             },
-                            "icon": "logo_14"
+                            "icon": "logo_47"
                         }
                     ]
                 },
@@ -282,7 +282,7 @@
                                 "role": "professional dependency manager",
                                 "topic": "Overview of managing cross-functional dependencies across teams."
                             },
-                            "icon": "logo_14"
+                            "icon": "logo_3"
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                                 "role": "professional risk manager",
                                 "topic": "Learn about the process of identifying potential risks in the program."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -332,7 +332,7 @@
                                 "role": "professional program analyst",
                                 "topic": "Understand the strategies for mitigating program risks."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_13"
                         }
                     ]
                 },
@@ -353,7 +353,7 @@
                                 "role": "professional contingency planner",
                                 "topic": "Overview of escalation paths and contingency planning for high-impact risks."
                             },
-                            "icon": "logo_27"
+                            "icon": "logo_21"
                         }
                     ]
                 }
@@ -382,7 +382,7 @@
                                 "role": "professional project management software trainer",
                                 "topic": "Introduction to how JIRA and Confluence are used for tracking program progress."
                             },
-                            "icon": "logo_14"
+                            "icon": "logo_23"
                         }
                     ]
                 },
@@ -424,7 +424,7 @@
                                 "role": "professional communication specialist",
                                 "topic": "Overview of tools used for cross-team communication and collaboration."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_45"
                         }
                     ]
                 }
@@ -453,7 +453,7 @@
                                 "role": "professional reporting analyst",
                                 "topic": "Learn how to create and present program status reports to stakeholders."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_37"
                         }
                     ]
                 },
@@ -474,7 +474,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "Understand how burnup and burndown charts are used to track progress."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_31"
                         }
                     ]
                 },
@@ -495,7 +495,7 @@
                                 "role": "professional communications manager",
                                 "topic": "Overview of how progress updates are communicated to stakeholders."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_16"
                         }
                     ]
                 }
@@ -524,7 +524,7 @@
                                 "role": "professional communication strategist",
                                 "topic": "Learn how to develop and execute stakeholder communication plans."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_32"
                         }
                     ]
                 },
@@ -545,7 +545,7 @@
                                 "role": "professional meeting facilitator",
                                 "topic": "Understand the frequency and structure of regular program briefings with stakeholders."
                             },
-                            "icon": "logo_14"
+                            "icon": "logo_26"
                         }
                     ]
                 },
@@ -566,7 +566,7 @@
                                 "role": "professional stakeholder engagement manager",
                                 "topic": "Overview of strategies for managing and aligning stakeholder expectations."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_40"
                         }
                     ]
                 }
@@ -595,7 +595,7 @@
                                 "role": "professional resource manager",
                                 "topic": "Learn about resource allocation and managing team capacity across multiple teams."
                             },
-                            "icon": "logo_25"
+                            "icon": "logo_19"
                         }
                     ]
                 },
@@ -637,7 +637,7 @@
                                 "role": "professional change manager",
                                 "topic": "Overview of how resources are rebalanced based on shifting priorities."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_25"
                         }
                     ]
                 }
@@ -666,7 +666,7 @@
                                 "role": "professional performance analyst",
                                 "topic": "Learn about the key metrics used to measure program success."
                             },
-                            "icon": "logo_33"
+                            "icon": "logo_18"
                         }
                     ]
                 },
@@ -687,7 +687,7 @@
                                 "role": "professional KPI analyst",
                                 "topic": "Understand how to track the overall health of the program using defined KPIs."
                             },
-                            "icon": "logo_27"
+                            "icon": "logo_20"
                         }
                     ]
                 },
@@ -708,7 +708,7 @@
                                 "role": "professional quality assurance manager",
                                 "topic": "Overview of KPIs used to measure delivery timelines and quality."
                             },
-                            "icon": "logo_25"
+                            "icon": "logo_10"
                         }
                     ]
                 }
@@ -737,7 +737,7 @@
                                 "role": "professional change manager",
                                 "topic": "Learn how to manage scope changes within the program."
                             },
-                            "icon": "logo_26"
+                            "icon": "logo_22"
                         }
                     ]
                 },
@@ -758,7 +758,7 @@
                                 "role": "professional impact analyst",
                                 "topic": "Understand how to assess the impact of changes on program objectives and timelines."
                             },
-                            "icon": "logo_14"
+                            "icon": "logo_46"
                         }
                     ]
                 },
@@ -779,7 +779,7 @@
                                 "role": "professional change management consultant",
                                 "topic": "Overview of the sign-off process for changes from key stakeholders."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_35"
                         }
                     ]
                 }
@@ -808,7 +808,7 @@
                                 "role": "professional development coordinator",
                                 "topic": "Learn about available certifications and training programs for program managers."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_36"
                         }
                     ]
                 },
@@ -829,7 +829,7 @@
                                 "role": "professional conference coordinator",
                                 "topic": "Overview of industry conferences and networking opportunities for program managers."
                             },
-                            "icon": "logo_36"
+                            "icon": "logo_2"
                         }
                     ]
                 },
@@ -850,7 +850,7 @@
                                 "role": "professional knowledge manager",
                                 "topic": "Understand how internal knowledge-sharing sessions help with continuous development."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_7"
                         }
                     ]
                 }

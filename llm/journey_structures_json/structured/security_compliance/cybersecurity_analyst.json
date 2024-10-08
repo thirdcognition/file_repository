@@ -48,7 +48,7 @@
                                 "role": "professional cybersecurity strategist",
                                 "topic": "Learn about the cybersecurity leadership team and their responsibilities."
                             },
-                            "icon": "logo_1"
+                            "icon": "logo_3"
                         }
                     ]
                 },
@@ -69,7 +69,7 @@
                                 "role": "professional stakeholder manager",
                                 "topic": "Overview of the key security stakeholders, including external partners and vendors."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_6"
                         }
                     ]
                 }
@@ -140,7 +140,7 @@
                                 "role": "professional security consultant",
                                 "topic": "Overview of security best practices followed at the company to minimize risks."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_21"
                         }
                     ]
                 }
@@ -169,7 +169,7 @@
                                 "role": "professional security analyst",
                                 "topic": "Learn about the tools used to monitor the security posture of the company."
                             },
-                            "icon": "logo_41"
+                            "icon": "logo_5"
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                                 "role": "professional vulnerability analyst",
                                 "topic": "Overview of vulnerability management software and its role in identifying and mitigating risks."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_11"
                         }
                     ]
                 }
@@ -240,7 +240,7 @@
                                 "role": "professional incident response coordinator",
                                 "topic": "Learn the protocols for detecting and responding to security incidents in real-time."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_24"
                         }
                     ]
                 },
@@ -261,7 +261,7 @@
                                 "role": "professional documentation specialist",
                                 "topic": "Understand how security incidents are documented and reported to relevant stakeholders."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_37"
                         }
                     ]
                 },
@@ -282,7 +282,7 @@
                                 "role": "professional security analyst",
                                 "topic": "Overview of how post-incident reviews are conducted to improve future responses."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_12"
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                                 "role": "professional threat hunter",
                                 "topic": "Learn how to proactively hunt for potential security threats and vulnerabilities."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -332,7 +332,7 @@
                                 "role": "professional security analyst",
                                 "topic": "Understand the process of analyzing and assessing security threats and vulnerabilities."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_18"
                         }
                     ]
                 },
@@ -353,7 +353,7 @@
                                 "role": "professional threat response coordinator",
                                 "topic": "Overview of how the company responds to emerging threats in the cybersecurity landscape."
                             },
-                            "icon": "logo_41"
+                            "icon": "logo_10"
                         }
                     ]
                 }
@@ -382,7 +382,7 @@
                                 "role": "professional compliance auditor",
                                 "topic": "Learn how regular security audits are conducted to ensure compliance and security."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_30"
                         }
                     ]
                 },
@@ -403,7 +403,7 @@
                                 "role": "professional compliance officer",
                                 "topic": "Understand the steps taken to ensure compliance with regulations such as GDPR and CCPA."
                             },
-                            "icon": "logo_35"
+                            "icon": "logo_42"
                         }
                     ]
                 },
@@ -424,7 +424,7 @@
                                 "role": "professional audit coordinator",
                                 "topic": "Overview of the internal and external audit processes for cybersecurity."
                             },
-                            "icon": "logo_35"
+                            "icon": "logo_14"
                         }
                     ]
                 }
@@ -453,7 +453,7 @@
                                 "role": "professional DevOps security engineer",
                                 "topic": "Learn how to secure DevOps pipelines to ensure that code and infrastructure are protected."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_19"
                         }
                     ]
                 },
@@ -474,7 +474,7 @@
                                 "role": "professional software security consultant",
                                 "topic": "Understand the role of the cybersecurity team in ensuring secure software development practices."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_15"
                         }
                     ]
                 },
@@ -495,7 +495,7 @@
                                 "role": "professional security liaison",
                                 "topic": "Overview of how security requirements are communicated to IT and development teams."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_23"
                         }
                     ]
                 }
@@ -524,7 +524,7 @@
                                 "role": "professional risk manager",
                                 "topic": "Learn how to identify and prioritize risks in the company's cybersecurity framework."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_27"
                         }
                     ]
                 },
@@ -545,7 +545,7 @@
                                 "role": "professional security strategist",
                                 "topic": "Understand how mitigation strategies are developed to minimize the impact of security risks."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_4"
                         }
                     ]
                 },
@@ -566,7 +566,7 @@
                                 "role": "professional risk assessor",
                                 "topic": "Overview of how regular risk assessments are conducted to ensure ongoing protection."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_16"
                         }
                     ]
                 }
@@ -595,7 +595,7 @@
                                 "role": "professional penetration tester",
                                 "topic": "Learn the steps involved in conducting penetration tests to identify vulnerabilities."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_9"
                         }
                     ]
                 },
@@ -616,7 +616,7 @@
                                 "role": "professional vulnerability analyst",
                                 "topic": "Understand how system vulnerabilities are assessed and addressed."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_20"
                         }
                     ]
                 },
@@ -637,7 +637,7 @@
                                 "role": "professional security consultant",
                                 "topic": "Overview of how critical security gaps are identified and mitigated."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_22"
                         }
                     ]
                 }
@@ -666,7 +666,7 @@
                                 "role": "professional compliance officer",
                                 "topic": "Learn about the company's approach to complying with data privacy laws and regulations."
                             },
-                            "icon": "logo_35"
+                            "icon": "logo_43"
                         }
                     ]
                 },
@@ -687,7 +687,7 @@
                                 "role": "professional data protection officer",
                                 "topic": "Understand the data encryption and protection standards used to secure sensitive information."
                             },
-                            "icon": "logo_42"
+                            "icon": "logo_26"
                         }
                     ]
                 },
@@ -708,7 +708,7 @@
                                 "role": "professional incident response coordinator",
                                 "topic": "Overview of how data breaches are managed and reported to regulatory authorities."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_28"
                         }
                     ]
                 }
@@ -737,7 +737,7 @@
                                 "role": "professional disaster recovery specialist",
                                 "topic": "Learn about the disaster recovery plans in place to ensure business continuity."
                             },
-                            "icon": "logo_24"
+                            "icon": "logo_1"
                         }
                     ]
                 },
@@ -758,7 +758,7 @@
                                 "role": "professional emergency management coordinator",
                                 "topic": "Understand the importance of simulating disaster scenarios to prepare for real incidents."
                             },
-                            "icon": "logo_24"
+                            "icon": "logo_17"
                         }
                     ]
                 },
@@ -779,7 +779,7 @@
                                 "role": "professional business continuity planner",
                                 "topic": "Overview of how the company ensures business continuity during crises."
                             },
-                            "icon": "logo_24"
+                            "icon": "logo_32"
                         }
                     ]
                 }
@@ -808,7 +808,7 @@
                                 "role": "professional certification advisor",
                                 "topic": "Learn about the available cybersecurity certifications and training opportunities."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_36"
                         }
                     ]
                 },
@@ -829,7 +829,7 @@
                                 "role": "professional learning coordinator",
                                 "topic": "Understand the continuous learning programs in place to keep security professionals up to date."
                             },
-                            "icon": "logo_36"
+                            "icon": "logo_7"
                         }
                     ]
                 },
@@ -850,7 +850,7 @@
                                 "role": "professional threat intelligence analyst",
                                 "topic": "Overview of how to stay updated on emerging cybersecurity threats and trends."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_25"
                         }
                     ]
                 }

@@ -27,7 +27,7 @@
                                 "role": "professional data team lead",
                                 "topic": "Understand the structure of the data team and the roles of key members."
                             },
-                            "icon": "logo_26"
+                            "icon": "logo_3"
                         }
                     ]
                 },
@@ -48,7 +48,7 @@
                                 "role": "professional project manager",
                                 "topic": "Introduction to the key stakeholders you will collaborate with for data projects."
                             },
-                            "icon": "logo_32"
+                            "icon": "logo_2"
                         }
                     ]
                 },
@@ -69,7 +69,7 @@
                                 "role": "professional team facilitator",
                                 "topic": "Learn about cross-functional teams and how the data team interacts with them."
                             },
-                            "icon": "logo_32"
+                            "icon": "logo_6"
                         }
                     ]
                 }
@@ -119,7 +119,7 @@
                                 "role": "professional data analyst",
                                 "topic": "Overview of the company's long-term data strategy and key objectives."
                             },
-                            "icon": "logo_27"
+                            "icon": "logo_17"
                         }
                     ]
                 },
@@ -140,7 +140,7 @@
                                 "role": "professional business analyst",
                                 "topic": "Learn how to derive actionable business insights from data."
                             },
-                            "icon": "logo_27"
+                            "icon": "logo_31"
                         }
                     ]
                 }
@@ -190,7 +190,7 @@
                                 "role": "professional data pipeline architect",
                                 "topic": "Learn the processes involved in data ingestion and transformation."
                             },
-                            "icon": "logo_28"
+                            "icon": "logo_7"
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                                 "role": "professional data architect",
                                 "topic": "Understand the architecture of our data pipelines and key components."
                             },
-                            "icon": "logo_28"
+                            "icon": "logo_18"
                         }
                     ]
                 }
@@ -261,7 +261,7 @@
                                 "role": "professional data engineer",
                                 "topic": "Introduction to the automated tools used for data cleaning in our workflows."
                             },
-                            "icon": "logo_29"
+                            "icon": "logo_20"
                         }
                     ]
                 },
@@ -282,7 +282,7 @@
                                 "role": "professional data analyst",
                                 "topic": "Understand the balance between manual and automated data cleaning processes."
                             },
-                            "icon": "logo_29"
+                            "icon": "logo_5"
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                                 "role": "professional cloud architect",
                                 "topic": "Overview of our cloud-based storage solutions and their advantages."
                             },
-                            "icon": "logo_18"
+                            "icon": "logo_19"
                         }
                     ]
                 },
@@ -332,7 +332,7 @@
                                 "role": "professional data warehouse architect",
                                 "topic": "Learn about our data warehousing infrastructure and best practices."
                             },
-                            "icon": "logo_18"
+                            "icon": "logo_10"
                         }
                     ]
                 },
@@ -353,7 +353,7 @@
                                 "role": "professional data governance officer",
                                 "topic": "Understand our data partitioning strategies and data retention policies."
                             },
-                            "icon": "logo_18"
+                            "icon": "logo_13"
                         }
                     ]
                 }
@@ -382,7 +382,7 @@
                                 "role": "professional data scientist",
                                 "topic": "Introduction to the programming languages and tools commonly used by our data team."
                             },
-                            "icon": "logo_7"
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -403,7 +403,7 @@
                                 "role": "professional machine learning engineer",
                                 "topic": "Overview of key machine learning libraries such as scikit-learn and TensorFlow."
                             },
-                            "icon": "logo_7"
+                            "icon": "logo_9"
                         }
                     ]
                 },
@@ -495,7 +495,7 @@
                                 "role": "professional data security analyst",
                                 "topic": "Introduction to access control measures for managing sensitive data."
                             },
-                            "icon": "logo_30"
+                            "icon": "logo_42"
                         }
                     ]
                 }
@@ -524,7 +524,7 @@
                                 "role": "professional data modeler",
                                 "topic": "Overview of the descriptive and predictive modeling approaches we use."
                             },
-                            "icon": "logo_31"
+                            "icon": "logo_11"
                         }
                     ]
                 },
@@ -545,7 +545,7 @@
                                 "role": "professional statistician",
                                 "topic": "Learn about methods for statistical significance testing in our data analysis."
                             },
-                            "icon": "logo_31"
+                            "icon": "logo_36"
                         }
                     ]
                 },
@@ -566,7 +566,7 @@
                                 "role": "professional data scientist",
                                 "topic": "Understand the techniques used to evaluate model performance."
                             },
-                            "icon": "logo_31"
+                            "icon": "logo_37"
                         }
                     ]
                 }
@@ -595,7 +595,7 @@
                                 "role": "professional product manager",
                                 "topic": "Learn how the data team collaborates with engineering and product teams in joint meetings."
                             },
-                            "icon": "logo_32"
+                            "icon": "logo_14"
                         }
                     ]
                 },
@@ -616,7 +616,7 @@
                                 "role": "professional data strategist",
                                 "topic": "Understand how features and data are aligned to product goals."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_4"
                         }
                     ]
                 },
@@ -637,7 +637,7 @@
                                 "role": "professional data engineer",
                                 "topic": "Overview of feedback loops from engineering to data science for continuous improvement."
                             },
-                            "icon": "logo_29"
+                            "icon": "logo_12"
                         }
                     ]
                 }
@@ -666,7 +666,7 @@
                                 "role": "professional reporting analyst",
                                 "topic": "Learn about the standard reporting templates used across the company."
                             },
-                            "icon": "logo_33"
+                            "icon": "logo_16"
                         }
                     ]
                 },
@@ -687,7 +687,7 @@
                                 "role": "professional data storyteller",
                                 "topic": "Understand the techniques we use for effective data storytelling."
                             },
-                            "icon": "logo_33"
+                            "icon": "logo_1"
                         }
                     ]
                 },
@@ -708,7 +708,7 @@
                                 "role": "professional data visualization expert",
                                 "topic": "Overview of the best practices for data visualization and tools used."
                             },
-                            "icon": "logo_33"
+                            "icon": "logo_22"
                         }
                     ]
                 }
@@ -758,7 +758,7 @@
                                 "role": "professional machine learning operations engineer",
                                 "topic": "Learn how we monitor and maintain machine learning models in production."
                             },
-                            "icon": "logo_34"
+                            "icon": "logo_21"
                         }
                     ]
                 },
@@ -779,7 +779,7 @@
                                 "role": "professional machine learning engineer",
                                 "topic": "Understand how model versioning is handled within our deployment process."
                             },
-                            "icon": "logo_34"
+                            "icon": "logo_15"
                         }
                     ]
                 }
@@ -808,7 +808,7 @@
                                 "role": "professional research coordinator",
                                 "topic": "Learn about opportunities to contribute to ongoing data science research projects."
                             },
-                            "icon": "logo_36"
+                            "icon": "logo_26"
                         }
                     ]
                 },
@@ -829,7 +829,7 @@
                                 "role": "professional networking coordinator",
                                 "topic": "Opportunities to attend and participate in industry meetups and conferences."
                             },
-                            "icon": "logo_36"
+                            "icon": "logo_23"
                         }
                     ]
                 },
@@ -850,7 +850,7 @@
                                 "role": "professional learning and development manager",
                                 "topic": "Learn about access to online learning platforms for continuous development."
                             },
-                            "icon": "logo_36"
+                            "icon": "logo_40"
                         }
                     ]
                 }
@@ -879,7 +879,7 @@
                                 "role": "professional data governance officer",
                                 "topic": "Overview of internal data governance guidelines and their importance."
                             },
-                            "icon": "logo_35"
+                            "icon": "logo_43"
                         }
                     ]
                 },
@@ -900,7 +900,7 @@
                                 "role": "professional compliance officer",
                                 "topic": "Understand how the company ensures compliance with GDPR and CCPA regulations."
                             },
-                            "icon": "logo_35"
+                            "icon": "logo_41"
                         }
                     ]
                 },
@@ -921,7 +921,7 @@
                                 "role": "professional ethics officer",
                                 "topic": "Learn about the company's policies on the ethical use of data."
                             },
-                            "icon": "logo_43"
+                            "icon": "logo_32"
                         }
                     ]
                 }

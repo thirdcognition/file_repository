@@ -27,7 +27,7 @@
                                 "role": "professional IT manager",
                                 "topic": "Introduction to the IT support team and their roles in the company."
                             },
-                            "icon": "logo_26"
+                            "icon": "logo_3"
                         }
                     ]
                 },
@@ -48,7 +48,7 @@
                                 "role": "professional business analyst",
                                 "topic": "Learn about the key stakeholders and end users IT support interacts with."
                             },
-                            "icon": "logo_45"
+                            "icon": "logo_2"
                         }
                     ]
                 },
@@ -69,7 +69,7 @@
                                 "role": "professional operations manager",
                                 "topic": "Understand the main goals and objectives of the IT support team."
                             },
-                            "icon": "logo_26"
+                            "icon": "logo_11"
                         }
                     ]
                 }
@@ -98,7 +98,7 @@
                                 "role": "professional IT systems analyst",
                                 "topic": "Get an overview of the internal systems used within the company."
                             },
-                            "icon": "logo_9"
+                            "icon": "logo_18"
                         }
                     ]
                 },
@@ -169,7 +169,7 @@
                                 "role": "professional support technician",
                                 "topic": "Familiarize yourself with the most common IT issues reported by end users."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_9"
                         }
                     ]
                 },
@@ -190,7 +190,7 @@
                                 "role": "professional IT support trainer",
                                 "topic": "Learn the standard troubleshooting processes for resolving technical issues."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_5"
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                                 "role": "professional IT operations manager",
                                 "topic": "Understand how IT support prioritizes issues based on severity and impact."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_21"
                         }
                     ]
                 }
@@ -261,7 +261,7 @@
                                 "role": "professional incident manager",
                                 "topic": "Understand the process for coordinating incident response across teams."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_12"
                         }
                     ]
                 },
@@ -282,7 +282,7 @@
                                 "role": "professional knowledge manager",
                                 "topic": "Overview of how technical knowledge is shared between teams to improve support processes."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_14"
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                                 "role": "professional IT support analyst",
                                 "topic": "Learn about the ticket management software used to track support requests."
                             },
-                            "icon": "logo_26"
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -382,7 +382,7 @@
                                 "role": "professional incident response coordinator",
                                 "topic": "Learn the steps involved in incident response at the company."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_13"
                         }
                     ]
                 },
@@ -403,7 +403,7 @@
                                 "role": "professional escalation coordinator",
                                 "topic": "Understand when and how to escalate critical incidents for timely resolution."
                             },
-                            "icon": "logo_27"
+                            "icon": "logo_24"
                         }
                     ]
                 },
@@ -424,7 +424,7 @@
                                 "role": "professional incident review facilitator",
                                 "topic": "Overview of post-incident reviews and how they help improve future responses."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_37"
                         }
                     ]
                 }
@@ -474,7 +474,7 @@
                                 "role": "professional network administrator",
                                 "topic": "Learn about managing firewall settings and VPN access for remote employees."
                             },
-                            "icon": "logo_41"
+                            "icon": "logo_20"
                         }
                     ]
                 },
@@ -495,7 +495,7 @@
                                 "role": "professional cybersecurity analyst",
                                 "topic": "Overview of the processes for responding to security vulnerabilities in the network."
                             },
-                            "icon": "logo_41"
+                            "icon": "logo_15"
                         }
                     ]
                 }
@@ -524,7 +524,7 @@
                                 "role": "professional onboarding coordinator",
                                 "topic": "Learn the procedures for setting up software and hardware for new employees."
                             },
-                            "icon": "logo_9"
+                            "icon": "logo_22"
                         }
                     ]
                 },
@@ -545,7 +545,7 @@
                                 "role": "professional software deployment specialist",
                                 "topic": "Understand the protocols for installing and configuring software for users."
                             },
-                            "icon": "logo_9"
+                            "icon": "logo_7"
                         }
                     ]
                 },
@@ -566,7 +566,7 @@
                                 "role": "professional inventory manager",
                                 "topic": "Overview of how the IT team manages hardware inventory and tracks equipment."
                             },
-                            "icon": "logo_9"
+                            "icon": "logo_28"
                         }
                     ]
                 }
@@ -595,7 +595,7 @@
                                 "role": "professional user management specialist",
                                 "topic": "Learn how to create and manage user accounts within the company's systems."
                             },
-                            "icon": "logo_9"
+                            "icon": "logo_30"
                         }
                     ]
                 },
@@ -616,7 +616,7 @@
                                 "role": "professional permissions manager",
                                 "topic": "Understand how to grant or revoke access permissions for users."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_42"
                         }
                     ]
                 },
@@ -637,7 +637,7 @@
                                 "role": "professional Active Directory administrator",
                                 "topic": "Overview of Active Directory management and user policy enforcement."
                             },
-                            "icon": "logo_26"
+                            "icon": "logo_16"
                         }
                     ]
                 }
@@ -666,7 +666,7 @@
                                 "role": "professional security compliance officer",
                                 "topic": "Learn about password management guidelines to ensure security compliance."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_35"
                         }
                     ]
                 },
@@ -687,7 +687,7 @@
                                 "role": "professional data protection officer",
                                 "topic": "Understand the company's data protection policies and how they apply to IT support."
                             },
-                            "icon": "logo_42"
+                            "icon": "logo_43"
                         }
                     ]
                 },
@@ -708,7 +708,7 @@
                                 "role": "professional security auditor",
                                 "topic": "Overview of the security auditing procedures used to maintain system security."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_38"
                         }
                     ]
                 }
@@ -737,7 +737,7 @@
                                 "role": "professional network performance analyst",
                                 "topic": "Learn how to monitor the network performance using the company's tools."
                             },
-                            "icon": "logo_10"
+                            "icon": "logo_25"
                         }
                     ]
                 },
@@ -758,7 +758,7 @@
                                 "role": "professional systems administrator",
                                 "topic": "Understand how to perform server and system health checks regularly."
                             },
-                            "icon": "logo_20"
+                            "icon": "logo_39"
                         }
                     ]
                 },
@@ -779,7 +779,7 @@
                                 "role": "professional logging and monitoring specialist",
                                 "topic": "Overview of the tools used for alerting and logging system issues."
                             },
-                            "icon": "logo_21"
+                            "icon": "logo_34"
                         }
                     ]
                 }
@@ -808,7 +808,7 @@
                                 "role": "professional data recovery specialist",
                                 "topic": "Learn about the data backup processes to ensure data integrity."
                             },
-                            "icon": "logo_24"
+                            "icon": "logo_29"
                         }
                     ]
                 },
@@ -829,7 +829,7 @@
                                 "role": "professional disaster recovery coordinator",
                                 "topic": "Understand the protocols for recovering systems in the event of a failure."
                             },
-                            "icon": "logo_24"
+                            "icon": "logo_23"
                         }
                     ]
                 },
@@ -850,7 +850,7 @@
                                 "role": "professional disaster recovery manager",
                                 "topic": "Overview of how disaster recovery drills are conducted to test preparedness."
                             },
-                            "icon": "logo_24"
+                            "icon": "logo_40"
                         }
                     ]
                 }
@@ -879,7 +879,7 @@
                                 "role": "professional training coordinator",
                                 "topic": "Learn about the certification programs available for IT support staff."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_36"
                         }
                     ]
                 },
@@ -900,7 +900,7 @@
                                 "role": "professional learning and development manager",
                                 "topic": "Overview of the company's continuous learning programs to enhance skills."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_1"
                         }
                     ]
                 },
@@ -921,7 +921,7 @@
                                 "role": "professional conference coordinator",
                                 "topic": "Understand how IT support staff can participate in industry conferences and events."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_17"
                         }
                     ]
                 }

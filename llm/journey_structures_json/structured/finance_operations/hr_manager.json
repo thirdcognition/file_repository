@@ -69,7 +69,7 @@
                                 "role": "professional HR strategist",
                                 "topic": "Overview of the HR leadership team and their responsibilities."
                             },
-                            "icon": "logo_2"
+                            "icon": "logo_3"
                         }
                     ]
                 }
@@ -98,7 +98,7 @@
                                 "role": "professional HR compliance officer",
                                 "topic": "Learn about the key policies outlined in the employee handbook."
                             },
-                            "icon": "logo_1"
+                            "icon": "logo_11"
                         }
                     ]
                 },
@@ -140,7 +140,7 @@
                                 "role": "professional ethics officer",
                                 "topic": "Overview of policies related to workplace conduct and ethical behavior."
                             },
-                            "icon": "logo_1"
+                            "icon": "logo_43"
                         }
                     ]
                 }
@@ -169,7 +169,7 @@
                                 "role": "professional onboarding specialist",
                                 "topic": "Learn the steps involved in onboarding new employees, including paperwork and training."
                             },
-                            "icon": "logo_9"
+                            "icon": "logo_40"
                         }
                     ]
                 },
@@ -190,7 +190,7 @@
                                 "role": "professional HR consultant",
                                 "topic": "Understand the exit interview process and offboarding procedures for departing employees."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_14"
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                                 "role": "professional HR transition manager",
                                 "topic": "Overview of managing transitions, including promotions, transfers, and role changes."
                             },
-                            "icon": "logo_40"
+                            "icon": "logo_6"
                         }
                     ]
                 }
@@ -240,7 +240,7 @@
                                 "role": "professional HRIS consultant",
                                 "topic": "Learn about the HR information systems used for managing employee data."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -261,7 +261,7 @@
                                 "role": "professional payroll manager",
                                 "topic": "Understand the tools used to manage payroll, benefits, and employee compensation."
                             },
-                            "icon": "logo_45"
+                            "icon": "logo_21"
                         }
                     ]
                 },
@@ -282,7 +282,7 @@
                                 "role": "professional HR technology specialist",
                                 "topic": "Overview of the self-service portals available for employees to manage their own data."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_9"
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                                 "role": "professional conflict resolution specialist",
                                 "topic": "Learn how to mediate and resolve conflicts between employees."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_23"
                         }
                     ]
                 },
@@ -332,7 +332,7 @@
                                 "role": "professional grievance officer",
                                 "topic": "Understand the process for handling employee grievances and complaints."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_37"
                         }
                     ]
                 },
@@ -382,7 +382,7 @@
                                 "role": "professional performance management consultant",
                                 "topic": "Learn about the performance review cycle and how feedback is delivered."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_4"
                         }
                     ]
                 },
@@ -453,7 +453,7 @@
                                 "role": "professional compensation analyst",
                                 "topic": "Learn about the company's salary structure and incentive programs."
                             },
-                            "icon": "logo_1"
+                            "icon": "logo_30"
                         }
                     ]
                 },
@@ -474,7 +474,7 @@
                                 "role": "professional benefits coordinator",
                                 "topic": "Understand the health and wellness benefits offered to employees."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_40"
                         }
                     ]
                 },
@@ -495,7 +495,7 @@
                                 "role": "professional retirement planner",
                                 "topic": "Overview of retirement plans and additional perks available to employees."
                             },
-                            "icon": "logo_17"
+                            "icon": "logo_7"
                         }
                     ]
                 }
@@ -524,7 +524,7 @@
                                 "role": "professional employment law consultant",
                                 "topic": "Learn about local employment laws and regulations the company adheres to."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_35"
                         }
                     ]
                 },
@@ -545,7 +545,7 @@
                                 "role": "professional compliance officer",
                                 "topic": "Understand how the company ensures compliance with local and national labor laws."
                             },
-                            "icon": "logo_43"
+                            "icon": "logo_11"
                         }
                     ]
                 },
@@ -566,7 +566,7 @@
                                 "role": "professional safety officer",
                                 "topic": "Overview of the policies and procedures to ensure workplace safety and compliance."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_24"
                         }
                     ]
                 }
@@ -595,7 +595,7 @@
                                 "role": "professional financial analyst",
                                 "topic": "Learn how HR collaborates with finance to align budgets and manage costs."
                             },
-                            "icon": "logo_32"
+                            "icon": "logo_33"
                         }
                     ]
                 },
@@ -616,7 +616,7 @@
                                 "role": "professional operations manager",
                                 "topic": "Understand the support provided by operations for HR initiatives, such as office management and logistics."
                             },
-                            "icon": "logo_26"
+                            "icon": "logo_45"
                         }
                     ]
                 },
@@ -637,7 +637,7 @@
                                 "role": "professional communication specialist",
                                 "topic": "Overview of communication channels used to ensure smooth collaboration between HR, finance, and operations."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_32"
                         }
                     ]
                 }
@@ -666,7 +666,7 @@
                                 "role": "professional diversity officer",
                                 "topic": "Learn about initiatives in place to promote diversity in hiring and workplace culture."
                             },
-                            "icon": "logo_1"
+                            "icon": "logo_26"
                         }
                     ]
                 },
@@ -687,7 +687,7 @@
                                 "role": "professional recruitment specialist",
                                 "topic": "Understand how the company ensures inclusive hiring practices and removes biases."
                             },
-                            "icon": "logo_1"
+                            "icon": "logo_48"
                         }
                     ]
                 },
@@ -708,7 +708,7 @@
                                 "role": "professional ERG coordinator",
                                 "topic": "Overview of employee resource groups and their role in fostering inclusivity."
                             },
-                            "icon": "logo_26"
+                            "icon": "logo_10"
                         }
                     ]
                 }
@@ -737,7 +737,7 @@
                                 "role": "professional career development manager",
                                 "topic": "Learn about career development programs available to employees for growth and advancement."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_36"
                         }
                     ]
                 },
@@ -758,7 +758,7 @@
                                 "role": "professional training coordinator",
                                 "topic": "Understand the training and upskilling opportunities available for employees."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_5"
                         }
                     ]
                 },
@@ -779,7 +779,7 @@
                                 "role": "professional leadership development consultant",
                                 "topic": "Overview of training programs designed for management and leadership development."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_27"
                         }
                     ]
                 }
@@ -808,7 +808,7 @@
                                 "role": "professional recruitment manager",
                                 "topic": "Learn about the recruitment process, from job posting to candidate selection."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_18"
                         }
                     ]
                 },
@@ -829,7 +829,7 @@
                                 "role": "professional engagement specialist",
                                 "topic": "Understand the strategies used to retain top talent within the company."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_44"
                         }
                     ]
                 },
@@ -850,7 +850,7 @@
                                 "role": "professional talent management consultant",
                                 "topic": "Overview of how the company manages succession planning and internal promotions."
                             },
-                            "icon": "logo_40"
+                            "icon": "logo_1"
                         }
                     ]
                 }
@@ -900,7 +900,7 @@
                                 "role": "professional legal advisor",
                                 "topic": "Understand how to stay updated with changing HR laws and regulations."
                             },
-                            "icon": "logo_35"
+                            "icon": "logo_11"
                         }
                     ]
                 },
@@ -921,7 +921,7 @@
                                 "role": "professional conference coordinator",
                                 "topic": "Overview of HR conferences and events that provide learning and networking opportunities."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_2"
                         }
                     ]
                 }

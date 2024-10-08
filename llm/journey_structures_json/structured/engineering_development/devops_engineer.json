@@ -2,67 +2,32 @@
     "id": "devops_engineer",
     "type": "journey",
     "title": "DevOps Engineer",
-    "end_of_day": 0,
+    "end_of_day": 31,
     "children": [
         {
             "id": "introduction_to_the_company_team_1",
             "type": "section",
             "title": "Introduction to the Company & Team",
-            "end_of_day": 0,
+            "end_of_day": 2,
             "children": [
                 {
                     "id": "company_goals_and_vision",
                     "type": "module",
                     "title": "Company Goals and Vision",
-                    "end_of_day": 0,
+                    "end_of_day": 1,
                     "children": [
                         {
-                            "id": "description_32",
+                            "id": "understand_the_company_s_long_term_goals_and_how_they_align_with_the_devops_function",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_32",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_32",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_32",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_32",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_32",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_32",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_32",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 1,
+                            "title": "Understand the company's long-term goals and how they align with the DevOps function.",
+                            "action": "Review the company's long-term goals and analyze how the DevOps function supports them.",
+                            "description": "Our company's long-term goals are designed to drive innovation and efficiency across all departments. The DevOps function plays a crucial role in achieving these objectives by ensuring seamless integration between development and operations. By understanding these goals, you can better align your efforts with the broader mission of the company.\nRecognizing how your work in DevOps contributes to these goals will empower you to make informed decisions and prioritize tasks that have the most impact. This alignment is essential for fostering a collaborative environment where everyone is working towards common objectives.",
+                            "content_instructions": {
+                                "role": "professional strategic planner",
+                                "topic": "Understand the company's long-term goals and how they align with the DevOps function."
+                            },
+                            "icon": "logo_17"
                         }
                     ]
                 },
@@ -70,55 +35,20 @@
                     "id": "devops_team_structure",
                     "type": "module",
                     "title": "DevOps Team Structure",
-                    "end_of_day": 0,
+                    "end_of_day": 2,
                     "children": [
                         {
-                            "id": "description_33",
+                            "id": "learn_about_the_devops_team_s_structure_and_individual_responsibilities",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_33",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_33",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_33",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_33",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_33",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_33",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_33",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 2,
+                            "title": "Learn about the DevOps team's structure and individual responsibilities.",
+                            "action": "Familiarize yourself with the DevOps team structure and identify key roles.",
+                            "description": "The DevOps team is structured to promote collaboration and efficiency, with each member playing a vital role in the development and operations lifecycle. Understanding this structure will help you navigate your responsibilities and know whom to approach for assistance or collaboration.\nBy identifying the key roles within the team, you will gain insights into how tasks are distributed and how you can effectively contribute to ongoing projects. This knowledge is crucial for building relationships and facilitating communication within the team.",
+                            "content_instructions": {
+                                "role": "professional team lead",
+                                "topic": "Learn about the DevOps team's structure and individual responsibilities."
+                            },
+                            "icon": "logo_3"
                         }
                     ]
                 },
@@ -126,55 +56,20 @@
                     "id": "cross_team_collaborations",
                     "type": "module",
                     "title": "Cross-team Collaborations",
-                    "end_of_day": 0,
+                    "end_of_day": 2,
                     "children": [
                         {
-                            "id": "description_34",
+                            "id": "overview_of_how_the_devops_team_collaborates_with_other_technical_and_non_technical_teams",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_34",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_34",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_34",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_34",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_34",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_34",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_34",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 2,
+                            "title": "Overview of how the DevOps team collaborates with other technical and non-technical teams.",
+                            "action": "Explore the collaboration dynamics between the DevOps team and other departments.",
+                            "description": "Collaboration between the DevOps team and other technical and non-technical teams is essential for the success of our projects. Each team brings unique perspectives and expertise that contribute to building reliable systems. Understanding how these teams interact will equip you to navigate the collaborative landscape effectively.\nBy recognizing the importance of cross-team collaboration, you can foster relationships with other departments, ensuring that everyone is aligned and working towards common goals. This synergy is vital for maintaining high-quality standards and meeting project deadlines.",
+                            "content_instructions": {
+                                "role": "professional collaboration facilitator",
+                                "topic": "Overview of how the DevOps team collaborates with other technical and non-technical teams."
+                            },
+                            "icon": "logo_2"
                         }
                     ]
                 }
@@ -184,61 +79,26 @@
             "id": "familiarize_with_our_system_architecture",
             "type": "section",
             "title": "Familiarize with Our System Architecture",
-            "end_of_day": 0,
+            "end_of_day": 5,
             "children": [
                 {
                     "id": "microservices_architecture_overview",
                     "type": "module",
                     "title": "Microservices Architecture Overview",
-                    "end_of_day": 0,
+                    "end_of_day": 3,
                     "children": [
                         {
-                            "id": "description_35",
+                            "id": "understand_our_microservices_architecture_and_how_services_communicate",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_35",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_35",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_35",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_35",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_35",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_35",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_35",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 3,
+                            "title": "Understand our microservices architecture and how services communicate.",
+                            "action": "Review the microservices architecture and analyze how services interact.",
+                            "description": "Our microservices architecture is designed to enhance scalability and flexibility by breaking down applications into smaller, independent services. Understanding how these services communicate is crucial for effective development and operations. Each service is responsible for specific functionalities, allowing for easier maintenance and updates.\nBy familiarizing yourself with this architecture, you will gain insights into how to manage dependencies, troubleshoot issues, and optimize performance across services. This knowledge will empower you to contribute effectively to our development and deployment processes.",
+                            "content_instructions": {
+                                "role": "professional systems architect",
+                                "topic": "Understand our microservices architecture and how services communicate."
+                            },
+                            "icon": "logo_18"
                         }
                     ]
                 },
@@ -246,55 +106,20 @@
                     "id": "cloud_infrastructure_setup",
                     "type": "module",
                     "title": "Cloud Infrastructure Setup",
-                    "end_of_day": 0,
+                    "end_of_day": 4,
                     "children": [
                         {
-                            "id": "description_36",
+                            "id": "overview_of_our_cloud_infrastructure_setup_and_key_services_used",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_36",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_36",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_36",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_36",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_36",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_36",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_36",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 4,
+                            "title": "Overview of our cloud infrastructure setup and key services used.",
+                            "action": "Explore the cloud infrastructure setup and identify key services utilized.",
+                            "description": "Our cloud infrastructure is designed to provide robust, scalable, and secure services that support our applications. Familiarizing yourself with this setup will help you understand how different services interact and how we manage resources effectively. Key services include compute, storage, and networking capabilities that are essential for our operations.\nBy understanding our cloud infrastructure, you will be better equipped to optimize performance, manage costs, and ensure that our services are reliable and available. This knowledge is crucial for your role in supporting our DevOps practices.",
+                            "content_instructions": {
+                                "role": "professional cloud engineer",
+                                "topic": "Overview of our cloud infrastructure setup and key services used."
+                            },
+                            "icon": "logo_19"
                         }
                     ]
                 },
@@ -302,55 +127,20 @@
                     "id": "service_dependencies",
                     "type": "module",
                     "title": "Service Dependencies",
-                    "end_of_day": 0,
+                    "end_of_day": 5,
                     "children": [
                         {
-                            "id": "description_37",
+                            "id": "learn_about_service_dependencies_and_how_they_are_managed_across_teams",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_37",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_37",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_37",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_37",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_37",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_37",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_37",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 5,
+                            "title": "Learn about service dependencies and how they are managed across teams.",
+                            "action": "Review the management of service dependencies and their impact on operations.",
+                            "description": "Managing service dependencies effectively is crucial for maintaining system stability and performance. Understanding how these dependencies are tracked and managed across teams will empower you to identify potential issues before they escalate. This involves coordinating with different teams to ensure that all services are functioning correctly and are up to date.\nBy familiarizing yourself with our dependency management practices, you will contribute to smoother operations and help mitigate risks associated with service interactions. This knowledge is essential for fostering a proactive DevOps culture.",
+                            "content_instructions": {
+                                "role": "professional systems analyst",
+                                "topic": "Learn about service dependencies and how they are managed across teams."
+                            },
+                            "icon": "logo_5"
                         }
                     ]
                 }
@@ -360,61 +150,26 @@
             "id": "overview_of_our_cloud_infrastructure",
             "type": "section",
             "title": "Overview of Our Cloud Infrastructure",
-            "end_of_day": 0,
+            "end_of_day": 8,
             "children": [
                 {
                     "id": "cloud_providers_and_services",
                     "type": "module",
                     "title": "Cloud Providers and Services",
-                    "end_of_day": 0,
+                    "end_of_day": 6,
                     "children": [
                         {
-                            "id": "description_38",
+                            "id": "introduction_to_the_cloud_providers_we_use_and_the_services_they_offer",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_38",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_38",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_38",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_38",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_38",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_38",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_38",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 6,
+                            "title": "Introduction to the cloud providers we use and the services they offer.",
+                            "action": "Explore the cloud providers and their respective services utilized in our projects.",
+                            "description": "We utilize several cloud providers to ensure flexibility and reliability in our operations. Each provider offers specific services that cater to different aspects of our infrastructure, such as storage, compute, and networking. Understanding these providers and their offerings will help you make informed decisions about resource allocation and management.\nBy familiarizing yourself with our cloud providers, you will be better equipped to leverage their capabilities effectively, ensuring that our applications are scalable and resilient. This knowledge is essential for optimizing our cloud strategy.",
+                            "content_instructions": {
+                                "role": "professional cloud solutions architect",
+                                "topic": "Introduction to the cloud providers we use and the services they offer."
+                            },
+                            "icon": "logo_10"
                         }
                     ]
                 },
@@ -422,55 +177,20 @@
                     "id": "resource_scaling_and_management",
                     "type": "module",
                     "title": "Resource Scaling and Management",
-                    "end_of_day": 0,
+                    "end_of_day": 7,
                     "children": [
                         {
-                            "id": "description_39",
+                            "id": "understand_how_we_manage_cloud_resources_and_scale_based_on_demand",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_39",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_39",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_39",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_39",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_39",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_39",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_39",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 7,
+                            "title": "Understand how we manage cloud resources and scale based on demand.",
+                            "action": "Review our resource management strategies and scaling practices.",
+                            "description": "Effective resource management is vital for optimizing performance and cost in our cloud infrastructure. We employ various strategies to scale resources based on demand, ensuring that we can handle traffic fluctuations without compromising service quality. Understanding these practices will enable you to contribute to efficient resource allocation and management.\nBy familiarizing yourself with our scaling strategies, you will be better positioned to support our operational goals and ensure that our infrastructure remains responsive and cost-effective. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional cloud operations manager",
+                                "topic": "Understand how we manage cloud resources and scale based on demand."
+                            },
+                            "icon": "logo_20"
                         }
                     ]
                 },
@@ -478,55 +198,20 @@
                     "id": "cost_optimization_strategies",
                     "type": "module",
                     "title": "Cost Optimization Strategies",
-                    "end_of_day": 0,
+                    "end_of_day": 8,
                     "children": [
                         {
-                            "id": "description_40",
+                            "id": "learn_about_strategies_we_employ_to_optimize_cloud_infrastructure_costs",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_40",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_40",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_40",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_40",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_40",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_40",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_40",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 8,
+                            "title": "Learn about strategies we employ to optimize cloud infrastructure costs.",
+                            "action": "Explore our cost optimization strategies for cloud resources.",
+                            "description": "Cost management is a critical aspect of our cloud strategy. We implement various strategies to optimize cloud infrastructure costs, including rightsizing resources, leveraging reserved instances, and utilizing cost monitoring tools. Understanding these strategies will help you make informed decisions that contribute to our overall financial efficiency.\nBy familiarizing yourself with our cost optimization practices, you will be better equipped to identify opportunities for savings and ensure that our cloud operations remain sustainable. This knowledge is essential for your role within the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional financial analyst",
+                                "topic": "Learn about strategies we employ to optimize cloud infrastructure costs."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 }
@@ -536,61 +221,26 @@
             "id": "our_automation_tools_and_processes",
             "type": "section",
             "title": "Our Automation Tools and Processes",
-            "end_of_day": 0,
+            "end_of_day": 11,
             "children": [
                 {
                     "id": "ci_cd_automation_tools",
                     "type": "module",
                     "title": "CI/CD Automation Tools",
-                    "end_of_day": 0,
+                    "end_of_day": 9,
                     "children": [
                         {
-                            "id": "description_41",
+                            "id": "introduction_to_the_automation_tools_used_in_our_ci_cd_pipeline",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_41",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_41",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_41",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_41",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_41",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_41",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_41",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 9,
+                            "title": "Introduction to the automation tools used in our CI/CD pipeline.",
+                            "action": "Familiarize yourself with the CI/CD automation tools we use.",
+                            "description": "Our CI/CD pipeline relies on a variety of automation tools that facilitate the integration and deployment processes. Understanding these tools is essential for ensuring that code changes are tested and deployed efficiently. Familiarizing yourself with these tools will empower you to contribute effectively to our automation efforts.\nBy learning about our CI/CD automation tools, you will enhance your ability to streamline workflows and improve the overall quality of our deployments. This knowledge is crucial for your success in the DevOps role.",
+                            "content_instructions": {
+                                "role": "professional DevOps engineer",
+                                "topic": "Introduction to the automation tools used in our CI/CD pipeline."
+                            },
+                            "icon": "logo_7"
                         }
                     ]
                 },
@@ -598,55 +248,20 @@
                     "id": "automated_monitoring_solutions",
                     "type": "module",
                     "title": "Automated Monitoring Solutions",
-                    "end_of_day": 0,
+                    "end_of_day": 10,
                     "children": [
                         {
-                            "id": "description_42",
+                            "id": "learn_about_the_automated_monitoring_solutions_used_to_ensure_system_health",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_42",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_42",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_42",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_42",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_42",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_42",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_42",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 10,
+                            "title": "Learn about the automated monitoring solutions used to ensure system health.",
+                            "action": "Explore the monitoring solutions we use to maintain system health.",
+                            "description": "Automated monitoring is crucial for maintaining the health and performance of our systems. We employ various monitoring solutions that provide real-time insights into system performance, enabling us to identify and address issues proactively. Understanding these solutions will help you ensure that our systems remain reliable and efficient.\nBy familiarizing yourself with our automated monitoring tools, you will be better equipped to contribute to incident management and maintain high service levels. This knowledge is essential for supporting our DevOps practices.",
+                            "content_instructions": {
+                                "role": "professional systems monitor",
+                                "topic": "Learn about the automated monitoring solutions used to ensure system health."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 },
@@ -654,55 +269,20 @@
                     "id": "deployment_automation",
                     "type": "module",
                     "title": "Deployment Automation",
-                    "end_of_day": 0,
+                    "end_of_day": 11,
                     "children": [
                         {
-                            "id": "description_43",
+                            "id": "understand_how_deployments_are_automated_and_monitored_in_our_environment",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_43",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_43",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_43",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_43",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_43",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_43",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_43",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 11,
+                            "title": "Understand how deployments are automated and monitored in our environment.",
+                            "action": "Review our deployment automation processes and monitoring practices.",
+                            "description": "Deployment automation is a key aspect of our DevOps practices, allowing us to deploy code changes quickly and reliably. Understanding how these deployments are automated and monitored is essential for ensuring that our applications remain available and performant. Familiarizing yourself with these processes will empower you to contribute to efficient deployment practices.\nBy learning about our deployment automation strategies, you will enhance your ability to support our operational goals and ensure smooth rollouts of new features. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional deployment engineer",
+                                "topic": "Understand how deployments are automated and monitored in our environment."
+                            },
+                            "icon": "logo_4"
                         }
                     ]
                 }
@@ -712,61 +292,26 @@
             "id": "managing_our_ci_cd_pipelines",
             "type": "section",
             "title": "Managing Our CI/CD Pipelines",
-            "end_of_day": 0,
+            "end_of_day": 14,
             "children": [
                 {
                     "id": "pipeline_configuration_and_setup",
                     "type": "module",
                     "title": "Pipeline Configuration and Setup",
-                    "end_of_day": 0,
+                    "end_of_day": 12,
                     "children": [
                         {
-                            "id": "description_44",
+                            "id": "step_by_step_guide_on_configuring_and_setting_up_ci_cd_pipelines",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_44",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_44",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_44",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_44",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_44",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_44",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_44",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 12,
+                            "title": "Step-by-step guide on configuring and setting up CI/CD pipelines.",
+                            "action": "Follow the guidelines to configure and set up CI/CD pipelines.",
+                            "description": "Configuring and setting up CI/CD pipelines is crucial for automating our development and deployment processes. This step-by-step guide will walk you through the necessary configurations and best practices for setting up pipelines that meet our operational needs. Understanding these configurations will empower you to contribute effectively to our CI/CD efforts.\nBy familiarizing yourself with our pipeline setup procedures, you will enhance your ability to streamline workflows and improve deployment efficiency. This knowledge is essential for your success in the DevOps role.",
+                            "content_instructions": {
+                                "role": "professional CI/CD engineer",
+                                "topic": "Step-by-step guide on configuring and setting up CI/CD pipelines."
+                            },
+                            "icon": "logo_22"
                         }
                     ]
                 },
@@ -774,55 +319,20 @@
                     "id": "automated_testing_and_validation",
                     "type": "module",
                     "title": "Automated Testing and Validation",
-                    "end_of_day": 0,
+                    "end_of_day": 13,
                     "children": [
                         {
-                            "id": "description_45",
+                            "id": "learn_how_automated_testing_is_integrated_into_our_ci_cd_pipeline",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_45",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_45",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_45",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_45",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_45",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_45",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_45",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 13,
+                            "title": "Learn how automated testing is integrated into our CI/CD pipeline.",
+                            "action": "Explore the automated testing practices within our CI/CD pipeline.",
+                            "description": "Automated testing is a critical component of our CI/CD pipeline, ensuring that code changes are validated before deployment. Understanding how these tests are integrated will empower you to contribute to maintaining high-quality standards in our development process. Familiarizing yourself with our testing practices will help you identify areas for improvement and optimization.\nBy learning about our automated testing strategies, you will enhance your ability to support quality assurance efforts and ensure that our deployments are reliable. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional QA engineer",
+                                "topic": "Learn how automated testing is integrated into our CI/CD pipeline."
+                            },
+                            "icon": "logo_15"
                         }
                     ]
                 },
@@ -830,55 +340,20 @@
                     "id": "deployment_environments",
                     "type": "module",
                     "title": "Deployment Environments",
-                    "end_of_day": 0,
+                    "end_of_day": 14,
                     "children": [
                         {
-                            "id": "description_46",
+                            "id": "overview_of_deployment_environments_and_how_they_are_managed",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_46",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_46",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_46",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_46",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_46",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_46",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_46",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 14,
+                            "title": "Overview of deployment environments and how they are managed.",
+                            "action": "Review the management of deployment environments and their configurations.",
+                            "description": "Managing deployment environments is essential for ensuring that our applications are stable and performant. Understanding how these environments are configured and maintained will empower you to contribute to efficient deployment practices. Familiarizing yourself with our environment management strategies will help you identify potential issues and optimize performance.\nBy learning about our deployment environment management, you will enhance your ability to support operational goals and ensure successful rollouts of new features. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional environment manager",
+                                "topic": "Overview of deployment environments and how they are managed."
+                            },
+                            "icon": "logo_9"
                         }
                     ]
                 }
@@ -888,61 +363,26 @@
             "id": "monitoring_and_incident_management_in_our_company",
             "type": "section",
             "title": "Monitoring and Incident Management in Our Company",
-            "end_of_day": 0,
+            "end_of_day": 17,
             "children": [
                 {
                     "id": "alerting_and_notification_systems",
                     "type": "module",
                     "title": "Alerting and Notification Systems",
-                    "end_of_day": 0,
+                    "end_of_day": 15,
                     "children": [
                         {
-                            "id": "description_47",
+                            "id": "learn_about_the_alerting_and_notification_systems_in_place_for_incident_management",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_47",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_47",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_47",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_47",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_47",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_47",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_47",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 15,
+                            "title": "Learn about the alerting and notification systems in place for incident management.",
+                            "action": "Explore the alerting and notification systems we use for incident management.",
+                            "description": "Effective incident management relies on robust alerting and notification systems that provide real-time insights into system health. Understanding these systems will empower you to respond promptly to issues and mitigate risks. Familiarizing yourself with our alerting practices will help you ensure that incidents are addressed efficiently and effectively.\nBy learning about our alerting and notification systems, you will enhance your ability to contribute to incident management and maintain high service levels. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional incident manager",
+                                "topic": "Learn about the alerting and notification systems in place for incident management."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 },
@@ -950,55 +390,20 @@
                     "id": "incident_response_and_resolution",
                     "type": "module",
                     "title": "Incident Response and Resolution",
-                    "end_of_day": 0,
+                    "end_of_day": 16,
                     "children": [
                         {
-                            "id": "description_48",
+                            "id": "understand_how_incidents_are_triaged_and_resolved_in_a_timely_manner",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_48",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_48",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_48",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_48",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_48",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_48",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_48",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 16,
+                            "title": "Understand how incidents are triaged and resolved in a timely manner.",
+                            "action": "Review our incident response procedures and resolution strategies.",
+                            "description": "Timely incident response and resolution are critical for maintaining system reliability and user satisfaction. Understanding our incident triage process will empower you to contribute effectively to resolving issues as they arise. Familiarizing yourself with our response strategies will help you identify potential improvements and optimize our incident management practices.\nBy learning about our incident response procedures, you will enhance your ability to support operational goals and ensure high-quality service delivery. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional incident response analyst",
+                                "topic": "Understand how incidents are triaged and resolved in a timely manner."
+                            },
+                            "icon": "logo_38"
                         }
                     ]
                 },
@@ -1006,55 +411,20 @@
                     "id": "post_incident_reviews",
                     "type": "module",
                     "title": "Post-Incident Reviews",
-                    "end_of_day": 0,
+                    "end_of_day": 17,
                     "children": [
                         {
-                            "id": "description_49",
+                            "id": "overview_of_how_we_conduct_post_incident_reviews_to_improve_future_processes",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_49",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_49",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_49",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_49",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_49",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_49",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_49",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 17,
+                            "title": "Overview of how we conduct post-incident reviews to improve future processes.",
+                            "action": "Participate in post-incident reviews and understand their significance.",
+                            "description": "Post-incident reviews are essential for fostering a culture of continuous improvement within our team. These reviews allow us to reflect on incidents, identify root causes, and develop actionable plans to prevent similar issues in the future. Understanding this process will empower you to contribute to meaningful discussions and outcomes.\nBy participating in post-incident reviews, you will help enhance our incident management practices and support a culture of learning and growth. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional process improvement facilitator",
+                                "topic": "Overview of how we conduct post-incident reviews to improve future processes."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 }
@@ -1064,61 +434,26 @@
             "id": "our_configuration_management_and_deployment_tools",
             "type": "section",
             "title": "Our Configuration Management and Deployment Tools",
-            "end_of_day": 0,
+            "end_of_day": 20,
             "children": [
                 {
                     "id": "ansible_and_terraform",
                     "type": "module",
                     "title": "Ansible and Terraform",
-                    "end_of_day": 0,
+                    "end_of_day": 18,
                     "children": [
                         {
-                            "id": "description_50",
+                            "id": "introduction_to_ansible_and_terraform_for_configuration_management_and_deployment",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_50",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_50",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_50",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_50",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_50",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_50",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_50",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 18,
+                            "title": "Introduction to Ansible and Terraform for configuration management and deployment.",
+                            "action": "Familiarize yourself with Ansible and Terraform and their applications.",
+                            "description": "Ansible and Terraform are powerful tools that facilitate configuration management and deployment processes. Understanding how to use these tools effectively will empower you to automate infrastructure provisioning and manage configurations efficiently. Familiarizing yourself with their capabilities will enhance your ability to contribute to our DevOps practices.\nBy learning about Ansible and Terraform, you will improve your skills in managing infrastructure and ensure that our configurations are consistent and reliable. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional configuration manager",
+                                "topic": "Introduction to Ansible and Terraform for configuration management and deployment."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
@@ -1126,55 +461,20 @@
                     "id": "containerization_docker_kubernetes",
                     "type": "module",
                     "title": "Containerization (Docker/Kubernetes)",
-                    "end_of_day": 0,
+                    "end_of_day": 19,
                     "children": [
                         {
-                            "id": "description_51",
+                            "id": "overview_of_how_we_use_docker_and_kubernetes_for_container_management",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_51",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_51",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_51",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_51",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_51",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_51",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_51",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 19,
+                            "title": "Overview of how we use Docker and Kubernetes for container management.",
+                            "action": "Explore the use of Docker and Kubernetes in our container management practices.",
+                            "description": "Containerization is a key aspect of modern application development, enabling us to package applications and their dependencies into isolated environments. Understanding how we use Docker and Kubernetes for container management will empower you to contribute to efficient deployment and scaling practices. Familiarizing yourself with these technologies will enhance your ability to support our operational goals.\nBy learning about Docker and Kubernetes, you will improve your skills in managing containers and ensure that our applications are scalable and resilient. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional containerization engineer",
+                                "topic": "Overview of how we use Docker and Kubernetes for container management."
+                            },
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -1182,55 +482,20 @@
                     "id": "infrastructure_as_code_iac_principles",
                     "type": "module",
                     "title": "Infrastructure as Code (IaC) Principles",
-                    "end_of_day": 0,
+                    "end_of_day": 20,
                     "children": [
                         {
-                            "id": "description_52",
+                            "id": "learn_the_principles_of_infrastructure_as_code_iac_and_how_we_apply_them",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_52",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_52",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_52",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_52",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_52",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_52",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_52",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 20,
+                            "title": "Learn the principles of Infrastructure as Code (IaC) and how we apply them.",
+                            "action": "Review the principles of Infrastructure as Code and its application in our environment.",
+                            "description": "Infrastructure as Code (IaC) is a crucial concept in modern DevOps practices, allowing us to manage infrastructure through code and automate provisioning processes. Understanding these principles will empower you to contribute to efficient infrastructure management and ensure consistency across environments. Familiarizing yourself with IaC will enhance your ability to support our operational goals.\nBy learning about IaC principles, you will improve your skills in managing infrastructure and ensure that our configurations are reliable and reproducible. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional infrastructure engineer",
+                                "topic": "Learn the principles of Infrastructure as Code (IaC) and how we apply them."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 }
@@ -1240,61 +505,26 @@
             "id": "security_and_compliance_in_our_infrastructure",
             "type": "section",
             "title": "Security and Compliance in Our Infrastructure",
-            "end_of_day": 0,
+            "end_of_day": 23,
             "children": [
                 {
                     "id": "cloud_security_best_practices",
                     "type": "module",
                     "title": "Cloud Security Best Practices",
-                    "end_of_day": 0,
+                    "end_of_day": 21,
                     "children": [
                         {
-                            "id": "description_53",
+                            "id": "overview_of_best_practices_for_securing_cloud_infrastructure",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_53",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_53",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_53",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_53",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_53",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_53",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_53",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 21,
+                            "title": "Overview of best practices for securing cloud infrastructure.",
+                            "action": "Review the cloud security best practices we employ.",
+                            "description": "Securing our cloud infrastructure is paramount for protecting sensitive data and maintaining compliance with regulatory standards. Understanding the best practices for cloud security will empower you to contribute to our security efforts and ensure that our systems are resilient against threats. Familiarizing yourself with these practices will help you identify potential vulnerabilities and mitigate risks effectively.\nBy learning about our cloud security best practices, you will enhance your ability to support our security initiatives and maintain high service levels. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional security analyst",
+                                "topic": "Overview of best practices for securing cloud infrastructure."
+                            },
+                            "icon": "logo_41"
                         }
                     ]
                 },
@@ -1302,55 +532,20 @@
                     "id": "data_encryption_techniques",
                     "type": "module",
                     "title": "Data Encryption Techniques",
-                    "end_of_day": 0,
+                    "end_of_day": 22,
                     "children": [
                         {
-                            "id": "description_54",
+                            "id": "learn_about_data_encryption_techniques_we_use_to_secure_sensitive_data",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_54",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_54",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_54",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_54",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_54",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_54",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_54",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 22,
+                            "title": "Learn about data encryption techniques we use to secure sensitive data.",
+                            "action": "Explore the data encryption techniques employed in our infrastructure.",
+                            "description": "Data encryption is a critical aspect of our security strategy, ensuring that sensitive information is protected from unauthorized access. Understanding the encryption techniques we use will empower you to contribute to our data security efforts and ensure compliance with regulatory standards. Familiarizing yourself with these techniques will help you identify areas for improvement in our security practices.\nBy learning about our data encryption strategies, you will enhance your ability to support our security initiatives and maintain high service levels. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional data security officer",
+                                "topic": "Learn about data encryption techniques we use to secure sensitive data."
+                            },
+                            "icon": "logo_42"
                         }
                     ]
                 },
@@ -1358,55 +553,20 @@
                     "id": "compliance_with_regulatory_standards",
                     "type": "module",
                     "title": "Compliance with Regulatory Standards",
-                    "end_of_day": 0,
+                    "end_of_day": 23,
                     "children": [
                         {
-                            "id": "description_55",
+                            "id": "understand_the_regulatory_standards_we_comply_with_and_how_devops_supports_them",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_55",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_55",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_55",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_55",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_55",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_55",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_55",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 23,
+                            "title": "Understand the regulatory standards we comply with and how DevOps supports them.",
+                            "action": "Review the regulatory standards relevant to our operations and how we ensure compliance.",
+                            "description": "Compliance with regulatory standards is essential for maintaining trust and integrity in our operations. Understanding the standards we comply with will empower you to contribute to our compliance efforts and ensure that our practices align with industry requirements. Familiarizing yourself with these standards will help you identify areas for improvement in our processes.\nBy learning about our compliance initiatives, you will enhance your ability to support our regulatory efforts and maintain high service levels. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional compliance officer",
+                                "topic": "Understand the regulatory standards we comply with and how DevOps supports them."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 }
@@ -1416,61 +576,26 @@
             "id": "collaborating_with_our_development_teams",
             "type": "section",
             "title": "Collaborating with Our Development Teams",
-            "end_of_day": 0,
+            "end_of_day": 26,
             "children": [
                 {
                     "id": "infrastructure_as_code_best_practices",
                     "type": "module",
                     "title": "Infrastructure-as-Code Best Practices",
-                    "end_of_day": 0,
+                    "end_of_day": 24,
                     "children": [
                         {
-                            "id": "description_56",
+                            "id": "best_practices_for_collaborating_with_development_teams_on_infrastructure_as_code",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_56",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_56",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_56",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_56",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_56",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_56",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_56",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 24,
+                            "title": "Best practices for collaborating with development teams on Infrastructure-as-Code.",
+                            "action": "Review the best practices for collaborating on Infrastructure-as-Code initiatives.",
+                            "description": "Collaboration between DevOps and development teams is essential for successful Infrastructure-as-Code (IaC) implementations. Understanding the best practices for this collaboration will empower you to contribute effectively to IaC initiatives and ensure that infrastructure is managed consistently. Familiarizing yourself with these practices will help you identify areas for improvement in our collaborative efforts.\nBy learning about IaC collaboration strategies, you will enhance your ability to support our operational goals and ensure successful deployments. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional collaboration specialist",
+                                "topic": "Best practices for collaborating with development teams on Infrastructure-as-Code."
+                            },
+                            "icon": "logo_6"
                         }
                     ]
                 },
@@ -1478,55 +603,20 @@
                     "id": "pipeline_adjustments_for_development_needs",
                     "type": "module",
                     "title": "Pipeline Adjustments for Development Needs",
-                    "end_of_day": 0,
+                    "end_of_day": 25,
                     "children": [
                         {
-                            "id": "description_57",
+                            "id": "learn_how_to_adjust_pipelines_based_on_development_needs_and_requirements",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_57",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_57",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_57",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_57",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_57",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_57",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_57",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 25,
+                            "title": "Learn how to adjust pipelines based on development needs and requirements.",
+                            "action": "Review the process for adjusting CI/CD pipelines to meet development needs.",
+                            "description": "Adjusting CI/CD pipelines based on development needs is crucial for ensuring that our workflows remain efficient and responsive to changes. Understanding how to make these adjustments will empower you to contribute effectively to our development processes and ensure that our pipelines are optimized for performance. Familiarizing yourself with this process will help you identify areas for improvement in our CI/CD practices.\nBy learning about pipeline adjustment strategies, you will enhance your ability to support our operational goals and ensure successful deployments. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional CI/CD engineer",
+                                "topic": "Learn how to adjust pipelines based on development needs and requirements."
+                            },
+                            "icon": "logo_28"
                         }
                     ]
                 },
@@ -1534,55 +624,20 @@
                     "id": "communication_channels_and_escalations",
                     "type": "module",
                     "title": "Communication Channels and Escalations",
-                    "end_of_day": 0,
+                    "end_of_day": 26,
                     "children": [
                         {
-                            "id": "description_58",
+                            "id": "overview_of_communication_channels_and_escalation_protocols_between_devops_and_development_teams",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_58",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_58",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_58",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_58",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_58",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_58",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_58",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 26,
+                            "title": "Overview of communication channels and escalation protocols between DevOps and development teams.",
+                            "action": "Familiarize yourself with the communication channels and escalation protocols in place.",
+                            "description": "Effective communication is vital for collaboration between DevOps and development teams. Understanding the channels and escalation protocols will empower you to navigate communication effectively and ensure that issues are resolved promptly. Familiarizing yourself with these protocols will help you identify areas for improvement in our communication practices.\nBy learning about our communication strategies, you will enhance your ability to support our collaborative efforts and ensure high-quality service delivery. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional communication specialist",
+                                "topic": "Overview of communication channels and escalation protocols between DevOps and development teams."
+                            },
+                            "icon": "logo_14"
                         }
                     ]
                 }
@@ -1592,61 +647,26 @@
             "id": "our_disaster_recovery_procedures",
             "type": "section",
             "title": "Our Disaster Recovery Procedures",
-            "end_of_day": 0,
+            "end_of_day": 29,
             "children": [
                 {
                     "id": "backup_and_restore_strategies",
                     "type": "module",
                     "title": "Backup and Restore Strategies",
-                    "end_of_day": 0,
+                    "end_of_day": 27,
                     "children": [
                         {
-                            "id": "description_59",
+                            "id": "learn_about_our_backup_and_restore_strategies_for_disaster_recovery",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_59",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_59",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_59",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_59",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_59",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_59",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_59",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 27,
+                            "title": "Learn about our backup and restore strategies for disaster recovery.",
+                            "action": "Review the backup and restore strategies in place for disaster recovery.",
+                            "description": "Having robust backup and restore strategies is essential for ensuring business continuity in the event of a disaster. Understanding these strategies will empower you to contribute effectively to our disaster recovery efforts and ensure that our data is protected. Familiarizing yourself with these practices will help you identify areas for improvement in our recovery processes.\nBy learning about our backup and restore strategies, you will enhance your ability to support our disaster recovery initiatives and maintain high service levels. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional disaster recovery specialist",
+                                "topic": "Learn about our backup and restore strategies for disaster recovery."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 },
@@ -1654,55 +674,20 @@
                     "id": "disaster_simulation_drills",
                     "type": "module",
                     "title": "Disaster Simulation Drills",
-                    "end_of_day": 0,
+                    "end_of_day": 28,
                     "children": [
                         {
-                            "id": "description_60",
+                            "id": "understand_how_disaster_simulation_drills_are_conducted_and_their_importance",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_60",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_60",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_60",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_60",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_60",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_60",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_60",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 28,
+                            "title": "Understand how disaster simulation drills are conducted and their importance.",
+                            "action": "Participate in disaster simulation drills to understand their significance.",
+                            "description": "Disaster simulation drills are crucial for testing our disaster recovery plans and ensuring that our teams are prepared for real incidents. Understanding how these drills are conducted will empower you to contribute effectively to our preparedness efforts. Familiarizing yourself with the importance of these drills will help you identify areas for improvement in our recovery processes.\nBy participating in disaster simulation drills, you will enhance your ability to support our disaster recovery initiatives and maintain high service levels. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional disaster recovery coordinator",
+                                "topic": "Understand how disaster simulation drills are conducted and their importance."
+                            },
+                            "icon": "logo_32"
                         }
                     ]
                 },
@@ -1710,55 +695,20 @@
                     "id": "failover_and_recovery_plans",
                     "type": "module",
                     "title": "Failover and Recovery Plans",
-                    "end_of_day": 0,
+                    "end_of_day": 29,
                     "children": [
                         {
-                            "id": "description_61",
+                            "id": "overview_of_our_failover_and_recovery_plans_in_case_of_major_incidents",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_61",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_61",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_61",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_61",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_61",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_61",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_61",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 29,
+                            "title": "Overview of our failover and recovery plans in case of major incidents.",
+                            "action": "Review the failover and recovery plans in place for major incidents.",
+                            "description": "Failover and recovery plans are essential for ensuring that our systems remain available and resilient in the face of major incidents. Understanding these plans will empower you to contribute effectively to our disaster recovery efforts and ensure that our operations can continue seamlessly. Familiarizing yourself with these strategies will help you identify areas for improvement in our recovery processes.\nBy learning about our failover and recovery plans, you will enhance your ability to support our disaster recovery initiatives and maintain high service levels. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional recovery manager",
+                                "topic": "Overview of our failover and recovery plans in case of major incidents."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 }
@@ -1768,61 +718,26 @@
             "id": "performance_optimization_techniques_at_our_company",
             "type": "section",
             "title": "Performance Optimization Techniques at Our Company",
-            "end_of_day": 0,
+            "end_of_day": 30,
             "children": [
                 {
                     "id": "load_balancing_strategies",
                     "type": "module",
                     "title": "Load Balancing Strategies",
-                    "end_of_day": 0,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "id": "description_62",
+                            "id": "learn_how_load_balancing_is_used_to_optimize_performance",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_62",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_62",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_62",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_62",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_62",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_62",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_62",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 30,
+                            "title": "Learn how load balancing is used to optimize performance.",
+                            "action": "Explore the load balancing strategies employed in our infrastructure.",
+                            "description": "Load balancing is essential for distributing incoming traffic across multiple servers, ensuring that no single server becomes overwhelmed. Understanding how we implement load balancing strategies will empower you to contribute effectively to optimizing performance and maintaining high availability. Familiarizing yourself with these strategies will help you identify areas for improvement in our infrastructure.\nBy learning about our load balancing practices, you will enhance your ability to support our operational goals and ensure reliable service delivery. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional performance engineer",
+                                "topic": "Learn how load balancing is used to optimize performance."
+                            },
+                            "icon": "logo_39"
                         }
                     ]
                 },
@@ -1830,55 +745,20 @@
                     "id": "resource_allocation_and_tuning",
                     "type": "module",
                     "title": "Resource Allocation and Tuning",
-                    "end_of_day": 0,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "id": "description_63",
+                            "id": "understand_resource_allocation_techniques_and_how_tuning_improves_system_performance",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_63",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_63",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_63",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_63",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_63",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_63",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_63",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 30,
+                            "title": "Understand resource allocation techniques and how tuning improves system performance.",
+                            "action": "Review our resource allocation techniques and tuning practices.",
+                            "description": "Effective resource allocation and tuning are crucial for optimizing system performance. Understanding how we allocate resources and tune our systems will empower you to contribute to maintaining high availability and responsiveness. Familiarizing yourself with these practices will help you identify areas for improvement in our infrastructure.\nBy learning about our resource allocation and tuning strategies, you will enhance your ability to support our operational goals and ensure reliable service delivery. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional resource manager",
+                                "topic": "Understand resource allocation techniques and how tuning improves system performance."
+                            },
+                            "icon": "logo_27"
                         }
                     ]
                 },
@@ -1886,55 +766,20 @@
                     "id": "optimizing_application_performance",
                     "type": "module",
                     "title": "Optimizing Application Performance",
-                    "end_of_day": 0,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "id": "description_64",
+                            "id": "overview_of_strategies_for_optimizing_application_performance_in_production",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_64",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_64",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_64",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_64",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_64",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_64",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_64",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 30,
+                            "title": "Overview of strategies for optimizing application performance in production.",
+                            "action": "Explore the strategies we employ to optimize application performance.",
+                            "description": "Optimizing application performance is essential for ensuring a seamless user experience. Understanding the strategies we employ to enhance performance will empower you to contribute effectively to our operational goals. Familiarizing yourself with these strategies will help you identify areas for improvement in our applications.\nBy learning about our application performance optimization practices, you will enhance your ability to support our operational goals and ensure reliable service delivery. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional application performance engineer",
+                                "topic": "Overview of strategies for optimizing application performance in production."
+                            },
+                            "icon": "logo_34"
                         }
                     ]
                 }
@@ -1944,61 +789,26 @@
             "id": "version_control_and_infrastructure_as_code_iac_in_our_company",
             "type": "section",
             "title": "Version Control and Infrastructure as Code (IaC) in Our Company",
-            "end_of_day": 0,
+            "end_of_day": 31,
             "children": [
                 {
                     "id": "iac_tools_and_frameworks",
                     "type": "module",
                     "title": "IaC Tools and Frameworks",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_65",
+                            "id": "introduction_to_the_tools_and_frameworks_we_use_for_managing_infrastructure_as_code",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_65",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_65",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_65",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_65",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_65",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_65",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_65",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "Introduction to the tools and frameworks we use for managing infrastructure as code.",
+                            "action": "Familiarize yourself with the IaC tools and frameworks we utilize.",
+                            "description": "Managing infrastructure as code (IaC) is crucial for automating our infrastructure provisioning processes. Understanding the tools and frameworks we use will empower you to contribute effectively to our IaC initiatives and ensure consistency across environments. Familiarizing yourself with these tools will help you identify areas for improvement in our infrastructure management practices.\nBy learning about our IaC tools and frameworks, you will enhance your ability to support our operational goals and ensure reliable service delivery. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional IaC engineer",
+                                "topic": "Introduction to the tools and frameworks we use for managing infrastructure as code."
+                            },
+                            "icon": "logo_46"
                         }
                     ]
                 },
@@ -2006,55 +816,20 @@
                     "id": "git_based_infrastructure_management",
                     "type": "module",
                     "title": "Git-Based Infrastructure Management",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_66",
+                            "id": "learn_how_we_manage_infrastructure_using_git_based_version_control",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_66",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_66",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_66",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_66",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_66",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_66",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_66",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "Learn how we manage infrastructure using Git-based version control.",
+                            "action": "Review our Git-based infrastructure management practices.",
+                            "description": "Managing infrastructure using Git-based version control is essential for maintaining a history of changes and ensuring collaboration among team members. Understanding how we implement Git for infrastructure management will empower you to contribute effectively to our DevOps practices. Familiarizing yourself with these practices will help you identify areas for improvement in our version control processes.\nBy learning about our Git-based infrastructure management, you will enhance your ability to support our operational goals and ensure reliable service delivery. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional version control engineer",
+                                "topic": "Learn how we manage infrastructure using Git-based version control."
+                            },
+                            "icon": "logo_45"
                         }
                     ]
                 },
@@ -2062,55 +837,20 @@
                     "id": "versioning_best_practices",
                     "type": "module",
                     "title": "Versioning Best Practices",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_67",
+                            "id": "understand_best_practices_for_versioning_in_iac_environments",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_67",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_67",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_67",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_67",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_67",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_67",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_67",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "Understand best practices for versioning in IaC environments.",
+                            "action": "Review our versioning best practices for Infrastructure as Code.",
+                            "description": "Implementing best practices for versioning in Infrastructure as Code (IaC) environments is crucial for maintaining consistency and reliability. Understanding these practices will empower you to contribute effectively to our IaC initiatives and ensure that changes are tracked accurately. Familiarizing yourself with these best practices will help you identify areas for improvement in our version control processes.\nBy learning about our versioning best practices, you will enhance your ability to support our operational goals and ensure reliable service delivery. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional versioning specialist",
+                                "topic": "Understand best practices for versioning in IaC environments."
+                            },
+                            "icon": "logo_10"
                         }
                     ]
                 }
@@ -2120,61 +860,26 @@
             "id": "ongoing_learning_and_development_resources_at_our_company_1",
             "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
-            "end_of_day": 0,
+            "end_of_day": 31,
             "children": [
                 {
                     "id": "devops_certification_resources",
                     "type": "module",
                     "title": "DevOps Certification Resources",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_68",
+                            "id": "access_to_resources_for_obtaining_relevant_devops_certifications",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_68",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_68",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_68",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_68",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_68",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_68",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_68",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "Access to resources for obtaining relevant DevOps certifications.",
+                            "action": "Explore the resources available for obtaining DevOps certifications.",
+                            "description": "Our company values ongoing learning and development, and we provide various resources to help you obtain relevant DevOps certifications. Understanding these resources will empower you to enhance your skills and knowledge, ensuring that you remain competitive in the field. Familiarizing yourself with these resources will help you identify opportunities for professional growth.\nBy exploring our certification resources, you will enhance your ability to support your career development and ensure that you stay updated on industry trends. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional learning and development manager",
+                                "topic": "Access to resources for obtaining relevant DevOps certifications."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 },
@@ -2182,55 +887,20 @@
                     "id": "knowledge_sharing_sessions",
                     "type": "module",
                     "title": "Knowledge Sharing Sessions",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_69",
+                            "id": "learn_about_internal_knowledge_sharing_sessions_and_how_to_contribute",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_69",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_69",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_69",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_69",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_69",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_69",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_69",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "Learn about internal knowledge-sharing sessions and how to contribute.",
+                            "action": "Participate in internal knowledge-sharing sessions to enhance collaboration.",
+                            "description": "Internal knowledge-sharing sessions are a vital part of our culture, fostering collaboration and continuous learning among team members. Understanding how to participate and contribute to these sessions will empower you to maximize their benefits and enhance your skills. Familiarizing yourself with these practices will help you identify opportunities for improvement in our collective knowledge.\nBy engaging in knowledge-sharing sessions, you will enhance your ability to support collaboration and innovation within the team. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional facilitator",
+                                "topic": "Learn about internal knowledge-sharing sessions and how to contribute."
+                            },
+                            "icon": "logo_40"
                         }
                     ]
                 },
@@ -2238,55 +908,20 @@
                     "id": "industry_conferences_and_workshops",
                     "type": "module",
                     "title": "Industry Conferences and Workshops",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_70",
+                            "id": "information_on_industry_conferences_and_workshops_relevant_to_devops_engineers",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_70",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_70",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_70",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_70",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_70",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_70",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_70",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "Information on industry conferences and workshops relevant to DevOps engineers.",
+                            "action": "Explore opportunities to attend industry conferences and workshops.",
+                            "description": "Attending industry conferences and workshops is essential for staying updated on the latest trends and best practices in DevOps. Understanding the opportunities available will empower you to enhance your skills and network with industry professionals. Familiarizing yourself with these opportunities will help you identify events that align with your career goals.\nBy exploring industry conferences and workshops, you will enhance your ability to support your professional growth and ensure that you remain competitive in the field. This knowledge is crucial for your role in the DevOps team.",
+                            "content_instructions": {
+                                "role": "professional career development specialist",
+                                "topic": "Information on industry conferences and workshops relevant to DevOps engineers."
+                            },
+                            "icon": "logo_47"
                         }
                     ]
                 }

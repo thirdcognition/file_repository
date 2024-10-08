@@ -27,7 +27,7 @@
                                 "role": "professional HR manager",
                                 "topic": "Introduction to the engineering leadership team and their responsibilities."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_2"
                         }
                     ]
                 },
@@ -69,7 +69,7 @@
                                 "role": "professional team leader",
                                 "topic": "Overview of the key roles within the engineering team and their responsibilities."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_40"
                         }
                     ]
                 }
@@ -98,7 +98,7 @@
                                 "role": "professional business strategist",
                                 "topic": "Understand how the engineering strategy aligns with overall business goals."
                             },
-                            "icon": "logo_17"
+                            "icon": "logo_4"
                         }
                     ]
                 },
@@ -140,7 +140,7 @@
                                 "role": "professional technology innovator",
                                 "topic": "Overview of how innovation is driven through technology initiatives within the engineering team."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_5"
                         }
                     ]
                 }
@@ -169,7 +169,7 @@
                                 "role": "professional organizational consultant",
                                 "topic": "Learn about the organizational structure of the engineering teams."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_6"
                         }
                     ]
                 },
@@ -190,7 +190,7 @@
                                 "role": "professional leadership coach",
                                 "topic": "Understand the roles and responsibilities of leaders within the engineering department."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_1"
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                                 "role": "professional team facilitator",
                                 "topic": "Overview of how collaboration and innovation are fostered within engineering teams."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_14"
                         }
                     ]
                 }
@@ -240,7 +240,7 @@
                                 "role": "professional talent acquisition specialist",
                                 "topic": "Learn the strategies for hiring high-caliber engineers to build strong teams."
                             },
-                            "icon": "logo_26"
+                            "icon": "logo_45"
                         }
                     ]
                 },
@@ -261,7 +261,7 @@
                                 "role": "professional learning and development manager",
                                 "topic": "Understand the importance of developing and nurturing engineering talent."
                             },
-                            "icon": "logo_40"
+                            "icon": "logo_16"
                         }
                     ]
                 },
@@ -282,7 +282,7 @@
                                 "role": "professional organizational development expert",
                                 "topic": "Overview of succession planning and leadership development within the engineering department."
                             },
-                            "icon": "logo_40"
+                            "icon": "logo_11"
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                                 "role": "professional product manager",
                                 "topic": "Learn how engineering aligns with product roadmaps to support company goals."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_47"
                         }
                     ]
                 },
@@ -332,7 +332,7 @@
                                 "role": "professional design strategist",
                                 "topic": "Understand how to foster collaboration between design and development teams."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_23"
                         }
                     ]
                 },
@@ -353,7 +353,7 @@
                                 "role": "professional cross-functional team leader",
                                 "topic": "Overview of how engineering supports cross-functional teams to ensure project success."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_32"
                         }
                     ]
                 }
@@ -382,7 +382,7 @@
                                 "role": "professional quality assurance manager",
                                 "topic": "Learn about the metrics used to measure code quality and efficiency."
                             },
-                            "icon": "logo_5"
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -403,7 +403,7 @@
                                 "role": "professional performance analyst",
                                 "topic": "Understand the metrics used to track productivity across engineering teams."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_12"
                         }
                     ]
                 },
@@ -424,7 +424,7 @@
                                 "role": "professional innovation strategist",
                                 "topic": "Overview of how innovation and development speed are tracked within engineering."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_10"
                         }
                     ]
                 }
@@ -474,7 +474,7 @@
                                 "role": "professional code quality manager",
                                 "topic": "Understand the code review processes in place to ensure high-quality code."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_37"
                         }
                     ]
                 },
@@ -495,7 +495,7 @@
                                 "role": "professional compliance officer",
                                 "topic": "Overview of how engineering ensures compliance with security standards and regulations."
                             },
-                            "icon": "logo_13"
+                            "icon": "logo_35"
                         }
                     ]
                 }
@@ -524,7 +524,7 @@
                                 "role": "professional strategic planner",
                                 "topic": "Learn how technical priorities are set in alignment with business objectives."
                             },
-                            "icon": "logo_17"
+                            "icon": "logo_18"
                         }
                     ]
                 },
@@ -545,7 +545,7 @@
                                 "role": "professional technical lead",
                                 "topic": "Understand how engineering teams balance innovation with managing technical debt."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_9"
                         }
                     ]
                 },
@@ -566,7 +566,7 @@
                                 "role": "professional project manager",
                                 "topic": "Overview of how progress on the technical roadmap is tracked and reported."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_21"
                         }
                     ]
                 }
@@ -616,7 +616,7 @@
                                 "role": "professional operations manager",
                                 "topic": "Understand how resources are planned and allocated across engineering teams."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_19"
                         }
                     ]
                 },
@@ -637,7 +637,7 @@
                                 "role": "professional engineering manager",
                                 "topic": "Overview of how R&D initiatives are balanced with maintenance and operations."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_20"
                         }
                     ]
                 }
@@ -666,7 +666,7 @@
                                 "role": "professional communications manager",
                                 "topic": "Learn how to communicate engineering progress to internal and external stakeholders."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_33"
                         }
                     ]
                 },
@@ -687,7 +687,7 @@
                                 "role": "professional stakeholder engagement consultant",
                                 "topic": "Understand how to engage stakeholders in key technical decisions."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_27"
                         }
                     ]
                 },
@@ -708,7 +708,7 @@
                                 "role": "professional project manager",
                                 "topic": "Overview of how stakeholder expectations are balanced with engineering capabilities."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_43"
                         }
                     ]
                 }
@@ -737,7 +737,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "Learn about the implementation of Scrum and Agile methodologies across engineering teams."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_46"
                         }
                     ]
                 },
@@ -758,7 +758,7 @@
                                 "role": "professional Agile practitioner",
                                 "topic": "Understand the importance of ensuring Agile best practices are followed."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_49"
                         }
                     ]
                 },
@@ -779,7 +779,7 @@
                                 "role": "professional process improvement expert",
                                 "topic": "Overview of how continuous improvements are made to engineering processes."
                             },
-                            "icon": "logo_11"
+                            "icon": "logo_29"
                         }
                     ]
                 }
@@ -829,7 +829,7 @@
                                 "role": "professional learning and development manager",
                                 "topic": "Overview of the learning and development programs available to engineering leaders."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_7"
                         }
                     ]
                 },
@@ -850,7 +850,7 @@
                                 "role": "professional certification advisor",
                                 "topic": "Understand the importance of engineering certifications and how to encourage them within teams."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_44"
                         }
                     ]
                 }

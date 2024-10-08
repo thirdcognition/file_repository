@@ -48,7 +48,7 @@
                                 "role": "professional HR analyst",
                                 "topic": "Overview of the structure of the product team and key roles."
                             },
-                            "icon": "logo_2"
+                            "icon": "logo_3"
                         }
                     ]
                 },
@@ -98,7 +98,7 @@
                                 "role": "professional strategic planner",
                                 "topic": "Understand how the product vision aligns with the overall company strategy."
                             },
-                            "icon": "logo_17"
+                            "icon": "logo_1"
                         }
                     ]
                 },
@@ -119,7 +119,7 @@
                                 "role": "professional product strategist",
                                 "topic": "Learn how the product roadmap is built with a focus on innovation and long-term growth."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_47"
                         }
                     ]
                 },
@@ -140,7 +140,7 @@
                                 "role": "professional business strategist",
                                 "topic": "Overview of how long-term product goals are set and communicated."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_17"
                         }
                     ]
                 }
@@ -190,7 +190,7 @@
                                 "role": "professional marketing strategist",
                                 "topic": "Understand the role of the CPO in supporting marketing strategies for product promotion."
                             },
-                            "icon": "logo_2"
+                            "icon": "logo_14"
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                                 "role": "professional project coordinator",
                                 "topic": "Overview of how cross-functional teams are coordinated to ensure product success."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_45"
                         }
                     ]
                 }
@@ -240,7 +240,7 @@
                                 "role": "professional product manager",
                                 "topic": "Learn how the product roadmap is built and communicated to stakeholders."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_5"
                         }
                     ]
                 },
@@ -261,7 +261,7 @@
                                 "role": "professional project manager",
                                 "topic": "Understand how priorities are set and backlogs are managed for optimal product development."
                             },
-                            "icon": "logo_5"
+                            "icon": "logo_12"
                         }
                     ]
                 },
@@ -282,7 +282,7 @@
                                 "role": "professional innovation manager",
                                 "topic": "Overview of how innovation is balanced with customer needs and market demands."
                             },
-                            "icon": "logo_17"
+                            "icon": "logo_23"
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                                 "role": "professional customer insights analyst",
                                 "topic": "Learn how customer feedback is collected, analyzed, and integrated into product development."
                             },
-                            "icon": "logo_29"
+                            "icon": "logo_11"
                         }
                     ]
                 },
@@ -332,7 +332,7 @@
                                 "role": "professional market research analyst",
                                 "topic": "Understand the process of conducting market research to inform product decisions."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -353,7 +353,7 @@
                                 "role": "professional product development facilitator",
                                 "topic": "Overview of how customer feedback is incorporated into product iterations."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_32"
                         }
                     ]
                 }
@@ -382,7 +382,7 @@
                                 "role": "professional stakeholder engagement consultant",
                                 "topic": "Learn strategies for managing stakeholder expectations during the product development process."
                             },
-                            "icon": "logo_23"
+                            "icon": "logo_16"
                         }
                     ]
                 },
@@ -403,7 +403,7 @@
                                 "role": "professional executive communication coach",
                                 "topic": "Understand how to effectively communicate the product strategy to executive leadership."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_33"
                         }
                     ]
                 },
@@ -424,7 +424,7 @@
                                 "role": "professional team alignment facilitator",
                                 "topic": "Overview of how stakeholders are aligned with the product vision and roadmap."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_26"
                         }
                     ]
                 }
@@ -453,7 +453,7 @@
                                 "role": "professional data analyst",
                                 "topic": "Learn about the key metrics used to track product success and performance."
                             },
-                            "icon": "logo_27"
+                            "icon": "logo_25"
                         }
                     ]
                 },
@@ -474,7 +474,7 @@
                                 "role": "professional customer experience manager",
                                 "topic": "Understand the KPIs used to measure customer satisfaction and product usage."
                             },
-                            "icon": "logo_31"
+                            "icon": "logo_27"
                         }
                     ]
                 },
@@ -495,7 +495,7 @@
                                 "role": "professional product growth strategist",
                                 "topic": "Overview of the metrics used to track innovation and product growth."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_31"
                         }
                     ]
                 }
@@ -524,7 +524,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "Learn how Agile development practices are implemented across product teams."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_46"
                         }
                     ]
                 },
@@ -545,7 +545,7 @@
                                 "role": "professional Scrum Master",
                                 "topic": "Understand how the CPO collaborates with Scrum teams to ensure continuous product delivery."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_40"
                         }
                     ]
                 },
@@ -566,7 +566,7 @@
                                 "role": "professional data-driven product manager",
                                 "topic": "Overview of how product performance data is used to inform product iterations."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_28"
                         }
                     ]
                 }
@@ -595,7 +595,7 @@
                                 "role": "professional team structure consultant",
                                 "topic": "Learn how product teams are structured for efficient collaboration and innovation."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_18"
                         }
                     ]
                 },
@@ -616,7 +616,7 @@
                                 "role": "professional collaboration facilitator",
                                 "topic": "Understand how to foster cross-functional collaboration across product, engineering, and marketing teams."
                             },
-                            "icon": "logo_6"
+                            "icon": "logo_21"
                         }
                     ]
                 },
@@ -637,7 +637,7 @@
                                 "role": "professional leadership development coach",
                                 "topic": "Overview of how leadership is developed within the product team for long-term success."
                             },
-                            "icon": "logo_40"
+                            "icon": "logo_49"
                         }
                     ]
                 }
@@ -687,7 +687,7 @@
                                 "role": "professional R&D manager",
                                 "topic": "Understand how resources are allocated for R&D initiatives and innovation."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_19"
                         }
                     ]
                 },
@@ -708,7 +708,7 @@
                                 "role": "professional financial controller",
                                 "topic": "Overview of how product development costs are tracked and managed."
                             },
-                            "icon": "logo_38"
+                            "icon": "logo_37"
                         }
                     ]
                 }
@@ -737,7 +737,7 @@
                                 "role": "professional product launch manager",
                                 "topic": "Learn the steps involved in planning and executing successful product launches."
                             },
-                            "icon": "logo_4"
+                            "icon": "logo_22"
                         }
                     ]
                 },
@@ -758,7 +758,7 @@
                                 "role": "professional launch coordinator",
                                 "topic": "Understand how cross-functional teams are coordinated during product launches."
                             },
-                            "icon": "logo_14"
+                            "icon": "logo_10"
                         }
                     ]
                 },
@@ -808,7 +808,7 @@
                                 "role": "professional product management educator",
                                 "topic": "Learn how to stay updated with the latest trends in product management and innovation."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_36"
                         }
                     ]
                 },
@@ -829,7 +829,7 @@
                                 "role": "professional development coordinator",
                                 "topic": "Overview of certifications and training opportunities available for product managers."
                             },
-                            "icon": "logo_16"
+                            "icon": "logo_7"
                         }
                     ]
                 },
@@ -850,7 +850,7 @@
                                 "role": "professional conference organizer",
                                 "topic": "Understand the value of attending industry conferences and workshops for continued learning."
                             },
-                            "icon": "logo_36"
+                            "icon": "logo_16"
                         }
                     ]
                 }

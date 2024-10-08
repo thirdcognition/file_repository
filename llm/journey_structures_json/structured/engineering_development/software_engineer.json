@@ -2,7 +2,7 @@
     "id": "software_engineer",
     "type": "journey",
     "title": "Software Engineer",
-    "end_of_day": 18,
+    "end_of_day": 31,
     "children": [
         {
             "id": "introduction_to_the_company_team",
@@ -40,7 +40,7 @@
                                 "role": "professional team leader",
                                 "topic": "Learn about our mission and its alignment with team goals."
                             },
-                            "icon": "logo_17"
+                            "icon": "logo_1"
                         }
                     ]
                 },
@@ -74,7 +74,7 @@
                                 "role": "professional HR coordinator",
                                 "topic": "Schedule a meet-and-greet session with your department head."
                             },
-                            "icon": "logo_3"
+                            "icon": "logo_2"
                         }
                     ]
                 },
@@ -124,55 +124,20 @@
                     "id": "product_roadmap_overview",
                     "type": "module",
                     "title": "Product Roadmap Overview",
-                    "end_of_day": 0,
+                    "end_of_day": 4,
                     "children": [
                         {
-                            "id": "description",
+                            "id": "understand_the_current_and_upcoming_product_roadmap",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 4,
+                            "title": "Understand the current and upcoming product roadmap.",
+                            "action": "Review the current product roadmap and familiarize yourself with upcoming features and projects.",
+                            "description": "The product roadmap provides a high-level overview of our development priorities and the direction of our product over time. By understanding the roadmap, you will gain insight into the long-term vision for the product and how current development efforts align with future goals.\nThis roadmap is not static; it evolves based on market needs, customer feedback, and internal priorities. Familiarizing yourself with the roadmap will help you see how your work fits into the larger strategy, and allow you to better plan and prioritize your tasks in alignment with the company's goals.",
+                            "content_instructions": {
+                                "role": "professional product manager",
+                                "topic": "Understand the current and upcoming product roadmap."
+                            },
+                            "icon": "logo_4"
                         }
                     ]
                 },
@@ -250,61 +215,26 @@
             "id": "overview_of_our_tech_stack",
             "type": "section",
             "title": "Overview of Our Tech Stack",
-            "end_of_day": 0,
+            "end_of_day": 8,
             "children": [
                 {
                     "id": "key_technologies_we_use",
                     "type": "module",
                     "title": "Key Technologies We Use",
-                    "end_of_day": 0,
+                    "end_of_day": 7,
                     "children": [
                         {
-                            "id": "description_1",
+                            "id": "familiarize_yourself_with_the_primary_languages_frameworks_and_libraries_we_use",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_1",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_1",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_1",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_1",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_1",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_1",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_1",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 7,
+                            "title": "Familiarize yourself with the primary languages, frameworks, and libraries we use.",
+                            "action": "Review the key technologies used in our projects and understand their roles.",
+                            "description": "Our tech stack comprises a range of programming languages, frameworks, and libraries that we utilize to build our products. Each technology is chosen for its specific strengths and how it aligns with our project needs. Understanding these technologies will provide you with insight into how our products are built and how you can contribute effectively.\nFamiliarizing yourself with the tech stack not only prepares you for the work ahead but also helps you identify areas for your own growth and learning. As you engage with these technologies, you will be better equipped to collaborate with your team and contribute to the development of our products.",
+                            "content_instructions": {
+                                "role": "professional software developer",
+                                "topic": "Familiarize yourself with the primary languages, frameworks, and libraries we use."
+                            },
+                            "icon": "logo_7"
                         }
                     ]
                 },
@@ -312,55 +242,20 @@
                     "id": "language_and_framework_preferences",
                     "type": "module",
                     "title": "Language and Framework Preferences",
-                    "end_of_day": 0,
+                    "end_of_day": 8,
                     "children": [
                         {
-                            "id": "description_2",
+                            "id": "understand_why_we_choose_certain_languages_and_frameworks_for_specific_projects",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_2",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_2",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_2",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_2",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_2",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_2",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_2",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 8,
+                            "title": "Understand why we choose certain languages and frameworks for specific projects.",
+                            "action": "Learn about the reasoning behind our language and framework choices.",
+                            "description": "The choice of programming languages and frameworks can significantly impact the success of a project. Our selection process considers factors such as performance, scalability, community support, and how well the technology aligns with our project requirements. Understanding these preferences will give you insights into our development philosophy and the rationale behind technology decisions.\nBy familiarizing yourself with these preferences, you can better align your work with the company's development practices and make informed decisions in your own projects. This understanding also fosters discussions with your peers about potential improvements and innovations.",
+                            "content_instructions": {
+                                "role": "professional tech lead",
+                                "topic": "Understand why we choose certain languages and frameworks for specific projects."
+                            },
+                            "icon": "logo_10"
                         }
                     ]
                 },
@@ -368,55 +263,20 @@
                     "id": "integrations_and_apis",
                     "type": "module",
                     "title": "Integrations and APIs",
-                    "end_of_day": 0,
+                    "end_of_day": 8,
                     "children": [
                         {
-                            "id": "description_3",
+                            "id": "learn_about_the_apis_and_integrations_critical_to_our_product_functionality",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_3",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_3",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_3",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_3",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_3",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_3",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_3",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 8,
+                            "title": "Learn about the APIs and integrations critical to our product functionality.",
+                            "action": "Explore the APIs and integrations that enhance our product capabilities.",
+                            "description": "APIs and integrations play a crucial role in extending the functionality of our products. They allow our systems to communicate with other software, enabling us to leverage external services and data effectively. Understanding the APIs we use will help you see how they fit into our product architecture and enhance overall functionality.\nFamiliarity with our integrations will also help you understand how to troubleshoot issues, optimize performance, and identify opportunities for future enhancements. This knowledge is essential for contributing to the development and maintenance of our products.",
+                            "content_instructions": {
+                                "role": "professional systems architect",
+                                "topic": "Learn about the APIs and integrations critical to our product functionality."
+                            },
+                            "icon": "logo_18"
                         }
                     ]
                 }
@@ -426,61 +286,26 @@
             "id": "familiarize_with_our_codebase",
             "type": "section",
             "title": "Familiarize with Our Codebase",
-            "end_of_day": 0,
+            "end_of_day": 10,
             "children": [
                 {
                     "id": "key_repositories_and_code_structure",
                     "type": "module",
                     "title": "Key Repositories and Code Structure",
-                    "end_of_day": 0,
+                    "end_of_day": 9,
                     "children": [
                         {
-                            "id": "description_4",
+                            "id": "overview_of_main_repositories_and_folder_structures",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_4",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_4",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_4",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_4",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_4",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_4",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_4",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 9,
+                            "title": "Overview of main repositories and folder structures.",
+                            "action": "Review the structure of our code repositories and understand their organization.",
+                            "description": "Our codebase is organized into various repositories, each serving different aspects of our products. Understanding the folder structure and organization of these repositories is essential for effective navigation and efficient coding practices. This organization facilitates collaboration and helps teams work together seamlessly.\nBy familiarizing yourself with the code structure, you will find it easier to locate files, understand the flow of the application, and contribute effectively to ongoing projects. This knowledge is crucial for your success as a developer in our team.",
+                            "content_instructions": {
+                                "role": "professional software engineer",
+                                "topic": "Overview of main repositories and folder structures."
+                            },
+                            "icon": "logo_8"
                         }
                     ]
                 },
@@ -488,55 +313,20 @@
                     "id": "code_navigation_and_search",
                     "type": "module",
                     "title": "Code Navigation and Search",
-                    "end_of_day": 0,
+                    "end_of_day": 10,
                     "children": [
                         {
-                            "id": "description_5",
+                            "id": "learn_the_best_practices_for_navigating_and_searching_within_our_codebase",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_5",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_5",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_5",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_5",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_5",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_5",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_5",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 10,
+                            "title": "Learn the best practices for navigating and searching within our codebase.",
+                            "action": "Practice using our code navigation tools and techniques to find relevant information.",
+                            "description": "Navigating a codebase efficiently is crucial for productivity. Our codebase offers various tools and techniques for searching and navigating code effectively. Familiarizing yourself with these tools will save you time and help you quickly locate the information you need.\nBest practices include using search functionalities, understanding naming conventions, and knowing where to find documentation. Mastering these practices will enable you to contribute more effectively to projects and enhance your coding efficiency.",
+                            "content_instructions": {
+                                "role": "professional software development trainer",
+                                "topic": "Learn the best practices for navigating and searching within our codebase."
+                            },
+                            "icon": "logo_11"
                         }
                     ]
                 }
@@ -546,61 +336,26 @@
             "id": "introduction_to_our_development_tools_and_environments",
             "type": "section",
             "title": "Introduction to Our Development Tools and Environments",
-            "end_of_day": 0,
+            "end_of_day": 12,
             "children": [
                 {
                     "id": "local_development_setup",
                     "type": "module",
                     "title": "Local Development Setup",
-                    "end_of_day": 0,
+                    "end_of_day": 11,
                     "children": [
                         {
-                            "id": "description_6",
+                            "id": "guide_to_setting_up_your_local_development_environment",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_6",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_6",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_6",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_6",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_6",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_6",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_6",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 11,
+                            "title": "Guide to setting up your local development environment.",
+                            "action": "Follow the guidelines to configure your local development environment.",
+                            "description": "Setting up your local development environment is a critical step in your onboarding process. This setup allows you to start coding and testing new features effectively. Our guide provides step-by-step instructions on how to install necessary software, configure your system, and ensure that you have access to the required resources.\nHaving a well-configured local environment enhances your productivity and minimizes disruptions as you begin working on projects. It's important to follow these guidelines closely to ensure compatibility with our codebase and avoid common pitfalls.",
+                            "content_instructions": {
+                                "role": "professional IT support specialist",
+                                "topic": "Guide to setting up your local development environment."
+                            },
+                            "icon": "logo_9"
                         }
                     ]
                 },
@@ -608,55 +363,20 @@
                     "id": "development_ides_and_extensions",
                     "type": "module",
                     "title": "Development IDEs and Extensions",
-                    "end_of_day": 0,
+                    "end_of_day": 12,
                     "children": [
                         {
-                            "id": "description_7",
+                            "id": "recommended_ides_and_productivity_boosting_extensions_we_use",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_7",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_7",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_7",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_7",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_7",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_7",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_7",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 12,
+                            "title": "Recommended IDEs and productivity-boosting extensions we use.",
+                            "action": "Explore and install the recommended IDEs and extensions for development.",
+                            "description": "Using the right Integrated Development Environment (IDE) and extensions can significantly boost your productivity. Our recommended IDEs come with features that streamline coding, debugging, and collaboration. Additionally, we have a set of extensions that enhance functionality and make development easier.\nBy familiarizing yourself with these tools, you will be better equipped to write, test, and debug your code efficiently. Installing and configuring these IDEs and extensions is an essential part of getting started with your development tasks.",
+                            "content_instructions": {
+                                "role": "professional software tools consultant",
+                                "topic": "Recommended IDEs and productivity-boosting extensions we use."
+                            },
+                            "icon": "logo_22"
                         }
                     ]
                 },
@@ -664,55 +384,20 @@
                     "id": "testing_environments",
                     "type": "module",
                     "title": "Testing Environments",
-                    "end_of_day": 0,
+                    "end_of_day": 12,
                     "children": [
                         {
-                            "id": "description_8",
+                            "id": "introduction_to_the_various_testing_environments_available_and_how_to_access_them",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_8",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_8",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_8",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_8",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_8",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_8",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_8",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 12,
+                            "title": "Introduction to the various testing environments available and how to access them.",
+                            "action": "Learn about the different testing environments and their purposes.",
+                            "description": "Testing environments are crucial for ensuring the quality and functionality of our products. They provide a controlled setting where developers can test new features and bug fixes before deployment. Understanding how to access and utilize these environments will empower you to identify and resolve issues early in the development process.\nFamiliarizing yourself with our testing environments will also enhance your collaboration with the QA team, as it allows you to deliver higher-quality code and minimize production issues. This knowledge is vital for effective software development and maintaining our product standards.",
+                            "content_instructions": {
+                                "role": "professional QA lead",
+                                "topic": "Introduction to the various testing environments available and how to access them."
+                            },
+                            "icon": "logo_15"
                         }
                     ]
                 }
@@ -722,61 +407,26 @@
             "id": "understanding_our_version_control_and_branching_strategy",
             "type": "section",
             "title": "Understanding Our Version Control and Branching Strategy",
-            "end_of_day": 0,
+            "end_of_day": 14,
             "children": [
                 {
                     "id": "gitflow_practices",
                     "type": "module",
                     "title": "GitFlow Practices",
-                    "end_of_day": 0,
+                    "end_of_day": 13,
                     "children": [
                         {
-                            "id": "description_9",
+                            "id": "learn_the_fundamentals_of_our_gitflow_branching_model",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_9",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_9",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_9",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_9",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_9",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_9",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_9",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 13,
+                            "title": "Learn the fundamentals of our GitFlow branching model.",
+                            "action": "Review our GitFlow practices and how they enhance collaboration.",
+                            "description": "GitFlow is a branching model that provides a structured approach to managing code changes. By understanding its fundamentals, you can work collaboratively with your team to maintain a clean and organized codebase. GitFlow defines specific branch types for features, releases, and hotfixes, which helps streamline the development process.\nAdopting this model not only facilitates collaboration but also minimizes conflicts and ensures a smoother integration of code changes. Familiarizing yourself with GitFlow practices is essential for effective participation in our development workflows.",
+                            "content_instructions": {
+                                "role": "professional version control expert",
+                                "topic": "Learn the fundamentals of our GitFlow branching model."
+                            },
+                            "icon": "logo_14"
                         }
                     ]
                 },
@@ -784,55 +434,20 @@
                     "id": "branching_and_merging_guidelines",
                     "type": "module",
                     "title": "Branching and Merging Guidelines",
-                    "end_of_day": 0,
+                    "end_of_day": 14,
                     "children": [
                         {
-                            "id": "description_10",
+                            "id": "best_practices_for_creating_and_merging_branches_within_our_projects",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_10",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_10",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_10",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_10",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_10",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_10",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_10",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 14,
+                            "title": "Best practices for creating and merging branches within our projects.",
+                            "action": "Understand our guidelines for branching and merging code changes.",
+                            "description": "Effective branching and merging practices are essential for maintaining the integrity of our codebase. Our guidelines outline the best approaches for creating branches, making changes, and merging them back into the main codebase. Following these practices helps prevent conflicts and ensures that new features are integrated smoothly.\nBy adhering to these guidelines, you will contribute to a more organized development process and foster better collaboration with your team. Understanding these practices is key to successfully navigating the version control landscape in our projects.",
+                            "content_instructions": {
+                                "role": "professional software engineer",
+                                "topic": "Best practices for creating and merging branches within our projects."
+                            },
+                            "icon": "logo_12"
                         }
                     ]
                 },
@@ -840,55 +455,20 @@
                     "id": "release_versioning",
                     "type": "module",
                     "title": "Release Versioning",
-                    "end_of_day": 0,
+                    "end_of_day": 14,
                     "children": [
                         {
-                            "id": "description_11",
+                            "id": "understand_how_we_version_releases_and_manage_production_deployments",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_11",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_11",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_11",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_11",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_11",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_11",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_11",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 14,
+                            "title": "Understand how we version releases and manage production deployments.",
+                            "action": "Learn about our release versioning practices and their importance.",
+                            "description": "Release versioning is a critical practice that helps us manage updates and changes to our products. Understanding our versioning scheme enables you to track changes, understand release notes, and anticipate upcoming features. It also plays a crucial role in managing production deployments and ensuring that users receive stable and tested versions of our products.\nBy familiarizing yourself with our release versioning practices, you will be better equipped to contribute to deployment processes and collaborate effectively with the QA team to ensure a smooth rollout of new features.",
+                            "content_instructions": {
+                                "role": "professional release manager",
+                                "topic": "Understand how we version releases and manage production deployments."
+                            },
+                            "icon": "logo_20"
                         }
                     ]
                 }
@@ -898,61 +478,26 @@
             "id": "our_code_review_process",
             "type": "section",
             "title": "Our Code Review Process",
-            "end_of_day": 0,
+            "end_of_day": 17,
             "children": [
                 {
                     "id": "peer_review_guidelines",
                     "type": "module",
                     "title": "Peer Review Guidelines",
-                    "end_of_day": 0,
+                    "end_of_day": 15,
                     "children": [
                         {
-                            "id": "description_12",
+                            "id": "understand_the_steps_for_conducting_a_peer_review_and_submitting_your_code_for_review",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_12",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_12",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_12",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_12",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_12",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_12",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_12",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 15,
+                            "title": "Understand the steps for conducting a peer review and submitting your code for review.",
+                            "action": "Review our peer review process and understand its significance.",
+                            "description": "Peer reviews are an integral part of our development process. They provide an opportunity for team members to review each other's code, offer feedback, and ensure adherence to coding standards. Understanding the peer review process is crucial for producing high-quality code and fostering collaboration within the team.\nBy actively participating in peer reviews, you contribute to a culture of continuous improvement, where everyone learns from one another. Familiarizing yourself with the guidelines and expectations of our peer review process will enhance your skills and help you deliver better code.",
+                            "content_instructions": {
+                                "role": "professional code reviewer",
+                                "topic": "Understand the steps for conducting a peer review and submitting your code for review."
+                            },
+                            "icon": "logo_16"
                         }
                     ]
                 },
@@ -960,55 +505,20 @@
                     "id": "code_review_tools",
                     "type": "module",
                     "title": "Code Review Tools",
-                    "end_of_day": 0,
+                    "end_of_day": 16,
                     "children": [
                         {
-                            "id": "description_13",
+                            "id": "introduction_to_the_code_review_tools_we_use_and_how_to_navigate_them",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_13",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_13",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_13",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_13",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_13",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_13",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_13",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 16,
+                            "title": "Introduction to the code review tools we use and how to navigate them.",
+                            "action": "Learn how to navigate our code review tools and their functionalities.",
+                            "description": "We utilize specific tools to facilitate code reviews, allowing for efficient collaboration and feedback. Familiarizing yourself with these tools will enable you to submit your code for review, receive feedback, and track the review process effectively. Understanding the functionalities of our code review tools is essential for a smooth development workflow.\nBy mastering these tools, you will improve your coding practices and contribute to higher-quality code. Additionally, being proficient with these tools fosters better communication and collaboration with your peers during the review process.",
+                            "content_instructions": {
+                                "role": "professional software engineer",
+                                "topic": "Introduction to the code review tools we use and how to navigate them."
+                            },
+                            "icon": "logo_23"
                         }
                     ]
                 },
@@ -1016,55 +526,20 @@
                     "id": "feedback_etiquette",
                     "type": "module",
                     "title": "Feedback Etiquette",
-                    "end_of_day": 0,
+                    "end_of_day": 17,
                     "children": [
                         {
-                            "id": "description_14",
+                            "id": "learn_how_to_give_and_receive_constructive_feedback_during_code_reviews",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_14",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_14",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_14",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_14",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_14",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_14",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_14",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 17,
+                            "title": "Learn how to give and receive constructive feedback during code reviews.",
+                            "action": "Explore best practices for providing and receiving feedback in code reviews.",
+                            "description": "Constructive feedback is essential for fostering a productive code review environment. Learning how to give and receive feedback effectively can significantly improve collaboration and the quality of the code produced. Our guidelines outline the principles of respectful communication, focusing on the code rather than the person.\nBy mastering feedback etiquette, you will contribute to a supportive culture where team members feel comfortable sharing their ideas and suggestions. This practice not only enhances the quality of the code but also strengthens team dynamics and relationships.",
+                            "content_instructions": {
+                                "role": "professional team facilitator",
+                                "topic": "Learn how to give and receive constructive feedback during code reviews."
+                            },
+                            "icon": "logo_40"
                         }
                     ]
                 }
@@ -1074,7 +549,7 @@
             "id": "agile_and_scrum_methodologies_at_our_company",
             "type": "section",
             "title": "Agile and Scrum Methodologies at Our Company",
-            "end_of_day": 18,
+            "end_of_day": 20,
             "children": [
                 {
                     "id": "sprint_planning_and_estimations",
@@ -1093,7 +568,7 @@
                                 "role": "professional Scrum Master",
                                 "topic": "The procedure of sprint planning and how it's done."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_17"
                         },
                         {
                             "id": "how_the_sprint_story_points_estimation_procedure_works_in_our_team",
@@ -1106,7 +581,7 @@
                                 "role": "professional Agile coach",
                                 "topic": "How the sprint story points estimation procedure works in our team."
                             },
-                            "icon": "logo_12"
+                            "icon": "logo_17"
                         }
                     ]
                 },
@@ -1114,55 +589,20 @@
                     "id": "daily_stand_ups",
                     "type": "module",
                     "title": "Daily Stand-ups",
-                    "end_of_day": 0,
+                    "end_of_day": 19,
                     "children": [
                         {
-                            "id": "description_15",
+                            "id": "understanding_the_goals_and_format_of_daily_stand_ups_in_our_agile_process",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_15",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_15",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_15",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_15",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_15",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_15",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_15",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 19,
+                            "title": "Understanding the goals and format of daily stand-ups in our agile process.",
+                            "action": "Participate in daily stand-ups and understand their purpose.",
+                            "description": "Daily stand-ups are a core practice in Agile methodologies, designed to foster communication and alignment within the team. During these brief meetings, team members share updates on their progress, challenges, and plans for the day. Understanding the goals and format of these stand-ups will help you contribute effectively and keep everyone informed.\nBy participating in daily stand-ups, you enhance team collaboration and ensure that potential roadblocks are addressed promptly. This practice encourages accountability and helps maintain a steady pace of progress throughout the sprint.",
+                            "content_instructions": {
+                                "role": "professional Agile practitioner",
+                                "topic": "Understanding the goals and format of daily stand-ups in our agile process."
+                            },
+                            "icon": "logo_21"
                         }
                     ]
                 },
@@ -1170,55 +610,20 @@
                     "id": "retrospectives_and_process_improvement",
                     "type": "module",
                     "title": "Retrospectives and Process Improvement",
-                    "end_of_day": 0,
+                    "end_of_day": 20,
                     "children": [
                         {
-                            "id": "description_16",
+                            "id": "how_we_conduct_retrospectives_to_improve_team_processes",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_16",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_16",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_16",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_16",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_16",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_16",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_16",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 20,
+                            "title": "How we conduct retrospectives to improve team processes.",
+                            "action": "Learn about our retrospective practices and their importance for continuous improvement.",
+                            "description": "Retrospectives are essential for fostering a culture of continuous improvement within our team. During these meetings, we reflect on the sprint, discussing what went well, what didn't, and how we can improve in the future. Understanding the structure and goals of these sessions is crucial for contributing to meaningful discussions and actionable outcomes.\nBy participating in retrospectives, you help identify areas for improvement and contribute to a stronger, more efficient team. This practice encourages open communication and supports a culture of learning and growth.",
+                            "content_instructions": {
+                                "role": "professional team facilitator",
+                                "topic": "How we conduct retrospectives to improve team processes."
+                            },
+                            "icon": "logo_26"
                         }
                     ]
                 }
@@ -1228,61 +633,26 @@
             "id": "security_best_practices_in_our_development_process",
             "type": "section",
             "title": "Security Best Practices in Our Development Process",
-            "end_of_day": 0,
+            "end_of_day": 23,
             "children": [
                 {
                     "id": "handling_sensitive_data",
                     "type": "module",
                     "title": "Handling Sensitive Data",
-                    "end_of_day": 0,
+                    "end_of_day": 21,
                     "children": [
                         {
-                            "id": "description_17",
+                            "id": "best_practices_for_handling_sensitive_data_securely_in_our_codebase",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_17",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_17",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_17",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_17",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_17",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_17",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_17",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 21,
+                            "title": "Best practices for handling sensitive data securely in our codebase.",
+                            "action": "Review the guidelines for managing sensitive data in our projects.",
+                            "description": "Handling sensitive data is a critical aspect of software development, and it requires strict adherence to best practices to ensure security and compliance. Understanding how to manage sensitive information - such as user data, financial records, and proprietary information - is essential for protecting both the company and its customers.\nBy familiarizing yourself with our security protocols and best practices, you will contribute to maintaining a secure codebase and preventing data breaches. This knowledge is vital for upholding our commitment to data security and privacy.",
+                            "content_instructions": {
+                                "role": "professional security officer",
+                                "topic": "Best practices for handling sensitive data securely in our codebase."
+                            },
+                            "icon": "logo_13"
                         }
                     ]
                 },
@@ -1290,55 +660,20 @@
                     "id": "owasp_top_10_vulnerabilities",
                     "type": "module",
                     "title": "OWASP Top 10 Vulnerabilities",
-                    "end_of_day": 0,
+                    "end_of_day": 22,
                     "children": [
                         {
-                            "id": "description_18",
+                            "id": "overview_of_the_owasp_top_10_vulnerabilities_and_how_we_address_them",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_18",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_18",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_18",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_18",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_18",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_18",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_18",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 22,
+                            "title": "Overview of the OWASP Top 10 vulnerabilities and how we address them.",
+                            "action": "Learn about the OWASP Top 10 and our strategies for mitigating these vulnerabilities.",
+                            "description": "The OWASP Top 10 is a widely recognized list of the most critical web application security risks. Understanding these vulnerabilities is crucial for any software developer, as they highlight common pitfalls and challenges in application security. Our approach to addressing these vulnerabilities involves implementing best practices and utilizing tools to detect and remediate potential issues.\nBy familiarizing yourself with the OWASP Top 10 and our strategies for mitigating these risks, you will be better equipped to write secure code and contribute to the overall security posture of our products. This knowledge is essential for protecting user data and maintaining customer trust.",
+                            "content_instructions": {
+                                "role": "professional cybersecurity expert",
+                                "topic": "Overview of the OWASP Top 10 vulnerabilities and how we address them."
+                            },
+                            "icon": "logo_30"
                         }
                     ]
                 },
@@ -1346,55 +681,20 @@
                     "id": "dependency_and_vulnerability_management",
                     "type": "module",
                     "title": "Dependency and Vulnerability Management",
-                    "end_of_day": 0,
+                    "end_of_day": 23,
                     "children": [
                         {
-                            "id": "description_19",
+                            "id": "learn_how_we_manage_dependencies_and_address_vulnerabilities_in_our_projects",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_19",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_19",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_19",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_19",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_19",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_19",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_19",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 23,
+                            "title": "Learn how we manage dependencies and address vulnerabilities in our projects.",
+                            "action": "Review our processes for managing dependencies and addressing vulnerabilities.",
+                            "description": "Managing dependencies is crucial for maintaining the integrity and security of our codebase. Understanding how to track, update, and secure dependencies helps prevent potential vulnerabilities from being introduced into our projects. Our process includes regular audits, automated tools, and best practices for dependency management.\nBy familiarizing yourself with our dependency management strategies, you will enhance the security of our products and ensure that we are using reliable and secure libraries and frameworks. This knowledge is vital for safeguarding our applications and maintaining a strong security posture.",
+                            "content_instructions": {
+                                "role": "professional software engineer",
+                                "topic": "Learn how we manage dependencies and address vulnerabilities in our projects."
+                            },
+                            "icon": "logo_41"
                         }
                     ]
                 }
@@ -1404,61 +704,26 @@
             "id": "collaborating_with_our_product_and_qa_teams",
             "type": "section",
             "title": "Collaborating with Our Product and QA Teams",
-            "end_of_day": 0,
+            "end_of_day": 26,
             "children": [
                 {
                     "id": "cross_functional_meetings",
                     "type": "module",
                     "title": "Cross-functional Meetings",
-                    "end_of_day": 0,
+                    "end_of_day": 24,
                     "children": [
                         {
-                            "id": "description_20",
+                            "id": "understand_the_purpose_and_structure_of_cross_functional_meetings_between_development_product_and_qa",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_20",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_20",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_20",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_20",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_20",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_20",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_20",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 24,
+                            "title": "Understand the purpose and structure of cross-functional meetings between development, product, and QA.",
+                            "action": "Participate in cross-functional meetings and understand their objectives.",
+                            "description": "Cross-functional meetings are essential for aligning goals and ensuring collaboration between development, product, and QA teams. These meetings provide a platform for discussing project updates, identifying roadblocks, and aligning on priorities. Understanding their structure and objectives is crucial for effective participation and collaboration.\nBy engaging in these meetings, you contribute to a holistic approach to product development, ensuring that all teams are aligned and working towards common goals. This practice fosters open communication and supports a culture of collaboration and teamwork.",
+                            "content_instructions": {
+                                "role": "professional project manager",
+                                "topic": "Understand the purpose and structure of cross-functional meetings between development, product, and QA."
+                            },
+                            "icon": "logo_45"
                         }
                     ]
                 },
@@ -1466,55 +731,20 @@
                     "id": "feature_specification_reviews",
                     "type": "module",
                     "title": "Feature Specification Reviews",
-                    "end_of_day": 0,
+                    "end_of_day": 25,
                     "children": [
                         {
-                            "id": "description_21",
+                            "id": "learn_how_we_review_feature_specifications_collaboratively_with_product_teams",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_21",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_21",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_21",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_21",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_21",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_21",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_21",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 25,
+                            "title": "Learn how we review feature specifications collaboratively with product teams.",
+                            "action": "Participate in feature specification reviews and understand their significance.",
+                            "description": "Feature specification reviews are a critical step in our development process, ensuring that all teams are aligned on project requirements and expectations. During these reviews, product and development teams collaborate to clarify requirements, assess feasibility, and identify potential challenges. Understanding this process is essential for delivering features that meet both user needs and technical constraints.\nBy engaging in feature specification reviews, you enhance your understanding of product requirements and contribute to the development of successful features. This collaboration fosters a strong partnership between product and engineering teams, ultimately leading to better product outcomes.",
+                            "content_instructions": {
+                                "role": "professional product analyst",
+                                "topic": "Learn how we review feature specifications collaboratively with product teams."
+                            },
+                            "icon": "logo_37"
                         }
                     ]
                 },
@@ -1522,55 +752,20 @@
                     "id": "bug_prioritization_and_triage",
                     "type": "module",
                     "title": "Bug Prioritization and Triage",
-                    "end_of_day": 0,
+                    "end_of_day": 26,
                     "children": [
                         {
-                            "id": "description_22",
+                            "id": "understand_how_bugs_are_triaged_and_prioritized_across_teams",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_22",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_22",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_22",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_22",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_22",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_22",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_22",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 26,
+                            "title": "Understand how bugs are triaged and prioritized across teams.",
+                            "action": "Learn about our bug triage process and how we prioritize issues.",
+                            "description": "Effective bug triage is crucial for maintaining product quality and ensuring that critical issues are addressed promptly. Our process involves assessing the severity and impact of bugs, categorizing them, and prioritizing fixes based on project timelines and resource availability. Understanding this process is essential for contributing to timely resolutions and maintaining a high standard of product quality.\nBy familiarizing yourself with our bug triage and prioritization processes, you will be better equipped to manage issues effectively and contribute to a smoother development workflow. This knowledge enhances your ability to collaborate with product and QA teams, ensuring that we meet our commitments to users.",
+                            "content_instructions": {
+                                "role": "professional quality assurance manager",
+                                "topic": "Understand how bugs are triaged and prioritized across teams."
+                            },
+                            "icon": "logo_38"
                         }
                     ]
                 }
@@ -1580,61 +775,26 @@
             "id": "our_testing_and_debugging_procedures",
             "type": "section",
             "title": "Our Testing and Debugging Procedures",
-            "end_of_day": 0,
+            "end_of_day": 29,
             "children": [
                 {
                     "id": "unit_and_integration_testing",
                     "type": "module",
                     "title": "Unit and Integration Testing",
-                    "end_of_day": 0,
+                    "end_of_day": 27,
                     "children": [
                         {
-                            "id": "description_23",
+                            "id": "understand_our_approach_to_unit_and_integration_testing",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_23",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_23",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_23",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_23",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_23",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_23",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_23",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 27,
+                            "title": "Understand our approach to unit and integration testing.",
+                            "action": "Review our testing methodologies and their importance in the development process.",
+                            "description": "Unit and integration testing are fundamental components of our quality assurance process. Unit tests focus on verifying the functionality of individual components, while integration tests ensure that different parts of the application work together seamlessly. Understanding our approach to testing is crucial for delivering reliable and high-quality products.\nBy familiarizing yourself with our testing methodologies, you will be better equipped to write effective tests for your code and contribute to maintaining high standards of quality throughout the development process. This knowledge is essential for preventing issues and ensuring a smooth user experience.",
+                            "content_instructions": {
+                                "role": "professional QA engineer",
+                                "topic": "Understand our approach to unit and integration testing."
+                            },
+                            "icon": "logo_46"
                         }
                     ]
                 },
@@ -1642,55 +802,20 @@
                     "id": "debugging_tools_and_techniques",
                     "type": "module",
                     "title": "Debugging Tools and Techniques",
-                    "end_of_day": 0,
+                    "end_of_day": 28,
                     "children": [
                         {
-                            "id": "description_24",
+                            "id": "learn_about_debugging_tools_and_techniques_for_common_issues_in_our_codebase",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_24",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_24",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_24",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_24",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_24",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_24",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_24",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 28,
+                            "title": "Learn about debugging tools and techniques for common issues in our codebase.",
+                            "action": "Explore the debugging tools available and how to use them effectively.",
+                            "description": "Debugging is a critical skill for any developer, allowing you to identify and resolve issues in your code effectively. We provide a range of debugging tools and techniques that help streamline the process of diagnosing problems. Understanding how to use these tools will enhance your efficiency and effectiveness in troubleshooting.",
+                            "content_instructions": {
+                                "role": "professional software engineer",
+                                "topic": "Learn about debugging tools and techniques for common issues in our codebase."
+                            },
+                            "icon": "logo_39"
                         }
                     ]
                 },
@@ -1698,55 +823,20 @@
                     "id": "test_automation_practices",
                     "type": "module",
                     "title": "Test Automation Practices",
-                    "end_of_day": 0,
+                    "end_of_day": 29,
                     "children": [
                         {
-                            "id": "description_25",
+                            "id": "introduction_to_the_automated_tests_we_use_and_how_they_fit_into_our_ci_cd_process",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_25",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_25",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_25",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_25",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_25",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_25",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_25",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 29,
+                            "title": "Introduction to the automated tests we use and how they fit into our CI/CD process.",
+                            "action": "Learn about our test automation practices and their role in our development lifecycle.",
+                            "description": "Test automation is an essential practice that helps us maintain quality while accelerating the development process. Automated tests allow us to run a suite of tests quickly and efficiently, ensuring that our codebase remains stable as we introduce new features. Understanding how our automated tests fit into the CI/CD pipeline is crucial for effectively participating in our development workflows.\nBy familiarizing yourself with our test automation practices, you will enhance your ability to contribute to the testing process and ensure the quality of our products. This knowledge is vital for maintaining a robust development lifecycle and delivering high-quality releases.",
+                            "content_instructions": {
+                                "role": "professional automation engineer",
+                                "topic": "Introduction to the automated tests we use and how they fit into our CI/CD process."
+                            },
+                            "icon": "logo_34"
                         }
                     ]
                 }
@@ -1756,61 +846,26 @@
             "id": "our_continuous_integration_continuous_deployment_ci_cd_pipeline",
             "type": "section",
             "title": "Our Continuous Integration/Continuous Deployment (CI/CD) Pipeline",
-            "end_of_day": 0,
+            "end_of_day": 31,
             "children": [
                 {
                     "id": "ci_cd_workflow_overview",
                     "type": "module",
                     "title": "CI/CD Workflow Overview",
-                    "end_of_day": 0,
+                    "end_of_day": 30,
                     "children": [
                         {
-                            "id": "description_26",
+                            "id": "overview_of_the_ci_cd_pipeline_and_how_it_integrates_with_our_codebase",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_26",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_26",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_26",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_26",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_26",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_26",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_26",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 30,
+                            "title": "Overview of the CI/CD pipeline and how it integrates with our codebase.",
+                            "action": "Review the CI/CD workflow and its significance in our development process.",
+                            "description": "The CI/CD pipeline is a crucial part of our development process, automating the integration and deployment of code changes. This workflow allows us to detect issues early and deploy updates efficiently, enhancing our ability to deliver high-quality products to our customers. Understanding how this pipeline operates is essential for effective participation in our development processes.\nBy familiarizing yourself with our CI/CD pipeline, you will gain insight into how code changes are managed, tested, and deployed. This knowledge will empower you to contribute more effectively to our development workflows and ensure smooth releases.",
+                            "content_instructions": {
+                                "role": "professional DevOps engineer",
+                                "topic": "Overview of the CI/CD pipeline and how it integrates with our codebase."
+                            },
+                            "icon": "logo_28"
                         }
                     ]
                 },
@@ -1818,55 +873,20 @@
                     "id": "pipeline_monitoring",
                     "type": "module",
                     "title": "Pipeline Monitoring",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_27",
+                            "id": "learn_how_to_monitor_and_troubleshoot_issues_in_the_ci_cd_pipeline",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_27",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_27",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_27",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_27",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_27",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_27",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_27",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "Learn how to monitor and troubleshoot issues in the CI/CD pipeline.",
+                            "action": "Explore the monitoring tools and techniques for our CI/CD processes.",
+                            "description": "Monitoring the CI/CD pipeline is essential for ensuring that our development processes run smoothly and efficiently. By utilizing various monitoring tools and techniques, we can identify and address issues promptly, minimizing downtime and disruptions. Understanding how to monitor the pipeline effectively is crucial for contributing to a robust development environment.\nBy familiarizing yourself with our monitoring practices, you will enhance your ability to troubleshoot issues and maintain the integrity of our CI/CD processes. This knowledge is vital for ensuring that we deliver high-quality updates to our customers in a timely manner.",
+                            "content_instructions": {
+                                "role": "professional systems administrator",
+                                "topic": "Learn how to monitor and troubleshoot issues in the CI/CD pipeline."
+                            },
+                            "icon": "logo_25"
                         }
                     ]
                 },
@@ -1874,55 +894,20 @@
                     "id": "deployment_rollback_procedures",
                     "type": "module",
                     "title": "Deployment Rollback Procedures",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_28",
+                            "id": "understand_how_to_perform_a_deployment_rollback_in_case_of_issues",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_28",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_28",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_28",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_28",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_28",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_28",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_28",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "Understand how to perform a deployment rollback in case of issues.",
+                            "action": "Review our rollback procedures and their importance for production stability.",
+                            "description": "Deployment rollbacks are a critical safety net in our CI/CD processes, allowing us to revert to a previous stable version if issues arise after a deployment. Understanding these procedures is essential for maintaining production stability and ensuring minimal disruption to users. Our rollback processes are designed to be efficient and effective, ensuring a smooth transition back to a working state.\nBy familiarizing yourself with our deployment rollback procedures, you will be better equipped to respond to issues that arise during deployments and contribute to maintaining the quality and reliability of our products. This knowledge is vital for ensuring customer satisfaction and trust.",
+                            "content_instructions": {
+                                "role": "professional release engineer",
+                                "topic": "Understand how to perform a deployment rollback in case of issues."
+                            },
+                            "icon": "logo_24"
                         }
                     ]
                 }
@@ -1932,61 +917,26 @@
             "id": "ongoing_learning_and_development_resources_at_our_company",
             "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
-            "end_of_day": 0,
+            "end_of_day": 31,
             "children": [
                 {
                     "id": "access_to_learning_platforms",
                     "type": "module",
                     "title": "Access to Learning Platforms",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_29",
+                            "id": "learn_about_internal_and_external_learning_resources_available_to_you",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_29",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_29",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_29",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_29",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_29",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_29",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_29",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "Learn about internal and external learning resources available to you.",
+                            "action": "Explore the learning platforms and resources available to support your growth.",
+                            "description": "Our company values ongoing learning and development, offering various resources to help you enhance your skills and knowledge. These resources include internal training programs, online courses, webinars, and access to industry publications. Understanding how to leverage these resources is crucial for your professional growth and success within the company.\nBy exploring these learning platforms, you can identify opportunities for development that align with your career goals. Engaging with these resources will empower you to stay updated on industry trends and continuously improve your skills.",
+                            "content_instructions": {
+                                "role": "professional learning and development manager",
+                                "topic": "Learn about internal and external learning resources available to you."
+                            },
+                            "icon": "logo_36"
                         }
                     ]
                 },
@@ -1994,55 +944,20 @@
                     "id": "internal_knowledge_sharing_sessions",
                     "type": "module",
                     "title": "Internal Knowledge Sharing Sessions",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_30",
+                            "id": "how_to_participate_in_and_contribute_to_our_internal_knowledge_sharing_sessions",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_30",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_30",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_30",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_30",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_30",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_30",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_30",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "How to participate in and contribute to our internal knowledge-sharing sessions.",
+                            "action": "Engage in internal knowledge-sharing sessions and contribute your insights.",
+                            "description": "Internal knowledge-sharing sessions are a vital part of our culture, fostering collaboration and continuous learning among team members. These sessions provide a platform for sharing insights, discussing challenges, and learning from one another's experiences. Understanding how to participate and contribute to these sessions is crucial for maximizing their benefits.\nBy engaging actively in knowledge-sharing sessions, you will not only enhance your own understanding but also contribute to the collective growth of the team. This practice promotes a culture of openness and collaboration, ultimately leading to more innovative solutions and better outcomes.",
+                            "content_instructions": {
+                                "role": "professional facilitator",
+                                "topic": "How to participate in and contribute to our internal knowledge-sharing sessions."
+                            },
+                            "icon": "logo_32"
                         }
                     ]
                 },
@@ -2050,55 +965,20 @@
                     "id": "mentorship_and_coaching_opportunities",
                     "type": "module",
                     "title": "Mentorship and Coaching Opportunities",
-                    "end_of_day": 0,
+                    "end_of_day": 31,
                     "children": [
                         {
-                            "id": "description_31",
+                            "id": "explore_mentorship_and_coaching_opportunities_within_the_team",
                             "type": "action",
-                            "title": "description",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "day_31",
-                            "type": "action",
-                            "title": "day",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "action_31",
-                            "type": "action",
-                            "title": "action",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "content_31",
-                            "type": "action",
-                            "title": "content",
-                            "end_of_day": 0
-                        },
-                        {
-                            "id": "system_prompt_31",
-                            "type": "action",
-                            "title": "system_prompt",
-                            "end_of_day": 0,
-                            "children": [
-                                {
-                                    "id": "role_31",
-                                    "title": "role",
-                                    "end_of_day": 0
-                                },
-                                {
-                                    "id": "topic_31",
-                                    "title": "topic",
-                                    "end_of_day": 0
-                                }
-                            ]
-                        },
-                        {
-                            "id": "logo_31",
-                            "type": "action",
-                            "title": "logo",
-                            "end_of_day": 0
+                            "end_of_day": 31,
+                            "title": "Explore mentorship and coaching opportunities within the team.",
+                            "action": "Identify potential mentors and coaching opportunities to support your development.",
+                            "description": "Mentorship and coaching play a crucial role in personal and professional growth. Our company encourages employees to seek out mentors who can provide guidance, support, and insights based on their experiences. Understanding how to identify and approach potential mentors is essential for maximizing your development opportunities.\nBy engaging in mentorship and coaching programs, you will gain valuable insights and feedback that can accelerate your growth and help you navigate your career path. This practice fosters a supportive culture where team members help one another succeed.",
+                            "content_instructions": {
+                                "role": "professional career coach",
+                                "topic": "Explore mentorship and coaching opportunities within the team."
+                            },
+                            "icon": "logo_40"
                         }
                     ]
                 }
