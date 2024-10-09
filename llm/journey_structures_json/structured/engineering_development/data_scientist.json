@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "Data Scientist",
     "end_of_day": 31,
+    "icon": "logo_3",
     "children": [
         {
             "id": "introduction_to_the_company_team_2",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_3",
             "children": [
                 {
                     "id": "data_team_structure_and_roles",
                     "type": "module",
                     "title": "Data Team Structure and Roles",
                     "end_of_day": 1,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "understand_the_structure_of_the_data_team_and_the_roles_of_key_members",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Meet Key Stakeholders",
                     "end_of_day": 2,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "introduction_to_the_key_stakeholders_you_will_collaborate_with_for_data_projects",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Introduction to Cross-Functional Teams",
                     "end_of_day": 3,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "learn_about_cross_functional_teams_and_how_the_data_team_interacts_with_them",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our Data Strategy",
             "end_of_day": 6,
+            "icon": "logo_27",
             "children": [
                 {
                     "id": "data_driven_decision_making",
                     "type": "module",
                     "title": "Data-Driven Decision-Making",
                     "end_of_day": 4,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "understand_how_data_drives_business_decisions_in_our_company",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Long-term Data Strategy and Goals",
                     "end_of_day": 5,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "overview_of_the_company_s_long_term_data_strategy_and_key_objectives",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Business Insights Through Data",
                     "end_of_day": 6,
+                    "icon": "logo_31",
                     "children": [
                         {
                             "id": "learn_how_to_derive_actionable_business_insights_from_data",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Overview of Our Data Sources and Pipelines",
             "end_of_day": 9,
+            "icon": "logo_28",
             "children": [
                 {
                     "id": "key_data_sources",
                     "type": "module",
                     "title": "Key Data Sources",
                     "end_of_day": 7,
+                    "icon": "logo_28",
                     "children": [
                         {
                             "id": "familiarize_yourself_with_the_primary_data_sources_used_within_the_company",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Data Ingestion Processes",
                     "end_of_day": 8,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "learn_the_processes_involved_in_data_ingestion_and_transformation",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Data Pipeline Architecture",
                     "end_of_day": 9,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "understand_the_architecture_of_our_data_pipelines_and_key_components",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Our Data Collection and Cleaning Processes",
             "end_of_day": 12,
+            "icon": "logo_29",
             "children": [
                 {
                     "id": "data_quality_and_validation_techniques",
                     "type": "module",
                     "title": "Data Quality and Validation Techniques",
                     "end_of_day": 10,
+                    "icon": "logo_29",
                     "children": [
                         {
                             "id": "learn_about_the_techniques_we_use_to_ensure_data_quality_and_validate_data_accuracy",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Automated Data Cleaning Tools",
                     "end_of_day": 11,
+                    "icon": "logo_20",
                     "children": [
                         {
                             "id": "introduction_to_the_automated_tools_used_for_data_cleaning_in_our_workflows",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Manual vs Automated Data Cleaning",
                     "end_of_day": 12,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "understand_the_balance_between_manual_and_automated_data_cleaning_processes",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Our Data Storage and Management Systems",
             "end_of_day": 15,
+            "icon": "logo_19",
             "children": [
                 {
                     "id": "cloud_based_storage_solutions",
                     "type": "module",
                     "title": "Cloud-based Storage Solutions",
                     "end_of_day": 13,
+                    "icon": "logo_19",
                     "children": [
                         {
                             "id": "overview_of_our_cloud_based_storage_solutions_and_their_advantages",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Data Warehousing",
                     "end_of_day": 14,
+                    "icon": "logo_10",
                     "children": [
                         {
                             "id": "learn_about_our_data_warehousing_infrastructure_and_best_practices",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Data Partitioning and Retention Policies",
                     "end_of_day": 15,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "understand_our_data_partitioning_strategies_and_data_retention_policies",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Introduction to Our Key Data Tools and Libraries",
             "end_of_day": 18,
+            "icon": "logo_8",
             "children": [
                 {
                     "id": "python_r_and_other_tools",
                     "type": "module",
                     "title": "Python, R, and Other Tools",
                     "end_of_day": 16,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "introduction_to_the_programming_languages_and_tools_commonly_used_by_our_data_team",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Machine Learning Libraries",
                     "end_of_day": 17,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "overview_of_key_machine_learning_libraries_such_as_scikit_learn_and_tensorflow",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Data Visualization Tools",
                     "end_of_day": 18,
+                    "icon": "logo_33",
                     "children": [
                         {
                             "id": "learn_about_the_data_visualization_tools_we_use_including_power_bi_and_tableau",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Data Security and Privacy at Our Company",
             "end_of_day": 21,
+            "icon": "logo_30",
             "children": [
                 {
                     "id": "data_anonymization_and_pseudonymization",
                     "type": "module",
                     "title": "Data Anonymization and Pseudonymization",
                     "end_of_day": 19,
+                    "icon": "logo_30",
                     "children": [
                         {
                             "id": "learn_about_techniques_for_anonymizing_and_pseudonymizing_sensitive_data",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Compliance with Data Regulations",
                     "end_of_day": 20,
+                    "icon": "logo_35",
                     "children": [
                         {
                             "id": "understand_the_key_data_regulations_gdpr_ccpa_and_how_we_comply_with_them",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Access Control for Sensitive Data",
                     "end_of_day": 21,
+                    "icon": "logo_42",
                     "children": [
                         {
                             "id": "introduction_to_access_control_measures_for_managing_sensitive_data",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Our Statistical Analysis and Modeling Approaches",
             "end_of_day": 24,
+            "icon": "logo_11",
             "children": [
                 {
                     "id": "descriptive_and_predictive_modeling",
                     "type": "module",
                     "title": "Descriptive and Predictive Modeling",
                     "end_of_day": 22,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "overview_of_the_descriptive_and_predictive_modeling_approaches_we_use",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Statistical Significance Testing",
                     "end_of_day": 23,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_about_methods_for_statistical_significance_testing_in_our_data_analysis",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Model Evaluation Techniques",
                     "end_of_day": 24,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "understand_the_techniques_used_to_evaluate_model_performance",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Collaborating with Our Engineering and Product Teams",
             "end_of_day": 27,
+            "icon": "logo_14",
             "children": [
                 {
                     "id": "joint_product_development_meetings",
                     "type": "module",
                     "title": "Joint Product Development Meetings",
                     "end_of_day": 25,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "learn_how_the_data_team_collaborates_with_engineering_and_product_teams_in_joint_meetings",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Feature and Data Alignment",
                     "end_of_day": 26,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "understand_how_features_and_data_are_aligned_to_product_goals",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Feedback Loops from Engineering",
                     "end_of_day": 27,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "overview_of_feedback_loops_from_engineering_to_data_science_for_continuous_improvement",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Our Company's Reporting and Visualization Standards",
             "end_of_day": 30,
+            "icon": "logo_16",
             "children": [
                 {
                     "id": "standard_reporting_templates",
                     "type": "module",
                     "title": "Standard Reporting Templates",
                     "end_of_day": 28,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "learn_about_the_standard_reporting_templates_used_across_the_company",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Data Storytelling Techniques",
                     "end_of_day": 29,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "understand_the_techniques_we_use_for_effective_data_storytelling",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Visualization Tools and Best Practices",
                     "end_of_day": 30,
+                    "icon": "logo_22",
                     "children": [
                         {
                             "id": "overview_of_the_best_practices_for_data_visualization_and_tools_used",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Machine Learning Deployment and Monitoring in Our Company",
             "end_of_day": 31,
+            "icon": "logo_34",
             "children": [
                 {
                     "id": "model_deployment_frameworks",
                     "type": "module",
                     "title": "Model Deployment Frameworks",
                     "end_of_day": 31,
+                    "icon": "logo_34",
                     "children": [
                         {
                             "id": "introduction_to_the_frameworks_we_use_for_deploying_machine_learning_models",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "ML Model Monitoring and Maintenance",
                     "end_of_day": 31,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "learn_how_we_monitor_and_maintain_machine_learning_models_in_production",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Model Versioning",
                     "end_of_day": 31,
+                    "icon": "logo_15",
                     "children": [
                         {
                             "id": "understand_how_model_versioning_is_handled_within_our_deployment_process",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Ongoing Learning and Research Opportunities at Our Company",
             "end_of_day": 31,
+            "icon": "logo_26",
             "children": [
                 {
                     "id": "data_science_research_projects",
                     "type": "module",
                     "title": "Data Science Research Projects",
                     "end_of_day": 31,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "learn_about_opportunities_to_contribute_to_ongoing_data_science_research_projects",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Participation in Industry Meetups",
                     "end_of_day": 31,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "opportunities_to_attend_and_participate_in_industry_meetups_and_conferences",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Access to Online Learning Platforms",
                     "end_of_day": 31,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "learn_about_access_to_online_learning_platforms_for_continuous_development",
@@ -861,12 +910,14 @@
             "type": "section",
             "title": "Our Data Governance and Compliance Policies",
             "end_of_day": 31,
+            "icon": "logo_43",
             "children": [
                 {
                     "id": "internal_data_governance_guidelines",
                     "type": "module",
                     "title": "Internal Data Governance Guidelines",
                     "end_of_day": 31,
+                    "icon": "logo_43",
                     "children": [
                         {
                             "id": "overview_of_internal_data_governance_guidelines_and_their_importance",
@@ -888,6 +939,7 @@
                     "type": "module",
                     "title": "Compliance with GDPR/CCPA",
                     "end_of_day": 31,
+                    "icon": "logo_41",
                     "children": [
                         {
                             "id": "understand_how_the_company_ensures_compliance_with_gdpr_and_ccpa_regulations",
@@ -909,6 +961,7 @@
                     "type": "module",
                     "title": "Ethical Use of Data",
                     "end_of_day": 31,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "learn_about_the_company_s_policies_on_the_ethical_use_of_data",

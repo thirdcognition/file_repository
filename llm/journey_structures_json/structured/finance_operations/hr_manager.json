@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "HR Manager",
     "end_of_day": 31,
+    "icon": "logo_2",
     "children": [
         {
             "id": "introduction_to_the_company_team_14",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_2",
             "children": [
                 {
                     "id": "meet_the_hr_team",
                     "type": "module",
                     "title": "Meet the HR Team",
                     "end_of_day": 1,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "introduction_to_the_hr_team_members_and_their_roles",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Company Culture and Values",
                     "end_of_day": 2,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "understand_the_company_s_culture_and_core_values_and_how_they_influence_hr_policies",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Introduction to HR Leadership",
                     "end_of_day": 3,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "overview_of_the_hr_leadership_team_and_their_responsibilities",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our HR Policies and Procedures",
             "end_of_day": 6,
+            "icon": "logo_11",
             "children": [
                 {
                     "id": "employee_handbook_overview",
                     "type": "module",
                     "title": "Employee Handbook Overview",
                     "end_of_day": 4,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "learn_about_the_key_policies_outlined_in_the_employee_handbook",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "HR Compliance and Legal Obligations",
                     "end_of_day": 5,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "understand_the_company_s_legal_obligations_and_compliance_requirements_in_hr_practices",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Policies on Workplace Conduct and Ethics",
                     "end_of_day": 6,
+                    "icon": "logo_43",
                     "children": [
                         {
                             "id": "overview_of_policies_related_to_workplace_conduct_and_ethical_behavior",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Our Employee Onboarding and Offboarding Process",
             "end_of_day": 9,
+            "icon": "logo_40",
             "children": [
                 {
                     "id": "new_hire_onboarding_process",
                     "type": "module",
                     "title": "New Hire Onboarding Process",
                     "end_of_day": 7,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "learn_the_steps_involved_in_onboarding_new_employees_including_paperwork_and_training",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Exit Interview and Offboarding Procedures",
                     "end_of_day": 8,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "understand_the_exit_interview_process_and_offboarding_procedures_for_departing_employees",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Managing Employee Transitions",
                     "end_of_day": 9,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "overview_of_managing_transitions_including_promotions_transfers_and_role_changes",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "HR Tools and Systems at Our Company",
             "end_of_day": 12,
+            "icon": "logo_8",
             "children": [
                 {
                     "id": "hr_information_systems_hris",
                     "type": "module",
                     "title": "HR Information Systems (HRIS)",
                     "end_of_day": 10,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "learn_about_the_hr_information_systems_used_for_managing_employee_data",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Payroll and Benefits Management Tools",
                     "end_of_day": 11,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "understand_the_tools_used_to_manage_payroll_benefits_and_employee_compensation",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Employee Self-Service Portals",
                     "end_of_day": 12,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "overview_of_the_self_service_portals_available_for_employees_to_manage_their_own_data",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Our Employee Relations and Conflict Management Process",
             "end_of_day": 15,
+            "icon": "logo_23",
             "children": [
                 {
                     "id": "mediation_and_conflict_resolution",
                     "type": "module",
                     "title": "Mediation and Conflict Resolution",
                     "end_of_day": 13,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "learn_how_to_mediate_and_resolve_conflicts_between_employees",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Employee Grievance Handling",
                     "end_of_day": 14,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "understand_the_process_for_handling_employee_grievances_and_complaints",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Creating a Positive Work Environment",
                     "end_of_day": 15,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "overview_of_strategies_to_foster_a_positive_work_environment_and_employee_satisfaction",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Performance Management and Appraisals in Our Company",
             "end_of_day": 18,
+            "icon": "logo_4",
             "children": [
                 {
                     "id": "performance_review_cycles",
                     "type": "module",
                     "title": "Performance Review Cycles",
                     "end_of_day": 16,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "learn_about_the_performance_review_cycle_and_how_feedback_is_delivered",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Setting Goals and KPIs for Employees",
                     "end_of_day": 17,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "understand_how_to_set_measurable_goals_and_kpis_for_employee_performance",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Managing Underperformance",
                     "end_of_day": 18,
+                    "icon": "logo_31",
                     "children": [
                         {
                             "id": "overview_of_strategies_for_addressing_and_managing_underperformance",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Our Compensation and Benefits Overview",
             "end_of_day": 21,
+            "icon": "logo_30",
             "children": [
                 {
                     "id": "salary_structure_and_incentives",
                     "type": "module",
                     "title": "Salary Structure and Incentives",
                     "end_of_day": 19,
+                    "icon": "logo_30",
                     "children": [
                         {
                             "id": "learn_about_the_company_s_salary_structure_and_incentive_programs",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Health and Wellness Benefits",
                     "end_of_day": 20,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "understand_the_health_and_wellness_benefits_offered_to_employees",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Retirement Plans and Perks",
                     "end_of_day": 21,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "overview_of_retirement_plans_and_additional_perks_available_to_employees",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Compliance with Labor Laws at Our Company",
             "end_of_day": 24,
+            "icon": "logo_35",
             "children": [
                 {
                     "id": "understanding_employment_laws",
                     "type": "module",
                     "title": "Understanding Employment Laws",
                     "end_of_day": 22,
+                    "icon": "logo_35",
                     "children": [
                         {
                             "id": "learn_about_local_employment_laws_and_regulations_the_company_adheres_to",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Ensuring Compliance with Local Regulations",
                     "end_of_day": 23,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "understand_how_the_company_ensures_compliance_with_local_and_national_labor_laws",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Managing Workplace Safety and Compliance",
                     "end_of_day": 24,
+                    "icon": "logo_24",
                     "children": [
                         {
                             "id": "overview_of_the_policies_and_procedures_to_ensure_workplace_safety_and_compliance",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Collaborating with Our Finance and Operations Teams",
             "end_of_day": 27,
+            "icon": "logo_33",
             "children": [
                 {
                     "id": "aligning_hr_budgets_with_finance",
                     "type": "module",
                     "title": "Aligning HR Budgets with Finance",
                     "end_of_day": 25,
+                    "icon": "logo_33",
                     "children": [
                         {
                             "id": "learn_how_hr_collaborates_with_finance_to_align_budgets_and_manage_costs",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Operational Support for HR Initiatives",
                     "end_of_day": 26,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "understand_the_support_provided_by_operations_for_hr_initiatives_such_as_office_management_and_logistics",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Ensuring Smooth Communication Across Departments",
                     "end_of_day": 27,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "overview_of_communication_channels_used_to_ensure_smooth_collaboration_between_hr_finance_and_operations",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Diversity and Inclusion Initiatives at Our Company",
             "end_of_day": 30,
+            "icon": "logo_26",
             "children": [
                 {
                     "id": "promoting_workplace_diversity",
                     "type": "module",
                     "title": "Promoting Workplace Diversity",
                     "end_of_day": 28,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "learn_about_initiatives_in_place_to_promote_diversity_in_hiring_and_workplace_culture",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Inclusive Hiring Practices",
                     "end_of_day": 29,
+                    "icon": "logo_48",
                     "children": [
                         {
                             "id": "understand_how_the_company_ensures_inclusive_hiring_practices_and_removes_biases",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Employee Resource Groups (ERGs)",
                     "end_of_day": 30,
+                    "icon": "logo_10",
                     "children": [
                         {
                             "id": "overview_of_employee_resource_groups_and_their_role_in_fostering_inclusivity",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Learning and Development Programs at Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "career_development_programs",
                     "type": "module",
                     "title": "Career Development Programs",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_about_career_development_programs_available_to_employees_for_growth_and_advancement",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Training and Upskilling Initiatives",
                     "end_of_day": 31,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "understand_the_training_and_upskilling_opportunities_available_for_employees",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Management and Leadership Training",
                     "end_of_day": 31,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "overview_of_training_programs_designed_for_management_and_leadership_development",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Recruitment and Talent Management in Our Company",
             "end_of_day": 31,
+            "icon": "logo_18",
             "children": [
                 {
                     "id": "end_to_end_recruitment_process",
                     "type": "module",
                     "title": "End-to-end Recruitment Process",
                     "end_of_day": 31,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "learn_about_the_recruitment_process_from_job_posting_to_candidate_selection",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Talent Retention Strategies",
                     "end_of_day": 31,
+                    "icon": "logo_44",
                     "children": [
                         {
                             "id": "understand_the_strategies_used_to_retain_top_talent_within_the_company",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Succession Planning and Internal Promotions",
                     "end_of_day": 31,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "overview_of_how_the_company_manages_succession_planning_and_internal_promotions",
@@ -861,12 +910,14 @@
             "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 31,
+            "icon": "logo_16",
             "children": [
                 {
                     "id": "hr_certifications_and_courses",
                     "type": "module",
                     "title": "HR Certifications and Courses",
                     "end_of_day": 31,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "learn_about_hr_certifications_and_courses_available_for_professional_development",
@@ -888,6 +939,7 @@
                     "type": "module",
                     "title": "Staying Updated on HR Laws",
                     "end_of_day": 31,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "understand_how_to_stay_updated_with_changing_hr_laws_and_regulations",
@@ -909,6 +961,7 @@
                     "type": "module",
                     "title": "Attending HR Conferences and Events",
                     "end_of_day": 31,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "overview_of_hr_conferences_and_events_that_provide_learning_and_networking_opportunities",

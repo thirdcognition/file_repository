@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "Operations Manager",
     "end_of_day": 31,
+    "icon": "logo_2",
     "children": [
         {
             "id": "introduction_to_the_company_team_15",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_2",
             "children": [
                 {
                     "id": "meet_the_operations_leadership",
                     "type": "module",
                     "title": "Meet the Operations Leadership",
                     "end_of_day": 1,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "introduction_to_the_operations_leadership_team_and_their_roles",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Understanding Company Goals and Operations Role",
                     "end_of_day": 2,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "understand_the_company_s_goals_and_the_role_operations_plays_in_achieving_them",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Team Structure and Key Stakeholders",
                     "end_of_day": 3,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "overview_of_the_operations_team_structure_and_key_stakeholders_involved_in_decision_making",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our Operations Strategy",
             "end_of_day": 6,
+            "icon": "logo_4",
             "children": [
                 {
                     "id": "operations_strategy_overview",
                     "type": "module",
                     "title": "Operations Strategy Overview",
                     "end_of_day": 4,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "learn_about_the_company_s_overall_operations_strategy_and_key_objectives",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Short-Term vs Long-Term Operational Goals",
                     "end_of_day": 5,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "understand_the_difference_between_short_term_and_long_term_operational_goals",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Aligning Operations with Business Strategy",
                     "end_of_day": 6,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "overview_of_how_the_operations_team_aligns_its_strategy_with_the_company_s_broader_business_goals",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Overview of Our Internal Systems and Tools",
             "end_of_day": 9,
+            "icon": "logo_5",
             "children": [
                 {
                     "id": "key_operational_software",
                     "type": "module",
                     "title": "Key Operational Software",
                     "end_of_day": 7,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "learn_about_the_software_tools_used_for_managing_operations_and_workflow",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Automation Tools and Processes",
                     "end_of_day": 8,
+                    "icon": "logo_20",
                     "children": [
                         {
                             "id": "understand_how_automation_tools_are_used_to_streamline_operations_processes",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Tracking and Reporting Systems",
                     "end_of_day": 9,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "overview_of_the_systems_used_for_tracking_operational_performance_and_generating_reports",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Collaborating with Our Sales and Engineering Teams",
             "end_of_day": 12,
+            "icon": "logo_6",
             "children": [
                 {
                     "id": "inter_departmental_communication",
                     "type": "module",
                     "title": "Inter-departmental Communication",
                     "end_of_day": 10,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "learn_how_operations_communicates_and_collaborates_with_sales_and_engineering_teams",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Aligning Operations with Sales Targets",
                     "end_of_day": 11,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "understand_how_operations_aligns_resources_to_meet_sales_targets_and_business_objectives",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Supporting Engineering with Resource Needs",
                     "end_of_day": 12,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "overview_of_how_operations_supports_the_engineering_team_with_resources_and_logistics",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Our Process Optimization Techniques",
             "end_of_day": 15,
+            "icon": "logo_12",
             "children": [
                 {
                     "id": "lean_and_six_sigma_principles",
                     "type": "module",
                     "title": "Lean and Six Sigma Principles",
                     "end_of_day": 13,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "learn_about_lean_and_six_sigma_principles_and_how_they_are_applied_to_process_optimization",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Identifying and Eliminating Inefficiencies",
                     "end_of_day": 14,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "understand_how_inefficiencies_are_identified_and_eliminated_to_improve_operational_efficiency",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Continuous Improvement Practices",
                     "end_of_day": 15,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "overview_of_the_continuous_improvement_practices_used_to_enhance_operations",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Resource Allocation and Budgeting at Our Company",
             "end_of_day": 18,
+            "icon": "logo_18",
             "children": [
                 {
                     "id": "resource_planning_and_forecasting",
                     "type": "module",
                     "title": "Resource Planning and Forecasting",
                     "end_of_day": 16,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "learn_how_resources_are_planned_and_forecasted_to_meet_operational_needs",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Budget Management and Allocation",
                     "end_of_day": 17,
+                    "icon": "logo_38",
                     "children": [
                         {
                             "id": "understand_how_budgets_are_managed_and_allocated_for_operations_projects",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Monitoring Resource Utilization",
                     "end_of_day": 18,
+                    "icon": "logo_19",
                     "children": [
                         {
                             "id": "overview_of_how_resource_utilization_is_monitored_and_optimized",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Our Risk Management and Compliance Procedures",
             "end_of_day": 21,
+            "icon": "logo_13",
             "children": [
                 {
                     "id": "identifying_operational_risks",
                     "type": "module",
                     "title": "Identifying Operational Risks",
                     "end_of_day": 19,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "learn_how_operational_risks_are_identified_and_assessed",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Compliance with Industry Standards",
                     "end_of_day": 20,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "understand_how_the_company_ensures_compliance_with_industry_regulations_and_standards",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Mitigation and Contingency Plans",
                     "end_of_day": 21,
+                    "icon": "logo_24",
                     "children": [
                         {
                             "id": "overview_of_mitigation_and_contingency_plans_for_managing_operational_risks",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Our Operations Metrics and Reporting",
             "end_of_day": 24,
+            "icon": "logo_31",
             "children": [
                 {
                     "id": "key_performance_indicators_kpis",
                     "type": "module",
                     "title": "Key Performance Indicators (KPIs)",
                     "end_of_day": 22,
+                    "icon": "logo_31",
                     "children": [
                         {
                             "id": "learn_about_the_key_performance_indicators_kpis_used_to_track_operational_performance",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Operations Dashboard Overview",
                     "end_of_day": 23,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "understand_how_the_operations_dashboard_is_used_to_monitor_key_metrics",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Tracking Performance and Efficiency",
                     "end_of_day": 24,
+                    "icon": "logo_33",
                     "children": [
                         {
                             "id": "overview_of_how_performance_and_efficiency_are_tracked_and_reported",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Supply Chain Management at Our Company",
             "end_of_day": 27,
+            "icon": "logo_23",
             "children": [
                 {
                     "id": "managing_supplier_relationships",
                     "type": "module",
                     "title": "Managing Supplier Relationships",
                     "end_of_day": 25,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "learn_how_supplier_relationships_are_managed_to_ensure_a_reliable_supply_chain",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Inventory Management and Optimization",
                     "end_of_day": 26,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "understand_the_principles_of_inventory_management_and_how_to_optimize_stock_levels",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Ensuring Supply Chain Resilience",
                     "end_of_day": 27,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "overview_of_strategies_used_to_ensure_supply_chain_resilience_in_the_face_of_disruptions",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Vendor and Partner Management in Our Company",
             "end_of_day": 30,
+            "icon": "logo_37",
             "children": [
                 {
                     "id": "vendor_selection_criteria",
                     "type": "module",
                     "title": "Vendor Selection Criteria",
                     "end_of_day": 28,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "learn_about_the_criteria_used_to_select_vendors_and_partners_for_the_company",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Managing Contracts and Negotiations",
                     "end_of_day": 29,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "understand_how_vendor_contracts_are_managed_and_negotiations_are_conducted",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Monitoring Vendor Performance",
                     "end_of_day": 30,
+                    "icon": "logo_43",
                     "children": [
                         {
                             "id": "overview_of_how_vendor_performance_is_monitored_to_ensure_quality_and_reliability",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Handling Customer and Employee Feedback at Our Company",
             "end_of_day": 30,
+            "icon": "logo_29",
             "children": [
                 {
                     "id": "collecting_and_analyzing_feedback_1",
                     "type": "module",
                     "title": "Collecting and Analyzing Feedback",
                     "end_of_day": 30,
+                    "icon": "logo_29",
                     "children": [
                         {
                             "id": "learn_how_customer_and_employee_feedback_is_collected_and_analyzed_to_improve_operations",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Implementing Process Improvements",
                     "end_of_day": 30,
+                    "icon": "logo_46",
                     "children": [
                         {
                             "id": "understand_how_feedback_is_used_to_drive_process_improvements",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Feedback Integration into Operations Strategy",
                     "end_of_day": 30,
+                    "icon": "logo_30",
                     "children": [
                         {
                             "id": "overview_of_how_feedback_is_integrated_into_the_company_s_operations_strategy",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Ongoing Learning and Process Improvement at Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "operational_certifications_and_training",
                     "type": "module",
                     "title": "Operational Certifications and Training",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_about_certifications_and_training_programs_available_for_operations_managers",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Continuous Learning Programs",
                     "end_of_day": 31,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "understand_the_continuous_learning_programs_in_place_to_help_operations_managers_stay_updated",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Staying Updated with Operations Trends",
                     "end_of_day": 31,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "overview_of_industry_trends_and_how_operations_managers_stay_informed",

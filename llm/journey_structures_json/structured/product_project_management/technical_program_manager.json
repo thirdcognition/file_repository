@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "Technical Program Manager",
     "end_of_day": 31,
+    "icon": "logo_1",
     "children": [
         {
             "id": "introduction_to_the_company_team_6",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_1",
             "children": [
                 {
                     "id": "meet_the_leadership_team_1",
                     "type": "module",
                     "title": "Meet the Leadership Team",
                     "end_of_day": 1,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "introduction_to_the_leadership_team_and_their_role_in_program_success",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Understanding Program Goals",
                     "end_of_day": 2,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "overview_of_program_goals_and_their_alignment_with_company_objectives",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Key Program Stakeholders",
                     "end_of_day": 3,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "introduction_to_key_stakeholders_involved_in_the_program_and_their_responsibilities",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our Program Objectives",
             "end_of_day": 6,
+            "icon": "logo_11",
             "children": [
                 {
                     "id": "key_deliverables_and_milestones",
                     "type": "module",
                     "title": "Key Deliverables and Milestones",
                     "end_of_day": 4,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "understand_the_key_deliverables_and_milestones_of_the_program",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Strategic Program Objectives",
                     "end_of_day": 5,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "learn_about_the_strategic_objectives_of_the_program_and_how_they_align_with_broader_business_goals",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Alignment with Business Goals",
                     "end_of_day": 6,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "overview_of_how_the_program_objectives_are_aligned_with_the_company_s_long_term_business_goals",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Agile Project Management at Our Company",
             "end_of_day": 9,
+            "icon": "logo_12",
             "children": [
                 {
                     "id": "agile_program_management_overview",
                     "type": "module",
                     "title": "Agile Program Management Overview",
                     "end_of_day": 7,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "understand_how_agile_principles_are_applied_at_the_program_level",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Tracking Agile Metrics",
                     "end_of_day": 8,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "learn_the_metrics_used_to_track_progress_in_agile_projects",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Program Increment (PI) Planning",
                     "end_of_day": 9,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "overview_of_how_program_increment_pi_planning_is_conducted",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Collaborating with Our Engineering and Product Teams",
             "end_of_day": 12,
+            "icon": "logo_6",
             "children": [
                 {
                     "id": "inter_team_collaboration",
                     "type": "module",
                     "title": "Inter-team Collaboration",
                     "end_of_day": 10,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "learn_how_the_program_management_team_collaborates_with_engineering_and_product_teams",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Synchronizing Program and Product Roadmaps",
                     "end_of_day": 11,
+                    "icon": "logo_47",
                     "children": [
                         {
                             "id": "understand_the_process_of_synchronizing_the_program_and_product_roadmaps_to_ensure_alignment",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Managing Cross-functional Dependencies",
                     "end_of_day": 12,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "overview_of_managing_cross_functional_dependencies_across_teams",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Our Risk Management and Mitigation Strategies",
             "end_of_day": 15,
+            "icon": "logo_8",
             "children": [
                 {
                     "id": "identifying_program_risks",
                     "type": "module",
                     "title": "Identifying Program Risks",
                     "end_of_day": 13,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "learn_about_the_process_of_identifying_potential_risks_in_the_program",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Risk Mitigation Plans",
                     "end_of_day": 14,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "understand_the_strategies_for_mitigating_program_risks",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Escalation and Contingency Planning",
                     "end_of_day": 15,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "overview_of_escalation_paths_and_contingency_planning_for_high_impact_risks",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Tools and Software for Project Management at Our Company",
             "end_of_day": 18,
+            "icon": "logo_23",
             "children": [
                 {
                     "id": "jira_and_confluence_for_program_tracking",
                     "type": "module",
                     "title": "JIRA and Confluence for Program Tracking",
                     "end_of_day": 16,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "introduction_to_how_jira_and_confluence_are_used_for_tracking_program_progress",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Project Management Dashboards",
                     "end_of_day": 17,
+                    "icon": "logo_33",
                     "children": [
                         {
                             "id": "learn_about_the_dashboards_used_to_visualize_project_progress_and_key_metrics",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Collaboration and Communication Tools",
                     "end_of_day": 18,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "overview_of_tools_used_for_cross_team_communication_and_collaboration",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Tracking Progress and Reporting at Our Company",
             "end_of_day": 21,
+            "icon": "logo_37",
             "children": [
                 {
                     "id": "program_status_reports",
                     "type": "module",
                     "title": "Program Status Reports",
                     "end_of_day": 19,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "learn_how_to_create_and_present_program_status_reports_to_stakeholders",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Burnup and Burndown Charts",
                     "end_of_day": 20,
+                    "icon": "logo_31",
                     "children": [
                         {
                             "id": "understand_how_burnup_and_burndown_charts_are_used_to_track_progress",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Stakeholder Progress Updates",
                     "end_of_day": 21,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "overview_of_how_progress_updates_are_communicated_to_stakeholders",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Stakeholder Management and Communication in Our Company",
             "end_of_day": 24,
+            "icon": "logo_32",
             "children": [
                 {
                     "id": "stakeholder_communication_plans",
                     "type": "module",
                     "title": "Stakeholder Communication Plans",
                     "end_of_day": 22,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "learn_how_to_develop_and_execute_stakeholder_communication_plans",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Regular Program Briefings",
                     "end_of_day": 23,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "understand_the_frequency_and_structure_of_regular_program_briefings_with_stakeholders",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Managing Stakeholder Expectations",
                     "end_of_day": 24,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "overview_of_strategies_for_managing_and_aligning_stakeholder_expectations",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Resource Allocation and Budgeting at Our Company",
             "end_of_day": 27,
+            "icon": "logo_19",
             "children": [
                 {
                     "id": "allocating_resources_across_teams",
                     "type": "module",
                     "title": "Allocating Resources Across Teams",
                     "end_of_day": 25,
+                    "icon": "logo_19",
                     "children": [
                         {
                             "id": "learn_about_resource_allocation_and_managing_team_capacity_across_multiple_teams",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Program Budgeting and Forecasting",
                     "end_of_day": 26,
+                    "icon": "logo_38",
                     "children": [
                         {
                             "id": "understand_the_process_for_budgeting_and_forecasting_for_program_needs",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Resource Adjustments and Rebalancing",
                     "end_of_day": 27,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "overview_of_how_resources_are_rebalanced_based_on_shifting_priorities",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Our Project Metrics and KPIs",
             "end_of_day": 30,
+            "icon": "logo_18",
             "children": [
                 {
                     "id": "measuring_program_success",
                     "type": "module",
                     "title": "Measuring Program Success",
                     "end_of_day": 28,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "learn_about_the_key_metrics_used_to_measure_program_success",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Tracking Program Health",
                     "end_of_day": 29,
+                    "icon": "logo_20",
                     "children": [
                         {
                             "id": "understand_how_to_track_the_overall_health_of_the_program_using_defined_kpis",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "KPIs for Delivery and Quality",
                     "end_of_day": 30,
+                    "icon": "logo_10",
                     "children": [
                         {
                             "id": "overview_of_kpis_used_to_measure_delivery_timelines_and_quality",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Change Management Processes at Our Company",
             "end_of_day": 30,
+            "icon": "logo_22",
             "children": [
                 {
                     "id": "managing_scope_changes",
                     "type": "module",
                     "title": "Managing Scope Changes",
                     "end_of_day": 30,
+                    "icon": "logo_22",
                     "children": [
                         {
                             "id": "learn_how_to_manage_scope_changes_within_the_program",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Change Impact Analysis",
                     "end_of_day": 30,
+                    "icon": "logo_46",
                     "children": [
                         {
                             "id": "understand_how_to_assess_the_impact_of_changes_on_program_objectives_and_timelines",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Stakeholder Sign-offs",
                     "end_of_day": 30,
+                    "icon": "logo_35",
                     "children": [
                         {
                             "id": "overview_of_the_sign_off_process_for_changes_from_key_stakeholders",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "certifications_and_training_programs",
                     "type": "module",
                     "title": "Certifications and Training Programs",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_about_available_certifications_and_training_programs_for_program_managers",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Program Management Conferences",
                     "end_of_day": 31,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "overview_of_industry_conferences_and_networking_opportunities_for_program_managers",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Internal Knowledge Sharing Sessions",
                     "end_of_day": 31,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "understand_how_internal_knowledge_sharing_sessions_help_with_continuous_development",

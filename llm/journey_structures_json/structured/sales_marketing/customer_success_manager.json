@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "Customer Success Manager",
     "end_of_day": 31,
+    "icon": "logo_2",
     "children": [
         {
             "id": "introduction_to_the_company_team_12",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_2",
             "children": [
                 {
                     "id": "meet_the_customer_success_team",
                     "type": "module",
                     "title": "Meet the Customer Success Team",
                     "end_of_day": 1,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "introduction_to_the_customer_success_team_members_and_their_roles",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Company Values and Customer Focus",
                     "end_of_day": 2,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "learn_about_the_company_s_values_and_how_they_translate_to_customer_focused_strategies",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Introduction to Key Accounts",
                     "end_of_day": 3,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "overview_of_key_customer_accounts_and_their_strategic_importance",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our Customer Success Processes",
             "end_of_day": 6,
+            "icon": "logo_4",
             "children": [
                 {
                     "id": "customer_onboarding_steps",
                     "type": "module",
                     "title": "Customer Onboarding Steps",
                     "end_of_day": 4,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "learn_the_steps_involved_in_onboarding_new_customers_to_ensure_a_smooth_start",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Customer Journey Mapping",
                     "end_of_day": 5,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "understand_how_to_map_the_customer_journey_to_provide_proactive_support",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Proactive vs Reactive Support",
                     "end_of_day": 6,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "overview_of_the_differences_between_proactive_and_reactive_customer_support_and_when_to_use_each",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Understanding Our Customer Needs and Challenges",
             "end_of_day": 9,
+            "icon": "logo_11",
             "children": [
                 {
                     "id": "conducting_customer_discovery",
                     "type": "module",
                     "title": "Conducting Customer Discovery",
                     "end_of_day": 7,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "learn_how_to_conduct_effective_customer_discovery_to_understand_needs_and_goals",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Analyzing Customer Behavior",
                     "end_of_day": 8,
+                    "icon": "logo_31",
                     "children": [
                         {
                             "id": "overview_of_tools_and_techniques_for_analyzing_customer_behavior_and_engagement",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Common Challenges in Our Customer Base",
                     "end_of_day": 9,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "understand_the_common_challenges_faced_by_our_customer_base_and_how_we_address_them",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Collaborating with Our Sales and Product Teams",
             "end_of_day": 12,
+            "icon": "logo_14",
             "children": [
                 {
                     "id": "ensuring_smooth_handover_from_sales",
                     "type": "module",
                     "title": "Ensuring Smooth Handover from Sales",
                     "end_of_day": 10,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "learn_the_process_for_ensuring_a_seamless_handover_from_the_sales_team_to_customer_success",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Communicating Customer Feedback",
                     "end_of_day": 11,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "understand_how_to_communicate_customer_feedback_to_the_product_and_development_teams",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Aligning on Product Roadmaps",
                     "end_of_day": 12,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "overview_of_how_customer_success_aligns_with_product_development_to_meet_customer_needs",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Familiarize with Our Account Management Tools",
             "end_of_day": 15,
+            "icon": "logo_26",
             "children": [
                 {
                     "id": "customer_success_platforms",
                     "type": "module",
                     "title": "Customer Success Platforms",
                     "end_of_day": 13,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "learn_about_the_customer_success_platforms_we_use_for_tracking_and_managing_customer_relationships",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Tracking Customer Engagement",
                     "end_of_day": 14,
+                    "icon": "logo_33",
                     "children": [
                         {
                             "id": "understand_how_to_track_customer_engagement_to_measure_success_and_identify_risks",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Managing Customer Data",
                     "end_of_day": 15,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "overview_of_how_customer_data_is_managed_and_used_to_improve_relationships",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Our Customer Engagement Strategies",
             "end_of_day": 18,
+            "icon": "logo_16",
             "children": [
                 {
                     "id": "hosting_customer_webinars",
                     "type": "module",
                     "title": "Hosting Customer Webinars",
                     "end_of_day": 16,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "learn_best_practices_for_hosting_webinars_that_engage_and_educate_customers",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Customer Check-in Meetings",
                     "end_of_day": 17,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "understand_the_structure_and_purpose_of_regular_customer_check_in_meetings",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Nurturing Long-term Relationships",
                     "end_of_day": 18,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "overview_of_strategies_for_nurturing_long_term_relationships_with_key_customers",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Handling Customer Feedback in Our Company",
             "end_of_day": 21,
+            "icon": "logo_29",
             "children": [
                 {
                     "id": "collecting_feedback_via_surveys",
                     "type": "module",
                     "title": "Collecting Feedback via Surveys",
                     "end_of_day": 19,
+                    "icon": "logo_29",
                     "children": [
                         {
                             "id": "learn_how_to_create_and_distribute_surveys_to_collect_valuable_customer_feedback",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Escalating Critical Issues",
                     "end_of_day": 20,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "understand_when_and_how_to_escalate_critical_customer_issues_to_other_departments",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Implementing Feedback into Solutions",
                     "end_of_day": 21,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "overview_of_how_customer_feedback_is_implemented_into_product_and_service_improvements",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Our Renewals and Upselling Techniques",
             "end_of_day": 24,
+            "icon": "logo_27",
             "children": [
                 {
                     "id": "renewal_playbooks_and_tactics",
                     "type": "module",
                     "title": "Renewal Playbooks and Tactics",
                     "end_of_day": 22,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "learn_the_playbooks_and_tactics_we_use_to_ensure_customer_renewals",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Identifying Upsell Opportunities",
                     "end_of_day": 23,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "understand_how_to_identify_and_act_on_opportunities_to_upsell_additional_products_or_services",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Customer Retention Strategies",
                     "end_of_day": 24,
+                    "icon": "logo_30",
                     "children": [
                         {
                             "id": "overview_of_strategies_used_to_retain_customers_and_reduce_churn",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Familiarize with Our Technical Product Knowledge",
             "end_of_day": 27,
+            "icon": "logo_7",
             "children": [
                 {
                     "id": "understanding_product_features",
                     "type": "module",
                     "title": "Understanding Product Features",
                     "end_of_day": 25,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "gain_an_understanding_of_the_key_features_of_our_products_and_how_they_benefit_customers",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Technical Training for Success Managers",
                     "end_of_day": 26,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "overview_of_the_technical_training_available_to_customer_success_managers_to_support_customers_better",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Supporting Customers with Technical Issues",
                     "end_of_day": 27,
+                    "icon": "logo_15",
                     "children": [
                         {
                             "id": "learn_how_to_support_customers_with_basic_technical_issues_and_when_to_escalate",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Our Customer Support Process",
             "end_of_day": 30,
+            "icon": "logo_46",
             "children": [
                 {
                     "id": "tiered_support_systems",
                     "type": "module",
                     "title": "Tiered Support Systems",
                     "end_of_day": 28,
+                    "icon": "logo_46",
                     "children": [
                         {
                             "id": "understand_how_our_tiered_support_system_works_and_when_to_escalate_customer_issues",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Escalation Processes for Complex Issues",
                     "end_of_day": 29,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "learn_the_process_for_escalating_complex_technical_issues_to_the_appropriate_teams",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Collaborating with Support Teams",
                     "end_of_day": 30,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "overview_of_how_customer_success_collaborates_with_support_teams_to_resolve_issues",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Customer Success Metrics and KPIs at Our Company",
             "end_of_day": 31,
+            "icon": "logo_48",
             "children": [
                 {
                     "id": "net_promoter_score_nps",
                     "type": "module",
                     "title": "Net Promoter Score (NPS)",
                     "end_of_day": 31,
+                    "icon": "logo_48",
                     "children": [
                         {
                             "id": "learn_about_net_promoter_score_nps_and_how_it_is_used_to_measure_customer_satisfaction",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Customer Churn Rate",
                     "end_of_day": 31,
+                    "icon": "logo_43",
                     "children": [
                         {
                             "id": "understand_how_customer_churn_is_measured_and_what_strategies_can_be_used_to_reduce_it",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Customer Lifetime Value (CLV)",
                     "end_of_day": 31,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "overview_of_customer_lifetime_value_clv_and_its_importance_in_long_term_planning",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Ongoing Learning and Relationship Building at Our Company",
             "end_of_day": 31,
+            "icon": "logo_19",
             "children": [
                 {
                     "id": "industry_best_practices_for_customer_success",
                     "type": "module",
                     "title": "Industry Best Practices for Customer Success",
                     "end_of_day": 31,
+                    "icon": "logo_19",
                     "children": [
                         {
                             "id": "learn_about_industry_best_practices_for_customer_success_management",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Networking and Customer Success Communities",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "understand_how_to_network_and_engage_with_customer_success_communities_to_stay_updated",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Continuous Learning Resources",
                     "end_of_day": 31,
+                    "icon": "logo_22",
                     "children": [
                         {
                             "id": "overview_of_the_learning_resources_available_to_customer_success_managers_for_continuous_development",

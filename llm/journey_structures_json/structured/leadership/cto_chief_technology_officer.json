@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "CTO (Chief Technology Officer)",
     "end_of_day": 30,
+    "icon": "logo_1",
     "children": [
         {
             "id": "introduction_to_the_company_team_16",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_1",
             "children": [
                 {
                     "id": "meet_the_leadership_team_2",
                     "type": "module",
                     "title": "Meet the Leadership Team",
                     "end_of_day": 1,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "introduction_to_the_company_s_leadership_team_and_their_respective_roles",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Company Vision and Technology Alignment",
                     "end_of_day": 2,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "understand_the_company_s_vision_and_how_technology_aligns_with_business_goals",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Introduction to Key Stakeholders",
                     "end_of_day": 3,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "overview_of_key_stakeholders_and_their_role_in_technology_decision_making",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Ensuring Cross-Functional Alignment",
             "end_of_day": 6,
+            "icon": "logo_6",
             "children": [
                 {
                     "id": "ensuring_cross_functional_alignment_1",
                     "type": "module",
                     "title": "Ensuring Cross-Functional Alignment",
                     "end_of_day": 4,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "learn_how_to_ensure_alignment_between_product_engineering_and_technology_teams",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Setting Engineering Priorities",
                     "end_of_day": 5,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "understand_how_engineering_priorities_are_set_in_alignment_with_product_and_business_goals",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Supporting Product Development",
                     "end_of_day": 6,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "overview_of_the_cto_s_role_in_supporting_product_development_and_innovation",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Our Budgeting and Resource Allocation Process",
             "end_of_day": 9,
+            "icon": "logo_5",
             "children": [
                 {
                     "id": "technology_budget_planning",
                     "type": "module",
                     "title": "Technology Budget Planning",
                     "end_of_day": 7,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "learn_how_to_plan_and_allocate_budgets_for_technology_initiatives",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Resource Allocation Across Teams",
                     "end_of_day": 8,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "understand_how_resources_are_allocated_across_engineering_r_d_and_technical_teams",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Monitoring R&D Expenditures",
                     "end_of_day": 9,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "overview_of_how_r_d_expenditures_are_monitored_and_controlled_for_efficiency",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Hiring and Talent Management in Our Company",
             "end_of_day": 12,
+            "icon": "logo_23",
             "children": [
                 {
                     "id": "technical_hiring_strategies",
                     "type": "module",
                     "title": "Technical Hiring Strategies",
                     "end_of_day": 10,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "learn_the_strategies_for_hiring_top_technical_talent_and_building_high_performing_teams",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Developing Tech Talent",
                     "end_of_day": 11,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "understand_the_importance_of_developing_and_nurturing_tech_talent_for_long_term_growth",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Employee Retention and Career Growth",
                     "end_of_day": 12,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "overview_of_employee_retention_strategies_and_fostering_career_growth_within_the_tech_team",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Technology Stack Decisions at Our Company",
             "end_of_day": 15,
+            "icon": "logo_18",
             "children": [
                 {
                     "id": "evaluating_new_technologies",
                     "type": "module",
                     "title": "Evaluating New Technologies",
                     "end_of_day": 13,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "learn_how_to_evaluate_and_adopt_new_technologies_to_stay_ahead_of_the_competition",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Selecting and Implementing Tech Stack",
                     "end_of_day": 14,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "understand_the_decision_making_process_for_selecting_the_company_s_tech_stack",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Balancing Innovation with Stability",
                     "end_of_day": 15,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "overview_of_how_to_balance_adopting_new_innovations_with_maintaining_system_stability",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Security and Compliance Oversight in Our Company",
             "end_of_day": 18,
+            "icon": "logo_21",
             "children": [
                 {
                     "id": "overseeing_cybersecurity_initiatives",
                     "type": "module",
                     "title": "Overseeing Cybersecurity Initiatives",
                     "end_of_day": 16,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "learn_how_the_cto_oversees_cybersecurity_initiatives_to_protect_company_assets",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Ensuring Compliance with Regulations",
                     "end_of_day": 17,
+                    "icon": "logo_30",
                     "children": [
                         {
                             "id": "understand_the_regulatory_compliance_requirements_related_to_technology",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Managing Security Audits",
                     "end_of_day": 18,
+                    "icon": "logo_35",
                     "children": [
                         {
                             "id": "overview_of_how_security_audits_are_managed_to_ensure_compliance_and_risk_mitigation",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Our Risk Management and Incident Response Strategies",
             "end_of_day": 21,
+            "icon": "logo_24",
             "children": [
                 {
                     "id": "identifying_and_mitigating_technology_risks",
                     "type": "module",
                     "title": "Identifying and Mitigating Technology Risks",
                     "end_of_day": 19,
+                    "icon": "logo_24",
                     "children": [
                         {
                             "id": "learn_how_to_identify_and_mitigate_technology_related_risks",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Incident Response Procedures",
                     "end_of_day": 20,
+                    "icon": "logo_38",
                     "children": [
                         {
                             "id": "understand_the_procedures_for_responding_to_and_managing_technology_incidents",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Crisis Management and Communication",
                     "end_of_day": 21,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "overview_of_crisis_management_strategies_and_how_to_communicate_during_technology_crises",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Stakeholder Management at Our Company",
             "end_of_day": 24,
+            "icon": "logo_45",
             "children": [
                 {
                     "id": "communicating_technology_strategy_to_stakeholders",
                     "type": "module",
                     "title": "Communicating Technology Strategy to Stakeholders",
                     "end_of_day": 22,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "learn_how_to_effectively_communicate_the_technology_strategy_to_both_internal_and_external_stakeholders",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Aligning Stakeholder Expectations",
                     "end_of_day": 23,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "understand_how_to_align_stakeholder_expectations_with_technology_deliverables",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Engaging with Investors on Technology Strategy",
                     "end_of_day": 24,
+                    "icon": "logo_33",
                     "children": [
                         {
                             "id": "overview_of_how_to_engage_with_investors_and_communicate_the_value_of_technology_initiatives",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Performance Metrics and KPIs at Our Company",
             "end_of_day": 27,
+            "icon": "logo_25",
             "children": [
                 {
                     "id": "measuring_technology_success",
                     "type": "module",
                     "title": "Measuring Technology Success",
                     "end_of_day": 25,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "learn_the_key_metrics_used_to_measure_the_success_of_technology_initiatives",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Tracking R&D Productivity",
                     "end_of_day": 26,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "understand_how_r_d_productivity_is_tracked_and_measured_against_goals",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "KPIs for Engineering Teams",
                     "end_of_day": 27,
+                    "icon": "logo_31",
                     "children": [
                         {
                             "id": "overview_of_the_kpis_used_to_assess_engineering_team_performance_and_productivity",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 30,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "staying_updated_on_emerging_technologies",
                     "type": "module",
                     "title": "Staying Updated on Emerging Technologies",
                     "end_of_day": 28,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_how_to_stay_updated_on_emerging_technologies_and_trends_in_the_industry",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Industry Conferences and Networking",
                     "end_of_day": 29,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "understand_the_importance_of_attending_industry_conferences_and_networking_with_peers",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Continuous Learning for Technology Leaders",
                     "end_of_day": 30,
+                    "icon": "logo_47",
                     "children": [
                         {
                             "id": "overview_of_the_continuous_learning_opportunities_available_for_technology_leaders",

@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "Digital Marketing Specialist",
     "end_of_day": 31,
+    "icon": "logo_2",
     "children": [
         {
             "id": "introduction_to_the_company_team_11",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_2",
             "children": [
                 {
                     "id": "meet_the_marketing_team",
                     "type": "module",
                     "title": "Meet the Marketing Team",
                     "end_of_day": 1,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "introduction_to_the_marketing_team_members_and_their_roles",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Company Vision and Branding",
                     "end_of_day": 2,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "learn_about_the_company_vision_and_how_it_aligns_with_our_brand_strategy",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Introduction to Cross-functional Teams",
                     "end_of_day": 3,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "understand_how_marketing_collaborates_with_other_teams_to_achieve_business_goals",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our Marketing Strategy",
             "end_of_day": 6,
+            "icon": "logo_4",
             "children": [
                 {
                     "id": "marketing_campaign_planning",
                     "type": "module",
                     "title": "Marketing Campaign Planning",
                     "end_of_day": 4,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "learn_the_steps_involved_in_planning_and_executing_marketing_campaigns",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Brand Positioning and Messaging",
                     "end_of_day": 5,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "understand_our_brand_positioning_and_messaging_strategies",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Marketing Objectives and KPIs",
                     "end_of_day": 6,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "overview_of_the_marketing_objectives_and_kpis_used_to_track_success",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Overview of Our Marketing Channels and Tactics",
             "end_of_day": 9,
+            "icon": "logo_6",
             "children": [
                 {
                     "id": "digital_vs_traditional_channels",
                     "type": "module",
                     "title": "Digital vs Traditional Channels",
                     "end_of_day": 7,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "learn_about_the_difference_between_digital_and_traditional_marketing_channels",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Multi-channel Marketing Strategies",
                     "end_of_day": 8,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "understand_how_to_implement_multi_channel_marketing_strategies_to_reach_target_audiences",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Content Marketing vs Paid Advertising",
                     "end_of_day": 9,
+                    "icon": "logo_47",
                     "children": [
                         {
                             "id": "overview_of_content_marketing_and_paid_advertising_tactics_and_when_to_use_them",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Marketing Tools and Software at Our Company",
             "end_of_day": 12,
+            "icon": "logo_20",
             "children": [
                 {
                     "id": "marketing_automation_platforms",
                     "type": "module",
                     "title": "Marketing Automation Platforms",
                     "end_of_day": 10,
+                    "icon": "logo_20",
                     "children": [
                         {
                             "id": "learn_about_the_marketing_automation_platforms_we_use_for_campaign_management",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Analytics and Reporting Tools",
                     "end_of_day": 11,
+                    "icon": "logo_33",
                     "children": [
                         {
                             "id": "understand_how_to_use_analytics_tools_to_track_marketing_performance",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Social Media Management Tools",
                     "end_of_day": 12,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "overview_of_the_social_media_management_tools_used_for_content_scheduling_and_monitoring",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Our SEO and SEM Best Practices",
             "end_of_day": 15,
+            "icon": "logo_7",
             "children": [
                 {
                     "id": "keyword_research_techniques",
                     "type": "module",
                     "title": "Keyword Research Techniques",
                     "end_of_day": 13,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "learn_how_to_conduct_keyword_research_for_seo_and_sem_campaigns",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "On-page vs Off-page SEO",
                     "end_of_day": 14,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "understand_the_difference_between_on_page_and_off_page_seo_and_their_impact_on_rankings",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Optimizing Paid Search Campaigns",
                     "end_of_day": 15,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "overview_of_how_to_optimize_paid_search_campaigns_for_maximum_roi",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Managing Our Social Media Strategies",
             "end_of_day": 18,
+            "icon": "logo_44",
             "children": [
                 {
                     "id": "social_media_content_creation",
                     "type": "module",
                     "title": "Social Media Content Creation",
                     "end_of_day": 16,
+                    "icon": "logo_44",
                     "children": [
                         {
                             "id": "learn_the_process_of_creating_engaging_social_media_content",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Engagement and Community Building",
                     "end_of_day": 17,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "understand_how_to_build_and_maintain_an_active_social_media_community",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Measuring Social Media ROI",
                     "end_of_day": 18,
+                    "icon": "logo_31",
                     "children": [
                         {
                             "id": "overview_of_how_to_measure_the_roi_of_social_media_efforts",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Email Campaigns and Automation in Our Company",
             "end_of_day": 21,
+            "icon": "logo_9",
             "children": [
                 {
                     "id": "email_campaign_tools",
                     "type": "module",
                     "title": "Email Campaign Tools",
                     "end_of_day": 19,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "learn_about_the_tools_we_use_to_create_and_manage_email_campaigns",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Creating Automated Drip Campaigns",
                     "end_of_day": 20,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "understand_how_to_create_automated_drip_campaigns_to_nurture_leads",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Measuring Email Campaign Success",
                     "end_of_day": 21,
+                    "icon": "logo_29",
                     "children": [
                         {
                             "id": "overview_of_how_to_measure_the_success_of_email_campaigns",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Content Marketing and Creation Guidelines at Our Company",
             "end_of_day": 24,
+            "icon": "logo_48",
             "children": [
                 {
                     "id": "blog_and_article_writing_best_practices",
                     "type": "module",
                     "title": "Blog and Article Writing Best Practices",
                     "end_of_day": 22,
+                    "icon": "logo_48",
                     "children": [
                         {
                             "id": "learn_best_practices_for_writing_blogs_and_articles_to_support_content_marketing_efforts",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Visual Content Creation",
                     "end_of_day": 23,
+                    "icon": "logo_46",
                     "children": [
                         {
                             "id": "understand_the_process_of_creating_visual_content_such_as_infographics_and_videos",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Aligning Content with SEO Goals",
                     "end_of_day": 24,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "overview_of_how_to_align_content_creation_with_seo_goals_for_better_search_visibility",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Collaborating with Our Sales and Product Teams",
             "end_of_day": 27,
+            "icon": "logo_23",
             "children": [
                 {
                     "id": "aligning_marketing_with_sales_objectives",
                     "type": "module",
                     "title": "Aligning Marketing with Sales Objectives",
                     "end_of_day": 25,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "learn_how_to_align_marketing_campaigns_with_sales_objectives_to_drive_revenue",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Supporting Product Launches",
                     "end_of_day": 26,
+                    "icon": "logo_49",
                     "children": [
                         {
                             "id": "understand_how_marketing_supports_product_launches_and_drives_product_awareness",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Generating Sales-qualified Leads",
                     "end_of_day": 27,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "overview_of_how_marketing_efforts_generate_and_qualify_leads_for_the_sales_team",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Our Marketing Analytics and Reporting",
             "end_of_day": 30,
+            "icon": "logo_27",
             "children": [
                 {
                     "id": "tracking_campaign_performance",
                     "type": "module",
                     "title": "Tracking Campaign Performance",
                     "end_of_day": 28,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "learn_how_to_track_and_measure_the_performance_of_marketing_campaigns",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Google Analytics and Attribution",
                     "end_of_day": 29,
+                    "icon": "logo_28",
                     "children": [
                         {
                             "id": "understand_how_to_use_google_analytics_for_tracking_user_behavior_and_campaign_attribution",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Marketing Dashboard Overview",
                     "end_of_day": 30,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "overview_of_the_marketing_dashboards_used_to_monitor_key_metrics",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Customer Segmentation and Targeting in Our Company",
             "end_of_day": 31,
+            "icon": "logo_45",
             "children": [
                 {
                     "id": "defining_customer_personas",
                     "type": "module",
                     "title": "Defining Customer Personas",
                     "end_of_day": 31,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "learn_how_to_define_and_create_customer_personas_based_on_market_research",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Targeting Specific Customer Segments",
                     "end_of_day": 31,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "understand_how_to_target_specific_customer_segments_with_tailored_messaging",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Optimizing Campaigns Based on Segmentation",
                     "end_of_day": 31,
+                    "icon": "logo_19",
                     "children": [
                         {
                             "id": "overview_of_how_to_optimize_marketing_campaigns_based_on_customer_segmentation_data",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "marketing_certifications_and_courses",
                     "type": "module",
                     "title": "Marketing Certifications and Courses",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_about_the_certifications_and_courses_available_for_digital_marketing_specialists",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Staying Updated with Digital Marketing Trends",
                     "end_of_day": 31,
+                    "icon": "logo_50",
                     "children": [
                         {
                             "id": "understand_how_to_stay_informed_about_the_latest_trends_in_digital_marketing",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Internal Marketing Workshops",
                     "end_of_day": 31,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "overview_of_the_internal_workshops_available_for_continuous_marketing_skill_development",

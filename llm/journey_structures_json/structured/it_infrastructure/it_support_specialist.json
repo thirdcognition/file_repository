@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "IT Support Specialist",
     "end_of_day": 31,
+    "icon": "logo_3",
     "children": [
         {
             "id": "introduction_to_the_company_team_8",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_3",
             "children": [
                 {
                     "id": "meet_the_it_support_team",
                     "type": "module",
                     "title": "Meet the IT Support Team",
                     "end_of_day": 1,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "introduction_to_the_it_support_team_and_their_roles_in_the_company",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Key Stakeholders and End Users",
                     "end_of_day": 2,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "learn_about_the_key_stakeholders_and_end_users_it_support_interacts_with",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Understanding IT Support Goals",
                     "end_of_day": 3,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "understand_the_main_goals_and_objectives_of_the_it_support_team",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our Internal Systems and Infrastructure",
             "end_of_day": 6,
+            "icon": "logo_18",
             "children": [
                 {
                     "id": "internal_systems_overview",
                     "type": "module",
                     "title": "Internal Systems Overview",
                     "end_of_day": 4,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "get_an_overview_of_the_internal_systems_used_within_the_company",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Company Networks and Servers",
                     "end_of_day": 5,
+                    "icon": "logo_10",
                     "children": [
                         {
                             "id": "learn_about_the_company_s_network_architecture_and_server_infrastructure",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Cloud Services and Integrations",
                     "end_of_day": 6,
+                    "icon": "logo_19",
                     "children": [
                         {
                             "id": "understand_the_cloud_services_and_integrations_that_support_company_operations",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Common Issues and Troubleshooting at Our Company",
             "end_of_day": 9,
+            "icon": "logo_9",
             "children": [
                 {
                     "id": "most_frequently_reported_issues",
                     "type": "module",
                     "title": "Most Frequently Reported Issues",
                     "end_of_day": 7,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "familiarize_yourself_with_the_most_common_it_issues_reported_by_end_users",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Standard Troubleshooting Processes",
                     "end_of_day": 8,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "learn_the_standard_troubleshooting_processes_for_resolving_technical_issues",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Issue Prioritization",
                     "end_of_day": 9,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "understand_how_it_support_prioritizes_issues_based_on_severity_and_impact",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Collaborating with Our Engineering and Operations Teams",
             "end_of_day": 12,
+            "icon": "logo_6",
             "children": [
                 {
                     "id": "inter_team_communication",
                     "type": "module",
                     "title": "Inter-team Communication",
                     "end_of_day": 10,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "learn_how_to_effectively_communicate_with_engineering_and_operations_teams",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Coordinating Incident Response",
                     "end_of_day": 11,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "understand_the_process_for_coordinating_incident_response_across_teams",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Sharing Technical Knowledge",
                     "end_of_day": 12,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "overview_of_how_technical_knowledge_is_shared_between_teams_to_improve_support_processes",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Our Support Tools and Ticketing System",
             "end_of_day": 15,
+            "icon": "logo_8",
             "children": [
                 {
                     "id": "ticket_management_software",
                     "type": "module",
                     "title": "Ticket Management Software",
                     "end_of_day": 13,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "learn_about_the_ticket_management_software_used_to_track_support_requests",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Logging and Tracking Support Tickets",
                     "end_of_day": 14,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "understand_the_processes_for_logging_and_tracking_support_tickets",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Issue Escalation Process",
                     "end_of_day": 15,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "overview_of_the_process_for_escalating_critical_issues_to_higher_levels_of_support",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Incident Management and Escalation Process at Our Company",
             "end_of_day": 18,
+            "icon": "logo_13",
             "children": [
                 {
                     "id": "incident_response_procedures",
                     "type": "module",
                     "title": "Incident Response Procedures",
                     "end_of_day": 16,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "learn_the_steps_involved_in_incident_response_at_the_company",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Escalating Critical Incidents",
                     "end_of_day": 17,
+                    "icon": "logo_24",
                     "children": [
                         {
                             "id": "understand_when_and_how_to_escalate_critical_incidents_for_timely_resolution",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Post-Incident Reviews",
                     "end_of_day": 18,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "overview_of_post_incident_reviews_and_how_they_help_improve_future_responses",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Our Network and Systems Security",
             "end_of_day": 21,
+            "icon": "logo_41",
             "children": [
                 {
                     "id": "network_security_overview",
                     "type": "module",
                     "title": "Network Security Overview",
                     "end_of_day": 19,
+                    "icon": "logo_41",
                     "children": [
                         {
                             "id": "understand_the_basics_of_network_security_within_the_company",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Managing Firewall and VPN Access",
                     "end_of_day": 20,
+                    "icon": "logo_20",
                     "children": [
                         {
                             "id": "learn_about_managing_firewall_settings_and_vpn_access_for_remote_employees",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Security Vulnerability Response",
                     "end_of_day": 21,
+                    "icon": "logo_15",
                     "children": [
                         {
                             "id": "overview_of_the_processes_for_responding_to_security_vulnerabilities_in_the_network",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Our Software and Hardware Setup Procedures",
             "end_of_day": 24,
+            "icon": "logo_22",
             "children": [
                 {
                     "id": "standard_setup_for_new_employees",
                     "type": "module",
                     "title": "Standard Setup for New Employees",
                     "end_of_day": 22,
+                    "icon": "logo_22",
                     "children": [
                         {
                             "id": "learn_the_procedures_for_setting_up_software_and_hardware_for_new_employees",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Software Installation Protocols",
                     "end_of_day": 23,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "understand_the_protocols_for_installing_and_configuring_software_for_users",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Managing Hardware Inventory",
                     "end_of_day": 24,
+                    "icon": "logo_28",
                     "children": [
                         {
                             "id": "overview_of_how_the_it_team_manages_hardware_inventory_and_tracks_equipment",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "User Account and Permissions Management at Our Company",
             "end_of_day": 27,
+            "icon": "logo_30",
             "children": [
                 {
                     "id": "managing_user_accounts",
                     "type": "module",
                     "title": "Managing User Accounts",
                     "end_of_day": 25,
+                    "icon": "logo_30",
                     "children": [
                         {
                             "id": "learn_how_to_create_and_manage_user_accounts_within_the_company_s_systems",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Granting and Revoking Permissions",
                     "end_of_day": 26,
+                    "icon": "logo_42",
                     "children": [
                         {
                             "id": "understand_how_to_grant_or_revoke_access_permissions_for_users",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Active Directory and User Policies",
                     "end_of_day": 27,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "overview_of_active_directory_management_and_user_policy_enforcement",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Our Company Policies on IT Security",
             "end_of_day": 30,
+            "icon": "logo_35",
             "children": [
                 {
                     "id": "password_management_guidelines",
                     "type": "module",
                     "title": "Password Management Guidelines",
                     "end_of_day": 28,
+                    "icon": "logo_35",
                     "children": [
                         {
                             "id": "learn_about_password_management_guidelines_to_ensure_security_compliance",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Data Protection Policies",
                     "end_of_day": 29,
+                    "icon": "logo_43",
                     "children": [
                         {
                             "id": "understand_the_company_s_data_protection_policies_and_how_they_apply_to_it_support",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Security Auditing Procedures",
                     "end_of_day": 30,
+                    "icon": "logo_38",
                     "children": [
                         {
                             "id": "overview_of_the_security_auditing_procedures_used_to_maintain_system_security",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Performance Monitoring Tools at Our Company",
             "end_of_day": 30,
+            "icon": "logo_25",
             "children": [
                 {
                     "id": "monitoring_network_performance",
                     "type": "module",
                     "title": "Monitoring Network Performance",
                     "end_of_day": 30,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "learn_how_to_monitor_the_network_performance_using_the_company_s_tools",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Server and System Health Checks",
                     "end_of_day": 30,
+                    "icon": "logo_39",
                     "children": [
                         {
                             "id": "understand_how_to_perform_server_and_system_health_checks_regularly",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Alerting and Logging Tools",
                     "end_of_day": 30,
+                    "icon": "logo_34",
                     "children": [
                         {
                             "id": "overview_of_the_tools_used_for_alerting_and_logging_system_issues",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Backup and Disaster Recovery Procedures at Our Company",
             "end_of_day": 31,
+            "icon": "logo_29",
             "children": [
                 {
                     "id": "data_backup_processes",
                     "type": "module",
                     "title": "Data Backup Processes",
                     "end_of_day": 31,
+                    "icon": "logo_29",
                     "children": [
                         {
                             "id": "learn_about_the_data_backup_processes_to_ensure_data_integrity",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "System Recovery Protocols",
                     "end_of_day": 31,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "understand_the_protocols_for_recovering_systems_in_the_event_of_a_failure",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Disaster Recovery Drills",
                     "end_of_day": 31,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "overview_of_how_disaster_recovery_drills_are_conducted_to_test_preparedness",
@@ -861,12 +910,14 @@
             "type": "section",
             "title": "Ongoing Learning and Certification Opportunities at Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "it_support_certifications",
                     "type": "module",
                     "title": "IT Support Certifications",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_about_the_certification_programs_available_for_it_support_staff",
@@ -888,6 +939,7 @@
                     "type": "module",
                     "title": "Continuous Learning Programs",
                     "end_of_day": 31,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "overview_of_the_company_s_continuous_learning_programs_to_enhance_skills",
@@ -909,6 +961,7 @@
                     "type": "module",
                     "title": "Participation in IT Conferences",
                     "end_of_day": 31,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "understand_how_it_support_staff_can_participate_in_industry_conferences_and_events",

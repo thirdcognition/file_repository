@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "Sales Engineer",
     "end_of_day": 31,
+    "icon": "logo_2",
     "children": [
         {
             "id": "introduction_to_the_company_team_10",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_2",
             "children": [
                 {
                     "id": "meet_the_sales_team",
                     "type": "module",
                     "title": "Meet the Sales Team",
                     "end_of_day": 1,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "introduction_to_the_sales_team_members_and_their_respective_roles",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Understanding Company Structure and Goals",
                     "end_of_day": 2,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "overview_of_the_company_structure_and_how_sales_aligns_with_business_goals",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Introduction to Key Sales Stakeholders",
                     "end_of_day": 3,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "learn_about_key_stakeholders_in_the_sales_process_and_their_responsibilities",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our Products and Solutions",
             "end_of_day": 6,
+            "icon": "logo_4",
             "children": [
                 {
                     "id": "product_overview_and_key_features",
                     "type": "module",
                     "title": "Product Overview and Key Features",
                     "end_of_day": 4,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "understand_the_key_features_and_benefits_of_our_products",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Solution Selling and Use Cases",
                     "end_of_day": 5,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "learn_about_the_solution_selling_approach_and_how_to_apply_product_use_cases_to_customer_needs",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Product Benefits for Different Customer Segments",
                     "end_of_day": 6,
+                    "icon": "logo_48",
                     "children": [
                         {
                             "id": "overview_of_how_our_product_benefits_vary_across_different_customer_segments",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Our Technical Overview of Product Features",
             "end_of_day": 9,
+            "icon": "logo_18",
             "children": [
                 {
                     "id": "deep_dive_into_product_architecture",
                     "type": "module",
                     "title": "Deep Dive into Product Architecture",
                     "end_of_day": 7,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "understand_the_technical_architecture_of_our_products_and_how_they_are_designed",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Technical Specifications and Integrations",
                     "end_of_day": 8,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "learn_about_the_technical_specifications_and_how_our_products_integrate_with_other_systems",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Product Performance and Scalability",
                     "end_of_day": 9,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "overview_of_product_performance_benchmarks_and_scalability_options",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Familiarize with Our Sales Tools and CRM",
             "end_of_day": 12,
+            "icon": "logo_8",
             "children": [
                 {
                     "id": "crm_overview_and_usage",
                     "type": "module",
                     "title": "CRM Overview and Usage",
                     "end_of_day": 10,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "learn_how_to_navigate_and_use_the_company_s_crm_for_managing_leads_and_opportunities",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Sales Automation Tools",
                     "end_of_day": 11,
+                    "icon": "logo_20",
                     "children": [
                         {
                             "id": "understand_the_sales_automation_tools_available_to_streamline_your_workflow",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Tracking Sales Pipelines",
                     "end_of_day": 12,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "overview_of_tracking_sales_pipelines_and_monitoring_deal_progress",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Understanding Our Customer Pain Points",
             "end_of_day": 15,
+            "icon": "logo_1",
             "children": [
                 {
                     "id": "identifying_customer_needs",
                     "type": "module",
                     "title": "Identifying Customer Needs",
                     "end_of_day": 13,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "learn_how_to_identify_and_assess_customer_needs_during_the_sales_process",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Common Industry Challenges",
                     "end_of_day": 14,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "understand_common_challenges_faced_by_customers_in_the_industry_and_how_our_solutions_address_them",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Solutions for Customer Pain Points",
                     "end_of_day": 15,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "overview_of_the_key_solutions_we_offer_to_resolve_specific_customer_pain_points",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Collaborating with Our Product and Development Teams",
             "end_of_day": 18,
+            "icon": "logo_37",
             "children": [
                 {
                     "id": "communicating_customer_feedback_to_product",
                     "type": "module",
                     "title": "Communicating Customer Feedback to Product",
                     "end_of_day": 16,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "learn_how_to_effectively_communicate_customer_feedback_to_the_product_team_for_improvements",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Working Together on Custom Solutions",
                     "end_of_day": 17,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "understand_how_to_collaborate_with_the_product_and_development_teams_to_create_custom_solutions_for_clients",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Aligning Sales and Product Development",
                     "end_of_day": 18,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "overview_of_how_sales_and_product_development_align_to_ensure_customer_satisfaction",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Creating Product Demos and Presentations for Our Solutions",
             "end_of_day": 21,
+            "icon": "logo_16",
             "children": [
                 {
                     "id": "demo_creation_best_practices",
                     "type": "module",
                     "title": "Demo Creation Best Practices",
                     "end_of_day": 19,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "learn_best_practices_for_creating_engaging_product_demos",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Presentation Tools and Techniques",
                     "end_of_day": 20,
+                    "icon": "logo_33",
                     "children": [
                         {
                             "id": "understand_how_to_use_various_presentation_tools_and_techniques_to_deliver_compelling_product_demonstrations",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Tailoring Demos for Specific Clients",
                     "end_of_day": 21,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "overview_of_how_to_tailor_product_demos_to_meet_the_specific_needs_of_different_clients",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Our Product Integration and Configuration Process",
             "end_of_day": 24,
+            "icon": "logo_9",
             "children": [
                 {
                     "id": "product_implementation_guidelines",
                     "type": "module",
                     "title": "Product Implementation Guidelines",
                     "end_of_day": 22,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "learn_about_the_guidelines_for_implementing_and_configuring_products_for_clients",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Custom Configurations for Clients",
                     "end_of_day": 23,
+                    "icon": "logo_22",
                     "children": [
                         {
                             "id": "understand_how_to_customize_product_configurations_based_on_client_requirements",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Integration with Existing Systems",
                     "end_of_day": 24,
+                    "icon": "logo_28",
                     "children": [
                         {
                             "id": "overview_of_how_to_integrate_our_solutions_with_a_client_s_existing_systems_and_infrastructure",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Security and Compliance in Our Sales Solutions",
             "end_of_day": 27,
+            "icon": "logo_13",
             "children": [
                 {
                     "id": "understanding_security_features",
                     "type": "module",
                     "title": "Understanding Security Features",
                     "end_of_day": 25,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "learn_about_the_key_security_features_of_our_products",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Compliance with Industry Standards",
                     "end_of_day": 26,
+                    "icon": "logo_35",
                     "children": [
                         {
                             "id": "understand_how_our_solutions_comply_with_industry_standards_and_regulations",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Communicating Security to Clients",
                     "end_of_day": 27,
+                    "icon": "logo_30",
                     "children": [
                         {
                             "id": "overview_of_how_to_effectively_communicate_product_security_features_to_clients",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Our Negotiation and Contracting Process",
             "end_of_day": 29,
+            "icon": "logo_21",
             "children": [
                 {
                     "id": "contracting_and_legal_requirements",
                     "type": "module",
                     "title": "Contracting and Legal Requirements",
                     "end_of_day": 28,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "learn_the_legal_requirements_and_processes_for_contracting_with_clients",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Negotiation Tactics",
                     "end_of_day": 29,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "understand_the_best_negotiation_tactics_to_close_deals_effectively",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Finalizing Deals and Contracts",
                     "end_of_day": 29,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "overview_of_the_steps_to_finalize_contracts_and_close_deals",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Handling Customer Feedback in Our Company",
             "end_of_day": 30,
+            "icon": "logo_29",
             "children": [
                 {
                     "id": "collecting_and_analyzing_feedback",
                     "type": "module",
                     "title": "Collecting and Analyzing Feedback",
                     "end_of_day": 30,
+                    "icon": "logo_29",
                     "children": [
                         {
                             "id": "learn_how_to_collect_and_analyze_feedback_from_customers",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Implementing Product Improvements",
                     "end_of_day": 30,
+                    "icon": "logo_46",
                     "children": [
                         {
                             "id": "understand_how_feedback_is_used_to_improve_products_and_services",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Maintaining Long-term Relationships",
                     "end_of_day": 30,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "overview_of_how_to_maintain_and_strengthen_long_term_customer_relationships",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Our Sales Metrics and KPIs",
             "end_of_day": 31,
+            "icon": "logo_31",
             "children": [
                 {
                     "id": "sales_quota_tracking",
                     "type": "module",
                     "title": "Sales Quota Tracking",
                     "end_of_day": 31,
+                    "icon": "logo_31",
                     "children": [
                         {
                             "id": "learn_how_to_track_and_achieve_your_sales_quotas",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Pipeline Velocity",
                     "end_of_day": 31,
+                    "icon": "logo_19",
                     "children": [
                         {
                             "id": "understand_how_to_monitor_pipeline_velocity_and_close_deals_faster",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Customer Satisfaction Scores",
                     "end_of_day": 31,
+                    "icon": "logo_43",
                     "children": [
                         {
                             "id": "overview_of_how_customer_satisfaction_is_measured_and_improved",
@@ -861,12 +910,14 @@
             "type": "section",
             "title": "Ongoing Learning and Industry Trends at Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "industry_certifications_and_learning",
                     "type": "module",
                     "title": "Industry Certifications and Learning",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_about_industry_certifications_and_continuous_learning_opportunities_for_sales_engineers",
@@ -888,6 +939,7 @@
                     "type": "module",
                     "title": "Staying Updated with Market Trends",
                     "end_of_day": 31,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "understand_how_to_stay_informed_about_the_latest_market_trends_and_updates",
@@ -909,6 +961,7 @@
                     "type": "module",
                     "title": "Sales Process Improvements",
                     "end_of_day": 31,
+                    "icon": "logo_47",
                     "children": [
                         {
                             "id": "overview_of_how_to_continuously_improve_your_sales_process_and_techniques",

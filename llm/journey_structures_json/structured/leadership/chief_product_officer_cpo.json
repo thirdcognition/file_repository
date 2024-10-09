@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "Chief Product Officer (CPO)",
     "end_of_day": 31,
+    "icon": "logo_2",
     "children": [
         {
             "id": "introduction_to_the_company_team_18",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_2",
             "children": [
                 {
                     "id": "meet_the_product_leadership",
                     "type": "module",
                     "title": "Meet the Product Leadership",
                     "end_of_day": 1,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "introduction_to_the_product_leadership_team_and_their_responsibilities",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Introduction to Product Team Structure",
                     "end_of_day": 2,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "overview_of_the_structure_of_the_product_team_and_key_roles",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Understanding the CPO's Role",
                     "end_of_day": 3,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "learn_about_the_responsibilities_and_key_objectives_of_the_cpo_role_in_driving_product_strategy",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our Product Strategy and Vision",
             "end_of_day": 6,
+            "icon": "logo_1",
             "children": [
                 {
                     "id": "product_vision_alignment_with_company_strategy",
                     "type": "module",
                     "title": "Product Vision Alignment with Company Strategy",
                     "end_of_day": 4,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "understand_how_the_product_vision_aligns_with_the_overall_company_strategy",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Product Roadmap and Innovation Planning",
                     "end_of_day": 5,
+                    "icon": "logo_47",
                     "children": [
                         {
                             "id": "learn_how_the_product_roadmap_is_built_with_a_focus_on_innovation_and_long_term_growth",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Defining Long-Term Product Goals",
                     "end_of_day": 6,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "overview_of_how_long_term_product_goals_are_set_and_communicated",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Collaborating with Our Engineering and Marketing Teams",
             "end_of_day": 9,
+            "icon": "logo_6",
             "children": [
                 {
                     "id": "product_engineering_collaboration",
                     "type": "module",
                     "title": "Product-Engineering Collaboration",
                     "end_of_day": 7,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "learn_how_product_and_engineering_teams_collaborate_to_ensure_seamless_product_development",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Supporting Product Marketing Strategies",
                     "end_of_day": 8,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "understand_the_role_of_the_cpo_in_supporting_marketing_strategies_for_product_promotion",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Cross-functional Team Coordination",
                     "end_of_day": 9,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "overview_of_how_cross_functional_teams_are_coordinated_to_ensure_product_success",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Our Product Roadmaps and Prioritization Process",
             "end_of_day": 12,
+            "icon": "logo_5",
             "children": [
                 {
                     "id": "building_and_communicating_the_product_roadmap",
                     "type": "module",
                     "title": "Building and Communicating the Product Roadmap",
                     "end_of_day": 10,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "learn_how_the_product_roadmap_is_built_and_communicated_to_stakeholders",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Setting Priorities and Managing Backlogs",
                     "end_of_day": 11,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "understand_how_priorities_are_set_and_backlogs_are_managed_for_optimal_product_development",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Balancing Innovation with Customer Needs",
                     "end_of_day": 12,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "overview_of_how_innovation_is_balanced_with_customer_needs_and_market_demands",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Our Customer Feedback and Market Research Process",
             "end_of_day": 15,
+            "icon": "logo_11",
             "children": [
                 {
                     "id": "collecting_and_analyzing_customer_feedback",
                     "type": "module",
                     "title": "Collecting and Analyzing Customer Feedback",
                     "end_of_day": 13,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "learn_how_customer_feedback_is_collected_analyzed_and_integrated_into_product_development",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Conducting Market Research",
                     "end_of_day": 14,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "understand_the_process_of_conducting_market_research_to_inform_product_decisions",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Integrating Feedback into Product Development",
                     "end_of_day": 15,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "overview_of_how_customer_feedback_is_incorporated_into_product_iterations",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Stakeholder Communication and Management in Our Company",
             "end_of_day": 18,
+            "icon": "logo_16",
             "children": [
                 {
                     "id": "managing_stakeholder_expectations_1",
                     "type": "module",
                     "title": "Managing Stakeholder Expectations",
                     "end_of_day": 16,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "learn_strategies_for_managing_stakeholder_expectations_during_the_product_development_process",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Communicating Product Strategy to Executives",
                     "end_of_day": 17,
+                    "icon": "logo_33",
                     "children": [
                         {
                             "id": "understand_how_to_effectively_communicate_the_product_strategy_to_executive_leadership",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Aligning Stakeholders on Product Vision",
                     "end_of_day": 18,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "overview_of_how_stakeholders_are_aligned_with_the_product_vision_and_roadmap",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Our Product Metrics and KPIs",
             "end_of_day": 21,
+            "icon": "logo_25",
             "children": [
                 {
                     "id": "tracking_product_success_metrics",
                     "type": "module",
                     "title": "Tracking Product Success Metrics",
                     "end_of_day": 19,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "learn_about_the_key_metrics_used_to_track_product_success_and_performance",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "KPIs for Customer Satisfaction and Usage",
                     "end_of_day": 20,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "understand_the_kpis_used_to_measure_customer_satisfaction_and_product_usage",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Product Innovation Metrics",
                     "end_of_day": 21,
+                    "icon": "logo_31",
                     "children": [
                         {
                             "id": "overview_of_the_metrics_used_to_track_innovation_and_product_growth",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Agile Product Development at Our Company",
             "end_of_day": 24,
+            "icon": "logo_46",
             "children": [
                 {
                     "id": "ensuring_agile_development_practices",
                     "type": "module",
                     "title": "Ensuring Agile Development Practices",
                     "end_of_day": 22,
+                    "icon": "logo_46",
                     "children": [
                         {
                             "id": "learn_how_agile_development_practices_are_implemented_across_product_teams",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Collaborating with Scrum Teams",
                     "end_of_day": 23,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "understand_how_the_cpo_collaborates_with_scrum_teams_to_ensure_continuous_product_delivery",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Iterating Based on Product Performance",
                     "end_of_day": 24,
+                    "icon": "logo_28",
                     "children": [
                         {
                             "id": "overview_of_how_product_performance_data_is_used_to_inform_product_iterations",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Team Management and Structure at Our Company",
             "end_of_day": 27,
+            "icon": "logo_18",
             "children": [
                 {
                     "id": "structuring_product_teams",
                     "type": "module",
                     "title": "Structuring Product Teams",
                     "end_of_day": 25,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "learn_how_product_teams_are_structured_for_efficient_collaboration_and_innovation",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Promoting Cross-functional Collaboration",
                     "end_of_day": 26,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "understand_how_to_foster_cross_functional_collaboration_across_product_engineering_and_marketing_teams",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Developing Product Leadership",
                     "end_of_day": 27,
+                    "icon": "logo_49",
                     "children": [
                         {
                             "id": "overview_of_how_leadership_is_developed_within_the_product_team_for_long_term_success",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Our Resource Allocation and Budgeting Process",
             "end_of_day": 30,
+            "icon": "logo_38",
             "children": [
                 {
                     "id": "managing_product_budgets",
                     "type": "module",
                     "title": "Managing Product Budgets",
                     "end_of_day": 28,
+                    "icon": "logo_38",
                     "children": [
                         {
                             "id": "learn_about_managing_budgets_for_product_development_and_innovation_projects",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Allocating Resources for R&D",
                     "end_of_day": 29,
+                    "icon": "logo_19",
                     "children": [
                         {
                             "id": "understand_how_resources_are_allocated_for_r_d_initiatives_and_innovation",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Monitoring Product Development Costs",
                     "end_of_day": 30,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "overview_of_how_product_development_costs_are_tracked_and_managed",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Our Product Launch Strategy",
             "end_of_day": 31,
+            "icon": "logo_22",
             "children": [
                 {
                     "id": "planning_and_executing_product_launches",
                     "type": "module",
                     "title": "Planning and Executing Product Launches",
                     "end_of_day": 31,
+                    "icon": "logo_22",
                     "children": [
                         {
                             "id": "learn_the_steps_involved_in_planning_and_executing_successful_product_launches",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Coordinating Cross-Functional Launch Teams",
                     "end_of_day": 31,
+                    "icon": "logo_10",
                     "children": [
                         {
                             "id": "understand_how_cross_functional_teams_are_coordinated_during_product_launches",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Post-Launch Feedback and Iteration",
                     "end_of_day": 31,
+                    "icon": "logo_29",
                     "children": [
                         {
                             "id": "overview_of_how_post_launch_feedback_is_collected_and_used_to_iterate_on_the_product",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "staying_updated_with_product_management_trends",
                     "type": "module",
                     "title": "Staying Updated with Product Management Trends",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_how_to_stay_updated_with_the_latest_trends_in_product_management_and_innovation",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Product Management Certifications and Training",
                     "end_of_day": 31,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "overview_of_certifications_and_training_opportunities_available_for_product_managers",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Attending Industry Conferences and Workshops",
                     "end_of_day": 31,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "understand_the_value_of_attending_industry_conferences_and_workshops_for_continued_learning",

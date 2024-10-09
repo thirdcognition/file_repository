@@ -68,6 +68,9 @@ function convert(obj, level = 0) {
                     new_item["end_of_day"] = Math.max(
                         ...children.map((child) => child.end_of_day)
                     );
+                    if (children.length > 0) {
+                        new_item["icon" ] = children[0]["icon"]
+                    }
                     new_item["children"] = children;
                     eod = Math.max(eod, new_item["end_of_day"]);
                 }

@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "Software Engineer",
     "end_of_day": 31,
+    "icon": "logo_1",
     "children": [
         {
             "id": "introduction_to_the_company_team",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_1",
             "children": [
                 {
                     "id": "company_values_and_mission",
                     "type": "module",
                     "title": "Company Values and Mission",
                     "end_of_day": 1,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "understand_our_company_s_core_values_and_how_they_impact_decision_making",
@@ -49,6 +52,7 @@
                     "type": "module",
                     "title": "Meet the Leadership Team",
                     "end_of_day": 2,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "introduction_to_key_leadership_members_and_their_roles",
@@ -83,6 +87,7 @@
                     "type": "module",
                     "title": "Team Structure and Roles",
                     "end_of_day": 3,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "overview_of_the_team_s_organizational_structure",
@@ -119,12 +124,14 @@
             "type": "section",
             "title": "Familiarize with Our Product Development Lifecycle",
             "end_of_day": 6,
+            "icon": "logo_4",
             "children": [
                 {
                     "id": "product_roadmap_overview",
                     "type": "module",
                     "title": "Product Roadmap Overview",
                     "end_of_day": 4,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "understand_the_current_and_upcoming_product_roadmap",
@@ -146,6 +153,7 @@
                     "type": "module",
                     "title": "Feature Development Phases",
                     "end_of_day": 5,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "introduction_to_our_iterative_development_cycle_and_feature_prioritization",
@@ -180,6 +188,7 @@
                     "type": "module",
                     "title": "Collaboration Across Teams",
                     "end_of_day": 6,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "understand_the_dynamics_between_product_engineering_and_qa_teams",
@@ -216,12 +225,14 @@
             "type": "section",
             "title": "Overview of Our Tech Stack",
             "end_of_day": 8,
+            "icon": "logo_7",
             "children": [
                 {
                     "id": "key_technologies_we_use",
                     "type": "module",
                     "title": "Key Technologies We Use",
                     "end_of_day": 7,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "familiarize_yourself_with_the_primary_languages_frameworks_and_libraries_we_use",
@@ -243,6 +254,7 @@
                     "type": "module",
                     "title": "Language and Framework Preferences",
                     "end_of_day": 8,
+                    "icon": "logo_10",
                     "children": [
                         {
                             "id": "understand_why_we_choose_certain_languages_and_frameworks_for_specific_projects",
@@ -264,6 +276,7 @@
                     "type": "module",
                     "title": "Integrations and APIs",
                     "end_of_day": 8,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "learn_about_the_apis_and_integrations_critical_to_our_product_functionality",
@@ -287,12 +300,14 @@
             "type": "section",
             "title": "Familiarize with Our Codebase",
             "end_of_day": 10,
+            "icon": "logo_8",
             "children": [
                 {
                     "id": "key_repositories_and_code_structure",
                     "type": "module",
                     "title": "Key Repositories and Code Structure",
                     "end_of_day": 9,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "overview_of_main_repositories_and_folder_structures",
@@ -314,6 +329,7 @@
                     "type": "module",
                     "title": "Code Navigation and Search",
                     "end_of_day": 10,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "learn_the_best_practices_for_navigating_and_searching_within_our_codebase",
@@ -337,12 +353,14 @@
             "type": "section",
             "title": "Introduction to Our Development Tools and Environments",
             "end_of_day": 12,
+            "icon": "logo_9",
             "children": [
                 {
                     "id": "local_development_setup",
                     "type": "module",
                     "title": "Local Development Setup",
                     "end_of_day": 11,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "guide_to_setting_up_your_local_development_environment",
@@ -364,6 +382,7 @@
                     "type": "module",
                     "title": "Development IDEs and Extensions",
                     "end_of_day": 12,
+                    "icon": "logo_22",
                     "children": [
                         {
                             "id": "recommended_ides_and_productivity_boosting_extensions_we_use",
@@ -385,6 +404,7 @@
                     "type": "module",
                     "title": "Testing Environments",
                     "end_of_day": 12,
+                    "icon": "logo_15",
                     "children": [
                         {
                             "id": "introduction_to_the_various_testing_environments_available_and_how_to_access_them",
@@ -408,12 +428,14 @@
             "type": "section",
             "title": "Understanding Our Version Control and Branching Strategy",
             "end_of_day": 14,
+            "icon": "logo_14",
             "children": [
                 {
                     "id": "gitflow_practices",
                     "type": "module",
                     "title": "GitFlow Practices",
                     "end_of_day": 13,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "learn_the_fundamentals_of_our_gitflow_branching_model",
@@ -435,6 +457,7 @@
                     "type": "module",
                     "title": "Branching and Merging Guidelines",
                     "end_of_day": 14,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "best_practices_for_creating_and_merging_branches_within_our_projects",
@@ -456,6 +479,7 @@
                     "type": "module",
                     "title": "Release Versioning",
                     "end_of_day": 14,
+                    "icon": "logo_20",
                     "children": [
                         {
                             "id": "understand_how_we_version_releases_and_manage_production_deployments",
@@ -479,12 +503,14 @@
             "type": "section",
             "title": "Our Code Review Process",
             "end_of_day": 17,
+            "icon": "logo_16",
             "children": [
                 {
                     "id": "peer_review_guidelines",
                     "type": "module",
                     "title": "Peer Review Guidelines",
                     "end_of_day": 15,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "understand_the_steps_for_conducting_a_peer_review_and_submitting_your_code_for_review",
@@ -506,6 +532,7 @@
                     "type": "module",
                     "title": "Code Review Tools",
                     "end_of_day": 16,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "introduction_to_the_code_review_tools_we_use_and_how_to_navigate_them",
@@ -527,6 +554,7 @@
                     "type": "module",
                     "title": "Feedback Etiquette",
                     "end_of_day": 17,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "learn_how_to_give_and_receive_constructive_feedback_during_code_reviews",
@@ -550,12 +578,14 @@
             "type": "section",
             "title": "Agile and Scrum Methodologies at Our Company",
             "end_of_day": 20,
+            "icon": "logo_17",
             "children": [
                 {
                     "id": "sprint_planning_and_estimations",
                     "type": "module",
                     "title": "Sprint Planning and Estimations",
                     "end_of_day": 18,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "the_procedure_of_sprint_planning_and_how_it_s_done",
@@ -590,6 +620,7 @@
                     "type": "module",
                     "title": "Daily Stand-ups",
                     "end_of_day": 19,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "understanding_the_goals_and_format_of_daily_stand_ups_in_our_agile_process",
@@ -611,6 +642,7 @@
                     "type": "module",
                     "title": "Retrospectives and Process Improvement",
                     "end_of_day": 20,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "how_we_conduct_retrospectives_to_improve_team_processes",
@@ -634,12 +666,14 @@
             "type": "section",
             "title": "Security Best Practices in Our Development Process",
             "end_of_day": 23,
+            "icon": "logo_13",
             "children": [
                 {
                     "id": "handling_sensitive_data",
                     "type": "module",
                     "title": "Handling Sensitive Data",
                     "end_of_day": 21,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "best_practices_for_handling_sensitive_data_securely_in_our_codebase",
@@ -661,6 +695,7 @@
                     "type": "module",
                     "title": "OWASP Top 10 Vulnerabilities",
                     "end_of_day": 22,
+                    "icon": "logo_30",
                     "children": [
                         {
                             "id": "overview_of_the_owasp_top_10_vulnerabilities_and_how_we_address_them",
@@ -682,6 +717,7 @@
                     "type": "module",
                     "title": "Dependency and Vulnerability Management",
                     "end_of_day": 23,
+                    "icon": "logo_41",
                     "children": [
                         {
                             "id": "learn_how_we_manage_dependencies_and_address_vulnerabilities_in_our_projects",
@@ -705,12 +741,14 @@
             "type": "section",
             "title": "Collaborating with Our Product and QA Teams",
             "end_of_day": 26,
+            "icon": "logo_45",
             "children": [
                 {
                     "id": "cross_functional_meetings",
                     "type": "module",
                     "title": "Cross-functional Meetings",
                     "end_of_day": 24,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "understand_the_purpose_and_structure_of_cross_functional_meetings_between_development_product_and_qa",
@@ -732,6 +770,7 @@
                     "type": "module",
                     "title": "Feature Specification Reviews",
                     "end_of_day": 25,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "learn_how_we_review_feature_specifications_collaboratively_with_product_teams",
@@ -753,6 +792,7 @@
                     "type": "module",
                     "title": "Bug Prioritization and Triage",
                     "end_of_day": 26,
+                    "icon": "logo_38",
                     "children": [
                         {
                             "id": "understand_how_bugs_are_triaged_and_prioritized_across_teams",
@@ -776,12 +816,14 @@
             "type": "section",
             "title": "Our Testing and Debugging Procedures",
             "end_of_day": 29,
+            "icon": "logo_46",
             "children": [
                 {
                     "id": "unit_and_integration_testing",
                     "type": "module",
                     "title": "Unit and Integration Testing",
                     "end_of_day": 27,
+                    "icon": "logo_46",
                     "children": [
                         {
                             "id": "understand_our_approach_to_unit_and_integration_testing",
@@ -803,6 +845,7 @@
                     "type": "module",
                     "title": "Debugging Tools and Techniques",
                     "end_of_day": 28,
+                    "icon": "logo_39",
                     "children": [
                         {
                             "id": "learn_about_debugging_tools_and_techniques_for_common_issues_in_our_codebase",
@@ -824,6 +867,7 @@
                     "type": "module",
                     "title": "Test Automation Practices",
                     "end_of_day": 29,
+                    "icon": "logo_34",
                     "children": [
                         {
                             "id": "introduction_to_the_automated_tests_we_use_and_how_they_fit_into_our_ci_cd_process",
@@ -847,12 +891,14 @@
             "type": "section",
             "title": "Our Continuous Integration/Continuous Deployment (CI/CD) Pipeline",
             "end_of_day": 31,
+            "icon": "logo_28",
             "children": [
                 {
                     "id": "ci_cd_workflow_overview",
                     "type": "module",
                     "title": "CI/CD Workflow Overview",
                     "end_of_day": 30,
+                    "icon": "logo_28",
                     "children": [
                         {
                             "id": "overview_of_the_ci_cd_pipeline_and_how_it_integrates_with_our_codebase",
@@ -874,6 +920,7 @@
                     "type": "module",
                     "title": "Pipeline Monitoring",
                     "end_of_day": 31,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "learn_how_to_monitor_and_troubleshoot_issues_in_the_ci_cd_pipeline",
@@ -895,6 +942,7 @@
                     "type": "module",
                     "title": "Deployment Rollback Procedures",
                     "end_of_day": 31,
+                    "icon": "logo_24",
                     "children": [
                         {
                             "id": "understand_how_to_perform_a_deployment_rollback_in_case_of_issues",
@@ -918,12 +966,14 @@
             "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "access_to_learning_platforms",
                     "type": "module",
                     "title": "Access to Learning Platforms",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_about_internal_and_external_learning_resources_available_to_you",
@@ -945,6 +995,7 @@
                     "type": "module",
                     "title": "Internal Knowledge Sharing Sessions",
                     "end_of_day": 31,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "how_to_participate_in_and_contribute_to_our_internal_knowledge_sharing_sessions",
@@ -966,6 +1017,7 @@
                     "type": "module",
                     "title": "Mentorship and Coaching Opportunities",
                     "end_of_day": 31,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "explore_mentorship_and_coaching_opportunities_within_the_team",

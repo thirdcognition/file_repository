@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "UX/UI Designer",
     "end_of_day": 31,
+    "icon": "logo_44",
     "children": [
         {
             "id": "introduction_to_the_company_team_3",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 2,
+            "icon": "logo_44",
             "children": [
                 {
                     "id": "design_team_structure",
                     "type": "module",
                     "title": "Design Team Structure",
                     "end_of_day": 1,
+                    "icon": "logo_44",
                     "children": [
                         {
                             "id": "understand_the_structure_of_the_design_team_and_individual_responsibilities",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Meet Cross-Functional Teams",
                     "end_of_day": 2,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "introduction_to_the_cross_functional_teams_you_will_collaborate_with",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Our Design Workflow",
                     "end_of_day": 2,
+                    "icon": "logo_46",
                     "children": [
                         {
                             "id": "overview_of_our_design_workflow_and_how_it_integrates_with_product_and_development_teams",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our Product Vision",
             "end_of_day": 5,
+            "icon": "logo_47",
             "children": [
                 {
                     "id": "product_roadmap_and_strategy",
                     "type": "module",
                     "title": "Product Roadmap and Strategy",
                     "end_of_day": 3,
+                    "icon": "logo_47",
                     "children": [
                         {
                             "id": "understand_the_product_roadmap_and_how_design_aligns_with_the_overall_strategy",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Target Users and Personas",
                     "end_of_day": 4,
+                    "icon": "logo_48",
                     "children": [
                         {
                             "id": "learn_about_the_key_target_users_and_personas_our_designs_cater_to",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Long-Term Design Goals",
                     "end_of_day": 5,
+                    "icon": "logo_49",
                     "children": [
                         {
                             "id": "overview_of_the_long_term_design_goals_and_their_impact_on_the_product",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Our Design System and Guidelines",
             "end_of_day": 7,
+            "icon": "logo_50",
             "children": [
                 {
                     "id": "ui_components_and_patterns",
                     "type": "module",
                     "title": "UI Components and Patterns",
                     "end_of_day": 6,
+                    "icon": "logo_50",
                     "children": [
                         {
                             "id": "introduction_to_our_design_system_and_commonly_used_ui_components",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Branding Guidelines",
                     "end_of_day": 7,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "understand_our_branding_guidelines_and_how_they_influence_design",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Consistency Across Platforms",
                     "end_of_day": 7,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "learn_about_ensuring_design_consistency_across_various_platforms_and_devices",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Understanding Our User Research and Personas",
             "end_of_day": 10,
+            "icon": "logo_11",
             "children": [
                 {
                     "id": "user_research_methods",
                     "type": "module",
                     "title": "User Research Methods",
                     "end_of_day": 8,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "overview_of_the_user_research_methods_we_use_to_gather_insights",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Creating and Updating Personas",
                     "end_of_day": 9,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "learn_how_we_create_and_maintain_user_personas_based_on_research_findings",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Analyzing User Behavior",
                     "end_of_day": 10,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "introduction_to_techniques_for_analyzing_user_behavior_to_inform_design_decisions",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Our Product and User Flows",
             "end_of_day": 13,
+            "icon": "logo_4",
             "children": [
                 {
                     "id": "user_journey_mapping",
                     "type": "module",
                     "title": "User Journey Mapping",
                     "end_of_day": 11,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "learn_how_to_map_user_journeys_and_understand_key_user_touchpoints",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Wireflow and Interaction Design",
                     "end_of_day": 12,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "overview_of_wireflows_and_interaction_design_principles_for_building_user_centric_products",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Usability Testing Feedback",
                     "end_of_day": 13,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "learn_how_to_conduct_usability_testing_and_gather_actionable_feedback",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Familiarize with Our Wireframing and Prototyping Tools",
             "end_of_day": 16,
+            "icon": "logo_7",
             "children": [
                 {
                     "id": "prototyping_software_overview",
                     "type": "module",
                     "title": "Prototyping Software Overview",
                     "end_of_day": 14,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "introduction_to_the_prototyping_software_we_use_such_as_figma_and_sketch",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Creating Interactive Prototypes",
                     "end_of_day": 15,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "learn_how_to_create_interactive_prototypes_to_visualize_user_flows",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Feedback and Iteration Process",
                     "end_of_day": 16,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "overview_of_how_we_gather_feedback_on_prototypes_and_iterate_based_on_user_input",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Collaborating with Our Product and Development Teams",
             "end_of_day": 19,
+            "icon": "logo_23",
             "children": [
                 {
                     "id": "handing_off_designs",
                     "type": "module",
                     "title": "Handing Off Designs",
                     "end_of_day": 17,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "learn_how_to_hand_off_designs_to_the_development_team_effectively",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Design and Development Syncs",
                     "end_of_day": 18,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "understand_the_importance_of_syncing_with_development_teams_throughout_the_design_process",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Iterating Based on Developer Feedback",
                     "end_of_day": 19,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "overview_of_how_design_iterations_are_informed_by_developer_feedback",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Our Accessibility Guidelines and Best Practices",
             "end_of_day": 21,
+            "icon": "logo_13",
             "children": [
                 {
                     "id": "wcag_guidelines_overview",
                     "type": "module",
                     "title": "WCAG Guidelines Overview",
                     "end_of_day": 20,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "introduction_to_wcag_guidelines_and_how_we_ensure_accessibility_compliance",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Accessible Design Patterns",
                     "end_of_day": 21,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "learn_about_accessible_design_patterns_and_their_application_in_our_products",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Testing for Accessibility Compliance",
                     "end_of_day": 21,
+                    "icon": "logo_15",
                     "children": [
                         {
                             "id": "overview_of_tools_and_processes_for_testing_design_accessibility_compliance",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Familiarize with Our Visual Design Principles",
             "end_of_day": 24,
+            "icon": "logo_33",
             "children": [
                 {
                     "id": "color_theory_and_contrast",
                     "type": "module",
                     "title": "Color Theory and Contrast",
                     "end_of_day": 22,
+                    "icon": "logo_33",
                     "children": [
                         {
                             "id": "understand_the_principles_of_color_theory_and_contrast_in_design",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Typography and Hierarchy",
                     "end_of_day": 23,
+                    "icon": "logo_44",
                     "children": [
                         {
                             "id": "learn_how_to_apply_typography_and_hierarchy_principles_to_create_effective_designs",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Iconography Standards",
                     "end_of_day": 24,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "overview_of_iconography_standards_and_how_they_contribute_to_consistent_visual_design",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Introduction to Our UI Design Tools",
             "end_of_day": 27,
+            "icon": "logo_32",
             "children": [
                 {
                     "id": "ui_design_software_figma_sketch_etc",
                     "type": "module",
                     "title": "UI Design Software (Figma, Sketch, etc.)",
                     "end_of_day": 25,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "introduction_to_the_ui_design_software_we_use_and_their_features",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Designing for Responsive Layouts",
                     "end_of_day": 26,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "learn_how_to_design_for_responsive_layouts_across_different_devices",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Collaborating on Design Files",
                     "end_of_day": 27,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "understand_best_practices_for_collaborating_on_design_files_within_our_team",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "User Testing and Feedback Collection at Our Company",
             "end_of_day": 29,
+            "icon": "logo_38",
             "children": [
                 {
                     "id": "moderated_vs_unmoderated_testing",
                     "type": "module",
                     "title": "Moderated vs Unmoderated Testing",
                     "end_of_day": 28,
+                    "icon": "logo_38",
                     "children": [
                         {
                             "id": "overview_of_the_differences_between_moderated_and_unmoderated_testing",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Gathering and Synthesizing Feedback",
                     "end_of_day": 29,
+                    "icon": "logo_29",
                     "children": [
                         {
                             "id": "learn_how_to_gather_and_synthesize_feedback_from_user_testing",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Iterating on Design Based on Feedback",
                     "end_of_day": 29,
+                    "icon": "logo_10",
                     "children": [
                         {
                             "id": "understand_how_to_iterate_on_designs_based_on_feedback_from_users_and_stakeholders",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Our Design Review and Approval Process",
             "end_of_day": 30,
+            "icon": "logo_40",
             "children": [
                 {
                     "id": "design_critique_sessions",
                     "type": "module",
                     "title": "Design Critique Sessions",
                     "end_of_day": 30,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "learn_how_to_participate_in_and_contribute_to_design_critique_sessions",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Final Review and Sign-Off",
                     "end_of_day": 30,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "overview_of_the_process_for_final_design_review_and_sign_off_by_stakeholders",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Stakeholder Presentation",
                     "end_of_day": 30,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "understand_how_to_present_designs_to_stakeholders_and_gather_final_feedback",
@@ -861,12 +910,14 @@
             "type": "section",
             "title": "Ongoing Learning and Design Trends in Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "design_trend_workshops",
                     "type": "module",
                     "title": "Design Trend Workshops",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_about_design_trend_workshops_and_opportunities_for_continuous_learning",
@@ -888,6 +939,7 @@
                     "type": "module",
                     "title": "Access to Design Resources",
                     "end_of_day": 31,
+                    "icon": "logo_22",
                     "children": [
                         {
                             "id": "overview_of_the_design_resources_available_for_ongoing_professional_development",
@@ -909,6 +961,7 @@
                     "type": "module",
                     "title": "Continuous Feedback and Growth",
                     "end_of_day": 31,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "understand_the_feedback_loops_in_place_to_ensure_continuous_growth_as_a_designer",

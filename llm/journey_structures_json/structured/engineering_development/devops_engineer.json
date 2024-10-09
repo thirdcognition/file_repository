@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "DevOps Engineer",
     "end_of_day": 31,
+    "icon": "logo_17",
     "children": [
         {
             "id": "introduction_to_the_company_team_1",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 2,
+            "icon": "logo_17",
             "children": [
                 {
                     "id": "company_goals_and_vision",
                     "type": "module",
                     "title": "Company Goals and Vision",
                     "end_of_day": 1,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "understand_the_company_s_long_term_goals_and_how_they_align_with_the_devops_function",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "DevOps Team Structure",
                     "end_of_day": 2,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "learn_about_the_devops_team_s_structure_and_individual_responsibilities",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Cross-team Collaborations",
                     "end_of_day": 2,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "overview_of_how_the_devops_team_collaborates_with_other_technical_and_non_technical_teams",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our System Architecture",
             "end_of_day": 5,
+            "icon": "logo_18",
             "children": [
                 {
                     "id": "microservices_architecture_overview",
                     "type": "module",
                     "title": "Microservices Architecture Overview",
                     "end_of_day": 3,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "understand_our_microservices_architecture_and_how_services_communicate",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Cloud Infrastructure Setup",
                     "end_of_day": 4,
+                    "icon": "logo_19",
                     "children": [
                         {
                             "id": "overview_of_our_cloud_infrastructure_setup_and_key_services_used",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Service Dependencies",
                     "end_of_day": 5,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "learn_about_service_dependencies_and_how_they_are_managed_across_teams",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Overview of Our Cloud Infrastructure",
             "end_of_day": 8,
+            "icon": "logo_10",
             "children": [
                 {
                     "id": "cloud_providers_and_services",
                     "type": "module",
                     "title": "Cloud Providers and Services",
                     "end_of_day": 6,
+                    "icon": "logo_10",
                     "children": [
                         {
                             "id": "introduction_to_the_cloud_providers_we_use_and_the_services_they_offer",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Resource Scaling and Management",
                     "end_of_day": 7,
+                    "icon": "logo_20",
                     "children": [
                         {
                             "id": "understand_how_we_manage_cloud_resources_and_scale_based_on_demand",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Cost Optimization Strategies",
                     "end_of_day": 8,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "learn_about_strategies_we_employ_to_optimize_cloud_infrastructure_costs",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Our Automation Tools and Processes",
             "end_of_day": 11,
+            "icon": "logo_7",
             "children": [
                 {
                     "id": "ci_cd_automation_tools",
                     "type": "module",
                     "title": "CI/CD Automation Tools",
                     "end_of_day": 9,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "introduction_to_the_automation_tools_used_in_our_ci_cd_pipeline",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Automated Monitoring Solutions",
                     "end_of_day": 10,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "learn_about_the_automated_monitoring_solutions_used_to_ensure_system_health",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Deployment Automation",
                     "end_of_day": 11,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "understand_how_deployments_are_automated_and_monitored_in_our_environment",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Managing Our CI/CD Pipelines",
             "end_of_day": 14,
+            "icon": "logo_22",
             "children": [
                 {
                     "id": "pipeline_configuration_and_setup",
                     "type": "module",
                     "title": "Pipeline Configuration and Setup",
                     "end_of_day": 12,
+                    "icon": "logo_22",
                     "children": [
                         {
                             "id": "step_by_step_guide_on_configuring_and_setting_up_ci_cd_pipelines",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Automated Testing and Validation",
                     "end_of_day": 13,
+                    "icon": "logo_15",
                     "children": [
                         {
                             "id": "learn_how_automated_testing_is_integrated_into_our_ci_cd_pipeline",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Deployment Environments",
                     "end_of_day": 14,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "overview_of_deployment_environments_and_how_they_are_managed",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Monitoring and Incident Management in Our Company",
             "end_of_day": 17,
+            "icon": "logo_11",
             "children": [
                 {
                     "id": "alerting_and_notification_systems",
                     "type": "module",
                     "title": "Alerting and Notification Systems",
                     "end_of_day": 15,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "learn_about_the_alerting_and_notification_systems_in_place_for_incident_management",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Incident Response and Resolution",
                     "end_of_day": 16,
+                    "icon": "logo_38",
                     "children": [
                         {
                             "id": "understand_how_incidents_are_triaged_and_resolved_in_a_timely_manner",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Post-Incident Reviews",
                     "end_of_day": 17,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "overview_of_how_we_conduct_post_incident_reviews_to_improve_future_processes",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Our Configuration Management and Deployment Tools",
             "end_of_day": 20,
+            "icon": "logo_23",
             "children": [
                 {
                     "id": "ansible_and_terraform",
                     "type": "module",
                     "title": "Ansible and Terraform",
                     "end_of_day": 18,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "introduction_to_ansible_and_terraform_for_configuration_management_and_deployment",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Containerization (Docker/Kubernetes)",
                     "end_of_day": 19,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "overview_of_how_we_use_docker_and_kubernetes_for_container_management",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Infrastructure as Code (IaC) Principles",
                     "end_of_day": 20,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "learn_the_principles_of_infrastructure_as_code_iac_and_how_we_apply_them",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Security and Compliance in Our Infrastructure",
             "end_of_day": 23,
+            "icon": "logo_41",
             "children": [
                 {
                     "id": "cloud_security_best_practices",
                     "type": "module",
                     "title": "Cloud Security Best Practices",
                     "end_of_day": 21,
+                    "icon": "logo_41",
                     "children": [
                         {
                             "id": "overview_of_best_practices_for_securing_cloud_infrastructure",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Data Encryption Techniques",
                     "end_of_day": 22,
+                    "icon": "logo_42",
                     "children": [
                         {
                             "id": "learn_about_data_encryption_techniques_we_use_to_secure_sensitive_data",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Compliance with Regulatory Standards",
                     "end_of_day": 23,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "understand_the_regulatory_standards_we_comply_with_and_how_devops_supports_them",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Collaborating with Our Development Teams",
             "end_of_day": 26,
+            "icon": "logo_6",
             "children": [
                 {
                     "id": "infrastructure_as_code_best_practices",
                     "type": "module",
                     "title": "Infrastructure-as-Code Best Practices",
                     "end_of_day": 24,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "best_practices_for_collaborating_with_development_teams_on_infrastructure_as_code",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Pipeline Adjustments for Development Needs",
                     "end_of_day": 25,
+                    "icon": "logo_28",
                     "children": [
                         {
                             "id": "learn_how_to_adjust_pipelines_based_on_development_needs_and_requirements",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Communication Channels and Escalations",
                     "end_of_day": 26,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "overview_of_communication_channels_and_escalation_protocols_between_devops_and_development_teams",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Our Disaster Recovery Procedures",
             "end_of_day": 29,
+            "icon": "logo_24",
             "children": [
                 {
                     "id": "backup_and_restore_strategies",
                     "type": "module",
                     "title": "Backup and Restore Strategies",
                     "end_of_day": 27,
+                    "icon": "logo_24",
                     "children": [
                         {
                             "id": "learn_about_our_backup_and_restore_strategies_for_disaster_recovery",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Disaster Simulation Drills",
                     "end_of_day": 28,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "understand_how_disaster_simulation_drills_are_conducted_and_their_importance",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Failover and Recovery Plans",
                     "end_of_day": 29,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "overview_of_our_failover_and_recovery_plans_in_case_of_major_incidents",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Performance Optimization Techniques at Our Company",
             "end_of_day": 30,
+            "icon": "logo_39",
             "children": [
                 {
                     "id": "load_balancing_strategies",
                     "type": "module",
                     "title": "Load Balancing Strategies",
                     "end_of_day": 30,
+                    "icon": "logo_39",
                     "children": [
                         {
                             "id": "learn_how_load_balancing_is_used_to_optimize_performance",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Resource Allocation and Tuning",
                     "end_of_day": 30,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "understand_resource_allocation_techniques_and_how_tuning_improves_system_performance",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Optimizing Application Performance",
                     "end_of_day": 30,
+                    "icon": "logo_34",
                     "children": [
                         {
                             "id": "overview_of_strategies_for_optimizing_application_performance_in_production",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Version Control and Infrastructure as Code (IaC) in Our Company",
             "end_of_day": 31,
+            "icon": "logo_46",
             "children": [
                 {
                     "id": "iac_tools_and_frameworks",
                     "type": "module",
                     "title": "IaC Tools and Frameworks",
                     "end_of_day": 31,
+                    "icon": "logo_46",
                     "children": [
                         {
                             "id": "introduction_to_the_tools_and_frameworks_we_use_for_managing_infrastructure_as_code",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Git-Based Infrastructure Management",
                     "end_of_day": 31,
+                    "icon": "logo_45",
                     "children": [
                         {
                             "id": "learn_how_we_manage_infrastructure_using_git_based_version_control",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Versioning Best Practices",
                     "end_of_day": 31,
+                    "icon": "logo_10",
                     "children": [
                         {
                             "id": "understand_best_practices_for_versioning_in_iac_environments",
@@ -861,12 +910,14 @@
             "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "devops_certification_resources",
                     "type": "module",
                     "title": "DevOps Certification Resources",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "access_to_resources_for_obtaining_relevant_devops_certifications",
@@ -888,6 +939,7 @@
                     "type": "module",
                     "title": "Knowledge Sharing Sessions",
                     "end_of_day": 31,
+                    "icon": "logo_40",
                     "children": [
                         {
                             "id": "learn_about_internal_knowledge_sharing_sessions_and_how_to_contribute",
@@ -909,6 +961,7 @@
                     "type": "module",
                     "title": "Industry Conferences and Workshops",
                     "end_of_day": 31,
+                    "icon": "logo_47",
                     "children": [
                         {
                             "id": "information_on_industry_conferences_and_workshops_relevant_to_devops_engineers",

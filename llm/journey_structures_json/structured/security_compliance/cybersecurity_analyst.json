@@ -3,18 +3,21 @@
     "type": "journey",
     "title": "Cybersecurity Analyst",
     "end_of_day": 31,
+    "icon": "logo_2",
     "children": [
         {
             "id": "introduction_to_the_company_team_19",
             "type": "section",
             "title": "Introduction to the Company & Team",
             "end_of_day": 3,
+            "icon": "logo_2",
             "children": [
                 {
                     "id": "meet_the_security_team",
                     "type": "module",
                     "title": "Meet the Security Team",
                     "end_of_day": 1,
+                    "icon": "logo_2",
                     "children": [
                         {
                             "id": "introduction_to_the_cybersecurity_team_members_and_their_roles",
@@ -36,6 +39,7 @@
                     "type": "module",
                     "title": "Overview of Cybersecurity Leadership",
                     "end_of_day": 2,
+                    "icon": "logo_3",
                     "children": [
                         {
                             "id": "learn_about_the_cybersecurity_leadership_team_and_their_responsibilities",
@@ -57,6 +61,7 @@
                     "type": "module",
                     "title": "Introduction to Key Security Stakeholders",
                     "end_of_day": 3,
+                    "icon": "logo_6",
                     "children": [
                         {
                             "id": "overview_of_the_key_security_stakeholders_including_external_partners_and_vendors",
@@ -80,12 +85,14 @@
             "type": "section",
             "title": "Familiarize with Our Security Policies",
             "end_of_day": 6,
+            "icon": "logo_13",
             "children": [
                 {
                     "id": "company_security_policies_overview",
                     "type": "module",
                     "title": "Company Security Policies Overview",
                     "end_of_day": 4,
+                    "icon": "logo_13",
                     "children": [
                         {
                             "id": "learn_about_the_company_s_security_policies_and_how_they_protect_critical_assets",
@@ -107,6 +114,7 @@
                     "type": "module",
                     "title": "Compliance with Industry Standards",
                     "end_of_day": 5,
+                    "icon": "logo_35",
                     "children": [
                         {
                             "id": "understand_the_importance_of_complying_with_industry_standards_such_as_gdpr_and_ccpa",
@@ -128,6 +136,7 @@
                     "type": "module",
                     "title": "Security Best Practices at Our Company",
                     "end_of_day": 6,
+                    "icon": "logo_21",
                     "children": [
                         {
                             "id": "overview_of_security_best_practices_followed_at_the_company_to_minimize_risks",
@@ -151,12 +160,14 @@
             "type": "section",
             "title": "Overview of Our Security Tools and Software",
             "end_of_day": 9,
+            "icon": "logo_5",
             "children": [
                 {
                     "id": "security_monitoring_tools",
                     "type": "module",
                     "title": "Security Monitoring Tools",
                     "end_of_day": 7,
+                    "icon": "logo_5",
                     "children": [
                         {
                             "id": "learn_about_the_tools_used_to_monitor_the_security_posture_of_the_company",
@@ -178,6 +189,7 @@
                     "type": "module",
                     "title": "Intrusion Detection Systems (IDS)",
                     "end_of_day": 8,
+                    "icon": "logo_41",
                     "children": [
                         {
                             "id": "understand_how_intrusion_detection_systems_ids_are_used_to_identify_potential_security_breaches",
@@ -199,6 +211,7 @@
                     "type": "module",
                     "title": "Vulnerability Management Software",
                     "end_of_day": 9,
+                    "icon": "logo_11",
                     "children": [
                         {
                             "id": "overview_of_vulnerability_management_software_and_its_role_in_identifying_and_mitigating_risks",
@@ -222,12 +235,14 @@
             "type": "section",
             "title": "Our Incident Response Procedures",
             "end_of_day": 12,
+            "icon": "logo_24",
             "children": [
                 {
                     "id": "incident_detection_and_response_protocols",
                     "type": "module",
                     "title": "Incident Detection and Response Protocols",
                     "end_of_day": 10,
+                    "icon": "logo_24",
                     "children": [
                         {
                             "id": "learn_the_protocols_for_detecting_and_responding_to_security_incidents_in_real_time",
@@ -249,6 +264,7 @@
                     "type": "module",
                     "title": "Documenting and Reporting Incidents",
                     "end_of_day": 11,
+                    "icon": "logo_37",
                     "children": [
                         {
                             "id": "understand_how_security_incidents_are_documented_and_reported_to_relevant_stakeholders",
@@ -270,6 +286,7 @@
                     "type": "module",
                     "title": "Post-Incident Reviews and Improvements",
                     "end_of_day": 12,
+                    "icon": "logo_12",
                     "children": [
                         {
                             "id": "overview_of_how_post_incident_reviews_are_conducted_to_improve_future_responses",
@@ -293,12 +310,14 @@
             "type": "section",
             "title": "Threat Detection and Analysis in Our Company",
             "end_of_day": 15,
+            "icon": "logo_8",
             "children": [
                 {
                     "id": "proactive_threat_hunting",
                     "type": "module",
                     "title": "Proactive Threat Hunting",
                     "end_of_day": 13,
+                    "icon": "logo_8",
                     "children": [
                         {
                             "id": "learn_how_to_proactively_hunt_for_potential_security_threats_and_vulnerabilities",
@@ -320,6 +339,7 @@
                     "type": "module",
                     "title": "Analyzing Security Threats and Vulnerabilities",
                     "end_of_day": 14,
+                    "icon": "logo_18",
                     "children": [
                         {
                             "id": "understand_the_process_of_analyzing_and_assessing_security_threats_and_vulnerabilities",
@@ -341,6 +361,7 @@
                     "type": "module",
                     "title": "Responding to Emerging Threats",
                     "end_of_day": 15,
+                    "icon": "logo_10",
                     "children": [
                         {
                             "id": "overview_of_how_the_company_responds_to_emerging_threats_in_the_cybersecurity_landscape",
@@ -364,12 +385,14 @@
             "type": "section",
             "title": "Security Audits and Compliance at Our Company",
             "end_of_day": 18,
+            "icon": "logo_30",
             "children": [
                 {
                     "id": "conducting_regular_security_audits",
                     "type": "module",
                     "title": "Conducting Regular Security Audits",
                     "end_of_day": 16,
+                    "icon": "logo_30",
                     "children": [
                         {
                             "id": "learn_how_regular_security_audits_are_conducted_to_ensure_compliance_and_security",
@@ -391,6 +414,7 @@
                     "type": "module",
                     "title": "Ensuring Compliance with GDPR, CCPA, and other Regulations",
                     "end_of_day": 17,
+                    "icon": "logo_42",
                     "children": [
                         {
                             "id": "understand_the_steps_taken_to_ensure_compliance_with_regulations_such_as_gdpr_and_ccpa",
@@ -412,6 +436,7 @@
                     "type": "module",
                     "title": "Internal and External Audit Processes",
                     "end_of_day": 18,
+                    "icon": "logo_14",
                     "children": [
                         {
                             "id": "overview_of_the_internal_and_external_audit_processes_for_cybersecurity",
@@ -435,12 +460,14 @@
             "type": "section",
             "title": "Collaborating with Our IT and Development Teams",
             "end_of_day": 21,
+            "icon": "logo_19",
             "children": [
                 {
                     "id": "securing_devops_pipelines",
                     "type": "module",
                     "title": "Securing DevOps Pipelines",
                     "end_of_day": 19,
+                    "icon": "logo_19",
                     "children": [
                         {
                             "id": "learn_how_to_secure_devops_pipelines_to_ensure_that_code_and_infrastructure_are_protected",
@@ -462,6 +489,7 @@
                     "type": "module",
                     "title": "Ensuring Secure Software Development",
                     "end_of_day": 20,
+                    "icon": "logo_15",
                     "children": [
                         {
                             "id": "understand_the_role_of_the_cybersecurity_team_in_ensuring_secure_software_development_practices",
@@ -483,6 +511,7 @@
                     "type": "module",
                     "title": "Communicating Security Requirements to Teams",
                     "end_of_day": 21,
+                    "icon": "logo_23",
                     "children": [
                         {
                             "id": "overview_of_how_security_requirements_are_communicated_to_it_and_development_teams",
@@ -506,12 +535,14 @@
             "type": "section",
             "title": "Our Risk Management and Mitigation Strategies",
             "end_of_day": 24,
+            "icon": "logo_27",
             "children": [
                 {
                     "id": "risk_identification_and_prioritization",
                     "type": "module",
                     "title": "Risk Identification and Prioritization",
                     "end_of_day": 22,
+                    "icon": "logo_27",
                     "children": [
                         {
                             "id": "learn_how_to_identify_and_prioritize_risks_in_the_company_s_cybersecurity_framework",
@@ -533,6 +564,7 @@
                     "type": "module",
                     "title": "Developing Mitigation Strategies",
                     "end_of_day": 23,
+                    "icon": "logo_4",
                     "children": [
                         {
                             "id": "understand_how_mitigation_strategies_are_developed_to_minimize_the_impact_of_security_risks",
@@ -554,6 +586,7 @@
                     "type": "module",
                     "title": "Regular Risk Assessments",
                     "end_of_day": 24,
+                    "icon": "logo_16",
                     "children": [
                         {
                             "id": "overview_of_how_regular_risk_assessments_are_conducted_to_ensure_ongoing_protection",
@@ -577,12 +610,14 @@
             "type": "section",
             "title": "Our Vulnerability Assessments and Penetration Testing",
             "end_of_day": 27,
+            "icon": "logo_9",
             "children": [
                 {
                     "id": "conducting_penetration_tests",
                     "type": "module",
                     "title": "Conducting Penetration Tests",
                     "end_of_day": 25,
+                    "icon": "logo_9",
                     "children": [
                         {
                             "id": "learn_the_steps_involved_in_conducting_penetration_tests_to_identify_vulnerabilities",
@@ -604,6 +639,7 @@
                     "type": "module",
                     "title": "Assessing System Vulnerabilities",
                     "end_of_day": 26,
+                    "icon": "logo_20",
                     "children": [
                         {
                             "id": "understand_how_system_vulnerabilities_are_assessed_and_addressed",
@@ -625,6 +661,7 @@
                     "type": "module",
                     "title": "Addressing Critical Security Gaps",
                     "end_of_day": 27,
+                    "icon": "logo_22",
                     "children": [
                         {
                             "id": "overview_of_how_critical_security_gaps_are_identified_and_mitigated",
@@ -648,12 +685,14 @@
             "type": "section",
             "title": "Data Security and Privacy Regulations in Our Company",
             "end_of_day": 30,
+            "icon": "logo_43",
             "children": [
                 {
                     "id": "complying_with_data_privacy_laws",
                     "type": "module",
                     "title": "Complying with Data Privacy Laws",
                     "end_of_day": 28,
+                    "icon": "logo_43",
                     "children": [
                         {
                             "id": "learn_about_the_company_s_approach_to_complying_with_data_privacy_laws_and_regulations",
@@ -675,6 +714,7 @@
                     "type": "module",
                     "title": "Data Encryption and Protection Standards",
                     "end_of_day": 29,
+                    "icon": "logo_26",
                     "children": [
                         {
                             "id": "understand_the_data_encryption_and_protection_standards_used_to_secure_sensitive_information",
@@ -696,6 +736,7 @@
                     "type": "module",
                     "title": "Managing Data Breaches",
                     "end_of_day": 30,
+                    "icon": "logo_28",
                     "children": [
                         {
                             "id": "overview_of_how_data_breaches_are_managed_and_reported_to_regulatory_authorities",
@@ -719,12 +760,14 @@
             "type": "section",
             "title": "Disaster Recovery and Business Continuity at Our Company",
             "end_of_day": 31,
+            "icon": "logo_1",
             "children": [
                 {
                     "id": "disaster_recovery_planning",
                     "type": "module",
                     "title": "Disaster Recovery Planning",
                     "end_of_day": 31,
+                    "icon": "logo_1",
                     "children": [
                         {
                             "id": "learn_about_the_disaster_recovery_plans_in_place_to_ensure_business_continuity",
@@ -746,6 +789,7 @@
                     "type": "module",
                     "title": "Simulating Disaster Scenarios",
                     "end_of_day": 31,
+                    "icon": "logo_17",
                     "children": [
                         {
                             "id": "understand_the_importance_of_simulating_disaster_scenarios_to_prepare_for_real_incidents",
@@ -767,6 +811,7 @@
                     "type": "module",
                     "title": "Ensuring Business Continuity During Crises",
                     "end_of_day": 31,
+                    "icon": "logo_32",
                     "children": [
                         {
                             "id": "overview_of_how_the_company_ensures_business_continuity_during_crises",
@@ -790,12 +835,14 @@
             "type": "section",
             "title": "Ongoing Learning and Certification Opportunities at Our Company",
             "end_of_day": 31,
+            "icon": "logo_36",
             "children": [
                 {
                     "id": "pursuing_cybersecurity_certifications",
                     "type": "module",
                     "title": "Pursuing Cybersecurity Certifications",
                     "end_of_day": 31,
+                    "icon": "logo_36",
                     "children": [
                         {
                             "id": "learn_about_the_available_cybersecurity_certifications_and_training_opportunities",
@@ -817,6 +864,7 @@
                     "type": "module",
                     "title": "Continuous Learning Programs",
                     "end_of_day": 31,
+                    "icon": "logo_7",
                     "children": [
                         {
                             "id": "understand_the_continuous_learning_programs_in_place_to_keep_security_professionals_up_to_date",
@@ -838,6 +886,7 @@
                     "type": "module",
                     "title": "Staying Updated on Emerging Threats",
                     "end_of_day": 31,
+                    "icon": "logo_25",
                     "children": [
                         {
                             "id": "overview_of_how_to_stay_updated_on_emerging_cybersecurity_threats_and_trends",
