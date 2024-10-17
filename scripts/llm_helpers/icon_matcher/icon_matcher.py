@@ -20,13 +20,14 @@ load_dotenv()
 
 # Get the directory of the current script
 script_dir = os.path.dirname(os.path.abspath(__file__))
+files_dir = os.path.join(script_dir, "../files")
 
 # Load logos.yaml from the same directory
-with open(os.path.join(script_dir, "icons.yaml"), "r") as file:
+with open(os.path.join(files_dir, "icons.yaml"), "r") as file:
     logos: dict = yaml.safe_load(file)
 
 # Load templates.json from the same directory
-with open(os.path.join(script_dir, "templates.json"), "r") as file:
+with open(os.path.join(files_dir, "templates.json"), "r") as file:
     templates = json.load(file)
 logos_prompt = """
 You are a helpful assistant that chooses an logo for a given module based on its description.
@@ -314,5 +315,5 @@ response_json = json.dumps(templates, indent=2)  # .model_dump_json(indent=2)
 # print(response_json)
 
 # Save templates into templates_new.json
-with open(os.path.join(script_dir, "templates_new.json"), "w") as file:
+with open(os.path.join(files_dir, "templates_new.json"), "w") as file:
     json.dump(templates, file, indent=2)

@@ -1,3 +1,136 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-llm/journey_icons/icon_matcher/.env
-llm/journey_icons/icon_matcher/poetry.lock
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pipenv specific files
+Pipfile.lock
+
+# Poetry specific files
+poetry.lock
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# Pyre
+.pyre/
+
+# Profiling data
+.prof
+
+# Local files
+*.DS_Store
+*.iml
+.idea/
+.vscode/
+*.sublime*
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Metadata
+.Trashes
+*.swp
+*.swo
+*~
+
+# Editor specific
+*.vscode/
+
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnp.*
+.pnp/
+
+# dotenv files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel-bundler cache
+.cache
+
+# SvelteKit build
+.svelte-kit
+
+# Next.js build
+.next
+
+# Nuxt.js build
+.nuxt
+
+# Gatsby files
+.cache/
+public/
+
+# Other Node related
+.npm/
+node_repl_history

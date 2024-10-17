@@ -2,6 +2,14 @@ import os
 import json
 import re
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# Get the directory of the current script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+files_dir = os.path.join(script_dir, "../files")
+
 used_ids = set()
 
 def get_id(string, uniq=True):
@@ -80,7 +88,7 @@ with open("knowledge_services_roles.json", "r", encoding="utf8") as file:
 
 used_ids = set()
 
-with open("templates.json", "r", encoding="utf8") as file:
+with open(os.path.join(files_dir, "templates.json"), "r", encoding="utf8") as file:
     data = json.load(file)
     new_obj = convert(data)
 
@@ -88,13 +96,13 @@ with open("templates.json", "r", encoding="utf8") as file:
         item.pop("index", None)
         json_data = json.dumps(item, indent=4)
         mapping = mappings[item["id"]]
-        dir_path = f"./structured/{mapping}"
-        filename = f"{dir_path}/{item['id']}.json"
+        dir_path = os.path.join(files_dir, f"structured/{mapping}")
+        filename = os.path.join(dir_path, f"{item['id']}.json")
         file_mappings[item["id"]] = f"{mapping}/{item['id']}.json"
 
         os.makedirs(dir_path, exist_ok=True)
         with open(filename, "w", encoding="utf8") as outfile:
             outfile.write(json_data)
 
-    with open("./structured/mappings.json", "w", encoding="utf8") as outfile:
+    with open(os.path.join(files_dir, "structured/mappings.json"), "w", encoding="utf8") as outfile:
         json.dump(file_mappings, outfile, indent=4)
