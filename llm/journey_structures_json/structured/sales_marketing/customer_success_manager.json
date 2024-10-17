@@ -1,29 +1,57 @@
 {
-    "id": "customer_success_manager",
+    "id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
     "type": "journey",
     "title": "Customer Success Manager",
     "end_of_day": 31,
-    "icon": "logo_2",
+    "length_in_days": 31,
+    "action": "Review the customer success processes to enhance customer satisfaction and engagement.",
+    "description": "Key processes and strategies for enhancing customer satisfaction and engagement.",
+    "content_instructions": {
+        "role": "professional Customer Success Manager",
+        "topic": "Understand the key processes that contribute to customer success and satisfaction."
+    },
+    "icon": "logo_45",
     "children": [
         {
-            "id": "introduction_to_the_company_team_12",
+            "id": "b0485432-190b-5549-b8d2-fb3e9386ad39",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Introduction to the Company & Team",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 3,
+            "length_in_days": 3,
+            "action": "Familiarize yourself with the Customer Success team members and their respective roles.",
+            "description": "An overview of the company and its Customer Success team, emphasizing their roles in supporting customers.",
+            "content_instructions": {
+                "role": "professional Customer Success Director",
+                "topic": "Introduction to the Customer Success team members and their roles."
+            },
             "icon": "logo_2",
             "children": [
                 {
-                    "id": "meet_the_customer_success_team",
+                    "id": "84f7a1c1-ce18-57d6-aa47-ea1e96f7c8ad",
+                    "parent_id": "b0485432-190b-5549-b8d2-fb3e9386ad39",
                     "type": "module",
                     "title": "Meet the Customer Success Team",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 1,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the Customer Success team members and their respective roles.",
+                    "description": "Overview of the Customer Success team and their roles in supporting customers.",
+                    "content_instructions": {
+                        "role": "professional Customer Success Director",
+                        "topic": "Introduction to the Customer Success team members and their roles."
+                    },
                     "icon": "logo_2",
                     "children": [
                         {
-                            "id": "introduction_to_the_customer_success_team_members_and_their_roles",
+                            "id": "e10d0428-d0c9-5823-bc20-58c75e3c3d98",
+                            "parent_id": "84f7a1c1-ce18-57d6-aa47-ea1e96f7c8ad",
                             "type": "action",
-                            "end_of_day": 1,
                             "title": "Introduction to the Customer Success team members and their roles.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 1,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the Customer Success team members and their respective roles.",
                             "description": "The Customer Success team plays a vital role in ensuring our customers achieve their desired outcomes while using our products. Each member of the team has specialized skills and responsibilities that contribute to the overall success of our customers. Understanding who does what within the team will help you know whom to approach for specific queries or support.\nBy getting to know your colleagues, you will cultivate a sense of camaraderie and collaboration, which is essential for delivering exceptional customer experiences. This knowledge will also help you align your efforts with team goals and foster effective teamwork.",
                             "content_instructions": {
@@ -35,17 +63,29 @@
                     ]
                 },
                 {
-                    "id": "company_values_and_customer_focus",
+                    "id": "1323a419-2e94-5a81-9ed5-69123577b1f8",
+                    "parent_id": "b0485432-190b-5549-b8d2-fb3e9386ad39",
                     "type": "module",
                     "title": "Company Values and Customer Focus",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 2,
+                    "length_in_days": 1,
+                    "action": "Explore the company's core values and understand how they shape our customer success strategies.",
+                    "description": "Understanding company values enhances customer-focused strategies and fosters long-term relationships.",
+                    "content_instructions": {
+                        "role": "professional Customer Success Strategist",
+                        "topic": "Learn about the company's values and how they translate to customer-focused strategies."
+                    },
                     "icon": "logo_1",
                     "children": [
                         {
-                            "id": "learn_about_the_company_s_values_and_how_they_translate_to_customer_focused_strategies",
+                            "id": "bbbe61d8-d701-505d-a4d2-682b09f371a8",
+                            "parent_id": "1323a419-2e94-5a81-9ed5-69123577b1f8",
                             "type": "action",
-                            "end_of_day": 2,
                             "title": "Learn about the company's values and how they translate to customer-focused strategies.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 2,
+                            "length_in_days": 1,
                             "action": "Explore the company's core values and understand how they shape our customer success strategies.",
                             "description": "Our company values are the foundation of our customer success approach. They guide our interactions with customers and inform our strategies for delivering value. By aligning our actions with these values, we ensure that we prioritize customer needs and foster long-term relationships.\nUnderstanding how our values translate into customer-focused strategies will empower you to make decisions that benefit both the customer and the company. This alignment is crucial for creating a positive customer experience and achieving our overarching business goals.",
                             "content_instructions": {
@@ -57,17 +97,29 @@
                     ]
                 },
                 {
-                    "id": "introduction_to_key_accounts",
+                    "id": "649b06d9-c7cd-5bc5-b417-9497f6b1a7fa",
+                    "parent_id": "b0485432-190b-5549-b8d2-fb3e9386ad39",
                     "type": "module",
                     "title": "Introduction to Key Accounts",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 3,
+                    "length_in_days": 1,
+                    "action": "Review the list of key accounts and understand their significance to our business.",
+                    "description": "Key accounts significantly impact revenue and market presence, requiring tailored support and engagement.",
+                    "content_instructions": {
+                        "role": "professional Account Manager",
+                        "topic": "Overview of key customer accounts and their strategic importance"
+                    },
                     "icon": "logo_45",
                     "children": [
                         {
-                            "id": "overview_of_key_customer_accounts_and_their_strategic_importance",
+                            "id": "7d4f0e07-72c3-5815-b93a-3814e6fab6d6",
+                            "parent_id": "649b06d9-c7cd-5bc5-b417-9497f6b1a7fa",
                             "type": "action",
-                            "end_of_day": 3,
                             "title": "Overview of key customer accounts and their strategic importance.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 3,
+                            "length_in_days": 1,
                             "action": "Review the list of key accounts and understand their significance to our business.",
                             "description": "Key accounts are vital to our business as they often represent a significant portion of our revenue and influence our market presence. Understanding the specific needs and goals of these accounts allows us to tailor our support and engagement strategies effectively.\nBy familiarizing yourself with these key accounts, you will be better equipped to identify opportunities for upselling, cross-selling, and building deeper relationships. This knowledge will also help you prioritize your efforts and contribute to the overall success of our customer success initiatives.",
                             "content_instructions": {
@@ -81,24 +133,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_customer_success_processes",
+            "id": "f959c7ac-be1f-5737-8c81-bdc5a46a87fe",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Familiarize with Our Customer Success Processes",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 6,
-            "icon": "logo_4",
+            "length_in_days": 3,
+            "action": "Review the customer success processes to enhance customer satisfaction and engagement.",
+            "description": "Customer success processes include onboarding, journey mapping, and support strategies for optimal satisfaction.",
+            "content_instructions": {
+                "role": "professional Customer Success Manager",
+                "topic": "Understand the key processes that contribute to customer success and satisfaction."
+            },
+            "icon": "logo_3",
             "children": [
                 {
-                    "id": "customer_onboarding_steps",
+                    "id": "3328878f-c801-5754-bbf2-b55fdcb07ee6",
+                    "parent_id": "f959c7ac-be1f-5737-8c81-bdc5a46a87fe",
                     "type": "module",
                     "title": "Customer Onboarding Steps",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 4,
+                    "length_in_days": 1,
+                    "action": "Review the customer onboarding process and understand each step involved.",
+                    "description": "Key steps in customer onboarding include setup, training, and resource allocation for effective product use.",
+                    "content_instructions": {
+                        "role": "professional Onboarding Specialist",
+                        "topic": "Learn the steps involved in onboarding new customers to ensure a smooth start."
+                    },
                     "icon": "logo_4",
                     "children": [
                         {
-                            "id": "learn_the_steps_involved_in_onboarding_new_customers_to_ensure_a_smooth_start",
+                            "id": "e4c0db94-1cb4-5c7b-8365-3e710e518215",
+                            "parent_id": "3328878f-c801-5754-bbf2-b55fdcb07ee6",
                             "type": "action",
-                            "end_of_day": 4,
                             "title": "Learn the steps involved in onboarding new customers to ensure a smooth start.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 4,
+                            "length_in_days": 1,
                             "action": "Review the customer onboarding process and understand each step involved.",
                             "description": "Customer onboarding is a critical phase that sets the tone for the customer relationship. It involves several key steps, including initial setup, training, and resource allocation. A well-structured onboarding process ensures that customers are equipped to use our products effectively from the outset.\nBy understanding the onboarding steps, you will be able to guide new customers through their journey, addressing their needs and concerns proactively. This knowledge is essential for fostering customer satisfaction and long-term loyalty.",
                             "content_instructions": {
@@ -110,17 +183,29 @@
                     ]
                 },
                 {
-                    "id": "customer_journey_mapping",
+                    "id": "32ef9333-1d8f-5586-a64c-d2a33c089035",
+                    "parent_id": "f959c7ac-be1f-5737-8c81-bdc5a46a87fe",
                     "type": "module",
                     "title": "Customer Journey Mapping",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 5,
+                    "length_in_days": 1,
+                    "action": "Learn the techniques for mapping customer journeys and identifying touchpoints.",
+                    "description": "Mapping the customer journey helps identify touchpoints and improve customer satisfaction.",
+                    "content_instructions": {
+                        "role": "professional Customer Experience Consultant",
+                        "topic": "Understand how to map the customer journey to provide proactive support"
+                    },
                     "icon": "logo_3",
                     "children": [
                         {
-                            "id": "understand_how_to_map_the_customer_journey_to_provide_proactive_support",
+                            "id": "f4254ed1-506f-5077-a1d7-cbcf0696917d",
+                            "parent_id": "32ef9333-1d8f-5586-a64c-d2a33c089035",
                             "type": "action",
-                            "end_of_day": 5,
                             "title": "Understand how to map the customer journey to provide proactive support.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 5,
+                            "length_in_days": 1,
                             "action": "Learn the techniques for mapping customer journeys and identifying touchpoints.",
                             "description": "Mapping the customer journey is essential for understanding how customers interact with our products and services. By identifying key touchpoints and experiences, we can proactively address pain points and enhance customer satisfaction. This process helps us visualize the customer experience from initial contact to long-term engagement.\nBy mastering customer journey mapping, you will be able to tailor your support strategies to meet customer needs effectively, ensuring that they receive the guidance and resources necessary for success.",
                             "content_instructions": {
@@ -132,17 +217,29 @@
                     ]
                 },
                 {
-                    "id": "proactive_vs_reactive_support",
+                    "id": "83ff7f1a-56c3-53fb-92bf-d721f8293c1b",
+                    "parent_id": "f959c7ac-be1f-5737-8c81-bdc5a46a87fe",
                     "type": "module",
                     "title": "Proactive vs Reactive Support",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 6,
+                    "length_in_days": 1,
+                    "action": "Learn the distinctions between proactive and reactive support strategies.",
+                    "description": "Proactive support anticipates needs, while reactive support responds to issues as they arise.",
+                    "content_instructions": {
+                        "role": "professional Customer Support Analyst",
+                        "topic": "Overview of the differences between proactive and reactive customer support and when to use each."
+                    },
                     "icon": "logo_6",
                     "children": [
                         {
-                            "id": "overview_of_the_differences_between_proactive_and_reactive_customer_support_and_when_to_use_each",
+                            "id": "503cb279-5b84-5af1-98b3-af9dc832b82b",
+                            "parent_id": "83ff7f1a-56c3-53fb-92bf-d721f8293c1b",
                             "type": "action",
-                            "end_of_day": 6,
                             "title": "Overview of the differences between proactive and reactive customer support and when to use each.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 6,
+                            "length_in_days": 1,
                             "action": "Learn the distinctions between proactive and reactive support strategies.",
                             "description": "Proactive support involves anticipating customer needs and addressing potential issues before they arise, while reactive support focuses on responding to customer inquiries and problems as they occur. Understanding when to employ each strategy is crucial for optimizing customer satisfaction and resource allocation.\nBy recognizing the benefits of proactive support, you will be better equipped to create strategies that not only resolve issues but also enhance the overall customer experience. This knowledge is essential for building strong relationships and fostering customer loyalty.",
                             "content_instructions": {
@@ -156,24 +253,45 @@
             ]
         },
         {
-            "id": "understanding_our_customer_needs_and_challenges",
+            "id": "e15ad09a-8c21-54d2-9752-ccbe4bcfd687",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Understanding Our Customer Needs and Challenges",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 9,
-            "icon": "logo_11",
+            "length_in_days": 3,
+            "action": "Review the common challenges encountered by customers and our strategies for resolution.",
+            "description": "Insights into customer needs and challenges help enhance support and build strong relationships.",
+            "content_instructions": {
+                "role": "professional Customer Success Consultant",
+                "topic": "Understand the common challenges faced by our customer base and how we address them."
+            },
+            "icon": "logo_2",
             "children": [
                 {
-                    "id": "conducting_customer_discovery",
+                    "id": "bbbe939c-88df-5778-b551-2c0660e095c5",
+                    "parent_id": "e15ad09a-8c21-54d2-9752-ccbe4bcfd687",
                     "type": "module",
                     "title": "Conducting Customer Discovery",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 7,
+                    "length_in_days": 1,
+                    "action": "Explore the techniques for conducting customer discovery interviews.",
+                    "description": "Customer discovery gathers insights into customer needs and challenges through engagement.",
+                    "content_instructions": {
+                        "role": "professional Market Researcher",
+                        "topic": "Learn how to conduct effective customer discovery to understand needs and goals."
+                    },
                     "icon": "logo_11",
                     "children": [
                         {
-                            "id": "learn_how_to_conduct_effective_customer_discovery_to_understand_needs_and_goals",
+                            "id": "76062877-4b7c-5757-bd5b-0de0bb6d674e",
+                            "parent_id": "bbbe939c-88df-5778-b551-2c0660e095c5",
                             "type": "action",
-                            "end_of_day": 7,
                             "title": "Learn how to conduct effective customer discovery to understand needs and goals.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 7,
+                            "length_in_days": 1,
                             "action": "Explore the techniques for conducting customer discovery interviews.",
                             "description": "Customer discovery is a vital process that allows us to gather insights into customer needs, goals, and challenges. By engaging with customers through interviews, surveys, and feedback sessions, we can identify their pain points and tailor our solutions accordingly. This process is essential for ensuring that we deliver value and meet customer expectations.\nBy mastering customer discovery techniques, you will enhance your ability to build strong relationships with customers and position our products as effective solutions to their challenges.",
                             "content_instructions": {
@@ -185,17 +303,29 @@
                     ]
                 },
                 {
-                    "id": "analyzing_customer_behavior",
+                    "id": "7376037e-8b79-5f32-bdd0-0afc4caa4601",
+                    "parent_id": "e15ad09a-8c21-54d2-9752-ccbe4bcfd687",
                     "type": "module",
                     "title": "Analyzing Customer Behavior",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 8,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the tools we use to analyze customer engagement metrics.",
+                    "description": "Understanding customer interactions through analytics tools enhances engagement and satisfaction.",
+                    "content_instructions": {
+                        "role": "professional Data Analyst",
+                        "topic": "Overview of tools and techniques for analyzing customer behavior and engagement"
+                    },
                     "icon": "logo_31",
                     "children": [
                         {
-                            "id": "overview_of_tools_and_techniques_for_analyzing_customer_behavior_and_engagement",
+                            "id": "0d09fe29-28cf-5d9c-8d83-ab1f3e889c81",
+                            "parent_id": "7376037e-8b79-5f32-bdd0-0afc4caa4601",
                             "type": "action",
-                            "end_of_day": 8,
                             "title": "Overview of tools and techniques for analyzing customer behavior and engagement.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 8,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the tools we use to analyze customer engagement metrics.",
                             "description": "Analyzing customer behavior is crucial for understanding how customers interact with our products and services. By leveraging analytics tools, we can track engagement metrics, identify trends, and gain insights into customer preferences. This information is vital for making data-driven decisions that enhance customer satisfaction.\nBy becoming proficient in analyzing customer behavior, you will be able to proactively address issues, tailor your support strategies, and ultimately improve the customer experience.",
                             "content_instructions": {
@@ -207,17 +337,29 @@
                     ]
                 },
                 {
-                    "id": "common_challenges_in_our_customer_base",
+                    "id": "9f0f6477-c63d-508e-bf57-0f3708c289b7",
+                    "parent_id": "e15ad09a-8c21-54d2-9752-ccbe4bcfd687",
                     "type": "module",
                     "title": "Common Challenges in Our Customer Base",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 9,
+                    "length_in_days": 1,
+                    "action": "Review the common challenges encountered by customers and our strategies for resolution.",
+                    "description": "Identifying customer challenges helps enhance support and build strong relationships.",
+                    "content_instructions": {
+                        "role": "professional Customer Success Consultant",
+                        "topic": "Understand the common challenges faced by our customer base and how we address them."
+                    },
                     "icon": "logo_8",
                     "children": [
                         {
-                            "id": "understand_the_common_challenges_faced_by_our_customer_base_and_how_we_address_them",
+                            "id": "0f1601af-e9e5-5803-9309-97e713c77667",
+                            "parent_id": "9f0f6477-c63d-508e-bf57-0f3708c289b7",
                             "type": "action",
-                            "end_of_day": 9,
                             "title": "Understand the common challenges faced by our customer base and how we address them.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 9,
+                            "length_in_days": 1,
                             "action": "Review the common challenges encountered by customers and our strategies for resolution.",
                             "description": "Understanding the common challenges faced by our customers is essential for providing effective support. These challenges often range from technical issues to usability concerns. By identifying these pain points, we can develop targeted strategies to address them and enhance the customer experience.\nBy familiarizing yourself with these challenges and our approaches to resolution, you will be better equipped to provide proactive support and build strong relationships with customers.",
                             "content_instructions": {
@@ -231,24 +373,45 @@
             ]
         },
         {
-            "id": "collaborating_with_our_sales_and_product_teams_1",
+            "id": "ed6d2692-1038-5937-b60e-958303323908",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Collaborating with Our Sales and Product Teams",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 12,
-            "icon": "logo_14",
+            "length_in_days": 3,
+            "action": "Review the handover process and understand the roles of each team.",
+            "description": "Collaboration between sales and product teams is vital for customer satisfaction and effective communication.",
+            "content_instructions": {
+                "role": "professional Sales Operations Manager",
+                "topic": "Learn the process for ensuring a seamless handover from the sales team to customer success."
+            },
+            "icon": "logo_6",
             "children": [
                 {
-                    "id": "ensuring_smooth_handover_from_sales",
+                    "id": "c920316a-62f1-5525-bb4a-e850ef9b8b2c",
+                    "parent_id": "ed6d2692-1038-5937-b60e-958303323908",
                     "type": "module",
                     "title": "Ensuring Smooth Handover from Sales",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 10,
+                    "length_in_days": 1,
+                    "action": "Review the handover process and understand the roles of each team.",
+                    "description": "Understanding the handover process fosters customer satisfaction and trust through effective communication.",
+                    "content_instructions": {
+                        "role": "professional Sales Operations Manager",
+                        "topic": "Learn the process for ensuring a seamless handover from the sales team to customer success."
+                    },
                     "icon": "logo_14",
                     "children": [
                         {
-                            "id": "learn_the_process_for_ensuring_a_seamless_handover_from_the_sales_team_to_customer_success",
+                            "id": "c725f621-ccbe-5ce9-aa10-cae528aa952d",
+                            "parent_id": "c920316a-62f1-5525-bb4a-e850ef9b8b2c",
                             "type": "action",
-                            "end_of_day": 10,
                             "title": "Learn the process for ensuring a seamless handover from the sales team to customer success.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 10,
+                            "length_in_days": 1,
                             "action": "Review the handover process and understand the roles of each team.",
                             "description": "A seamless handover from sales to customer success is crucial for maintaining customer satisfaction and trust. This process involves sharing key account information, customer expectations, and any specific needs that were discussed during the sales process. Understanding this handover process will enable you to provide a smooth transition for new customers.\nBy mastering the handover process, you will ensure that customers feel valued from the very beginning of their journey, setting the stage for a successful relationship.",
                             "content_instructions": {
@@ -260,17 +423,29 @@
                     ]
                 },
                 {
-                    "id": "communicating_customer_feedback",
+                    "id": "3e0c08d6-316b-5f07-a22d-7309b72ae41d",
+                    "parent_id": "ed6d2692-1038-5937-b60e-958303323908",
                     "type": "module",
                     "title": "Communicating Customer Feedback",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 11,
+                    "length_in_days": 1,
+                    "action": "Learn the best practices for relaying customer feedback effectively.",
+                    "description": "Learn to communicate customer feedback to improve product outcomes and team collaboration.",
+                    "content_instructions": {
+                        "role": "professional Product Manager",
+                        "topic": "Understand how to communicate customer feedback to the product and development teams."
+                    },
                     "icon": "logo_23",
                     "children": [
                         {
-                            "id": "understand_how_to_communicate_customer_feedback_to_the_product_and_development_teams",
+                            "id": "412c64b0-edc4-5b09-91f0-66fa1ed33b22",
+                            "parent_id": "3e0c08d6-316b-5f07-a22d-7309b72ae41d",
                             "type": "action",
-                            "end_of_day": 11,
                             "title": "Understand how to communicate customer feedback to the product and development teams.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 11,
+                            "length_in_days": 1,
                             "action": "Learn the best practices for relaying customer feedback effectively.",
                             "description": "Communicating customer feedback to product and development teams is essential for ensuring that customer needs are met in future iterations of our products. This process involves gathering feedback, analyzing it, and presenting it in a way that highlights its significance. Understanding how to effectively communicate this feedback will empower you to advocate for customers and drive improvements.\nBy mastering this communication process, you will enhance collaboration between customer success and product teams, ultimately leading to better product outcomes.",
                             "content_instructions": {
@@ -282,17 +457,29 @@
                     ]
                 },
                 {
-                    "id": "aligning_on_product_roadmaps",
+                    "id": "cf61fe93-a7b2-5d6c-828e-5601c9812be5",
+                    "parent_id": "ed6d2692-1038-5937-b60e-958303323908",
                     "type": "module",
                     "title": "Aligning on Product Roadmaps",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 12,
+                    "length_in_days": 1,
+                    "action": "Explore the alignment process between customer success and product development.",
+                    "description": "Collaboration between customer success and product development ensures products meet customer needs.",
+                    "content_instructions": {
+                        "role": "professional Product Development Coordinator",
+                        "topic": "Overview of how customer success aligns with product development to meet customer needs."
+                    },
                     "icon": "logo_32",
                     "children": [
                         {
-                            "id": "overview_of_how_customer_success_aligns_with_product_development_to_meet_customer_needs",
+                            "id": "8969eeca-2585-50da-9c61-31950d568e86",
+                            "parent_id": "cf61fe93-a7b2-5d6c-828e-5601c9812be5",
                             "type": "action",
-                            "end_of_day": 12,
                             "title": "Overview of how customer success aligns with product development to meet customer needs.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 12,
+                            "length_in_days": 1,
                             "action": "Explore the alignment process between customer success and product development.",
                             "description": "Aligning customer success with product development is crucial for ensuring that our products meet customer needs and expectations. This involves regular communication and collaboration to ensure that customer insights are incorporated into the product roadmap. Understanding this alignment process will enable you to advocate for customer needs effectively.\nBy mastering the alignment process, you will contribute to the development of products that resonate with customers and drive satisfaction.",
                             "content_instructions": {
@@ -306,24 +493,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_account_management_tools",
+            "id": "278b7bc7-d90b-54dc-bb9b-e9074d63657e",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Familiarize with Our Account Management Tools",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 15,
-            "icon": "logo_26",
+            "length_in_days": 3,
+            "action": "Familiarize yourself with our customer success platforms and their functionalities.",
+            "description": "Account management tools help track customer interactions and improve satisfaction.",
+            "content_instructions": {
+                "role": "professional Customer Success Software Specialist",
+                "topic": "Learn about the customer success platforms we use for tracking and managing customer relationships."
+            },
+            "icon": "logo_3",
             "children": [
                 {
-                    "id": "customer_success_platforms",
+                    "id": "f879fab4-e6c7-53ad-8956-ad19e030a70e",
+                    "parent_id": "278b7bc7-d90b-54dc-bb9b-e9074d63657e",
                     "type": "module",
                     "title": "Customer Success Platforms",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 13,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with our customer success platforms and their functionalities.",
+                    "description": "Customer success platforms help manage relationships and improve customer satisfaction.",
+                    "content_instructions": {
+                        "role": "professional Customer Success Software Specialist",
+                        "topic": "Learn about the customer success platforms we use for tracking and managing customer relationships."
+                    },
                     "icon": "logo_26",
                     "children": [
                         {
-                            "id": "learn_about_the_customer_success_platforms_we_use_for_tracking_and_managing_customer_relationships",
+                            "id": "7db183a3-8949-5ea6-9f7c-2c20190c208e",
+                            "parent_id": "f879fab4-e6c7-53ad-8956-ad19e030a70e",
                             "type": "action",
-                            "end_of_day": 13,
                             "title": "Learn about the customer success platforms we use for tracking and managing customer relationships.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 13,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with our customer success platforms and their functionalities.",
                             "description": "Customer success platforms are essential tools that help us manage customer relationships effectively. These platforms provide insights into customer engagement, track interactions, and facilitate communication. Understanding how to use these tools will empower you to provide better support and drive customer success.\nBy mastering our customer success platforms, you will enhance your ability to monitor customer health and proactively address issues, ultimately contributing to higher customer satisfaction.",
                             "content_instructions": {
@@ -335,17 +543,29 @@
                     ]
                 },
                 {
-                    "id": "tracking_customer_engagement",
+                    "id": "a8bd6bdb-dff2-52c5-bd54-50c8804df784",
+                    "parent_id": "278b7bc7-d90b-54dc-bb9b-e9074d63657e",
                     "type": "module",
                     "title": "Tracking Customer Engagement",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 14,
+                    "length_in_days": 1,
+                    "action": "Review the metrics and KPIs used to track customer engagement.",
+                    "description": "Analyzing customer engagement metrics helps identify at-risk customers and improve relationships.",
+                    "content_instructions": {
+                        "role": "professional Customer Analytics Specialist",
+                        "topic": "Understand how to track customer engagement to measure success and identify risks."
+                    },
                     "icon": "logo_33",
                     "children": [
                         {
-                            "id": "understand_how_to_track_customer_engagement_to_measure_success_and_identify_risks",
+                            "id": "d04eb0e8-8735-55ad-a1c8-dda74fd85796",
+                            "parent_id": "a8bd6bdb-dff2-52c5-bd54-50c8804df784",
                             "type": "action",
-                            "end_of_day": 14,
                             "title": "Understand how to track customer engagement to measure success and identify risks.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 14,
+                            "length_in_days": 1,
                             "action": "Review the metrics and KPIs used to track customer engagement.",
                             "description": "Tracking customer engagement is essential for measuring the success of our customer success initiatives. By analyzing engagement metrics, we can identify at-risk customers and proactively address their needs. Understanding these metrics will empower you to make data-driven decisions that enhance customer relationships.\nBy mastering customer engagement tracking, you will be better equipped to contribute to customer success strategies and ensure that customers derive maximum value from our products.",
                             "content_instructions": {
@@ -357,17 +577,29 @@
                     ]
                 },
                 {
-                    "id": "managing_customer_data",
+                    "id": "3687246e-ff8b-54ba-8b93-30dafc679dc5",
+                    "parent_id": "278b7bc7-d90b-54dc-bb9b-e9074d63657e",
                     "type": "module",
                     "title": "Managing Customer Data",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 15,
+                    "length_in_days": 1,
+                    "action": "Learn about the processes for managing customer data effectively.",
+                    "description": "Customer data management enhances relationships through personalized support and insights into customer needs.",
+                    "content_instructions": {
+                        "role": "professional Data Management Specialist",
+                        "topic": "Overview of how customer data is managed and used to improve relationships."
+                    },
                     "icon": "logo_13",
                     "children": [
                         {
-                            "id": "overview_of_how_customer_data_is_managed_and_used_to_improve_relationships",
+                            "id": "4cbe95a1-0075-50ec-ab7b-a45cbd94c8f0",
+                            "parent_id": "3687246e-ff8b-54ba-8b93-30dafc679dc5",
                             "type": "action",
-                            "end_of_day": 15,
                             "title": "Overview of how customer data is managed and used to improve relationships.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 15,
+                            "length_in_days": 1,
                             "action": "Learn about the processes for managing customer data effectively.",
                             "description": "Managing customer data is crucial for building strong relationships and delivering personalized support. This involves collecting, storing, and analyzing customer data to gain insights into their needs and preferences. Understanding how to manage this data effectively will empower you to tailor your support strategies accordingly.\nBy mastering customer data management, you will enhance your ability to provide targeted support and drive customer satisfaction.",
                             "content_instructions": {
@@ -381,24 +613,45 @@
             ]
         },
         {
-            "id": "our_customer_engagement_strategies",
+            "id": "32c3cc78-cb2f-5b6c-86b6-392668fa3ef9",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Our Customer Engagement Strategies",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 18,
-            "icon": "logo_16",
+            "length_in_days": 3,
+            "action": "Review and implement best practices for customer engagement.",
+            "description": "Strategies for engaging customers through webinars, meetings, and relationship building.",
+            "content_instructions": {
+                "role": "professional Customer Engagement Specialist",
+                "topic": "Explore comprehensive strategies for engaging and supporting customers effectively."
+            },
+            "icon": "logo_14",
             "children": [
                 {
-                    "id": "hosting_customer_webinars",
+                    "id": "51a170de-eff6-5c71-9e9f-10f872c2c438",
+                    "parent_id": "32c3cc78-cb2f-5b6c-86b6-392668fa3ef9",
                     "type": "module",
                     "title": "Hosting Customer Webinars",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 16,
+                    "length_in_days": 1,
+                    "action": "Review the strategies for planning and executing successful customer webinars.",
+                    "description": "Best practices for hosting webinars that engage and educate customers.",
+                    "content_instructions": {
+                        "role": "professional Webinar Coordinator",
+                        "topic": "Learn best practices for hosting webinars that engage and educate customers."
+                    },
                     "icon": "logo_16",
                     "children": [
                         {
-                            "id": "learn_best_practices_for_hosting_webinars_that_engage_and_educate_customers",
+                            "id": "27f62b42-6203-5b82-962b-ee5706c3f634",
+                            "parent_id": "51a170de-eff6-5c71-9e9f-10f872c2c438",
                             "type": "action",
-                            "end_of_day": 16,
                             "title": "Learn best practices for hosting webinars that engage and educate customers.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 16,
+                            "length_in_days": 1,
                             "action": "Review the strategies for planning and executing successful customer webinars.",
                             "description": "Hosting customer webinars is an effective way to engage and educate our customers. These sessions provide valuable insights into our products and best practices. Understanding how to plan and execute these webinars will empower you to deliver compelling content that resonates with our audience.\nBy mastering webinar hosting, you will enhance your ability to foster customer engagement and build a community around our products.",
                             "content_instructions": {
@@ -410,17 +663,29 @@
                     ]
                 },
                 {
-                    "id": "customer_check_in_meetings",
+                    "id": "74611506-fdd9-52d5-9a55-39e1d1ace368",
+                    "parent_id": "32c3cc78-cb2f-5b6c-86b6-392668fa3ef9",
                     "type": "module",
                     "title": "Customer Check-in Meetings",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 17,
+                    "length_in_days": 1,
+                    "action": "Learn how to conduct effective check-in meetings with customers.",
+                    "description": "Regular check-in meetings strengthen customer relationships and ensure ongoing success.",
+                    "content_instructions": {
+                        "role": "professional Customer Success Manager",
+                        "topic": "Understand the structure and purpose of regular customer check-in meetings."
+                    },
                     "icon": "logo_40",
                     "children": [
                         {
-                            "id": "understand_the_structure_and_purpose_of_regular_customer_check_in_meetings",
+                            "id": "36cd92f5-22d9-57a1-a388-51108a320c83",
+                            "parent_id": "74611506-fdd9-52d5-9a55-39e1d1ace368",
                             "type": "action",
-                            "end_of_day": 17,
                             "title": "Understand the structure and purpose of regular customer check-in meetings.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 17,
+                            "length_in_days": 1,
                             "action": "Learn how to conduct effective check-in meetings with customers.",
                             "description": "Regular check-in meetings with customers are essential for maintaining strong relationships and ensuring their ongoing success. These meetings provide an opportunity to discuss progress, address concerns, and gather feedback. Understanding the structure and purpose of these meetings will empower you to facilitate productive conversations with customers.\nBy mastering check-in meetings, you will enhance your ability to build rapport and ensure that customers feel valued and supported.",
                             "content_instructions": {
@@ -432,17 +697,29 @@
                     ]
                 },
                 {
-                    "id": "nurturing_long_term_relationships",
+                    "id": "bbf63ad7-9b54-5e86-bbd4-ea122ddd77f7",
+                    "parent_id": "32c3cc78-cb2f-5b6c-86b6-392668fa3ef9",
                     "type": "module",
                     "title": "Nurturing Long-term Relationships",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 18,
+                    "length_in_days": 1,
+                    "action": "Explore the best practices for maintaining long-term customer relationships.",
+                    "description": "Strategies for building lasting partnerships with key customers through communication and engagement.",
+                    "content_instructions": {
+                        "role": "professional Relationship Manager",
+                        "topic": "Overview of strategies for nurturing long-term relationships with key customers."
+                    },
                     "icon": "logo_17",
                     "children": [
                         {
-                            "id": "overview_of_strategies_for_nurturing_long_term_relationships_with_key_customers",
+                            "id": "28c68be8-f9e9-5dc9-a4db-7486478bd9ea",
+                            "parent_id": "bbf63ad7-9b54-5e86-bbd4-ea122ddd77f7",
                             "type": "action",
-                            "end_of_day": 18,
                             "title": "Overview of strategies for nurturing long-term relationships with key customers.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 18,
+                            "length_in_days": 1,
                             "action": "Explore the best practices for maintaining long-term customer relationships.",
                             "description": "Nurturing long-term relationships with key customers is essential for driving customer loyalty and retention. This involves regular communication, personalized support, and proactive engagement strategies. Understanding how to build and maintain these relationships will empower you to create lasting partnerships with customers.\nBy mastering relationship nurturing strategies, you will enhance your ability to contribute to customer success and drive value for both the customer and the company.",
                             "content_instructions": {
@@ -456,24 +733,45 @@
             ]
         },
         {
-            "id": "handling_customer_feedback_in_our_company_1",
+            "id": "ce69519e-0425-5f7b-9327-8a3a9dd78313",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Handling Customer Feedback in Our Company",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 21,
-            "icon": "logo_29",
+            "length_in_days": 3,
+            "action": "Implement strategies to gather, analyze, and act on customer feedback.",
+            "description": "Managing customer feedback is crucial for improving products and ensuring customer satisfaction.",
+            "content_instructions": {
+                "role": "professional Customer Feedback Manager",
+                "topic": "Strategies for effectively managing and utilizing customer feedback."
+            },
+            "icon": "logo_11",
             "children": [
                 {
-                    "id": "collecting_feedback_via_surveys",
+                    "id": "48098e4c-c606-5377-aa9a-a1a9c2fd9ca4",
+                    "parent_id": "ce69519e-0425-5f7b-9327-8a3a9dd78313",
                     "type": "module",
                     "title": "Collecting Feedback via Surveys",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 19,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the survey tools and best practices for gathering feedback.",
+                    "description": "Learn to create and distribute surveys for valuable customer insights.",
+                    "content_instructions": {
+                        "role": "professional Survey Specialist",
+                        "topic": "Learn how to create and distribute surveys to collect valuable customer feedback."
+                    },
                     "icon": "logo_29",
                     "children": [
                         {
-                            "id": "learn_how_to_create_and_distribute_surveys_to_collect_valuable_customer_feedback",
+                            "id": "c596c7f1-a1d5-5a54-9d3a-6bf33c25bdf4",
+                            "parent_id": "48098e4c-c606-5377-aa9a-a1a9c2fd9ca4",
                             "type": "action",
-                            "end_of_day": 19,
                             "title": "Learn how to create and distribute surveys to collect valuable customer feedback.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 19,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the survey tools and best practices for gathering feedback.",
                             "description": "Collecting customer feedback through surveys is a vital part of understanding their needs and improving our products. Effective surveys gather insights that can inform our strategies and enhance customer satisfaction. Understanding how to create and distribute surveys will empower you to gather valuable feedback efficiently.\nBy mastering survey techniques, you will enhance your ability to advocate for customers and drive continuous improvement in our offerings.",
                             "content_instructions": {
@@ -485,17 +783,29 @@
                     ]
                 },
                 {
-                    "id": "escalating_critical_issues_1",
+                    "id": "87df7388-7371-5272-a226-fc1d32ae186f",
+                    "parent_id": "ce69519e-0425-5f7b-9327-8a3a9dd78313",
                     "type": "module",
                     "title": "Escalating Critical Issues",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 20,
+                    "length_in_days": 1,
+                    "action": "Review the escalation process and identify critical issues that require attention.",
+                    "description": "Mastering the escalation process ensures timely resolutions and addresses customer needs effectively.",
+                    "content_instructions": {
+                        "role": "professional Customer Support Manager",
+                        "topic": "Understand when and how to escalate critical customer issues to other departments."
+                    },
                     "icon": "logo_21",
                     "children": [
                         {
-                            "id": "understand_when_and_how_to_escalate_critical_customer_issues_to_other_departments",
+                            "id": "8c45fe67-b65d-50e0-8bf5-b0791582accb",
+                            "parent_id": "87df7388-7371-5272-a226-fc1d32ae186f",
                             "type": "action",
-                            "end_of_day": 20,
                             "title": "Understand when and how to escalate critical customer issues to other departments.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 20,
+                            "length_in_days": 1,
                             "action": "Review the escalation process and identify critical issues that require attention.",
                             "description": "Escalating critical customer issues is essential for ensuring timely resolutions and maintaining customer satisfaction. Knowing when to escalate and understanding the process for doing so is crucial for effective customer success management. This involves identifying critical issues and communicating them to the appropriate departments.\nBy mastering the escalation process, you will enhance your ability to advocate for customers and ensure that their needs are addressed promptly.",
                             "content_instructions": {
@@ -507,17 +817,29 @@
                     ]
                 },
                 {
-                    "id": "implementing_feedback_into_solutions",
+                    "id": "1ee6879a-d0e5-5750-ad5e-1e0d5e5cc158",
+                    "parent_id": "ce69519e-0425-5f7b-9327-8a3a9dd78313",
                     "type": "module",
                     "title": "Implementing Feedback into Solutions",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 21,
+                    "length_in_days": 1,
+                    "action": "Learn the process for translating customer feedback into actionable improvements.",
+                    "description": "Customer feedback is analyzed and translated into actionable solutions for product and service enhancements.",
+                    "content_instructions": {
+                        "role": "professional Product Improvement Specialist",
+                        "topic": "Overview of how customer feedback is implemented into product and service improvements."
+                    },
                     "icon": "logo_5",
                     "children": [
                         {
-                            "id": "overview_of_how_customer_feedback_is_implemented_into_product_and_service_improvements",
+                            "id": "04c8c773-8195-5c47-93e7-b49c5c575907",
+                            "parent_id": "1ee6879a-d0e5-5750-ad5e-1e0d5e5cc158",
                             "type": "action",
-                            "end_of_day": 21,
                             "title": "Overview of how customer feedback is implemented into product and service improvements.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 21,
+                            "length_in_days": 1,
                             "action": "Learn the process for translating customer feedback into actionable improvements.",
                             "description": "Implementing customer feedback into our products and services is critical for ensuring that we meet customer needs and expectations. This process involves analyzing feedback, identifying trends, and collaborating with product teams to drive improvements. Understanding how to translate feedback into actionable solutions will empower you to advocate for customers effectively.\nBy mastering this implementation process, you will enhance your ability to contribute to product development and ensure that customer voices are heard.",
                             "content_instructions": {
@@ -531,24 +853,45 @@
             ]
         },
         {
-            "id": "our_renewals_and_upselling_techniques",
+            "id": "c8094f48-7603-5862-81d3-816bfc60d748",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Our Renewals and Upselling Techniques",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 24,
-            "icon": "logo_27",
+            "length_in_days": 3,
+            "action": "Familiarize yourself with renewal strategies and upselling techniques.",
+            "description": "Strategies for customer renewals and identifying upsell opportunities to enhance customer value.",
+            "content_instructions": {
+                "role": "professional Customer Retention Specialist",
+                "topic": "Learn the playbooks and tactics we use to ensure customer renewals and identify upsell opportunities."
+            },
+            "icon": "logo_4",
             "children": [
                 {
-                    "id": "renewal_playbooks_and_tactics",
+                    "id": "e16f84e0-5af2-5fb1-b6ab-5fa4ff0ea41e",
+                    "parent_id": "c8094f48-7603-5862-81d3-816bfc60d748",
                     "type": "module",
                     "title": "Renewal Playbooks and Tactics",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 22,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the renewal strategies and best practices.",
+                    "description": "Strategies and tactics for engaging customers and ensuring renewals.",
+                    "content_instructions": {
+                        "role": "professional Customer Retention Specialist",
+                        "topic": "Learn the playbooks and tactics we use to ensure customer renewals."
+                    },
                     "icon": "logo_27",
                     "children": [
                         {
-                            "id": "learn_the_playbooks_and_tactics_we_use_to_ensure_customer_renewals",
+                            "id": "29daf269-c153-5ff3-a3ed-acd5e4348a94",
+                            "parent_id": "e16f84e0-5af2-5fb1-b6ab-5fa4ff0ea41e",
                             "type": "action",
-                            "end_of_day": 22,
                             "title": "Learn the playbooks and tactics we use to ensure customer renewals.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 22,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the renewal strategies and best practices.",
                             "description": "Ensuring customer renewals is crucial for maintaining our revenue and fostering long-term relationships. Our renewal playbooks outline strategies and tactics that help us engage customers effectively and address their needs proactively. Understanding these playbooks will empower you to contribute to renewal efforts successfully.\nBy mastering renewal strategies, you will enhance your ability to retain customers and drive value for both the customer and the company.",
                             "content_instructions": {
@@ -560,17 +903,29 @@
                     ]
                 },
                 {
-                    "id": "identifying_upsell_opportunities",
+                    "id": "e2f28eee-d271-500e-ba32-876f4647ab7c",
+                    "parent_id": "c8094f48-7603-5862-81d3-816bfc60d748",
                     "type": "module",
                     "title": "Identifying Upsell Opportunities",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 23,
+                    "length_in_days": 1,
+                    "action": "Review the strategies for recognizing upsell opportunities with customers.",
+                    "description": "Learn to identify and act on upsell opportunities to maximize customer value.",
+                    "content_instructions": {
+                        "role": "professional Sales Growth Specialist",
+                        "topic": "Understand how to identify and act on opportunities to upsell additional products or services."
+                    },
                     "icon": "logo_25",
                     "children": [
                         {
-                            "id": "understand_how_to_identify_and_act_on_opportunities_to_upsell_additional_products_or_services",
+                            "id": "7b0574b2-991d-52fd-94c0-61683557b4a4",
+                            "parent_id": "e2f28eee-d271-500e-ba32-876f4647ab7c",
                             "type": "action",
-                            "end_of_day": 23,
                             "title": "Understand how to identify and act on opportunities to upsell additional products or services.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 23,
+                            "length_in_days": 1,
                             "action": "Review the strategies for recognizing upsell opportunities with customers.",
                             "description": "Identifying upsell opportunities is essential for maximizing customer value and driving revenue growth. This involves understanding customer needs, monitoring usage patterns, and recognizing when additional products or services may benefit them. Knowing how to approach upselling tactfully will empower you to engage customers effectively.\nBy mastering upselling techniques, you will enhance your ability to contribute to our growth while ensuring that customers receive the maximum value from our offerings.",
                             "content_instructions": {
@@ -582,17 +937,29 @@
                     ]
                 },
                 {
-                    "id": "customer_retention_strategies",
+                    "id": "03b259eb-d945-5ca8-971d-5fe150213693",
+                    "parent_id": "c8094f48-7603-5862-81d3-816bfc60d748",
                     "type": "module",
                     "title": "Customer Retention Strategies",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 24,
+                    "length_in_days": 1,
+                    "action": "Learn about the retention strategies and their importance.",
+                    "description": "Understanding customer needs and fostering relationships are key to reducing churn.",
+                    "content_instructions": {
+                        "role": "professional Customer Retention Manager",
+                        "topic": "Overview of strategies used to retain customers and reduce churn"
+                    },
                     "icon": "logo_30",
                     "children": [
                         {
-                            "id": "overview_of_strategies_used_to_retain_customers_and_reduce_churn",
+                            "id": "8cd8bf6d-b288-5021-94ed-04014b3ca4e9",
+                            "parent_id": "03b259eb-d945-5ca8-971d-5fe150213693",
                             "type": "action",
-                            "end_of_day": 24,
                             "title": "Overview of strategies used to retain customers and reduce churn.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 24,
+                            "length_in_days": 1,
                             "action": "Learn about the retention strategies and their importance.",
                             "description": "Customer retention is crucial for the long-term success of our business. Implementing effective strategies to reduce churn involves understanding customer needs, providing exceptional support, and fostering strong relationships. By learning about these strategies, you will be better equipped to contribute to our retention efforts and enhance customer satisfaction.\nBy mastering retention strategies, you will improve your ability to maintain customer loyalty and drive long-term value for both the customer and the company.",
                             "content_instructions": {
@@ -606,24 +973,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_technical_product_knowledge",
+            "id": "f69415b1-c2d6-535f-b4bf-10840b8648bc",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Familiarize with Our Technical Product Knowledge",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 27,
-            "icon": "logo_7",
+            "length_in_days": 3,
+            "action": "Learn about the technical training resources available for your role.",
+            "description": "Understanding technical product knowledge enhances support capabilities for customer success managers.",
+            "content_instructions": {
+                "role": "professional Training Coordinator",
+                "topic": "Overview of the technical training available to customer success managers to support customers better."
+            },
+            "icon": "logo_4",
             "children": [
                 {
-                    "id": "understanding_product_features",
+                    "id": "02f520e7-30c0-50c4-be6a-fa9cb00eadcc",
+                    "parent_id": "f69415b1-c2d6-535f-b4bf-10840b8648bc",
                     "type": "module",
                     "title": "Understanding Product Features",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 25,
+                    "length_in_days": 1,
+                    "action": "Review the key features and benefits of our products.",
+                    "description": "Knowledge of product features helps address customer inquiries and demonstrates product value.",
+                    "content_instructions": {
+                        "role": "professional Product Trainer",
+                        "topic": "Gain an understanding of the key features of our products and how they benefit customers."
+                    },
                     "icon": "logo_7",
                     "children": [
                         {
-                            "id": "gain_an_understanding_of_the_key_features_of_our_products_and_how_they_benefit_customers",
+                            "id": "d07965fa-ba4b-5955-98ad-0d660b935648",
+                            "parent_id": "02f520e7-30c0-50c4-be6a-fa9cb00eadcc",
                             "type": "action",
-                            "end_of_day": 25,
                             "title": "Gain an understanding of the key features of our products and how they benefit customers.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 25,
+                            "length_in_days": 1,
                             "action": "Review the key features and benefits of our products.",
                             "description": "Understanding the key features of our products is essential for providing effective support and demonstrating their value to customers. This knowledge enables you to address customer inquiries confidently and highlight how our products can meet their specific needs. By mastering product features, you will enhance your ability to drive customer success and satisfaction.\nBy familiarizing yourself with product features, you will be better equipped to advocate for customers and ensure they derive maximum value from their investment.",
                             "content_instructions": {
@@ -635,17 +1023,29 @@
                     ]
                 },
                 {
-                    "id": "technical_training_for_success_managers",
+                    "id": "8a5506dd-0eb1-50ae-ba2e-3db1c23dc557",
+                    "parent_id": "f69415b1-c2d6-535f-b4bf-10840b8648bc",
                     "type": "module",
                     "title": "Technical Training for Success Managers",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 26,
+                    "length_in_days": 1,
+                    "action": "Learn about the technical training resources available for your role.",
+                    "description": "Technical training equips customer success managers to assist customers with product inquiries and troubleshooting.",
+                    "content_instructions": {
+                        "role": "professional Training Coordinator",
+                        "topic": "Overview of the technical training available to customer success managers to support customers better."
+                    },
                     "icon": "logo_9",
                     "children": [
                         {
-                            "id": "overview_of_the_technical_training_available_to_customer_success_managers_to_support_customers_better",
+                            "id": "b8b2cec9-9bb1-58a0-923f-f781bf84f045",
+                            "parent_id": "8a5506dd-0eb1-50ae-ba2e-3db1c23dc557",
                             "type": "action",
-                            "end_of_day": 26,
                             "title": "Overview of the technical training available to customer success managers to support customers better.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 26,
+                            "length_in_days": 1,
                             "action": "Learn about the technical training resources available for your role.",
                             "description": "Technical training is essential for customer success managers to effectively support customers with product-related inquiries. This training covers product functionalities, troubleshooting techniques, and best practices for customer engagement. By understanding the technical aspects of our products, you will enhance your ability to assist customers and resolve issues efficiently.\nBy mastering technical training resources, you will empower yourself to provide exceptional support and drive customer satisfaction.",
                             "content_instructions": {
@@ -657,17 +1057,29 @@
                     ]
                 },
                 {
-                    "id": "supporting_customers_with_technical_issues",
+                    "id": "b2161608-0fbf-53c6-ab51-1c753bc27fb8",
+                    "parent_id": "f69415b1-c2d6-535f-b4bf-10840b8648bc",
                     "type": "module",
                     "title": "Supporting Customers with Technical Issues",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 27,
+                    "length_in_days": 1,
+                    "action": "Review the protocols for addressing technical issues and escalation procedures.",
+                    "description": "Guidance on diagnosing technical problems and when to escalate to support teams.",
+                    "content_instructions": {
+                        "role": "professional Technical Support Specialist",
+                        "topic": "Learn how to support customers with basic technical issues and when to escalate."
+                    },
                     "icon": "logo_15",
                     "children": [
                         {
-                            "id": "learn_how_to_support_customers_with_basic_technical_issues_and_when_to_escalate",
+                            "id": "ae32a501-7274-5fdd-b637-17b0953cbb24",
+                            "parent_id": "b2161608-0fbf-53c6-ab51-1c753bc27fb8",
                             "type": "action",
-                            "end_of_day": 27,
                             "title": "Learn how to support customers with basic technical issues and when to escalate.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 27,
+                            "length_in_days": 1,
                             "action": "Review the protocols for addressing technical issues and escalation procedures.",
                             "description": "Supporting customers with technical issues is a critical aspect of the customer success role. This involves diagnosing problems, providing solutions, and knowing when to escalate issues to technical support teams. Understanding these protocols will empower you to assist customers effectively and ensure their needs are met.\nBy mastering the support process for technical issues, you will enhance your ability to provide timely and effective solutions, contributing to overall customer satisfaction.",
                             "content_instructions": {
@@ -681,24 +1093,45 @@
             ]
         },
         {
-            "id": "our_customer_support_process",
+            "id": "a73f42db-338b-59ee-a690-3fb5440c3c4a",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Our Customer Support Process",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 30,
-            "icon": "logo_46",
+            "length_in_days": 3,
+            "action": "Review the structure of our tiered support system and escalation procedures.",
+            "description": "Overview of our customer support process, including tiered support and escalation procedures.",
+            "content_instructions": {
+                "role": "professional Support Operations Manager",
+                "topic": "Understand how our tiered support system works and when to escalate customer issues."
+            },
+            "icon": "logo_26",
             "children": [
                 {
-                    "id": "tiered_support_systems",
+                    "id": "10ec1267-0012-5487-9556-0c37358a04cc",
+                    "parent_id": "a73f42db-338b-59ee-a690-3fb5440c3c4a",
                     "type": "module",
                     "title": "Tiered Support Systems",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 28,
+                    "length_in_days": 1,
+                    "action": "Review the structure of our tiered support system and escalation procedures.",
+                    "description": "Learn about the tiered support system and the process for escalating customer issues.",
+                    "content_instructions": {
+                        "role": "professional Support Operations Manager",
+                        "topic": "Understand how our tiered support system works and when to escalate customer issues."
+                    },
                     "icon": "logo_46",
                     "children": [
                         {
-                            "id": "understand_how_our_tiered_support_system_works_and_when_to_escalate_customer_issues",
+                            "id": "fb032657-7977-5cf4-a48e-bfccee2b0d39",
+                            "parent_id": "10ec1267-0012-5487-9556-0c37358a04cc",
                             "type": "action",
-                            "end_of_day": 28,
                             "title": "Understand how our tiered support system works and when to escalate customer issues.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 28,
+                            "length_in_days": 1,
                             "action": "Review the structure of our tiered support system and escalation procedures.",
                             "description": "Our tiered support system is designed to ensure that customer issues are addressed at the appropriate level of expertise. Understanding how this system works, including when to escalate issues, is crucial for providing efficient and effective support. This structure allows for timely resolutions and ensures that customers receive the best possible assistance.\nBy mastering the tiered support system, you will enhance your ability to navigate customer inquiries and ensure that issues are resolved promptly and effectively.",
                             "content_instructions": {
@@ -710,17 +1143,29 @@
                     ]
                 },
                 {
-                    "id": "escalation_processes_for_complex_issues",
+                    "id": "b7cd9b87-ea7c-525a-bf0c-17ee1edc06b4",
+                    "parent_id": "a73f42db-338b-59ee-a690-3fb5440c3c4a",
                     "type": "module",
                     "title": "Escalation Processes for Complex Issues",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 29,
+                    "length_in_days": 1,
+                    "action": "Review the escalation process for complex issues and identify key contacts.",
+                    "description": "Understand how to escalate complex technical issues to ensure timely resolutions.",
+                    "content_instructions": {
+                        "role": "professional Technical Escalation Specialist",
+                        "topic": "Learn the process for escalating complex technical issues to the appropriate teams."
+                    },
                     "icon": "logo_18",
                     "children": [
                         {
-                            "id": "learn_the_process_for_escalating_complex_technical_issues_to_the_appropriate_teams",
+                            "id": "d7c74d10-4dc5-502f-a869-731d9e486704",
+                            "parent_id": "b7cd9b87-ea7c-525a-bf0c-17ee1edc06b4",
                             "type": "action",
-                            "end_of_day": 29,
                             "title": "Learn the process for escalating complex technical issues to the appropriate teams.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 29,
+                            "length_in_days": 1,
                             "action": "Review the escalation process for complex issues and identify key contacts.",
                             "description": "Escalating complex technical issues is essential for ensuring that customers receive timely and effective resolutions. This process involves identifying the right teams to escalate to and understanding the protocols for communication. Knowing how to navigate this process will empower you to advocate for customers effectively.\nBy mastering the escalation processes for complex issues, you will enhance your ability to ensure that customer needs are addressed promptly and effectively.",
                             "content_instructions": {
@@ -732,17 +1177,29 @@
                     ]
                 },
                 {
-                    "id": "collaborating_with_support_teams",
+                    "id": "9d86527d-08c6-5e3e-96bf-f326a0431308",
+                    "parent_id": "a73f42db-338b-59ee-a690-3fb5440c3c4a",
                     "type": "module",
                     "title": "Collaborating with Support Teams",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 30,
+                    "length_in_days": 1,
+                    "action": "Learn about the collaboration processes between customer success and support teams.",
+                    "description": "Collaboration between customer success and support teams is vital for effective issue resolution.",
+                    "content_instructions": {
+                        "role": "professional Collaboration Specialist",
+                        "topic": "Overview of how customer success collaborates with support teams to resolve issues."
+                    },
                     "icon": "logo_12",
                     "children": [
                         {
-                            "id": "overview_of_how_customer_success_collaborates_with_support_teams_to_resolve_issues",
+                            "id": "05f1537b-29f9-5352-b031-1105a44daa0a",
+                            "parent_id": "9d86527d-08c6-5e3e-96bf-f326a0431308",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Overview of how customer success collaborates with support teams to resolve issues.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 30,
+                            "length_in_days": 1,
                             "action": "Learn about the collaboration processes between customer success and support teams.",
                             "description": "Collaboration between customer success and support teams is essential for resolving customer issues effectively. This involves sharing information, coordinating responses, and ensuring that customer feedback is communicated. Understanding these collaboration processes will empower you to advocate for customers and drive successful outcomes.\nBy mastering collaborative practices, you will enhance your ability to ensure that customer needs are met promptly and effectively, contributing to overall customer satisfaction.",
                             "content_instructions": {
@@ -756,24 +1213,45 @@
             ]
         },
         {
-            "id": "customer_success_metrics_and_kpis_at_our_company",
+            "id": "6f7e524a-3e2e-584f-8234-e12843c7ac1d",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Customer Success Metrics and KPIs at Our Company",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 31,
-            "icon": "logo_48",
+            "length_in_days": 1,
+            "action": "Review and analyze customer success metrics to enhance overall performance.",
+            "description": "Key metrics like NPS, churn rate, and CLV measure customer satisfaction and loyalty.",
+            "content_instructions": {
+                "role": "professional Customer Success Analyst",
+                "topic": "Explore key customer success metrics and their impact on business performance."
+            },
+            "icon": "logo_31",
             "children": [
                 {
-                    "id": "net_promoter_score_nps",
+                    "id": "34d5b48d-ac93-5212-9a83-524c49ee91b5",
+                    "parent_id": "6f7e524a-3e2e-584f-8234-e12843c7ac1d",
                     "type": "module",
                     "title": "Net Promoter Score (NPS)",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with NPS and its significance in customer success.",
+                    "description": "NPS measures customer satisfaction and loyalty through their likelihood to recommend products.",
+                    "content_instructions": {
+                        "role": "professional Customer Insights Analyst",
+                        "topic": "Learn about Net Promoter Score (NPS) and how it is used to measure customer satisfaction."
+                    },
                     "icon": "logo_48",
                     "children": [
                         {
-                            "id": "learn_about_net_promoter_score_nps_and_how_it_is_used_to_measure_customer_satisfaction",
+                            "id": "f320bb0f-ee2c-5e95-a603-d0b54a367f0e",
+                            "parent_id": "34d5b48d-ac93-5212-9a83-524c49ee91b5",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn about Net Promoter Score (NPS) and how it is used to measure customer satisfaction.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with NPS and its significance in customer success.",
                             "description": "Net Promoter Score (NPS) is a key metric used to gauge customer satisfaction and loyalty. It measures the likelihood of customers recommending our products to others. Understanding how NPS works and its implications will empower you to advocate for customer needs and drive improvements.\nBy mastering NPS, you will enhance your ability to track customer sentiment and contribute to strategies that improve customer satisfaction and retention.",
                             "content_instructions": {
@@ -785,17 +1263,29 @@
                     ]
                 },
                 {
-                    "id": "customer_churn_rate",
+                    "id": "8b1e66fd-f06c-5115-9490-1033c318f5d3",
+                    "parent_id": "6f7e524a-3e2e-584f-8234-e12843c7ac1d",
                     "type": "module",
                     "title": "Customer Churn Rate",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Review the metrics used to track churn and strategies for retention.",
+                    "description": "Customer churn rate indicates the percentage of customers who discontinue their relationship with the company.",
+                    "content_instructions": {
+                        "role": "professional Customer Retention Analyst",
+                        "topic": "Understand how customer churn is measured and what strategies can be used to reduce it."
+                    },
                     "icon": "logo_43",
                     "children": [
                         {
-                            "id": "understand_how_customer_churn_is_measured_and_what_strategies_can_be_used_to_reduce_it",
+                            "id": "8ba21676-a627-5c4a-9d71-8f0689e59118",
+                            "parent_id": "8b1e66fd-f06c-5115-9490-1033c318f5d3",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Understand how customer churn is measured and what strategies can be used to reduce it.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Review the metrics used to track churn and strategies for retention.",
                             "description": "Customer churn rate is a critical metric that indicates the percentage of customers who discontinue their relationship with our company. Understanding how to measure churn and identify its causes is essential for implementing effective retention strategies. By analyzing churn data, we can proactively address issues and enhance customer satisfaction.\nBy mastering churn rate analysis, you will enhance your ability to contribute to customer retention efforts and drive long-term value for both customers and the company.",
                             "content_instructions": {
@@ -807,17 +1297,29 @@
                     ]
                 },
                 {
-                    "id": "customer_lifetime_value_clv",
+                    "id": "faa5ef4e-66de-571d-bfa4-02da9715e238",
+                    "parent_id": "6f7e524a-3e2e-584f-8234-e12843c7ac1d",
                     "type": "module",
                     "title": "Customer Lifetime Value (CLV)",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Learn about CLV and its implications for customer success strategies.",
+                    "description": "CLV estimates total revenue from a customer over their relationship with the company.",
+                    "content_instructions": {
+                        "role": "professional Financial Analyst",
+                        "topic": "Overview of Customer Lifetime Value (CLV) and its importance in long-term planning"
+                    },
                     "icon": "logo_4",
                     "children": [
                         {
-                            "id": "overview_of_customer_lifetime_value_clv_and_its_importance_in_long_term_planning",
+                            "id": "b99d301e-d59a-5c75-8999-b2d0347623c7",
+                            "parent_id": "faa5ef4e-66de-571d-bfa4-02da9715e238",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Overview of Customer Lifetime Value (CLV) and its importance in long-term planning.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Learn about CLV and its implications for customer success strategies.",
                             "description": "Customer Lifetime Value (CLV) is a key metric that estimates the total revenue a customer will generate throughout their relationship with our company. Understanding CLV is crucial for developing effective customer success strategies and prioritizing high-value customers. By analyzing CLV, we can make informed decisions about resource allocation and customer engagement.\nBy mastering CLV analysis, you will enhance your ability to drive customer success initiatives and contribute to the long-term growth of our company.",
                             "content_instructions": {
@@ -831,24 +1333,45 @@
             ]
         },
         {
-            "id": "ongoing_learning_and_relationship_building_at_our_company",
+            "id": "c58e5542-c28b-51b3-bd52-7d463c569793",
+            "parent_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "type": "section",
             "title": "Ongoing Learning and Relationship Building at Our Company",
+            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
             "end_of_day": 31,
-            "icon": "logo_19",
+            "length_in_days": 1,
+            "action": "Explore the learning resources and networking opportunities available.",
+            "description": "Focus on continuous learning and networking to enhance customer success management skills.",
+            "content_instructions": {
+                "role": "professional Customer Success Consultant",
+                "topic": "Learn about industry best practices for customer success management"
+            },
+            "icon": "logo_16",
             "children": [
                 {
-                    "id": "industry_best_practices_for_customer_success",
+                    "id": "11cdaea4-aad0-5b7e-9961-e0b9f6c1390e",
+                    "parent_id": "c58e5542-c28b-51b3-bd52-7d463c569793",
                     "type": "module",
                     "title": "Industry Best Practices for Customer Success",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Explore the best practices and trends in customer success management.",
+                    "description": "Understanding best practices in customer success management enhances strategies and relationships.",
+                    "content_instructions": {
+                        "role": "professional Customer Success Consultant",
+                        "topic": "Learn about industry best practices for customer success management"
+                    },
                     "icon": "logo_19",
                     "children": [
                         {
-                            "id": "learn_about_industry_best_practices_for_customer_success_management",
+                            "id": "26d58854-ce09-5d4d-9904-135c5139ba2d",
+                            "parent_id": "11cdaea4-aad0-5b7e-9961-e0b9f6c1390e",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn about industry best practices for customer success management.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Explore the best practices and trends in customer success management.",
                             "description": "Staying informed about industry best practices is crucial for effective customer success management. This involves understanding the latest trends, strategies, and tools that can enhance customer relationships and drive success. By familiarizing yourself with these best practices, you will be better equipped to implement effective customer success strategies.\nBy mastering industry best practices, you will enhance your ability to contribute to our customer success initiatives and ensure that we remain competitive in the market.",
                             "content_instructions": {
@@ -860,17 +1383,29 @@
                     ]
                 },
                 {
-                    "id": "networking_and_customer_success_communities",
+                    "id": "605ed5bf-9b58-597b-9fe5-8743db41113d",
+                    "parent_id": "c58e5542-c28b-51b3-bd52-7d463c569793",
                     "type": "module",
                     "title": "Networking and Customer Success Communities",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Explore opportunities for networking within customer success communities.",
+                    "description": "Networking with customer success professionals enhances insights and industry knowledge.",
+                    "content_instructions": {
+                        "role": "professional Community Manager",
+                        "topic": "Understand how to network and engage with customer success communities to stay updated."
+                    },
                     "icon": "logo_36",
                     "children": [
                         {
-                            "id": "understand_how_to_network_and_engage_with_customer_success_communities_to_stay_updated",
+                            "id": "e9c906aa-f663-510b-b9a6-24d5f23bf37c",
+                            "parent_id": "605ed5bf-9b58-597b-9fe5-8743db41113d",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Understand how to network and engage with customer success communities to stay updated.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Explore opportunities for networking within customer success communities.",
                             "description": "Networking with customer success professionals is essential for sharing insights, learning from others, and staying updated on industry trends. Engaging with customer success communities allows you to build relationships, share experiences, and gain valuable knowledge that can enhance your practice. By actively participating in these communities, you will expand your professional network and enhance your skills.\nBy mastering networking strategies, you will enhance your ability to contribute to our customer success initiatives and drive personal and professional growth.",
                             "content_instructions": {
@@ -882,17 +1417,29 @@
                     ]
                 },
                 {
-                    "id": "continuous_learning_resources",
+                    "id": "dc2604f8-896c-5888-80be-d9c91ec0f676",
+                    "parent_id": "c58e5542-c28b-51b3-bd52-7d463c569793",
                     "type": "module",
                     "title": "Continuous Learning Resources",
+                    "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Explore the learning resources and training opportunities available.",
+                    "description": "Resources for ongoing development include online courses, workshops, and industry publications.",
+                    "content_instructions": {
+                        "role": "professional Learning and Development Coordinator",
+                        "topic": "Overview of the learning resources available to customer success managers for continuous development."
+                    },
                     "icon": "logo_22",
                     "children": [
                         {
-                            "id": "overview_of_the_learning_resources_available_to_customer_success_managers_for_continuous_development",
+                            "id": "46e53f3c-a696-50c9-b54c-1be16e9b029d",
+                            "parent_id": "dc2604f8-896c-5888-80be-d9c91ec0f676",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Overview of the learning resources available to customer success managers for continuous development.",
+                            "root_id": "2e48a8d8-acfb-54f5-aca3-89609e9981ad",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Explore the learning resources and training opportunities available.",
                             "description": "Continuous learning is vital for personal and professional growth in customer success management. Our company provides various resources, including online courses, workshops, and industry publications, to support your ongoing development. Understanding how to leverage these resources will empower you to stay updated and continuously improve your skills.\nBy mastering continuous learning strategies, you will enhance your ability to contribute to our customer success initiatives and ensure that you remain at the forefront of the industry.",
                             "content_instructions": {

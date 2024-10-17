@@ -1,29 +1,57 @@
 {
-    "id": "software_engineer",
+    "id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
     "type": "journey",
     "title": "Software Engineer",
     "end_of_day": 31,
-    "icon": "logo_1",
+    "length_in_days": 31,
+    "action": "Familiarize yourself with the tools, practices, and processes relevant to your role.",
+    "description": "Overview of responsibilities, collaboration, and tools used by software engineers.",
+    "content_instructions": {
+        "role": "professional software engineer",
+        "topic": "Overview of main repositories and folder structures and best practices for navigating and searching within our codebase."
+    },
+    "icon": "logo_3",
     "children": [
         {
-            "id": "introduction_to_the_company_team",
+            "id": "8b54a4d3-e96d-5f44-81e4-edb58ef401c2",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Introduction to the Company & Team",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 3,
+            "length_in_days": 3,
+            "action": "Review the company's core values, meet the leadership team, and understand team roles.",
+            "description": "Overview of company values, leadership roles, and team structure to enhance collaboration and alignment.",
+            "content_instructions": {
+                "role": "professional HR manager",
+                "topic": "Introduction to the company's core values, leadership team, and team structure."
+            },
             "icon": "logo_1",
             "children": [
                 {
-                    "id": "company_values_and_mission",
+                    "id": "73e830da-e28b-5fa9-b927-4887e4f107c0",
+                    "parent_id": "8b54a4d3-e96d-5f44-81e4-edb58ef401c2",
                     "type": "module",
                     "title": "Company Values and Mission",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 1,
+                    "length_in_days": 1,
+                    "action": "Review the company's core values and mission to understand their impact on decision-making and team objectives.",
+                    "description": "Core values guide decision-making and align with the company's mission to achieve strategic goals.",
+                    "content_instructions": {
+                        "role": "professional HR manager",
+                        "topic": "Understand our company's core values and how they impact decision-making."
+                    },
                     "icon": "logo_1",
                     "children": [
                         {
-                            "id": "understand_our_company_s_core_values_and_how_they_impact_decision_making",
+                            "id": "ce236aa5-d076-5fe3-aaac-5bd354d5c5c3",
+                            "parent_id": "73e830da-e28b-5fa9-b927-4887e4f107c0",
                             "type": "action",
-                            "end_of_day": 1,
                             "title": "Understand our company's core values and how they impact decision-making.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 1,
+                            "length_in_days": 1,
                             "action": "Review the company's core values and analyze how they guide decision-making in various scenarios.",
                             "description": "Our company's core values serve as the foundation for our decision-making processes. They guide how we operate, ensuring that every decision aligns with our long-term goals and ethical principles. Employees are expected to embody these values in their daily work, influencing everything from strategic initiatives to routine tasks.\nThe alignment of personal values with our company's core principles fosters a cohesive and productive working environment. It's essential to understand these values deeply as they will guide not only your work but also how you collaborate with your team and approach problem-solving.",
                             "content_instructions": {
@@ -33,10 +61,13 @@
                             "icon": "logo_1"
                         },
                         {
-                            "id": "learn_about_our_mission_and_its_alignment_with_team_goals",
+                            "id": "3ae0c49c-8f67-5b9e-849d-c6c9c53cfddb",
+                            "parent_id": "73e830da-e28b-5fa9-b927-4887e4f107c0",
                             "type": "action",
-                            "end_of_day": 1,
                             "title": "Learn about our mission and its alignment with team goals.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 1,
+                            "length_in_days": 1,
                             "action": "Explore the company's mission and understand how it aligns with your team's goals.",
                             "description": "The company's mission is a guiding statement that outlines our purpose and strategic direction. It not only sets the tone for how we operate but also emphasizes our long-term vision. Understanding the company's mission helps you see the bigger picture and how your role contributes to achieving broader objectives.\nIn addition, aligning the mission with your team's goals ensures that every team member is moving in the same direction, focused on driving results that support the overall business strategy. By internalizing this alignment, you will better understand your role within the team and how your contributions impact both short-term and long-term objectives.",
                             "content_instructions": {
@@ -48,17 +79,29 @@
                     ]
                 },
                 {
-                    "id": "meet_the_leadership_team",
+                    "id": "001d6056-b5e3-5c7f-b25d-cf5b13df4aa5",
+                    "parent_id": "8b54a4d3-e96d-5f44-81e4-edb58ef401c2",
                     "type": "module",
                     "title": "Meet the Leadership Team",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 2,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the leadership team and understand their areas of responsibility.",
+                    "description": "Overview of leadership roles and their impact on company operations and decision-making.",
+                    "content_instructions": {
+                        "role": "professional organizational strategist",
+                        "topic": "Introduction to key leadership members and their roles."
+                    },
                     "icon": "logo_2",
                     "children": [
                         {
-                            "id": "introduction_to_key_leadership_members_and_their_roles",
+                            "id": "eb9dbf19-60b4-5cbe-b133-537d2a373a7b",
+                            "parent_id": "001d6056-b5e3-5c7f-b25d-cf5b13df4aa5",
                             "type": "action",
-                            "end_of_day": 2,
                             "title": "Introduction to key leadership members and their roles.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 2,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the leadership team and understand their areas of responsibility.",
                             "description": "The leadership team plays a critical role in shaping the strategic direction of the company. Each leader brings unique expertise and oversees various departments to ensure smooth operations and alignment with business goals. By understanding the roles and responsibilities of each leader, you will gain a deeper insight into how decisions are made and how the company functions at a high level.\nThis introduction to the leadership team will also give you the opportunity to identify the key stakeholders in your work and understand their expectations. Knowing who to approach for guidance and support will make it easier for you to navigate your responsibilities.",
                             "content_instructions": {
@@ -68,10 +111,13 @@
                             "icon": "logo_2"
                         },
                         {
-                            "id": "schedule_a_meet_and_greet_session_with_your_department_head",
+                            "id": "c55cefcc-01e2-5321-b0b6-a67d2de1e649",
+                            "parent_id": "001d6056-b5e3-5c7f-b25d-cf5b13df4aa5",
                             "type": "action",
-                            "end_of_day": 2,
                             "title": "Schedule a meet-and-greet session with your department head.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 2,
+                            "length_in_days": 1,
                             "action": "Coordinate with your department head to schedule an introductory meeting.",
                             "description": "Meeting with your department head early on is crucial to establishing a strong working relationship. In this session, you will get to know each other, discuss your role and how it fits within the department, and set initial expectations for your work. This interaction will also give you the opportunity to ask any questions you may have about your responsibilities and the department's goals.\nA successful meet-and-greet will lay the foundation for open communication and collaboration. Building this relationship early on will also give you a clearer understanding of how your work contributes to the broader departmental objectives.",
                             "content_instructions": {
@@ -83,17 +129,29 @@
                     ]
                 },
                 {
-                    "id": "team_structure_and_roles",
+                    "id": "c644423c-fa80-5bb9-a608-60e16146fbc2",
+                    "parent_id": "8b54a4d3-e96d-5f44-81e4-edb58ef401c2",
                     "type": "module",
                     "title": "Team Structure and Roles",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 3,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with each team member's responsibilities and identify potential collaborators.",
+                    "description": "Understanding team roles and responsibilities enhances collaboration and project success.",
+                    "content_instructions": {
+                        "role": "professional operations manager",
+                        "topic": "Learn about individual responsibilities and key collaborators"
+                    },
                     "icon": "logo_3",
                     "children": [
                         {
-                            "id": "overview_of_the_team_s_organizational_structure",
+                            "id": "e02b71ea-6286-587c-b59c-2c720204f5d5",
+                            "parent_id": "c644423c-fa80-5bb9-a608-60e16146fbc2",
                             "type": "action",
-                            "end_of_day": 3,
                             "title": "Overview of the team's organizational structure.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 3,
+                            "length_in_days": 1,
                             "action": "Review the team's structure and identify key team members and their roles.",
                             "description": "Our team's organizational structure is designed to promote collaboration and efficiency. Each member has a specific role that supports the overall goals of the team. Understanding this structure is key to navigating your work environment and knowing whom to approach for help or collaboration.\nBy familiarizing yourself with the structure early on, you will also understand how tasks and responsibilities are distributed. This knowledge will help you efficiently manage your workload and communicate effectively with your peers.",
                             "content_instructions": {
@@ -103,10 +161,13 @@
                             "icon": "logo_3"
                         },
                         {
-                            "id": "learn_about_individual_responsibilities_and_key_collaborators",
+                            "id": "c09c428d-6997-5f3c-8d5b-a5e702a21cac",
+                            "parent_id": "c644423c-fa80-5bb9-a608-60e16146fbc2",
                             "type": "action",
-                            "end_of_day": 3,
                             "title": "Learn about individual responsibilities and key collaborators.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 3,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with each team member's responsibilities and identify potential collaborators.",
                             "description": "Each team member plays a vital role in the success of our projects. Knowing who is responsible for what tasks will allow you to coordinate and collaborate more effectively. As a new team member, understanding the flow of responsibilities will help you integrate smoothly into ongoing projects.\nIn addition, identifying key collaborators within the team will enable you to build relationships with individuals who are crucial to your success in your role. Whether it's a peer in a similar position or someone in a cross-functional role, these connections will support your growth and productivity within the company.",
                             "content_instructions": {
@@ -120,24 +181,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_product_development_lifecycle",
+            "id": "1c196b1e-db4b-54d5-9333-cc8eac8ce3cc",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Familiarize with Our Product Development Lifecycle",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 6,
-            "icon": "logo_4",
+            "length_in_days": 3,
+            "action": "Familiarize yourself with each phase of the product development lifecycle, from ideation to final deployment.",
+            "description": "Overview of the product development lifecycle from ideation to deployment, highlighting team collaboration.",
+            "content_instructions": {
+                "role": "professional software architect",
+                "topic": "Learn the different phases involved from ideation to deployment."
+            },
+            "icon": "logo_5",
             "children": [
                 {
-                    "id": "product_roadmap_overview",
+                    "id": "a05fec9f-c557-5f10-af80-b2abaf0f0577",
+                    "parent_id": "1c196b1e-db4b-54d5-9333-cc8eac8ce3cc",
                     "type": "module",
                     "title": "Product Roadmap Overview",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 4,
+                    "length_in_days": 1,
+                    "action": "Review the current product roadmap and familiarize yourself with upcoming features and projects.",
+                    "description": "Overview of product development priorities and future direction.",
+                    "content_instructions": {
+                        "role": "professional product manager",
+                        "topic": "Understand the current and upcoming product roadmap"
+                    },
                     "icon": "logo_4",
                     "children": [
                         {
-                            "id": "understand_the_current_and_upcoming_product_roadmap",
+                            "id": "d98b5e02-5e5c-565b-a209-f6244b7e4df5",
+                            "parent_id": "a05fec9f-c557-5f10-af80-b2abaf0f0577",
                             "type": "action",
-                            "end_of_day": 4,
                             "title": "Understand the current and upcoming product roadmap.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 4,
+                            "length_in_days": 1,
                             "action": "Review the current product roadmap and familiarize yourself with upcoming features and projects.",
                             "description": "The product roadmap provides a high-level overview of our development priorities and the direction of our product over time. By understanding the roadmap, you will gain insight into the long-term vision for the product and how current development efforts align with future goals.\nThis roadmap is not static; it evolves based on market needs, customer feedback, and internal priorities. Familiarizing yourself with the roadmap will help you see how your work fits into the larger strategy, and allow you to better plan and prioritize your tasks in alignment with the company's goals.",
                             "content_instructions": {
@@ -149,17 +231,29 @@
                     ]
                 },
                 {
-                    "id": "feature_development_phases",
+                    "id": "088a6f46-378f-5658-a881-fcc83b80477d",
+                    "parent_id": "1c196b1e-db4b-54d5-9333-cc8eac8ce3cc",
                     "type": "module",
                     "title": "Feature Development Phases",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 5,
+                    "length_in_days": 1,
+                    "action": "Understand the iterative development cycle and the collaborative process of feature prioritization.",
+                    "description": "An overview of the iterative development cycle and how features are prioritized for effective delivery.",
+                    "content_instructions": {
+                        "role": "professional engineering manager",
+                        "topic": "Introduction to our iterative development cycle and feature prioritization."
+                    },
                     "icon": "logo_5",
                     "children": [
                         {
-                            "id": "introduction_to_our_iterative_development_cycle_and_feature_prioritization",
+                            "id": "474f1360-8700-596c-9bf4-f39ccb4f22a4",
+                            "parent_id": "088a6f46-378f-5658-a881-fcc83b80477d",
                             "type": "action",
-                            "end_of_day": 4,
                             "title": "Introduction to our iterative development cycle and feature prioritization.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 4,
+                            "length_in_days": 1,
                             "action": "Learn the steps in our development cycle and how features are prioritized for development.",
                             "description": "Our development process is built on an iterative cycle, where features are continuously improved and refined based on feedback and testing. Prioritizing features is a collaborative effort that involves input from multiple teams, including product, engineering, and QA.\nUnderstanding how we prioritize features is crucial to knowing where to focus your efforts. It will also help you communicate effectively with cross-functional teams, ensuring that your work aligns with overall product objectives and that key features are delivered on time and with high quality.",
                             "content_instructions": {
@@ -169,10 +263,13 @@
                             "icon": "logo_5"
                         },
                         {
-                            "id": "learn_the_different_phases_involved_from_ideation_to_deployment",
+                            "id": "655982d3-6993-5062-8919-9b96fb29c0a5",
+                            "parent_id": "088a6f46-378f-5658-a881-fcc83b80477d",
                             "type": "action",
-                            "end_of_day": 5,
                             "title": "Learn the different phases involved from ideation to deployment.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 5,
+                            "length_in_days": 2,
                             "action": "Familiarize yourself with each phase of the product development lifecycle, from ideation to final deployment.",
                             "description": "Our development lifecycle begins with ideation, where initial concepts are generated and evaluated based on business goals and customer needs. This phase is followed by design, development, testing, and deployment. Each phase is critical in ensuring that the final product meets quality standards and is delivered on time.\nAs a software engineer, you will be involved in multiple stages of this process. Understanding the full lifecycle will help you contribute effectively at every phase, from early planning to the final deployment of new features. Additionally, it will allow you to anticipate potential challenges and collaborate with other teams to resolve issues as they arise.",
                             "content_instructions": {
@@ -184,17 +281,29 @@
                     ]
                 },
                 {
-                    "id": "collaboration_across_teams",
+                    "id": "8c578bd3-a62c-5b23-be33-6dd7e13f567e",
+                    "parent_id": "1c196b1e-db4b-54d5-9333-cc8eac8ce3cc",
                     "type": "module",
                     "title": "Collaboration Across Teams",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 6,
+                    "length_in_days": 1,
+                    "action": "Explore the collaboration dynamics between different teams and their roles in the product lifecycle.",
+                    "description": "Collaboration among product, engineering, and QA teams is crucial for project success.",
+                    "content_instructions": {
+                        "role": "professional project manager",
+                        "topic": "Understand the dynamics between product, engineering, and QA teams."
+                    },
                     "icon": "logo_6",
                     "children": [
                         {
-                            "id": "understand_the_dynamics_between_product_engineering_and_qa_teams",
+                            "id": "fda96eda-091e-575a-8ab7-5bfb9e5bed3b",
+                            "parent_id": "8c578bd3-a62c-5b23-be33-6dd7e13f567e",
                             "type": "action",
-                            "end_of_day": 6,
                             "title": "Understand the dynamics between product, engineering, and QA teams.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 6,
+                            "length_in_days": 1,
                             "action": "Explore the collaboration dynamics between different teams and their roles in the product lifecycle.",
                             "description": "Collaboration between product, engineering, and QA teams is vital for the success of any project. Each team brings a unique perspective and expertise that contributes to building a successful product. Product teams focus on customer needs and market trends, while engineering teams concentrate on implementing solutions, and QA teams ensure that the final product meets quality standards.\nBy understanding how these teams interact and rely on each other, you will be better equipped to navigate the collaborative landscape of our organization. Effective communication and collaboration across these functions are essential for meeting deadlines and delivering high-quality products.",
                             "content_instructions": {
@@ -204,10 +313,13 @@
                             "icon": "logo_6"
                         },
                         {
-                            "id": "overview_of_the_tools_used_for_cross_functional_collaboration",
+                            "id": "9b6a0d5f-6794-5763-91bd-7c2d6176e4b0",
+                            "parent_id": "8c578bd3-a62c-5b23-be33-6dd7e13f567e",
                             "type": "action",
-                            "end_of_day": 6,
                             "title": "Overview of the tools used for cross-functional collaboration.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 6,
+                            "length_in_days": 1,
                             "action": "Learn about the tools and platforms we use for collaboration between teams.",
                             "description": "To facilitate effective collaboration across teams, we utilize various tools and platforms that enhance communication and project management. These tools include project management software, messaging apps, and documentation platforms that allow for real-time collaboration and information sharing.\nFamiliarizing yourself with these tools will help you engage effectively with your colleagues, streamline workflows, and ensure that everyone is on the same page regarding project progress and updates. Mastering these tools early on will significantly enhance your productivity and collaboration with cross-functional teams.",
                             "content_instructions": {
@@ -221,24 +333,45 @@
             ]
         },
         {
-            "id": "overview_of_our_tech_stack",
+            "id": "1c86d485-20f5-5e6e-9c0a-054144288e35",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Overview of Our Tech Stack",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 8,
-            "icon": "logo_7",
+            "length_in_days": 2,
+            "action": "Review the key technologies used in our projects and understand their roles.",
+            "description": "An overview of the technologies that shape our product development.",
+            "content_instructions": {
+                "role": "professional software developer",
+                "topic": "Familiarize yourself with the primary languages, frameworks, and libraries we use."
+            },
+            "icon": "logo_3",
             "children": [
                 {
-                    "id": "key_technologies_we_use",
+                    "id": "ef60739d-9b90-54d0-8646-3454184e628e",
+                    "parent_id": "1c86d485-20f5-5e6e-9c0a-054144288e35",
                     "type": "module",
                     "title": "Key Technologies We Use",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 7,
+                    "length_in_days": 1,
+                    "action": "Review the key technologies used in our projects and understand their roles.",
+                    "description": "Understanding our tech stack helps in product development and personal growth.",
+                    "content_instructions": {
+                        "role": "professional software developer",
+                        "topic": "Familiarize yourself with the primary languages, frameworks, and libraries we use."
+                    },
                     "icon": "logo_7",
                     "children": [
                         {
-                            "id": "familiarize_yourself_with_the_primary_languages_frameworks_and_libraries_we_use",
+                            "id": "3c848668-a1c5-503f-a70e-d29158726a99",
+                            "parent_id": "ef60739d-9b90-54d0-8646-3454184e628e",
                             "type": "action",
-                            "end_of_day": 7,
                             "title": "Familiarize yourself with the primary languages, frameworks, and libraries we use.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 7,
+                            "length_in_days": 1,
                             "action": "Review the key technologies used in our projects and understand their roles.",
                             "description": "Our tech stack comprises a range of programming languages, frameworks, and libraries that we utilize to build our products. Each technology is chosen for its specific strengths and how it aligns with our project needs. Understanding these technologies will provide you with insight into how our products are built and how you can contribute effectively.\nFamiliarizing yourself with the tech stack not only prepares you for the work ahead but also helps you identify areas for your own growth and learning. As you engage with these technologies, you will be better equipped to collaborate with your team and contribute to the development of our products.",
                             "content_instructions": {
@@ -250,17 +383,29 @@
                     ]
                 },
                 {
-                    "id": "language_and_framework_preferences",
+                    "id": "6d8c4b4d-b334-5a1b-8b49-5e739a600c61",
+                    "parent_id": "1c86d485-20f5-5e6e-9c0a-054144288e35",
                     "type": "module",
                     "title": "Language and Framework Preferences",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 8,
+                    "length_in_days": 1,
+                    "action": "Learn about the reasoning behind our language and framework choices.",
+                    "description": "Choosing programming languages and frameworks impacts project success based on various factors.",
+                    "content_instructions": {
+                        "role": "professional tech lead",
+                        "topic": "Understand why we choose certain languages and frameworks for specific projects."
+                    },
                     "icon": "logo_10",
                     "children": [
                         {
-                            "id": "understand_why_we_choose_certain_languages_and_frameworks_for_specific_projects",
+                            "id": "d021a473-5112-5b8a-b86d-5bc914c7b0be",
+                            "parent_id": "6d8c4b4d-b334-5a1b-8b49-5e739a600c61",
                             "type": "action",
-                            "end_of_day": 8,
                             "title": "Understand why we choose certain languages and frameworks for specific projects.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 8,
+                            "length_in_days": 1,
                             "action": "Learn about the reasoning behind our language and framework choices.",
                             "description": "The choice of programming languages and frameworks can significantly impact the success of a project. Our selection process considers factors such as performance, scalability, community support, and how well the technology aligns with our project requirements. Understanding these preferences will give you insights into our development philosophy and the rationale behind technology decisions.\nBy familiarizing yourself with these preferences, you can better align your work with the company's development practices and make informed decisions in your own projects. This understanding also fosters discussions with your peers about potential improvements and innovations.",
                             "content_instructions": {
@@ -272,17 +417,29 @@
                     ]
                 },
                 {
-                    "id": "integrations_and_apis",
+                    "id": "deb8fd93-d110-5f67-8223-57e6162b1313",
+                    "parent_id": "1c86d485-20f5-5e6e-9c0a-054144288e35",
                     "type": "module",
                     "title": "Integrations and APIs",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 8,
+                    "length_in_days": 1,
+                    "action": "Explore the APIs and integrations that enhance our product capabilities.",
+                    "description": "APIs and integrations enhance product functionality by enabling communication with external services and data.",
+                    "content_instructions": {
+                        "role": "professional systems architect",
+                        "topic": "Learn about the APIs and integrations critical to our product functionality."
+                    },
                     "icon": "logo_18",
                     "children": [
                         {
-                            "id": "learn_about_the_apis_and_integrations_critical_to_our_product_functionality",
+                            "id": "912cae52-0295-5dd2-bcbe-5f2a49fcb3ad",
+                            "parent_id": "deb8fd93-d110-5f67-8223-57e6162b1313",
                             "type": "action",
-                            "end_of_day": 8,
                             "title": "Learn about the APIs and integrations critical to our product functionality.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 8,
+                            "length_in_days": 1,
                             "action": "Explore the APIs and integrations that enhance our product capabilities.",
                             "description": "APIs and integrations play a crucial role in extending the functionality of our products. They allow our systems to communicate with other software, enabling us to leverage external services and data effectively. Understanding the APIs we use will help you see how they fit into our product architecture and enhance overall functionality.\nFamiliarity with our integrations will also help you understand how to troubleshoot issues, optimize performance, and identify opportunities for future enhancements. This knowledge is essential for contributing to the development and maintenance of our products.",
                             "content_instructions": {
@@ -296,24 +453,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_codebase",
+            "id": "0310ac3b-89a4-5ec1-9cda-7cb383c71c0a",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Familiarize with Our Codebase",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 10,
+            "length_in_days": 2,
+            "action": "Review the structure of our code repositories and practice using our code navigation tools.",
+            "description": "Understand the organization of repositories and learn navigation best practices for improved productivity.",
+            "content_instructions": {
+                "role": "professional software engineer",
+                "topic": "Overview of main repositories and folder structures and best practices for navigating and searching within our codebase."
+            },
             "icon": "logo_8",
             "children": [
                 {
-                    "id": "key_repositories_and_code_structure",
+                    "id": "c1ab4c06-5f82-5ff1-9a68-e2882cdc360e",
+                    "parent_id": "0310ac3b-89a4-5ec1-9cda-7cb383c71c0a",
                     "type": "module",
                     "title": "Key Repositories and Code Structure",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 9,
+                    "length_in_days": 1,
+                    "action": "Review the structure of our code repositories and understand their organization.",
+                    "description": "Overview of codebase organization and its importance for navigation and collaboration.",
+                    "content_instructions": {
+                        "role": "professional software engineer",
+                        "topic": "Overview of main repositories and folder structures"
+                    },
                     "icon": "logo_8",
                     "children": [
                         {
-                            "id": "overview_of_main_repositories_and_folder_structures",
+                            "id": "beef04ad-cba4-559e-b537-2e429859ffbc",
+                            "parent_id": "c1ab4c06-5f82-5ff1-9a68-e2882cdc360e",
                             "type": "action",
-                            "end_of_day": 9,
                             "title": "Overview of main repositories and folder structures.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 9,
+                            "length_in_days": 1,
                             "action": "Review the structure of our code repositories and understand their organization.",
                             "description": "Our codebase is organized into various repositories, each serving different aspects of our products. Understanding the folder structure and organization of these repositories is essential for effective navigation and efficient coding practices. This organization facilitates collaboration and helps teams work together seamlessly.\nBy familiarizing yourself with the code structure, you will find it easier to locate files, understand the flow of the application, and contribute effectively to ongoing projects. This knowledge is crucial for your success as a developer in our team.",
                             "content_instructions": {
@@ -325,17 +503,29 @@
                     ]
                 },
                 {
-                    "id": "code_navigation_and_search",
+                    "id": "0f36c13c-9f97-5df9-8170-dca794e0a53a",
+                    "parent_id": "0310ac3b-89a4-5ec1-9cda-7cb383c71c0a",
                     "type": "module",
                     "title": "Code Navigation and Search",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 10,
+                    "length_in_days": 1,
+                    "action": "Practice using our code navigation tools and techniques to find relevant information.",
+                    "description": "Best practices for navigating and searching within a codebase to improve productivity.",
+                    "content_instructions": {
+                        "role": "professional software development trainer",
+                        "topic": "Learn the best practices for navigating and searching within our codebase."
+                    },
                     "icon": "logo_11",
                     "children": [
                         {
-                            "id": "learn_the_best_practices_for_navigating_and_searching_within_our_codebase",
+                            "id": "dde3f88f-db08-526f-9381-9cf19c922207",
+                            "parent_id": "0f36c13c-9f97-5df9-8170-dca794e0a53a",
                             "type": "action",
-                            "end_of_day": 10,
                             "title": "Learn the best practices for navigating and searching within our codebase.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 10,
+                            "length_in_days": 1,
                             "action": "Practice using our code navigation tools and techniques to find relevant information.",
                             "description": "Navigating a codebase efficiently is crucial for productivity. Our codebase offers various tools and techniques for searching and navigating code effectively. Familiarizing yourself with these tools will save you time and help you quickly locate the information you need.\nBest practices include using search functionalities, understanding naming conventions, and knowing where to find documentation. Mastering these practices will enable you to contribute more effectively to projects and enhance your coding efficiency.",
                             "content_instructions": {
@@ -349,24 +539,45 @@
             ]
         },
         {
-            "id": "introduction_to_our_development_tools_and_environments",
+            "id": "bffc95cc-fb71-5935-a8df-de9dd3f2710f",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Introduction to Our Development Tools and Environments",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 12,
-            "icon": "logo_9",
+            "length_in_days": 2,
+            "action": "Explore the tools and environments to enhance your development experience.",
+            "description": "An overview of tools and environments essential for software development and quality assurance.",
+            "content_instructions": {
+                "role": "professional IT support specialist",
+                "topic": "Overview of development tools and environments for effective software development."
+            },
+            "icon": "logo_5",
             "children": [
                 {
-                    "id": "local_development_setup",
+                    "id": "501704da-2031-5ce6-a24b-829973c8b17e",
+                    "parent_id": "bffc95cc-fb71-5935-a8df-de9dd3f2710f",
                     "type": "module",
                     "title": "Local Development Setup",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 11,
+                    "length_in_days": 1,
+                    "action": "Follow the guidelines to configure your local development environment.",
+                    "description": "Instructions for configuring your local development environment to enhance productivity and avoid issues.",
+                    "content_instructions": {
+                        "role": "professional IT support specialist",
+                        "topic": "Guide to setting up your local development environment"
+                    },
                     "icon": "logo_9",
                     "children": [
                         {
-                            "id": "guide_to_setting_up_your_local_development_environment",
+                            "id": "1b310b83-052e-54f5-9020-766295ef78af",
+                            "parent_id": "501704da-2031-5ce6-a24b-829973c8b17e",
                             "type": "action",
-                            "end_of_day": 11,
                             "title": "Guide to setting up your local development environment.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 11,
+                            "length_in_days": 1,
                             "action": "Follow the guidelines to configure your local development environment.",
                             "description": "Setting up your local development environment is a critical step in your onboarding process. This setup allows you to start coding and testing new features effectively. Our guide provides step-by-step instructions on how to install necessary software, configure your system, and ensure that you have access to the required resources.\nHaving a well-configured local environment enhances your productivity and minimizes disruptions as you begin working on projects. It's important to follow these guidelines closely to ensure compatibility with our codebase and avoid common pitfalls.",
                             "content_instructions": {
@@ -378,17 +589,29 @@
                     ]
                 },
                 {
-                    "id": "development_ides_and_extensions",
+                    "id": "6d7ffdfd-90d0-5622-9f5f-267a22b84df1",
+                    "parent_id": "bffc95cc-fb71-5935-a8df-de9dd3f2710f",
                     "type": "module",
                     "title": "Development IDEs and Extensions",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 12,
+                    "length_in_days": 1,
+                    "action": "Explore and install the recommended IDEs and extensions for development.",
+                    "description": "Recommended IDEs and extensions enhance coding, debugging, and collaboration for developers.",
+                    "content_instructions": {
+                        "role": "professional software tools consultant",
+                        "topic": "Recommended IDEs and productivity-boosting extensions we use"
+                    },
                     "icon": "logo_22",
                     "children": [
                         {
-                            "id": "recommended_ides_and_productivity_boosting_extensions_we_use",
+                            "id": "4ec14b11-dbf1-5f8c-91aa-6a0f2cd21c70",
+                            "parent_id": "6d7ffdfd-90d0-5622-9f5f-267a22b84df1",
                             "type": "action",
-                            "end_of_day": 12,
                             "title": "Recommended IDEs and productivity-boosting extensions we use.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 12,
+                            "length_in_days": 1,
                             "action": "Explore and install the recommended IDEs and extensions for development.",
                             "description": "Using the right Integrated Development Environment (IDE) and extensions can significantly boost your productivity. Our recommended IDEs come with features that streamline coding, debugging, and collaboration. Additionally, we have a set of extensions that enhance functionality and make development easier.\nBy familiarizing yourself with these tools, you will be better equipped to write, test, and debug your code efficiently. Installing and configuring these IDEs and extensions is an essential part of getting started with your development tasks.",
                             "content_instructions": {
@@ -400,17 +623,29 @@
                     ]
                 },
                 {
-                    "id": "testing_environments",
+                    "id": "c7884cb8-ce5d-50ba-ade9-60a9f879b1d0",
+                    "parent_id": "bffc95cc-fb71-5935-a8df-de9dd3f2710f",
                     "type": "module",
                     "title": "Testing Environments",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 12,
+                    "length_in_days": 1,
+                    "action": "Learn about the different testing environments and their purposes.",
+                    "description": "Overview of testing environments and their role in product quality assurance.",
+                    "content_instructions": {
+                        "role": "professional QA lead",
+                        "topic": "Introduction to the various testing environments available and how to access them."
+                    },
                     "icon": "logo_15",
                     "children": [
                         {
-                            "id": "introduction_to_the_various_testing_environments_available_and_how_to_access_them",
+                            "id": "c4da9909-ac3b-559d-ab5a-a579d15eff46",
+                            "parent_id": "c7884cb8-ce5d-50ba-ade9-60a9f879b1d0",
                             "type": "action",
-                            "end_of_day": 12,
                             "title": "Introduction to the various testing environments available and how to access them.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 12,
+                            "length_in_days": 1,
                             "action": "Learn about the different testing environments and their purposes.",
                             "description": "Testing environments are crucial for ensuring the quality and functionality of our products. They provide a controlled setting where developers can test new features and bug fixes before deployment. Understanding how to access and utilize these environments will empower you to identify and resolve issues early in the development process.\nFamiliarizing yourself with our testing environments will also enhance your collaboration with the QA team, as it allows you to deliver higher-quality code and minimize production issues. This knowledge is vital for effective software development and maintaining our product standards.",
                             "content_instructions": {
@@ -424,24 +659,45 @@
             ]
         },
         {
-            "id": "understanding_our_version_control_and_branching_strategy",
+            "id": "e6fa4059-4334-503d-ac5b-7d6dc154887b",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Understanding Our Version Control and Branching Strategy",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 14,
-            "icon": "logo_14",
+            "length_in_days": 2,
+            "action": "Review our version control and branching strategy to enhance collaboration and code integrity.",
+            "description": "A comprehensive overview of our version control practices, including GitFlow, branching, merging, and release versioning.",
+            "content_instructions": {
+                "role": "professional version control expert",
+                "topic": "Learn the fundamentals of our GitFlow branching model."
+            },
+            "icon": "logo_10",
             "children": [
                 {
-                    "id": "gitflow_practices",
+                    "id": "4b02de45-7f99-51fa-87c1-9bfc632d9cbf",
+                    "parent_id": "e6fa4059-4334-503d-ac5b-7d6dc154887b",
                     "type": "module",
                     "title": "GitFlow Practices",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 13,
+                    "length_in_days": 1,
+                    "action": "Review our GitFlow practices and how they enhance collaboration.",
+                    "description": "Understand GitFlow for structured code management and team collaboration.",
+                    "content_instructions": {
+                        "role": "professional version control expert",
+                        "topic": "Learn the fundamentals of our GitFlow branching model."
+                    },
                     "icon": "logo_14",
                     "children": [
                         {
-                            "id": "learn_the_fundamentals_of_our_gitflow_branching_model",
+                            "id": "64a5ff1e-6722-5302-9221-7d69405175ca",
+                            "parent_id": "4b02de45-7f99-51fa-87c1-9bfc632d9cbf",
                             "type": "action",
-                            "end_of_day": 13,
                             "title": "Learn the fundamentals of our GitFlow branching model.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 13,
+                            "length_in_days": 1,
                             "action": "Review our GitFlow practices and how they enhance collaboration.",
                             "description": "GitFlow is a branching model that provides a structured approach to managing code changes. By understanding its fundamentals, you can work collaboratively with your team to maintain a clean and organized codebase. GitFlow defines specific branch types for features, releases, and hotfixes, which helps streamline the development process.\nAdopting this model not only facilitates collaboration but also minimizes conflicts and ensures a smoother integration of code changes. Familiarizing yourself with GitFlow practices is essential for effective participation in our development workflows.",
                             "content_instructions": {
@@ -453,17 +709,29 @@
                     ]
                 },
                 {
-                    "id": "branching_and_merging_guidelines",
+                    "id": "e211c75c-0f46-5736-b65c-9843a7af09a3",
+                    "parent_id": "e6fa4059-4334-503d-ac5b-7d6dc154887b",
                     "type": "module",
                     "title": "Branching and Merging Guidelines",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 14,
+                    "length_in_days": 1,
+                    "action": "Understand our guidelines for branching and merging code changes.",
+                    "description": "Guidelines for creating branches and merging changes to maintain code integrity.",
+                    "content_instructions": {
+                        "role": "professional software engineer",
+                        "topic": "Best practices for creating and merging branches within our projects."
+                    },
                     "icon": "logo_12",
                     "children": [
                         {
-                            "id": "best_practices_for_creating_and_merging_branches_within_our_projects",
+                            "id": "44229962-e7fd-57cf-b90b-1482320535f3",
+                            "parent_id": "e211c75c-0f46-5736-b65c-9843a7af09a3",
                             "type": "action",
-                            "end_of_day": 14,
                             "title": "Best practices for creating and merging branches within our projects.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 14,
+                            "length_in_days": 1,
                             "action": "Understand our guidelines for branching and merging code changes.",
                             "description": "Effective branching and merging practices are essential for maintaining the integrity of our codebase. Our guidelines outline the best approaches for creating branches, making changes, and merging them back into the main codebase. Following these practices helps prevent conflicts and ensures that new features are integrated smoothly.\nBy adhering to these guidelines, you will contribute to a more organized development process and foster better collaboration with your team. Understanding these practices is key to successfully navigating the version control landscape in our projects.",
                             "content_instructions": {
@@ -475,17 +743,29 @@
                     ]
                 },
                 {
-                    "id": "release_versioning",
+                    "id": "817f4bd8-727b-519a-99e0-fd4ef90ca641",
+                    "parent_id": "e6fa4059-4334-503d-ac5b-7d6dc154887b",
                     "type": "module",
                     "title": "Release Versioning",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 14,
+                    "length_in_days": 1,
+                    "action": "Learn about our release versioning practices and their importance.",
+                    "description": "Understanding release versioning aids in managing updates and ensuring stable product deployments.",
+                    "content_instructions": {
+                        "role": "professional release manager",
+                        "topic": "Understand how we version releases and manage production deployments"
+                    },
                     "icon": "logo_20",
                     "children": [
                         {
-                            "id": "understand_how_we_version_releases_and_manage_production_deployments",
+                            "id": "3fecefc8-6e41-5312-885c-4d98de368b52",
+                            "parent_id": "817f4bd8-727b-519a-99e0-fd4ef90ca641",
                             "type": "action",
-                            "end_of_day": 14,
                             "title": "Understand how we version releases and manage production deployments.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 14,
+                            "length_in_days": 1,
                             "action": "Learn about our release versioning practices and their importance.",
                             "description": "Release versioning is a critical practice that helps us manage updates and changes to our products. Understanding our versioning scheme enables you to track changes, understand release notes, and anticipate upcoming features. It also plays a crucial role in managing production deployments and ensuring that users receive stable and tested versions of our products.\nBy familiarizing yourself with our release versioning practices, you will be better equipped to contribute to deployment processes and collaborate effectively with the QA team to ensure a smooth rollout of new features.",
                             "content_instructions": {
@@ -499,24 +779,45 @@
             ]
         },
         {
-            "id": "our_code_review_process",
+            "id": "e46d2a13-cfd6-5fa0-9dee-335036af55a4",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Our Code Review Process",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 17,
-            "icon": "logo_16",
+            "length_in_days": 3,
+            "action": "Review our peer review process and understand its significance.",
+            "description": "A structured approach to peer reviews, emphasizing collaboration and quality code production.",
+            "content_instructions": {
+                "role": "professional code reviewer",
+                "topic": "Understand the steps for conducting a peer review and submitting your code for review"
+            },
+            "icon": "logo_11",
             "children": [
                 {
-                    "id": "peer_review_guidelines",
+                    "id": "b3ce6a60-1441-513c-ac0b-b9965dcffa82",
+                    "parent_id": "e46d2a13-cfd6-5fa0-9dee-335036af55a4",
                     "type": "module",
                     "title": "Peer Review Guidelines",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 15,
+                    "length_in_days": 1,
+                    "action": "Review our peer review process and understand its significance.",
+                    "description": "Guidelines for conducting peer reviews and submitting code for team feedback.",
+                    "content_instructions": {
+                        "role": "professional code reviewer",
+                        "topic": "Understand the steps for conducting a peer review and submitting your code for review"
+                    },
                     "icon": "logo_16",
                     "children": [
                         {
-                            "id": "understand_the_steps_for_conducting_a_peer_review_and_submitting_your_code_for_review",
+                            "id": "a354413c-d524-5492-9845-7205857f61ab",
+                            "parent_id": "b3ce6a60-1441-513c-ac0b-b9965dcffa82",
                             "type": "action",
-                            "end_of_day": 15,
                             "title": "Understand the steps for conducting a peer review and submitting your code for review.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 15,
+                            "length_in_days": 1,
                             "action": "Review our peer review process and understand its significance.",
                             "description": "Peer reviews are an integral part of our development process. They provide an opportunity for team members to review each other's code, offer feedback, and ensure adherence to coding standards. Understanding the peer review process is crucial for producing high-quality code and fostering collaboration within the team.\nBy actively participating in peer reviews, you contribute to a culture of continuous improvement, where everyone learns from one another. Familiarizing yourself with the guidelines and expectations of our peer review process will enhance your skills and help you deliver better code.",
                             "content_instructions": {
@@ -528,17 +829,29 @@
                     ]
                 },
                 {
-                    "id": "code_review_tools",
+                    "id": "a324a22a-8eec-51b5-b2b6-fd405a5cd63e",
+                    "parent_id": "e46d2a13-cfd6-5fa0-9dee-335036af55a4",
                     "type": "module",
                     "title": "Code Review Tools",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 16,
+                    "length_in_days": 1,
+                    "action": "Learn how to navigate our code review tools and their functionalities.",
+                    "description": "Overview of tools for code reviews, promoting collaboration and feedback.",
+                    "content_instructions": {
+                        "role": "professional software engineer",
+                        "topic": "Introduction to the code review tools we use and how to navigate them"
+                    },
                     "icon": "logo_23",
                     "children": [
                         {
-                            "id": "introduction_to_the_code_review_tools_we_use_and_how_to_navigate_them",
+                            "id": "9129c2ac-9491-52b0-9202-458cf13e847f",
+                            "parent_id": "a324a22a-8eec-51b5-b2b6-fd405a5cd63e",
                             "type": "action",
-                            "end_of_day": 16,
                             "title": "Introduction to the code review tools we use and how to navigate them.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 16,
+                            "length_in_days": 1,
                             "action": "Learn how to navigate our code review tools and their functionalities.",
                             "description": "We utilize specific tools to facilitate code reviews, allowing for efficient collaboration and feedback. Familiarizing yourself with these tools will enable you to submit your code for review, receive feedback, and track the review process effectively. Understanding the functionalities of our code review tools is essential for a smooth development workflow.\nBy mastering these tools, you will improve your coding practices and contribute to higher-quality code. Additionally, being proficient with these tools fosters better communication and collaboration with your peers during the review process.",
                             "content_instructions": {
@@ -550,17 +863,29 @@
                     ]
                 },
                 {
-                    "id": "feedback_etiquette",
+                    "id": "d83b2df6-5891-5a22-a242-27cb5d424ac7",
+                    "parent_id": "e46d2a13-cfd6-5fa0-9dee-335036af55a4",
                     "type": "module",
                     "title": "Feedback Etiquette",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 17,
+                    "length_in_days": 1,
+                    "action": "Explore best practices for providing and receiving feedback in code reviews.",
+                    "description": "Guidelines for respectful communication and collaboration during code reviews.",
+                    "content_instructions": {
+                        "role": "professional team facilitator",
+                        "topic": "Learn how to give and receive constructive feedback during code reviews."
+                    },
                     "icon": "logo_40",
                     "children": [
                         {
-                            "id": "learn_how_to_give_and_receive_constructive_feedback_during_code_reviews",
+                            "id": "7fef65ea-a5d4-5b57-a3ce-a789b71ad587",
+                            "parent_id": "d83b2df6-5891-5a22-a242-27cb5d424ac7",
                             "type": "action",
-                            "end_of_day": 17,
                             "title": "Learn how to give and receive constructive feedback during code reviews.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 17,
+                            "length_in_days": 1,
                             "action": "Explore best practices for providing and receiving feedback in code reviews.",
                             "description": "Constructive feedback is essential for fostering a productive code review environment. Learning how to give and receive feedback effectively can significantly improve collaboration and the quality of the code produced. Our guidelines outline the principles of respectful communication, focusing on the code rather than the person.\nBy mastering feedback etiquette, you will contribute to a supportive culture where team members feel comfortable sharing their ideas and suggestions. This practice not only enhances the quality of the code but also strengthens team dynamics and relationships.",
                             "content_instructions": {
@@ -574,24 +899,45 @@
             ]
         },
         {
-            "id": "agile_and_scrum_methodologies_at_our_company",
+            "id": "bdd739d5-84eb-5644-a612-88a076bd76f7",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Agile and Scrum Methodologies at Our Company",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 20,
-            "icon": "logo_17",
+            "length_in_days": 3,
+            "action": "Engage with Agile and Scrum practices to improve team performance and project outcomes.",
+            "description": "Agile and Scrum methodologies enhance team collaboration and project delivery through structured practices.",
+            "content_instructions": {
+                "role": "professional Scrum Master",
+                "topic": "Overview of Agile and Scrum methodologies and their application in our company."
+            },
+            "icon": "logo_12",
             "children": [
                 {
-                    "id": "sprint_planning_and_estimations",
+                    "id": "9bdfdbc0-7de0-5901-b223-2bcc31b2e005",
+                    "parent_id": "bdd739d5-84eb-5644-a612-88a076bd76f7",
                     "type": "module",
                     "title": "Sprint Planning and Estimations",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 18,
+                    "length_in_days": 1,
+                    "action": "Engage in sprint planning and learn to estimate story points.",
+                    "description": "Sprint planning defines work for the upcoming sprint, while story points estimate task complexity.",
+                    "content_instructions": {
+                        "role": "professional Scrum Master",
+                        "topic": "The procedure of sprint planning and how it's done."
+                    },
                     "icon": "logo_17",
                     "children": [
                         {
-                            "id": "the_procedure_of_sprint_planning_and_how_it_s_done",
+                            "id": "cb8b31d7-5494-5faa-a966-2a693bb19ea7",
+                            "parent_id": "9bdfdbc0-7de0-5901-b223-2bcc31b2e005",
                             "type": "action",
-                            "end_of_day": 18,
                             "title": "The procedure of sprint planning and how it's done.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 18,
+                            "length_in_days": 1,
                             "action": "Participate in the sprint planning process and understand its significance.",
                             "description": "Sprint planning is a key event in our Agile process where we define the work to be completed in the upcoming sprint. This collaborative effort involves team members discussing priorities, estimating tasks, and assigning responsibilities. Understanding this process is crucial for effectively managing workloads and ensuring that the team is aligned with project goals.\nBy engaging in sprint planning, you contribute to the overall success of the sprint and help the team deliver value to our customers. Familiarizing yourself with the procedures and expectations will enhance your ability to participate in future planning sessions.",
                             "content_instructions": {
@@ -601,10 +947,13 @@
                             "icon": "logo_17"
                         },
                         {
-                            "id": "how_the_sprint_story_points_estimation_procedure_works_in_our_team",
+                            "id": "ab1da7d7-4374-53f2-b276-bf1bfe2c930e",
+                            "parent_id": "9bdfdbc0-7de0-5901-b223-2bcc31b2e005",
                             "type": "action",
-                            "end_of_day": 18,
                             "title": "How the sprint story points estimation procedure works in our team.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 18,
+                            "length_in_days": 1,
                             "action": "Learn about the process of estimating story points for sprint tasks.",
                             "description": "Estimating story points is a vital part of our sprint planning process, allowing the team to gauge the complexity and effort required for tasks. This estimation process involves discussing features or tasks and assigning points based on their difficulty and the work required. Understanding how this process works will enable you to provide accurate estimates and contribute to effective sprint planning.\nBy participating in story point estimation, you will enhance your understanding of project requirements and timelines. This skill is essential for ensuring that the team can meet its commitments during sprints and deliver high-quality products on time.",
                             "content_instructions": {
@@ -616,17 +965,29 @@
                     ]
                 },
                 {
-                    "id": "daily_stand_ups",
+                    "id": "300b207a-c146-549d-882a-45904ed53e2d",
+                    "parent_id": "bdd739d5-84eb-5644-a612-88a076bd76f7",
                     "type": "module",
                     "title": "Daily Stand-ups",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 19,
+                    "length_in_days": 1,
+                    "action": "Participate in daily stand-ups and understand their purpose.",
+                    "description": "Daily stand-ups enhance team communication and accountability, addressing challenges and sharing progress.",
+                    "content_instructions": {
+                        "role": "professional Agile practitioner",
+                        "topic": "Understanding the goals and format of daily stand-ups in our agile process."
+                    },
                     "icon": "logo_21",
                     "children": [
                         {
-                            "id": "understanding_the_goals_and_format_of_daily_stand_ups_in_our_agile_process",
+                            "id": "43005abf-acfb-5d1c-8a7b-7028d8769986",
+                            "parent_id": "300b207a-c146-549d-882a-45904ed53e2d",
                             "type": "action",
-                            "end_of_day": 19,
                             "title": "Understanding the goals and format of daily stand-ups in our agile process.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 19,
+                            "length_in_days": 1,
                             "action": "Participate in daily stand-ups and understand their purpose.",
                             "description": "Daily stand-ups are a core practice in Agile methodologies, designed to foster communication and alignment within the team. During these brief meetings, team members share updates on their progress, challenges, and plans for the day. Understanding the goals and format of these stand-ups will help you contribute effectively and keep everyone informed.\nBy participating in daily stand-ups, you enhance team collaboration and ensure that potential roadblocks are addressed promptly. This practice encourages accountability and helps maintain a steady pace of progress throughout the sprint.",
                             "content_instructions": {
@@ -638,17 +999,29 @@
                     ]
                 },
                 {
-                    "id": "retrospectives_and_process_improvement",
+                    "id": "5f779d46-803c-53e1-bd46-dbebb216cdcb",
+                    "parent_id": "bdd739d5-84eb-5644-a612-88a076bd76f7",
                     "type": "module",
                     "title": "Retrospectives and Process Improvement",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 20,
+                    "length_in_days": 1,
+                    "action": "Learn about our retrospective practices and their importance for continuous improvement.",
+                    "description": "Retrospectives foster continuous improvement by reflecting on team performance and identifying areas for growth.",
+                    "content_instructions": {
+                        "role": "professional team facilitator",
+                        "topic": "How we conduct retrospectives to improve team processes"
+                    },
                     "icon": "logo_26",
                     "children": [
                         {
-                            "id": "how_we_conduct_retrospectives_to_improve_team_processes",
+                            "id": "fc396e52-2f98-5a8a-9276-318007941604",
+                            "parent_id": "5f779d46-803c-53e1-bd46-dbebb216cdcb",
                             "type": "action",
-                            "end_of_day": 20,
                             "title": "How we conduct retrospectives to improve team processes.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 20,
+                            "length_in_days": 1,
                             "action": "Learn about our retrospective practices and their importance for continuous improvement.",
                             "description": "Retrospectives are essential for fostering a culture of continuous improvement within our team. During these meetings, we reflect on the sprint, discussing what went well, what didn't, and how we can improve in the future. Understanding the structure and goals of these sessions is crucial for contributing to meaningful discussions and actionable outcomes.\nBy participating in retrospectives, you help identify areas for improvement and contribute to a stronger, more efficient team. This practice encourages open communication and supports a culture of learning and growth.",
                             "content_instructions": {
@@ -662,24 +1035,45 @@
             ]
         },
         {
-            "id": "security_best_practices_in_our_development_process",
+            "id": "dab64663-c478-59fa-9e99-4230c785e8b8",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Security Best Practices in Our Development Process",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 23,
+            "length_in_days": 3,
+            "action": "Review our security protocols and best practices in the development process.",
+            "description": "Incorporating security best practices is vital for protecting sensitive data and ensuring compliance.",
+            "content_instructions": {
+                "role": "professional security officer",
+                "topic": "Best practices for handling sensitive data securely in our codebase"
+            },
             "icon": "logo_13",
             "children": [
                 {
-                    "id": "handling_sensitive_data",
+                    "id": "f132aadf-ed87-5f2f-8a10-6e41a88fedf9",
+                    "parent_id": "dab64663-c478-59fa-9e99-4230c785e8b8",
                     "type": "module",
                     "title": "Handling Sensitive Data",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 21,
+                    "length_in_days": 1,
+                    "action": "Review the guidelines for managing sensitive data in our projects.",
+                    "description": "Best practices for managing sensitive information to protect company and customer data.",
+                    "content_instructions": {
+                        "role": "professional security officer",
+                        "topic": "Best practices for handling sensitive data securely in our codebase"
+                    },
                     "icon": "logo_13",
                     "children": [
                         {
-                            "id": "best_practices_for_handling_sensitive_data_securely_in_our_codebase",
+                            "id": "eaab7bfa-754b-5ecb-919f-708daaa9dcb0",
+                            "parent_id": "f132aadf-ed87-5f2f-8a10-6e41a88fedf9",
                             "type": "action",
-                            "end_of_day": 21,
                             "title": "Best practices for handling sensitive data securely in our codebase.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 21,
+                            "length_in_days": 1,
                             "action": "Review the guidelines for managing sensitive data in our projects.",
                             "description": "Handling sensitive data is a critical aspect of software development, and it requires strict adherence to best practices to ensure security and compliance. Understanding how to manage sensitive information - such as user data, financial records, and proprietary information - is essential for protecting both the company and its customers.\nBy familiarizing yourself with our security protocols and best practices, you will contribute to maintaining a secure codebase and preventing data breaches. This knowledge is vital for upholding our commitment to data security and privacy.",
                             "content_instructions": {
@@ -691,17 +1085,29 @@
                     ]
                 },
                 {
-                    "id": "owasp_top_10_vulnerabilities",
+                    "id": "8bd73734-9ead-5228-a42b-90baf3754ce9",
+                    "parent_id": "dab64663-c478-59fa-9e99-4230c785e8b8",
                     "type": "module",
                     "title": "OWASP Top 10 Vulnerabilities",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 22,
+                    "length_in_days": 1,
+                    "action": "Learn about the OWASP Top 10 and our strategies for mitigating these vulnerabilities.",
+                    "description": "Overview of critical web application security risks and our strategies for addressing them.",
+                    "content_instructions": {
+                        "role": "professional cybersecurity expert",
+                        "topic": "Overview of the OWASP Top 10 vulnerabilities and how we address them"
+                    },
                     "icon": "logo_30",
                     "children": [
                         {
-                            "id": "overview_of_the_owasp_top_10_vulnerabilities_and_how_we_address_them",
+                            "id": "e95ef2f9-9f05-5002-8e93-73f09739e00d",
+                            "parent_id": "8bd73734-9ead-5228-a42b-90baf3754ce9",
                             "type": "action",
-                            "end_of_day": 22,
                             "title": "Overview of the OWASP Top 10 vulnerabilities and how we address them.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 22,
+                            "length_in_days": 1,
                             "action": "Learn about the OWASP Top 10 and our strategies for mitigating these vulnerabilities.",
                             "description": "The OWASP Top 10 is a widely recognized list of the most critical web application security risks. Understanding these vulnerabilities is crucial for any software developer, as they highlight common pitfalls and challenges in application security. Our approach to addressing these vulnerabilities involves implementing best practices and utilizing tools to detect and remediate potential issues.\nBy familiarizing yourself with the OWASP Top 10 and our strategies for mitigating these risks, you will be better equipped to write secure code and contribute to the overall security posture of our products. This knowledge is essential for protecting user data and maintaining customer trust.",
                             "content_instructions": {
@@ -713,17 +1119,29 @@
                     ]
                 },
                 {
-                    "id": "dependency_and_vulnerability_management",
+                    "id": "c577cea4-e0ec-57e4-b68c-f0f2b5ad25ee",
+                    "parent_id": "dab64663-c478-59fa-9e99-4230c785e8b8",
                     "type": "module",
                     "title": "Dependency and Vulnerability Management",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 23,
+                    "length_in_days": 1,
+                    "action": "Review our processes for managing dependencies and addressing vulnerabilities.",
+                    "description": "Strategies for managing dependencies and securing our projects against vulnerabilities.",
+                    "content_instructions": {
+                        "role": "professional software engineer",
+                        "topic": "Learn how we manage dependencies and address vulnerabilities in our projects."
+                    },
                     "icon": "logo_41",
                     "children": [
                         {
-                            "id": "learn_how_we_manage_dependencies_and_address_vulnerabilities_in_our_projects",
+                            "id": "1c7e1368-91e6-55da-96c8-1c60124fc475",
+                            "parent_id": "c577cea4-e0ec-57e4-b68c-f0f2b5ad25ee",
                             "type": "action",
-                            "end_of_day": 23,
                             "title": "Learn how we manage dependencies and address vulnerabilities in our projects.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 23,
+                            "length_in_days": 1,
                             "action": "Review our processes for managing dependencies and addressing vulnerabilities.",
                             "description": "Managing dependencies is crucial for maintaining the integrity and security of our codebase. Understanding how to track, update, and secure dependencies helps prevent potential vulnerabilities from being introduced into our projects. Our process includes regular audits, automated tools, and best practices for dependency management.\nBy familiarizing yourself with our dependency management strategies, you will enhance the security of our products and ensure that we are using reliable and secure libraries and frameworks. This knowledge is vital for safeguarding our applications and maintaining a strong security posture.",
                             "content_instructions": {
@@ -737,24 +1155,45 @@
             ]
         },
         {
-            "id": "collaborating_with_our_product_and_qa_teams",
+            "id": "ab014a11-8b91-5b3e-99dc-2c80b39d43cc",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Collaborating with Our Product and QA Teams",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 26,
-            "icon": "logo_45",
+            "length_in_days": 3,
+            "action": "Engage in cross-functional meetings and participate in feature specification reviews.",
+            "description": "Collaboration with product and QA teams is vital for aligning goals and ensuring project success.",
+            "content_instructions": {
+                "role": "professional project manager",
+                "topic": "Understand the purpose and structure of cross-functional meetings between development, product, and QA."
+            },
+            "icon": "logo_6",
             "children": [
                 {
-                    "id": "cross_functional_meetings",
+                    "id": "ff4b9091-5fa6-5465-bc57-d173cb4cfe0c",
+                    "parent_id": "ab014a11-8b91-5b3e-99dc-2c80b39d43cc",
                     "type": "module",
                     "title": "Cross-functional Meetings",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 24,
+                    "length_in_days": 1,
+                    "action": "Participate in cross-functional meetings and understand their objectives.",
+                    "description": "Cross-functional meetings align goals and foster collaboration among development, product, and QA teams.",
+                    "content_instructions": {
+                        "role": "professional project manager",
+                        "topic": "Understand the purpose and structure of cross-functional meetings between development, product, and QA."
+                    },
                     "icon": "logo_45",
                     "children": [
                         {
-                            "id": "understand_the_purpose_and_structure_of_cross_functional_meetings_between_development_product_and_qa",
+                            "id": "1ebbb024-976c-56f6-bc15-ac867c406a64",
+                            "parent_id": "ff4b9091-5fa6-5465-bc57-d173cb4cfe0c",
                             "type": "action",
-                            "end_of_day": 24,
                             "title": "Understand the purpose and structure of cross-functional meetings between development, product, and QA.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 24,
+                            "length_in_days": 1,
                             "action": "Participate in cross-functional meetings and understand their objectives.",
                             "description": "Cross-functional meetings are essential for aligning goals and ensuring collaboration between development, product, and QA teams. These meetings provide a platform for discussing project updates, identifying roadblocks, and aligning on priorities. Understanding their structure and objectives is crucial for effective participation and collaboration.\nBy engaging in these meetings, you contribute to a holistic approach to product development, ensuring that all teams are aligned and working towards common goals. This practice fosters open communication and supports a culture of collaboration and teamwork.",
                             "content_instructions": {
@@ -766,17 +1205,29 @@
                     ]
                 },
                 {
-                    "id": "feature_specification_reviews",
+                    "id": "fd491c92-9bd3-54b0-9fad-00034f522db6",
+                    "parent_id": "ab014a11-8b91-5b3e-99dc-2c80b39d43cc",
                     "type": "module",
                     "title": "Feature Specification Reviews",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 25,
+                    "length_in_days": 1,
+                    "action": "Participate in feature specification reviews and understand their significance.",
+                    "description": "Collaboration during feature specification reviews ensures alignment on project requirements and expectations.",
+                    "content_instructions": {
+                        "role": "professional product analyst",
+                        "topic": "Learn how we review feature specifications collaboratively with product teams."
+                    },
                     "icon": "logo_37",
                     "children": [
                         {
-                            "id": "learn_how_we_review_feature_specifications_collaboratively_with_product_teams",
+                            "id": "235ab552-231c-509e-acd1-22ca594394e1",
+                            "parent_id": "fd491c92-9bd3-54b0-9fad-00034f522db6",
                             "type": "action",
-                            "end_of_day": 25,
                             "title": "Learn how we review feature specifications collaboratively with product teams.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 25,
+                            "length_in_days": 1,
                             "action": "Participate in feature specification reviews and understand their significance.",
                             "description": "Feature specification reviews are a critical step in our development process, ensuring that all teams are aligned on project requirements and expectations. During these reviews, product and development teams collaborate to clarify requirements, assess feasibility, and identify potential challenges. Understanding this process is essential for delivering features that meet both user needs and technical constraints.\nBy engaging in feature specification reviews, you enhance your understanding of product requirements and contribute to the development of successful features. This collaboration fosters a strong partnership between product and engineering teams, ultimately leading to better product outcomes.",
                             "content_instructions": {
@@ -788,17 +1239,29 @@
                     ]
                 },
                 {
-                    "id": "bug_prioritization_and_triage",
+                    "id": "add3bcf4-97ec-5bff-9934-2f2bc7fc93ee",
+                    "parent_id": "ab014a11-8b91-5b3e-99dc-2c80b39d43cc",
                     "type": "module",
                     "title": "Bug Prioritization and Triage",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 26,
+                    "length_in_days": 1,
+                    "action": "Learn about our bug triage process and how we prioritize issues.",
+                    "description": "Learn how bugs are assessed, categorized, and prioritized for timely resolutions.",
+                    "content_instructions": {
+                        "role": "professional quality assurance manager",
+                        "topic": "Understand how bugs are triaged and prioritized across teams."
+                    },
                     "icon": "logo_38",
                     "children": [
                         {
-                            "id": "understand_how_bugs_are_triaged_and_prioritized_across_teams",
+                            "id": "644797fe-74ea-5aae-b1bb-ffa1291f1a7b",
+                            "parent_id": "add3bcf4-97ec-5bff-9934-2f2bc7fc93ee",
                             "type": "action",
-                            "end_of_day": 26,
                             "title": "Understand how bugs are triaged and prioritized across teams.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 26,
+                            "length_in_days": 1,
                             "action": "Learn about our bug triage process and how we prioritize issues.",
                             "description": "Effective bug triage is crucial for maintaining product quality and ensuring that critical issues are addressed promptly. Our process involves assessing the severity and impact of bugs, categorizing them, and prioritizing fixes based on project timelines and resource availability. Understanding this process is essential for contributing to timely resolutions and maintaining a high standard of product quality.\nBy familiarizing yourself with our bug triage and prioritization processes, you will be better equipped to manage issues effectively and contribute to a smoother development workflow. This knowledge enhances your ability to collaborate with product and QA teams, ensuring that we meet our commitments to users.",
                             "content_instructions": {
@@ -812,24 +1275,45 @@
             ]
         },
         {
-            "id": "our_testing_and_debugging_procedures",
+            "id": "839fb985-c2ae-5a82-aab5-2016f5a8802a",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Our Testing and Debugging Procedures",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 29,
-            "icon": "logo_46",
+            "length_in_days": 3,
+            "action": "Review our testing methodologies, debugging tools, and test automation practices.",
+            "description": "Overview of testing and debugging practices to ensure product quality and development efficiency.",
+            "content_instructions": {
+                "role": "professional QA engineer",
+                "topic": "Understand our approach to unit and integration testing, debugging tools, and test automation practices."
+            },
+            "icon": "logo_15",
             "children": [
                 {
-                    "id": "unit_and_integration_testing",
+                    "id": "8048990c-5a77-52d6-9379-ab7f3ed5d84b",
+                    "parent_id": "839fb985-c2ae-5a82-aab5-2016f5a8802a",
                     "type": "module",
                     "title": "Unit and Integration Testing",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 27,
+                    "length_in_days": 1,
+                    "action": "Review our testing methodologies and their importance in the development process.",
+                    "description": "Unit and integration testing are key to our quality assurance process.",
+                    "content_instructions": {
+                        "role": "professional QA engineer",
+                        "topic": "Understand our approach to unit and integration testing"
+                    },
                     "icon": "logo_46",
                     "children": [
                         {
-                            "id": "understand_our_approach_to_unit_and_integration_testing",
+                            "id": "936e6f26-0e68-54a7-aec6-24aa9e22c721",
+                            "parent_id": "8048990c-5a77-52d6-9379-ab7f3ed5d84b",
                             "type": "action",
-                            "end_of_day": 27,
                             "title": "Understand our approach to unit and integration testing.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 27,
+                            "length_in_days": 1,
                             "action": "Review our testing methodologies and their importance in the development process.",
                             "description": "Unit and integration testing are fundamental components of our quality assurance process. Unit tests focus on verifying the functionality of individual components, while integration tests ensure that different parts of the application work together seamlessly. Understanding our approach to testing is crucial for delivering reliable and high-quality products.\nBy familiarizing yourself with our testing methodologies, you will be better equipped to write effective tests for your code and contribute to maintaining high standards of quality throughout the development process. This knowledge is essential for preventing issues and ensuring a smooth user experience.",
                             "content_instructions": {
@@ -841,17 +1325,29 @@
                     ]
                 },
                 {
-                    "id": "debugging_tools_and_techniques",
+                    "id": "42a7d32d-2093-5766-b621-06bfc99bdce3",
+                    "parent_id": "839fb985-c2ae-5a82-aab5-2016f5a8802a",
                     "type": "module",
                     "title": "Debugging Tools and Techniques",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 28,
+                    "length_in_days": 1,
+                    "action": "Explore the debugging tools available and how to use them effectively.",
+                    "description": "Explore various debugging tools and techniques to resolve common coding issues.",
+                    "content_instructions": {
+                        "role": "professional software engineer",
+                        "topic": "Learn about debugging tools and techniques for common issues in our codebase."
+                    },
                     "icon": "logo_39",
                     "children": [
                         {
-                            "id": "learn_about_debugging_tools_and_techniques_for_common_issues_in_our_codebase",
+                            "id": "a472a924-d0c3-5f02-8f81-0b8ea13099d1",
+                            "parent_id": "42a7d32d-2093-5766-b621-06bfc99bdce3",
                             "type": "action",
-                            "end_of_day": 28,
                             "title": "Learn about debugging tools and techniques for common issues in our codebase.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 28,
+                            "length_in_days": 1,
                             "action": "Explore the debugging tools available and how to use them effectively.",
                             "description": "Debugging is a critical skill for any developer, allowing you to identify and resolve issues in your code effectively. We provide a range of debugging tools and techniques that help streamline the process of diagnosing problems. Understanding how to use these tools will enhance your efficiency and effectiveness in troubleshooting.",
                             "content_instructions": {
@@ -863,17 +1359,29 @@
                     ]
                 },
                 {
-                    "id": "test_automation_practices",
+                    "id": "1d371113-1b94-59e0-a40c-ac350642b901",
+                    "parent_id": "839fb985-c2ae-5a82-aab5-2016f5a8802a",
                     "type": "module",
                     "title": "Test Automation Practices",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 29,
+                    "length_in_days": 1,
+                    "action": "Learn about our test automation practices and their role in our development lifecycle.",
+                    "description": "Understanding automated tests enhances contributions to the development lifecycle and product quality.",
+                    "content_instructions": {
+                        "role": "professional automation engineer",
+                        "topic": "Introduction to the automated tests we use and how they fit into our CI/CD process."
+                    },
                     "icon": "logo_34",
                     "children": [
                         {
-                            "id": "introduction_to_the_automated_tests_we_use_and_how_they_fit_into_our_ci_cd_process",
+                            "id": "bd0ca424-6fdd-593b-8d83-0e71f75fa223",
+                            "parent_id": "1d371113-1b94-59e0-a40c-ac350642b901",
                             "type": "action",
-                            "end_of_day": 29,
                             "title": "Introduction to the automated tests we use and how they fit into our CI/CD process.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 29,
+                            "length_in_days": 1,
                             "action": "Learn about our test automation practices and their role in our development lifecycle.",
                             "description": "Test automation is an essential practice that helps us maintain quality while accelerating the development process. Automated tests allow us to run a suite of tests quickly and efficiently, ensuring that our codebase remains stable as we introduce new features. Understanding how our automated tests fit into the CI/CD pipeline is crucial for effectively participating in our development workflows.\nBy familiarizing yourself with our test automation practices, you will enhance your ability to contribute to the testing process and ensure the quality of our products. This knowledge is vital for maintaining a robust development lifecycle and delivering high-quality releases.",
                             "content_instructions": {
@@ -887,24 +1395,45 @@
             ]
         },
         {
-            "id": "our_continuous_integration_continuous_deployment_ci_cd_pipeline",
+            "id": "b984abea-bf28-5310-8180-b20b68e48577",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Our Continuous Integration/Continuous Deployment (CI/CD) Pipeline",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 31,
-            "icon": "logo_28",
+            "length_in_days": 2,
+            "action": "Review the CI/CD workflow and its significance in our development process.",
+            "description": "The CI/CD pipeline automates integration and deployment of code changes, improving product delivery.",
+            "content_instructions": {
+                "role": "professional DevOps engineer",
+                "topic": "Overview of the CI/CD pipeline and how it integrates with our codebase."
+            },
+            "icon": "logo_5",
             "children": [
                 {
-                    "id": "ci_cd_workflow_overview",
+                    "id": "32b6e411-8d4e-5a7e-8b05-afb5149e4f6d",
+                    "parent_id": "b984abea-bf28-5310-8180-b20b68e48577",
                     "type": "module",
                     "title": "CI/CD Workflow Overview",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 30,
+                    "length_in_days": 1,
+                    "action": "Review the CI/CD workflow and its significance in our development process.",
+                    "description": "The CI/CD pipeline automates integration and deployment of code changes, improving product delivery.",
+                    "content_instructions": {
+                        "role": "professional DevOps engineer",
+                        "topic": "Overview of the CI/CD pipeline and how it integrates with our codebase."
+                    },
                     "icon": "logo_28",
                     "children": [
                         {
-                            "id": "overview_of_the_ci_cd_pipeline_and_how_it_integrates_with_our_codebase",
+                            "id": "477f63e7-3ea4-51b6-b5fc-df6f8fa69294",
+                            "parent_id": "32b6e411-8d4e-5a7e-8b05-afb5149e4f6d",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Overview of the CI/CD pipeline and how it integrates with our codebase.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 30,
+                            "length_in_days": 1,
                             "action": "Review the CI/CD workflow and its significance in our development process.",
                             "description": "The CI/CD pipeline is a crucial part of our development process, automating the integration and deployment of code changes. This workflow allows us to detect issues early and deploy updates efficiently, enhancing our ability to deliver high-quality products to our customers. Understanding how this pipeline operates is essential for effective participation in our development processes.\nBy familiarizing yourself with our CI/CD pipeline, you will gain insight into how code changes are managed, tested, and deployed. This knowledge will empower you to contribute more effectively to our development workflows and ensure smooth releases.",
                             "content_instructions": {
@@ -916,17 +1445,29 @@
                     ]
                 },
                 {
-                    "id": "pipeline_monitoring",
+                    "id": "50fd1697-6223-5958-9330-6a3776d9b32e",
+                    "parent_id": "b984abea-bf28-5310-8180-b20b68e48577",
                     "type": "module",
                     "title": "Pipeline Monitoring",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Explore the monitoring tools and techniques for our CI/CD processes.",
+                    "description": "Monitoring the CI/CD pipeline ensures smooth development processes and timely delivery of updates.",
+                    "content_instructions": {
+                        "role": "professional systems administrator",
+                        "topic": "Learn how to monitor and troubleshoot issues in the CI/CD pipeline."
+                    },
                     "icon": "logo_25",
                     "children": [
                         {
-                            "id": "learn_how_to_monitor_and_troubleshoot_issues_in_the_ci_cd_pipeline",
+                            "id": "53e09107-2c6b-51b1-be25-2d3988715e44",
+                            "parent_id": "50fd1697-6223-5958-9330-6a3776d9b32e",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn how to monitor and troubleshoot issues in the CI/CD pipeline.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Explore the monitoring tools and techniques for our CI/CD processes.",
                             "description": "Monitoring the CI/CD pipeline is essential for ensuring that our development processes run smoothly and efficiently. By utilizing various monitoring tools and techniques, we can identify and address issues promptly, minimizing downtime and disruptions. Understanding how to monitor the pipeline effectively is crucial for contributing to a robust development environment.\nBy familiarizing yourself with our monitoring practices, you will enhance your ability to troubleshoot issues and maintain the integrity of our CI/CD processes. This knowledge is vital for ensuring that we deliver high-quality updates to our customers in a timely manner.",
                             "content_instructions": {
@@ -938,17 +1479,29 @@
                     ]
                 },
                 {
-                    "id": "deployment_rollback_procedures",
+                    "id": "42476688-10ad-5dca-93b9-98e9c17893a9",
+                    "parent_id": "b984abea-bf28-5310-8180-b20b68e48577",
                     "type": "module",
                     "title": "Deployment Rollback Procedures",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Review our rollback procedures and their importance for production stability.",
+                    "description": "Procedures for reverting to a stable version after deployment issues arise.",
+                    "content_instructions": {
+                        "role": "professional release engineer",
+                        "topic": "Understand how to perform a deployment rollback in case of issues."
+                    },
                     "icon": "logo_24",
                     "children": [
                         {
-                            "id": "understand_how_to_perform_a_deployment_rollback_in_case_of_issues",
+                            "id": "cd6ae525-f0e5-50f5-8202-5593d79abca3",
+                            "parent_id": "42476688-10ad-5dca-93b9-98e9c17893a9",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Understand how to perform a deployment rollback in case of issues.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Review our rollback procedures and their importance for production stability.",
                             "description": "Deployment rollbacks are a critical safety net in our CI/CD processes, allowing us to revert to a previous stable version if issues arise after a deployment. Understanding these procedures is essential for maintaining production stability and ensuring minimal disruption to users. Our rollback processes are designed to be efficient and effective, ensuring a smooth transition back to a working state.\nBy familiarizing yourself with our deployment rollback procedures, you will be better equipped to respond to issues that arise during deployments and contribute to maintaining the quality and reliability of our products. This knowledge is vital for ensuring customer satisfaction and trust.",
                             "content_instructions": {
@@ -962,24 +1515,45 @@
             ]
         },
         {
-            "id": "ongoing_learning_and_development_resources_at_our_company",
+            "id": "c92ad770-b8b7-585c-92a9-9d839ed463d2",
+            "parent_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
+            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
             "end_of_day": 31,
-            "icon": "logo_36",
+            "length_in_days": 2,
+            "action": "Explore the learning platforms and resources available to support your growth.",
+            "description": "Explore various resources for skill enhancement and professional growth.",
+            "content_instructions": {
+                "role": "professional learning and development manager",
+                "topic": "Learn about internal and external learning resources available to you."
+            },
+            "icon": "logo_16",
             "children": [
                 {
-                    "id": "access_to_learning_platforms",
+                    "id": "9f07072f-4a4f-5fbe-9e0a-41d40cfcd8c6",
+                    "parent_id": "c92ad770-b8b7-585c-92a9-9d839ed463d2",
                     "type": "module",
                     "title": "Access to Learning Platforms",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 31,
+                    "length_in_days": 2,
+                    "action": "Explore the learning platforms and resources available to support your growth.",
+                    "description": "Explore various internal and external resources to enhance your skills and knowledge.",
+                    "content_instructions": {
+                        "role": "professional learning and development manager",
+                        "topic": "Learn about internal and external learning resources available to you."
+                    },
                     "icon": "logo_36",
                     "children": [
                         {
-                            "id": "learn_about_internal_and_external_learning_resources_available_to_you",
+                            "id": "8cc94e57-18af-5df0-8af9-0ed6ba12e64e",
+                            "parent_id": "9f07072f-4a4f-5fbe-9e0a-41d40cfcd8c6",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn about internal and external learning resources available to you.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 31,
+                            "length_in_days": 2,
                             "action": "Explore the learning platforms and resources available to support your growth.",
                             "description": "Our company values ongoing learning and development, offering various resources to help you enhance your skills and knowledge. These resources include internal training programs, online courses, webinars, and access to industry publications. Understanding how to leverage these resources is crucial for your professional growth and success within the company.\nBy exploring these learning platforms, you can identify opportunities for development that align with your career goals. Engaging with these resources will empower you to stay updated on industry trends and continuously improve your skills.",
                             "content_instructions": {
@@ -991,17 +1565,29 @@
                     ]
                 },
                 {
-                    "id": "internal_knowledge_sharing_sessions",
+                    "id": "6b7fb702-d521-583c-b72d-c4b27d9ca08b",
+                    "parent_id": "c92ad770-b8b7-585c-92a9-9d839ed463d2",
                     "type": "module",
                     "title": "Internal Knowledge Sharing Sessions",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Engage in internal knowledge-sharing sessions and contribute your insights.",
+                    "description": "Engage in knowledge-sharing sessions to foster collaboration and enhance team learning.",
+                    "content_instructions": {
+                        "role": "professional facilitator",
+                        "topic": "How to participate in and contribute to our internal knowledge-sharing sessions."
+                    },
                     "icon": "logo_32",
                     "children": [
                         {
-                            "id": "how_to_participate_in_and_contribute_to_our_internal_knowledge_sharing_sessions",
+                            "id": "5f4c410a-9eef-542a-a860-d8b60c1d6da9",
+                            "parent_id": "6b7fb702-d521-583c-b72d-c4b27d9ca08b",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "How to participate in and contribute to our internal knowledge-sharing sessions.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Engage in internal knowledge-sharing sessions and contribute your insights.",
                             "description": "Internal knowledge-sharing sessions are a vital part of our culture, fostering collaboration and continuous learning among team members. These sessions provide a platform for sharing insights, discussing challenges, and learning from one another's experiences. Understanding how to participate and contribute to these sessions is crucial for maximizing their benefits.\nBy engaging actively in knowledge-sharing sessions, you will not only enhance your own understanding but also contribute to the collective growth of the team. This practice promotes a culture of openness and collaboration, ultimately leading to more innovative solutions and better outcomes.",
                             "content_instructions": {
@@ -1013,17 +1599,29 @@
                     ]
                 },
                 {
-                    "id": "mentorship_and_coaching_opportunities",
+                    "id": "b63ddcfd-b7fc-57c9-8bc0-b0fc7e3ba7d5",
+                    "parent_id": "c92ad770-b8b7-585c-92a9-9d839ed463d2",
                     "type": "module",
                     "title": "Mentorship and Coaching Opportunities",
+                    "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Identify potential mentors and coaching opportunities to support your development.",
+                    "description": "Engage in mentorship and coaching for personal and professional development.",
+                    "content_instructions": {
+                        "role": "professional career coach",
+                        "topic": "Explore mentorship and coaching opportunities within the team."
+                    },
                     "icon": "logo_40",
                     "children": [
                         {
-                            "id": "explore_mentorship_and_coaching_opportunities_within_the_team",
+                            "id": "e4547a66-2405-51a6-bfe4-d6b70f32b286",
+                            "parent_id": "b63ddcfd-b7fc-57c9-8bc0-b0fc7e3ba7d5",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Explore mentorship and coaching opportunities within the team.",
+                            "root_id": "bccced4b-302b-511a-8d56-803ff5ff9c48",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Identify potential mentors and coaching opportunities to support your development.",
                             "description": "Mentorship and coaching play a crucial role in personal and professional growth. Our company encourages employees to seek out mentors who can provide guidance, support, and insights based on their experiences. Understanding how to identify and approach potential mentors is essential for maximizing your development opportunities.\nBy engaging in mentorship and coaching programs, you will gain valuable insights and feedback that can accelerate your growth and help you navigate your career path. This practice fosters a supportive culture where team members help one another succeed.",
                             "content_instructions": {

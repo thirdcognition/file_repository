@@ -1,29 +1,57 @@
 {
-    "id": "ux_ui_designer",
+    "id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
     "type": "journey",
     "title": "UX/UI Designer",
     "end_of_day": 31,
+    "length_in_days": 31,
+    "action": "Engage in design projects and collaborate with cross-functional teams.",
+    "description": "Explore design principles, collaboration techniques, and user-centered practices for effective UX/UI design.",
+    "content_instructions": {
+        "role": "professional UX/UI designer",
+        "topic": "Overview of design principles, collaboration techniques, and user-centered design practices."
+    },
     "icon": "logo_44",
     "children": [
         {
-            "id": "introduction_to_the_company_team_3",
+            "id": "c0e0fe34-b0d1-5700-b09c-740e66a849fd",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Introduction to the Company & Team",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 2,
-            "icon": "logo_44",
+            "length_in_days": 2,
+            "action": "Attend the company orientation session.",
+            "description": "Gain insights into the company structure and how teams collaborate effectively.",
+            "content_instructions": {
+                "role": "professional team member",
+                "topic": "Overview of the company structure and team collaboration."
+            },
+            "icon": "logo_2",
             "children": [
                 {
-                    "id": "design_team_structure",
+                    "id": "6c18eaff-b7f9-52b9-bbf5-fc93a5de2455",
+                    "parent_id": "c0e0fe34-b0d1-5700-b09c-740e66a849fd",
                     "type": "module",
                     "title": "Design Team Structure",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 1,
+                    "length_in_days": 1,
+                    "action": "Review the design team organizational chart.",
+                    "description": "Learn about the design team structure and individual responsibilities for effective collaboration.",
+                    "content_instructions": {
+                        "role": "professional design lead",
+                        "topic": "Understand the structure of the design team and individual responsibilities."
+                    },
                     "icon": "logo_44",
                     "children": [
                         {
-                            "id": "understand_the_structure_of_the_design_team_and_individual_responsibilities",
+                            "id": "5b0520d1-3b6d-5971-9287-9c77864e7299",
+                            "parent_id": "6c18eaff-b7f9-52b9-bbf5-fc93a5de2455",
                             "type": "action",
-                            "end_of_day": 1,
                             "title": "Understand the structure of the design team and individual responsibilities.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 1,
+                            "length_in_days": 1,
                             "action": "Review the design team organizational chart.",
                             "description": "Familiarizing yourself with the design team structure is essential for understanding who is responsible for what. This knowledge will help you identify key contacts for collaboration and support as you embark on your projects.",
                             "content_instructions": {
@@ -35,17 +63,29 @@
                     ]
                 },
                 {
-                    "id": "meet_cross_functional_teams",
+                    "id": "ebcb6a28-f635-5780-8266-b6f3b38d9a81",
+                    "parent_id": "c0e0fe34-b0d1-5700-b09c-740e66a849fd",
                     "type": "module",
                     "title": "Meet Cross-Functional Teams",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 2,
+                    "length_in_days": 1,
+                    "action": "Schedule introductory meetings with key cross-functional team members.",
+                    "description": "Understanding roles of product managers, developers, and marketing teams enhances collaboration.",
+                    "content_instructions": {
+                        "role": "professional project manager",
+                        "topic": "Introduction to the cross-functional teams you will collaborate with."
+                    },
                     "icon": "logo_45",
                     "children": [
                         {
-                            "id": "introduction_to_the_cross_functional_teams_you_will_collaborate_with",
+                            "id": "e5c75ee0-dae6-5610-b574-0a97baba00cc",
+                            "parent_id": "ebcb6a28-f635-5780-8266-b6f3b38d9a81",
                             "type": "action",
-                            "end_of_day": 2,
                             "title": "Introduction to the cross-functional teams you will collaborate with.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 2,
+                            "length_in_days": 1,
                             "action": "Schedule introductory meetings with key cross-functional team members.",
                             "description": "Building relationships with cross-functional teams is crucial for successful collaboration. You'll work with product managers, developers, and marketing teams, so understanding their roles and how they intersect with design will enhance your effectiveness.",
                             "content_instructions": {
@@ -57,17 +97,29 @@
                     ]
                 },
                 {
-                    "id": "our_design_workflow",
+                    "id": "333efa6d-cffa-5e46-89ac-82b1dfbc327a",
+                    "parent_id": "c0e0fe34-b0d1-5700-b09c-740e66a849fd",
                     "type": "module",
                     "title": "Our Design Workflow",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 2,
+                    "length_in_days": 1,
+                    "action": "Review the design workflow documentation.",
+                    "description": "Explore the design workflow from ideation to execution, emphasizing collaboration with product and development teams.",
+                    "content_instructions": {
+                        "role": "professional design strategist",
+                        "topic": "Overview of our design workflow and how it integrates with product and development teams."
+                    },
                     "icon": "logo_46",
                     "children": [
                         {
-                            "id": "overview_of_our_design_workflow_and_how_it_integrates_with_product_and_development_teams",
+                            "id": "4340aa38-4071-52f5-a9e5-d19f5cf446d2",
+                            "parent_id": "333efa6d-cffa-5e46-89ac-82b1dfbc327a",
                             "type": "action",
-                            "end_of_day": 2,
                             "title": "Overview of our design workflow and how it integrates with product and development teams.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 2,
+                            "length_in_days": 1,
                             "action": "Review the design workflow documentation.",
                             "description": "Understanding our design workflow will help you navigate the process from ideation to execution. This includes collaboration with product and development teams to ensure that designs are feasible and aligned with product goals.",
                             "content_instructions": {
@@ -81,24 +133,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_product_vision",
+            "id": "171f9cdb-65d5-5100-8126-cae3f398dcff",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Familiarize with Our Product Vision",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 5,
-            "icon": "logo_47",
+            "length_in_days": 3,
+            "action": "Review the product vision and related strategic documents.",
+            "description": "Understanding the product vision guides user-centered design aligned with business objectives.",
+            "content_instructions": {
+                "role": "professional product manager",
+                "topic": "Understand the product vision and how it informs design decisions."
+            },
+            "icon": "logo_4",
             "children": [
                 {
-                    "id": "product_roadmap_and_strategy",
+                    "id": "f9bc788f-ca36-550a-b3d9-b23269754b02",
+                    "parent_id": "171f9cdb-65d5-5100-8126-cae3f398dcff",
                     "type": "module",
                     "title": "Product Roadmap and Strategy",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 3,
+                    "length_in_days": 1,
+                    "action": "Review the product roadmap and strategic documents.",
+                    "description": "Understanding the product roadmap helps create user-centered designs aligned with business goals.",
+                    "content_instructions": {
+                        "role": "professional product manager",
+                        "topic": "Understand the product roadmap and how design aligns with the overall strategy."
+                    },
                     "icon": "logo_47",
                     "children": [
                         {
-                            "id": "understand_the_product_roadmap_and_how_design_aligns_with_the_overall_strategy",
+                            "id": "fe727ee6-95e7-5d1c-bbec-84e8a4fc9a4a",
+                            "parent_id": "f9bc788f-ca36-550a-b3d9-b23269754b02",
                             "type": "action",
-                            "end_of_day": 3,
                             "title": "Understand the product roadmap and how design aligns with the overall strategy.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 3,
+                            "length_in_days": 1,
                             "action": "Review the product roadmap and strategic documents.",
                             "description": "The product roadmap outlines the vision and direction for our products. Understanding how design fits into this roadmap will help you create user-centered designs that align with business goals.",
                             "content_instructions": {
@@ -110,17 +183,29 @@
                     ]
                 },
                 {
-                    "id": "target_users_and_personas",
+                    "id": "455b620f-341f-58bb-96c0-74d65e06f6bd",
+                    "parent_id": "171f9cdb-65d5-5100-8126-cae3f398dcff",
                     "type": "module",
                     "title": "Target Users and Personas",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 4,
+                    "length_in_days": 1,
+                    "action": "Review user personas and research findings.",
+                    "description": "Understanding target users and their personas guides design decisions and resonates with the audience.",
+                    "content_instructions": {
+                        "role": "professional UX researcher",
+                        "topic": "Learn about the key target users and personas our designs cater to."
+                    },
                     "icon": "logo_48",
                     "children": [
                         {
-                            "id": "learn_about_the_key_target_users_and_personas_our_designs_cater_to",
+                            "id": "da4bbde0-7a54-57b4-ad04-f450fe2a165d",
+                            "parent_id": "455b620f-341f-58bb-96c0-74d65e06f6bd",
                             "type": "action",
-                            "end_of_day": 4,
                             "title": "Learn about the key target users and personas our designs cater to.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 4,
+                            "length_in_days": 1,
                             "action": "Review user personas and research findings.",
                             "description": "Understanding our target users and their personas is critical for creating effective designs. This knowledge will guide your design decisions and ensure that your work resonates with our audience.",
                             "content_instructions": {
@@ -132,17 +217,29 @@
                     ]
                 },
                 {
-                    "id": "long_term_design_goals",
+                    "id": "ecb9a265-ace2-56c4-906a-c6e8396e5974",
+                    "parent_id": "171f9cdb-65d5-5100-8126-cae3f398dcff",
                     "type": "module",
                     "title": "Long-Term Design Goals",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 5,
+                    "length_in_days": 1,
+                    "action": "Discuss long-term design goals with your manager.",
+                    "description": "Aligning work with long-term design goals enhances contributions to design initiatives.",
+                    "content_instructions": {
+                        "role": "professional design lead",
+                        "topic": "Overview of the long-term design goals and their impact on the product."
+                    },
                     "icon": "logo_49",
                     "children": [
                         {
-                            "id": "overview_of_the_long_term_design_goals_and_their_impact_on_the_product",
+                            "id": "06f52cfc-af33-5591-a4c4-18020823d7b7",
+                            "parent_id": "ecb9a265-ace2-56c4-906a-c6e8396e5974",
                             "type": "action",
-                            "end_of_day": 5,
                             "title": "Overview of the long-term design goals and their impact on the product.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 5,
+                            "length_in_days": 1,
                             "action": "Discuss long-term design goals with your manager.",
                             "description": "Understanding our long-term design goals will help you align your work with the company's vision. This knowledge will empower you to contribute meaningfully to our design initiatives.",
                             "content_instructions": {
@@ -156,24 +253,45 @@
             ]
         },
         {
-            "id": "our_design_system_and_guidelines",
+            "id": "f7c5c41b-bb50-5553-9551-5a54c250a6f1",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Our Design System and Guidelines",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 7,
+            "length_in_days": 2,
+            "action": "Explore the design system documentation and review branding guidelines.",
+            "description": "Overview of our design system, branding guidelines, and design consistency across platforms.",
+            "content_instructions": {
+                "role": "professional UI designer",
+                "topic": "Introduction to our design system and commonly used UI components"
+            },
             "icon": "logo_50",
             "children": [
                 {
-                    "id": "ui_components_and_patterns",
+                    "id": "8bec587c-fc5d-5322-ba2b-8a8e3e1b7fc9",
+                    "parent_id": "f7c5c41b-bb50-5553-9551-5a54c250a6f1",
                     "type": "module",
                     "title": "UI Components and Patterns",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 6,
+                    "length_in_days": 1,
+                    "action": "Explore the design system documentation.",
+                    "description": "Understand the design system to ensure consistency and efficiency in your designs.",
+                    "content_instructions": {
+                        "role": "professional UI designer",
+                        "topic": "Introduction to our design system and commonly used UI components"
+                    },
                     "icon": "logo_50",
                     "children": [
                         {
-                            "id": "introduction_to_our_design_system_and_commonly_used_ui_components",
+                            "id": "89f124c0-cc5e-5888-b5e5-9abe19f729c7",
+                            "parent_id": "8bec587c-fc5d-5322-ba2b-8a8e3e1b7fc9",
                             "type": "action",
-                            "end_of_day": 6,
                             "title": "Introduction to our design system and commonly used UI components.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 6,
+                            "length_in_days": 1,
                             "action": "Explore the design system documentation.",
                             "description": "Familiarizing yourself with our design system will help you maintain consistency and efficiency in your designs. This includes understanding the UI components and patterns that are commonly used across our products.",
                             "content_instructions": {
@@ -185,17 +303,29 @@
                     ]
                 },
                 {
-                    "id": "branding_guidelines",
+                    "id": "c61afc4e-e30e-551e-8701-0e0f67dca80a",
+                    "parent_id": "f7c5c41b-bb50-5553-9551-5a54c250a6f1",
                     "type": "module",
                     "title": "Branding Guidelines",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 7,
+                    "length_in_days": 1,
+                    "action": "Review the branding guidelines documentation.",
+                    "description": "Understanding branding guidelines ensures designs align with the company's identity.",
+                    "content_instructions": {
+                        "role": "professional brand manager",
+                        "topic": "Understand our branding guidelines and how they influence design."
+                    },
                     "icon": "logo_1",
                     "children": [
                         {
-                            "id": "understand_our_branding_guidelines_and_how_they_influence_design",
+                            "id": "d9ad5583-37b7-56e8-bf13-6099e246dd86",
+                            "parent_id": "c61afc4e-e30e-551e-8701-0e0f67dca80a",
                             "type": "action",
-                            "end_of_day": 7,
                             "title": "Understand our branding guidelines and how they influence design.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 7,
+                            "length_in_days": 1,
                             "action": "Review the branding guidelines documentation.",
                             "description": "Our branding guidelines are essential for ensuring that all designs align with the company's identity. Understanding these guidelines will help you create designs that are not only functional but also representative of our brand.",
                             "content_instructions": {
@@ -207,17 +337,29 @@
                     ]
                 },
                 {
-                    "id": "consistency_across_platforms",
+                    "id": "264dbc94-d43d-5484-ad03-660a912397a0",
+                    "parent_id": "f7c5c41b-bb50-5553-9551-5a54c250a6f1",
                     "type": "module",
                     "title": "Consistency Across Platforms",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 7,
+                    "length_in_days": 1,
+                    "action": "Explore examples of consistent design implementations.",
+                    "description": "Understanding and applying design systems across devices ensures a seamless user experience.",
+                    "content_instructions": {
+                        "role": "professional UX/UI designer",
+                        "topic": "Learn about ensuring design consistency across various platforms and devices."
+                    },
                     "icon": "logo_18",
                     "children": [
                         {
-                            "id": "learn_about_ensuring_design_consistency_across_various_platforms_and_devices",
+                            "id": "e9590e83-eb66-508e-b521-afb592440ce5",
+                            "parent_id": "264dbc94-d43d-5484-ad03-660a912397a0",
                             "type": "action",
-                            "end_of_day": 7,
                             "title": "Learn about ensuring design consistency across various platforms and devices.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 7,
+                            "length_in_days": 1,
                             "action": "Explore examples of consistent design implementations.",
                             "description": "Ensuring consistency across platforms is crucial for providing a seamless user experience. This involves understanding how to apply our design system across different devices and interfaces.",
                             "content_instructions": {
@@ -231,24 +373,45 @@
             ]
         },
         {
-            "id": "understanding_our_user_research_and_personas",
+            "id": "e88f693c-4a24-5f1e-ada3-30d634e728f1",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Understanding Our User Research and Personas",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 10,
-            "icon": "logo_11",
+            "length_in_days": 3,
+            "action": "Review user research documentation and methodologies.",
+            "description": "User research methods and personas are vital for informed, user-centered design.",
+            "content_instructions": {
+                "role": "professional UX researcher",
+                "topic": "Overview of the user research methods we use to gather insights."
+            },
+            "icon": "logo_48",
             "children": [
                 {
-                    "id": "user_research_methods",
+                    "id": "68f71546-14a2-5076-a6d6-f3f6c6183576",
+                    "parent_id": "e88f693c-4a24-5f1e-ada3-30d634e728f1",
                     "type": "module",
                     "title": "User Research Methods",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 8,
+                    "length_in_days": 1,
+                    "action": "Review user research documentation and methodologies.",
+                    "description": "Explore various user research methods to enhance design decisions and ensure user-centered outcomes.",
+                    "content_instructions": {
+                        "role": "professional UX researcher",
+                        "topic": "Overview of the user research methods we use to gather insights."
+                    },
                     "icon": "logo_11",
                     "children": [
                         {
-                            "id": "overview_of_the_user_research_methods_we_use_to_gather_insights",
+                            "id": "03a77f45-0136-5298-8b61-39149db42b10",
+                            "parent_id": "68f71546-14a2-5076-a6d6-f3f6c6183576",
                             "type": "action",
-                            "end_of_day": 8,
                             "title": "Overview of the user research methods we use to gather insights.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 8,
+                            "length_in_days": 1,
                             "action": "Review user research documentation and methodologies.",
                             "description": "Understanding our user research methods will equip you with the tools needed to gather valuable insights. This knowledge will inform your design decisions and ensure they are user-centered.",
                             "content_instructions": {
@@ -260,17 +423,29 @@
                     ]
                 },
                 {
-                    "id": "creating_and_updating_personas",
+                    "id": "2d4b94e3-d14e-59ab-8ba1-ea8714491bac",
+                    "parent_id": "e88f693c-4a24-5f1e-ada3-30d634e728f1",
                     "type": "module",
                     "title": "Creating and Updating Personas",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 9,
+                    "length_in_days": 1,
+                    "action": "Participate in a persona creation workshop.",
+                    "description": "User personas are developed through research to accurately represent our audience.",
+                    "content_instructions": {
+                        "role": "professional UX designer",
+                        "topic": "Learn how we create and maintain user personas based on research findings."
+                    },
                     "icon": "logo_2",
                     "children": [
                         {
-                            "id": "learn_how_we_create_and_maintain_user_personas_based_on_research_findings",
+                            "id": "733ffa4e-d01b-5eb3-b377-eb609e25172f",
+                            "parent_id": "2d4b94e3-d14e-59ab-8ba1-ea8714491bac",
                             "type": "action",
-                            "end_of_day": 9,
                             "title": "Learn how we create and maintain user personas based on research findings.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 9,
+                            "length_in_days": 1,
                             "action": "Participate in a persona creation workshop.",
                             "description": "Creating and maintaining user personas is essential for understanding our audience. This process involves synthesizing research findings to develop accurate representations of our users.",
                             "content_instructions": {
@@ -282,17 +457,29 @@
                     ]
                 },
                 {
-                    "id": "analyzing_user_behavior",
+                    "id": "358eaef8-fb91-53af-bc54-77b41700ef5f",
+                    "parent_id": "e88f693c-4a24-5f1e-ada3-30d634e728f1",
                     "type": "module",
                     "title": "Analyzing User Behavior",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 10,
+                    "length_in_days": 1,
+                    "action": "Review analytics tools and user behavior analysis techniques.",
+                    "description": "Insights into user interactions guide informed design decisions for better user experience.",
+                    "content_instructions": {
+                        "role": "professional data analyst",
+                        "topic": "Introduction to techniques for analyzing user behavior to inform design decisions."
+                    },
                     "icon": "logo_8",
                     "children": [
                         {
-                            "id": "introduction_to_techniques_for_analyzing_user_behavior_to_inform_design_decisions",
+                            "id": "bdf68d40-6056-5fae-8d39-efcc679a259c",
+                            "parent_id": "358eaef8-fb91-53af-bc54-77b41700ef5f",
                             "type": "action",
-                            "end_of_day": 10,
                             "title": "Introduction to techniques for analyzing user behavior to inform design decisions.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 10,
+                            "length_in_days": 1,
                             "action": "Review analytics tools and user behavior analysis techniques.",
                             "description": "Analyzing user behavior provides critical insights into how users interact with our products. Understanding these techniques will help you make informed design decisions that enhance user experience.",
                             "content_instructions": {
@@ -306,24 +493,45 @@
             ]
         },
         {
-            "id": "our_product_and_user_flows",
+            "id": "2a95a57d-34db-5b1a-be74-8c362f82804e",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Our Product and User Flows",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 13,
-            "icon": "logo_4",
+            "length_in_days": 3,
+            "action": "Create a user journey map for a specific user persona.",
+            "description": "Understanding product and user flows enhances design by visualizing user interactions and experiences.",
+            "content_instructions": {
+                "role": "professional UX designer",
+                "topic": "Learn how to map user journeys and understand key user touchpoints."
+            },
+            "icon": "logo_46",
             "children": [
                 {
-                    "id": "user_journey_mapping",
+                    "id": "30910384-9741-5507-a117-8ac9426418ea",
+                    "parent_id": "2a95a57d-34db-5b1a-be74-8c362f82804e",
                     "type": "module",
                     "title": "User Journey Mapping",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 11,
+                    "length_in_days": 1,
+                    "action": "Create a user journey map for a specific user persona.",
+                    "description": "Mapping user journeys visualizes user experiences and identifies key touchpoints for better design.",
+                    "content_instructions": {
+                        "role": "professional UX designer",
+                        "topic": "Learn how to map user journeys and understand key user touchpoints."
+                    },
                     "icon": "logo_4",
                     "children": [
                         {
-                            "id": "learn_how_to_map_user_journeys_and_understand_key_user_touchpoints",
+                            "id": "fd111847-2568-5c92-9253-5269bc3dc073",
+                            "parent_id": "30910384-9741-5507-a117-8ac9426418ea",
                             "type": "action",
-                            "end_of_day": 11,
                             "title": "Learn how to map user journeys and understand key user touchpoints.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 11,
+                            "length_in_days": 1,
                             "action": "Create a user journey map for a specific user persona.",
                             "description": "Mapping user journeys helps visualize the user's experience and identify key touchpoints. This understanding is crucial for designing effective user experiences that meet user needs.",
                             "content_instructions": {
@@ -335,17 +543,29 @@
                     ]
                 },
                 {
-                    "id": "wireflow_and_interaction_design",
+                    "id": "963efa22-9b47-521a-a98e-fc87f9aa7b33",
+                    "parent_id": "2a95a57d-34db-5b1a-be74-8c362f82804e",
                     "type": "module",
                     "title": "Wireflow and Interaction Design",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 12,
+                    "length_in_days": 1,
+                    "action": "Review examples of wireflows and interaction designs.",
+                    "description": "Wireflows and interaction design are crucial for intuitive user experiences and seamless interactions.",
+                    "content_instructions": {
+                        "role": "professional interaction designer",
+                        "topic": "Overview of wireflows and interaction design principles for building user-centric products."
+                    },
                     "icon": "logo_3",
                     "children": [
                         {
-                            "id": "overview_of_wireflows_and_interaction_design_principles_for_building_user_centric_products",
+                            "id": "a2299a88-1ebf-51c7-ac5e-4e478716956c",
+                            "parent_id": "963efa22-9b47-521a-a98e-fc87f9aa7b33",
                             "type": "action",
-                            "end_of_day": 12,
                             "title": "Overview of wireflows and interaction design principles for building user-centric products.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 12,
+                            "length_in_days": 1,
                             "action": "Review examples of wireflows and interaction designs.",
                             "description": "Wireflows and interaction design are essential for creating intuitive user experiences. Understanding these principles will help you design user-centric products that facilitate seamless interactions.",
                             "content_instructions": {
@@ -357,17 +577,29 @@
                     ]
                 },
                 {
-                    "id": "usability_testing_feedback",
+                    "id": "092e375e-7d5f-57a2-b803-76728de2a06d",
+                    "parent_id": "2a95a57d-34db-5b1a-be74-8c362f82804e",
                     "type": "module",
                     "title": "Usability Testing Feedback",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 13,
+                    "length_in_days": 1,
+                    "action": "Participate in a usability testing session.",
+                    "description": "Usability testing validates design decisions and enhances user experience through actionable feedback.",
+                    "content_instructions": {
+                        "role": "professional usability tester",
+                        "topic": "Learn how to conduct usability testing and gather actionable feedback."
+                    },
                     "icon": "logo_5",
                     "children": [
                         {
-                            "id": "learn_how_to_conduct_usability_testing_and_gather_actionable_feedback",
+                            "id": "6a6b6b11-13f9-5613-9236-a73ea615bc27",
+                            "parent_id": "092e375e-7d5f-57a2-b803-76728de2a06d",
                             "type": "action",
-                            "end_of_day": 13,
                             "title": "Learn how to conduct usability testing and gather actionable feedback.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 13,
+                            "length_in_days": 1,
                             "action": "Participate in a usability testing session.",
                             "description": "Conducting usability testing is crucial for validating design decisions. Gathering actionable feedback from users will inform your design iterations and enhance the overall user experience.",
                             "content_instructions": {
@@ -381,24 +613,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_wireframing_and_prototyping_tools",
+            "id": "c9c8194c-412a-5f63-b1e1-933edfce302d",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Familiarize with Our Wireframing and Prototyping Tools",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 16,
-            "icon": "logo_7",
+            "length_in_days": 3,
+            "action": "Explore the features of our prototyping tools.",
+            "description": "Understanding wireframing and prototyping tools is important for effective design.",
+            "content_instructions": {
+                "role": "professional UI designer",
+                "topic": "Introduction to the wireframing and prototyping tools we use."
+            },
+            "icon": "logo_46",
             "children": [
                 {
-                    "id": "prototyping_software_overview",
+                    "id": "64cab2e8-a573-52c9-8551-9ba5eb3e3117",
+                    "parent_id": "c9c8194c-412a-5f63-b1e1-933edfce302d",
                     "type": "module",
                     "title": "Prototyping Software Overview",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 14,
+                    "length_in_days": 1,
+                    "action": "Explore the features of our prototyping tools.",
+                    "description": "Learn about Figma and Sketch to improve your interactive design skills.",
+                    "content_instructions": {
+                        "role": "professional UI designer",
+                        "topic": "Introduction to the prototyping software we use, such as Figma and Sketch."
+                    },
                     "icon": "logo_7",
                     "children": [
                         {
-                            "id": "introduction_to_the_prototyping_software_we_use_such_as_figma_and_sketch",
+                            "id": "99e02113-c0a0-5888-a7f1-d733a1bff22d",
+                            "parent_id": "64cab2e8-a573-52c9-8551-9ba5eb3e3117",
                             "type": "action",
-                            "end_of_day": 14,
                             "title": "Introduction to the prototyping software we use, such as Figma and Sketch.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 14,
+                            "length_in_days": 1,
                             "action": "Explore the features of our prototyping tools.",
                             "description": "Familiarizing yourself with our prototyping software is essential for creating interactive designs. Understanding the features of tools like Figma and Sketch will enhance your design workflow.",
                             "content_instructions": {
@@ -410,17 +663,29 @@
                     ]
                 },
                 {
-                    "id": "creating_interactive_prototypes",
+                    "id": "94495741-0249-5a26-9f99-dfba34b77858",
+                    "parent_id": "c9c8194c-412a-5f63-b1e1-933edfce302d",
                     "type": "module",
                     "title": "Creating Interactive Prototypes",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 15,
+                    "length_in_days": 1,
+                    "action": "Build an interactive prototype for a specific user flow.",
+                    "description": "Interactive prototypes help visualize user flows and test design concepts effectively.",
+                    "content_instructions": {
+                        "role": "professional prototyping expert",
+                        "topic": "Learn how to create interactive prototypes to visualize user flows."
+                    },
                     "icon": "logo_14",
                     "children": [
                         {
-                            "id": "learn_how_to_create_interactive_prototypes_to_visualize_user_flows",
+                            "id": "5b63c581-96b7-5917-8435-7f6a6607190a",
+                            "parent_id": "94495741-0249-5a26-9f99-dfba34b77858",
                             "type": "action",
-                            "end_of_day": 15,
                             "title": "Learn how to create interactive prototypes to visualize user flows.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 15,
+                            "length_in_days": 1,
                             "action": "Build an interactive prototype for a specific user flow.",
                             "description": "Creating interactive prototypes allows you to visualize user flows and test design concepts. This skill is essential for presenting ideas to stakeholders and gathering feedback.",
                             "content_instructions": {
@@ -432,17 +697,29 @@
                     ]
                 },
                 {
-                    "id": "feedback_and_iteration_process",
+                    "id": "b397e893-e2c4-515d-918d-d7f6675c6c63",
+                    "parent_id": "c9c8194c-412a-5f63-b1e1-933edfce302d",
                     "type": "module",
                     "title": "Feedback and Iteration Process",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 16,
+                    "length_in_days": 1,
+                    "action": "Review the feedback and iteration process documentation.",
+                    "description": "Gathering feedback on prototypes enhances design quality through user input iteration.",
+                    "content_instructions": {
+                        "role": "professional design lead",
+                        "topic": "Overview of how we gather feedback on prototypes and iterate based on user input."
+                    },
                     "icon": "logo_6",
                     "children": [
                         {
-                            "id": "overview_of_how_we_gather_feedback_on_prototypes_and_iterate_based_on_user_input",
+                            "id": "18c65b30-dfa8-5ba2-9f3b-a8357e39f98a",
+                            "parent_id": "b397e893-e2c4-515d-918d-d7f6675c6c63",
                             "type": "action",
-                            "end_of_day": 16,
                             "title": "Overview of how we gather feedback on prototypes and iterate based on user input.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 16,
+                            "length_in_days": 1,
                             "action": "Review the feedback and iteration process documentation.",
                             "description": "Gathering feedback on prototypes is a critical step in the design process. Understanding how to iterate based on user input will enhance the quality of your designs.",
                             "content_instructions": {
@@ -456,24 +733,45 @@
             ]
         },
         {
-            "id": "collaborating_with_our_product_and_development_teams",
+            "id": "f758e3f3-77ed-5877-82a5-a0a3dca08a1a",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Collaborating with Our Product and Development Teams",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 19,
-            "icon": "logo_23",
+            "length_in_days": 3,
+            "action": "Participate in regular sync meetings and design handoff sessions.",
+            "description": "Collaboration with product and development teams ensures alignment and successful implementation of design visions.",
+            "content_instructions": {
+                "role": "professional design manager",
+                "topic": "Learn how to hand off designs to the development team effectively."
+            },
+            "icon": "logo_6",
             "children": [
                 {
-                    "id": "handing_off_designs",
+                    "id": "45889ea2-057b-5781-a1a5-37d4c1069ae8",
+                    "parent_id": "f758e3f3-77ed-5877-82a5-a0a3dca08a1a",
                     "type": "module",
                     "title": "Handing Off Designs",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 17,
+                    "length_in_days": 1,
+                    "action": "Participate in a design handoff session.",
+                    "description": "Design handoff ensures the development team understands your vision through clear communication and necessary assets.",
+                    "content_instructions": {
+                        "role": "professional design manager",
+                        "topic": "Learn how to hand off designs to the development team effectively."
+                    },
                     "icon": "logo_23",
                     "children": [
                         {
-                            "id": "learn_how_to_hand_off_designs_to_the_development_team_effectively",
+                            "id": "d2c5f963-384c-59e0-8418-e430fd575760",
+                            "parent_id": "45889ea2-057b-5781-a1a5-37d4c1069ae8",
                             "type": "action",
-                            "end_of_day": 17,
                             "title": "Learn how to hand off designs to the development team effectively.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 17,
+                            "length_in_days": 1,
                             "action": "Participate in a design handoff session.",
                             "description": "Effective design handoff is crucial for ensuring that the development team understands your vision. This process involves clear communication and providing all necessary assets.",
                             "content_instructions": {
@@ -485,17 +783,29 @@
                     ]
                 },
                 {
-                    "id": "design_and_development_syncs",
+                    "id": "b73b2346-dcad-5f4e-9ee8-2b4c6610df30",
+                    "parent_id": "f758e3f3-77ed-5877-82a5-a0a3dca08a1a",
                     "type": "module",
                     "title": "Design and Development Syncs",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 18,
+                    "length_in_days": 1,
+                    "action": "Schedule regular sync meetings with development teams.",
+                    "description": "Regular syncs with development teams align design and development efforts and address challenges.",
+                    "content_instructions": {
+                        "role": "professional project coordinator",
+                        "topic": "Understand the importance of syncing with development teams throughout the design process."
+                    },
                     "icon": "logo_12",
                     "children": [
                         {
-                            "id": "understand_the_importance_of_syncing_with_development_teams_throughout_the_design_process",
+                            "id": "45842e6b-4667-502f-9a34-2f6c0329c7e8",
+                            "parent_id": "b73b2346-dcad-5f4e-9ee8-2b4c6610df30",
                             "type": "action",
-                            "end_of_day": 18,
                             "title": "Understand the importance of syncing with development teams throughout the design process.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 18,
+                            "length_in_days": 1,
                             "action": "Schedule regular sync meetings with development teams.",
                             "description": "Syncing with development teams is essential for aligning design and development efforts. Regular communication will help address challenges and ensure that designs are implemented accurately.",
                             "content_instructions": {
@@ -507,17 +817,29 @@
                     ]
                 },
                 {
-                    "id": "iterating_based_on_developer_feedback",
+                    "id": "53baeaff-0ed5-5159-bb74-24584a1c5845",
+                    "parent_id": "f758e3f3-77ed-5877-82a5-a0a3dca08a1a",
                     "type": "module",
                     "title": "Iterating Based on Developer Feedback",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 19,
+                    "length_in_days": 1,
+                    "action": "Review feedback from developers on past design projects.",
+                    "description": "Incorporating developer feedback enhances collaboration and improves design outcomes.",
+                    "content_instructions": {
+                        "role": "professional UX designer",
+                        "topic": "Overview of how design iterations are informed by developer feedback"
+                    },
                     "icon": "logo_37",
                     "children": [
                         {
-                            "id": "overview_of_how_design_iterations_are_informed_by_developer_feedback",
+                            "id": "ec212add-4eae-56f8-8413-785fc3a86e5b",
+                            "parent_id": "53baeaff-0ed5-5159-bb74-24584a1c5845",
                             "type": "action",
-                            "end_of_day": 19,
                             "title": "Overview of how design iterations are informed by developer feedback.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 19,
+                            "length_in_days": 1,
                             "action": "Review feedback from developers on past design projects.",
                             "description": "Incorporating developer feedback into your design iterations is crucial for creating feasible and implementable designs. Understanding this process will enhance collaboration and improve design outcomes.",
                             "content_instructions": {
@@ -531,24 +853,45 @@
             ]
         },
         {
-            "id": "our_accessibility_guidelines_and_best_practices",
+            "id": "d63d12f7-e727-569d-a69f-d083463f6119",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Our Accessibility Guidelines and Best Practices",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 21,
+            "length_in_days": 2,
+            "action": "Review the WCAG guidelines documentation and explore accessible design patterns.",
+            "description": "Guidelines and best practices for creating accessible designs and ensuring compliance with standards.",
+            "content_instructions": {
+                "role": "professional accessibility consultant",
+                "topic": "Introduction to WCAG guidelines and best practices for ensuring accessibility compliance"
+            },
             "icon": "logo_13",
             "children": [
                 {
-                    "id": "wcag_guidelines_overview",
+                    "id": "a64452c8-e62c-5bbf-92d3-647fc1d9cbb0",
+                    "parent_id": "d63d12f7-e727-569d-a69f-d083463f6119",
                     "type": "module",
                     "title": "WCAG Guidelines Overview",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 20,
+                    "length_in_days": 1,
+                    "action": "Review the WCAG guidelines documentation.",
+                    "description": "Overview of WCAG guidelines and their role in ensuring accessible designs.",
+                    "content_instructions": {
+                        "role": "professional accessibility consultant",
+                        "topic": "Introduction to WCAG guidelines and how we ensure accessibility compliance"
+                    },
                     "icon": "logo_13",
                     "children": [
                         {
-                            "id": "introduction_to_wcag_guidelines_and_how_we_ensure_accessibility_compliance",
+                            "id": "09480c66-6986-56e9-9d61-f161ded311e6",
+                            "parent_id": "a64452c8-e62c-5bbf-92d3-647fc1d9cbb0",
                             "type": "action",
-                            "end_of_day": 20,
                             "title": "Introduction to WCAG guidelines and how we ensure accessibility compliance.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 20,
+                            "length_in_days": 1,
                             "action": "Review the WCAG guidelines documentation.",
                             "description": "Understanding WCAG guidelines is essential for creating accessible designs. Familiarizing yourself with these standards will help you ensure that our products are usable for all individuals.",
                             "content_instructions": {
@@ -560,17 +903,29 @@
                     ]
                 },
                 {
-                    "id": "accessible_design_patterns",
+                    "id": "f7f0c0e6-9349-51c7-9a14-f9f754d0848d",
+                    "parent_id": "d63d12f7-e727-569d-a69f-d083463f6119",
                     "type": "module",
                     "title": "Accessible Design Patterns",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 21,
+                    "length_in_days": 1,
+                    "action": "Explore examples of accessible design patterns in our products.",
+                    "description": "Understanding accessible design patterns is crucial for creating inclusive user experiences.",
+                    "content_instructions": {
+                        "role": "professional UX designer",
+                        "topic": "Learn about accessible design patterns and their application in our products."
+                    },
                     "icon": "logo_16",
                     "children": [
                         {
-                            "id": "learn_about_accessible_design_patterns_and_their_application_in_our_products",
+                            "id": "ca3a7d71-6b43-5cf0-a158-d11ef7d7a454",
+                            "parent_id": "f7f0c0e6-9349-51c7-9a14-f9f754d0848d",
                             "type": "action",
-                            "end_of_day": 21,
                             "title": "Learn about accessible design patterns and their application in our products.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 21,
+                            "length_in_days": 1,
                             "action": "Explore examples of accessible design patterns in our products.",
                             "description": "Understanding accessible design patterns is crucial for creating inclusive user experiences. This knowledge will guide your design decisions and ensure compliance with accessibility standards.",
                             "content_instructions": {
@@ -582,17 +937,29 @@
                     ]
                 },
                 {
-                    "id": "testing_for_accessibility_compliance",
+                    "id": "e213df30-df9d-504b-90b6-32970995c0bf",
+                    "parent_id": "d63d12f7-e727-569d-a69f-d083463f6119",
                     "type": "module",
                     "title": "Testing for Accessibility Compliance",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 21,
+                    "length_in_days": 1,
+                    "action": "Participate in an accessibility testing workshop.",
+                    "description": "Understanding tools and processes for accessibility testing ensures designs meet WCAG standards.",
+                    "content_instructions": {
+                        "role": "professional accessibility tester",
+                        "topic": "Overview of tools and processes for testing design accessibility compliance"
+                    },
                     "icon": "logo_15",
                     "children": [
                         {
-                            "id": "overview_of_tools_and_processes_for_testing_design_accessibility_compliance",
+                            "id": "89c05af3-8084-58bc-b530-239bf42b542e",
+                            "parent_id": "e213df30-df9d-504b-90b6-32970995c0bf",
                             "type": "action",
-                            "end_of_day": 21,
                             "title": "Overview of tools and processes for testing design accessibility compliance.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 21,
+                            "length_in_days": 1,
                             "action": "Participate in an accessibility testing workshop.",
                             "description": "Testing for accessibility compliance is essential for ensuring that our designs meet WCAG standards. Familiarizing yourself with the tools and processes will enhance your ability to create inclusive designs.",
                             "content_instructions": {
@@ -606,24 +973,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_visual_design_principles",
+            "id": "e364fb09-30b3-5b1c-9b24-6ea2694407be",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Familiarize with Our Visual Design Principles",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 24,
-            "icon": "logo_33",
+            "length_in_days": 3,
+            "action": "Review resources on color theory, typography, and iconography standards.",
+            "description": "Learn key visual design principles for effective communication and aesthetic appeal.",
+            "content_instructions": {
+                "role": "professional graphic designer",
+                "topic": "Understand the principles of color theory, typography, and iconography in design."
+            },
+            "icon": "logo_44",
             "children": [
                 {
-                    "id": "color_theory_and_contrast",
+                    "id": "822e22f8-0238-59b0-bd10-f132900b9a10",
+                    "parent_id": "e364fb09-30b3-5b1c-9b24-6ea2694407be",
                     "type": "module",
                     "title": "Color Theory and Contrast",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 22,
+                    "length_in_days": 1,
+                    "action": "Review color theory resources and examples.",
+                    "description": "Understanding color theory and contrast enhances the aesthetic of design work.",
+                    "content_instructions": {
+                        "role": "professional graphic designer",
+                        "topic": "Understand the principles of color theory and contrast in design."
+                    },
                     "icon": "logo_33",
                     "children": [
                         {
-                            "id": "understand_the_principles_of_color_theory_and_contrast_in_design",
+                            "id": "5db42613-738c-59bd-b5e5-b621fb0f0229",
+                            "parent_id": "822e22f8-0238-59b0-bd10-f132900b9a10",
                             "type": "action",
-                            "end_of_day": 22,
                             "title": "Understand the principles of color theory and contrast in design.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 22,
+                            "length_in_days": 1,
                             "action": "Review color theory resources and examples.",
                             "description": "Understanding color theory and contrast is essential for creating visually appealing designs. This knowledge will guide your color choices and enhance the overall aesthetic of your work.",
                             "content_instructions": {
@@ -635,17 +1023,29 @@
                     ]
                 },
                 {
-                    "id": "typography_and_hierarchy",
+                    "id": "01bf553a-5a36-59ae-8505-73c5b7570a71",
+                    "parent_id": "e364fb09-30b3-5b1c-9b24-6ea2694407be",
                     "type": "module",
                     "title": "Typography and Hierarchy",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 23,
+                    "length_in_days": 1,
+                    "action": "Analyze typography examples in our design library.",
+                    "description": "Applying typography and hierarchy principles enhances readability and impact in design.",
+                    "content_instructions": {
+                        "role": "professional typographer",
+                        "topic": "Learn how to apply typography and hierarchy principles to create effective designs."
+                    },
                     "icon": "logo_44",
                     "children": [
                         {
-                            "id": "learn_how_to_apply_typography_and_hierarchy_principles_to_create_effective_designs",
+                            "id": "3eb7d57d-6a16-51bf-95e0-ecab91ff9e0e",
+                            "parent_id": "01bf553a-5a36-59ae-8505-73c5b7570a71",
                             "type": "action",
-                            "end_of_day": 23,
                             "title": "Learn how to apply typography and hierarchy principles to create effective designs.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 23,
+                            "length_in_days": 1,
                             "action": "Analyze typography examples in our design library.",
                             "description": "Applying typography and hierarchy principles is crucial for effective communication in design. Understanding these principles will enhance the readability and impact of your designs.",
                             "content_instructions": {
@@ -657,17 +1057,29 @@
                     ]
                 },
                 {
-                    "id": "iconography_standards",
+                    "id": "8d7f39f9-8078-54a5-98f7-e2ab24d78436",
+                    "parent_id": "e364fb09-30b3-5b1c-9b24-6ea2694407be",
                     "type": "module",
                     "title": "Iconography Standards",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 24,
+                    "length_in_days": 1,
+                    "action": "Review our iconography standards and guidelines.",
+                    "description": "Iconography standards help create a cohesive visual language for designs.",
+                    "content_instructions": {
+                        "role": "professional icon designer",
+                        "topic": "Overview of iconography standards and how they contribute to consistent visual design."
+                    },
                     "icon": "logo_9",
                     "children": [
                         {
-                            "id": "overview_of_iconography_standards_and_how_they_contribute_to_consistent_visual_design",
+                            "id": "d69188db-09ee-5563-bbac-100d25cecbc7",
+                            "parent_id": "8d7f39f9-8078-54a5-98f7-e2ab24d78436",
                             "type": "action",
-                            "end_of_day": 24,
                             "title": "Overview of iconography standards and how they contribute to consistent visual design.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 24,
+                            "length_in_days": 1,
                             "action": "Review our iconography standards and guidelines.",
                             "description": "Understanding iconography standards is essential for creating a cohesive visual language. This knowledge will guide your icon choices and enhance the overall consistency of your designs.",
                             "content_instructions": {
@@ -681,24 +1093,45 @@
             ]
         },
         {
-            "id": "introduction_to_our_ui_design_tools",
+            "id": "c92a3507-ea09-59b0-b046-7fcfb638a567",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Introduction to Our UI Design Tools",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 27,
-            "icon": "logo_32",
+            "length_in_days": 3,
+            "action": "Explore the features of Figma and Sketch.",
+            "description": "Overview of Figma and Sketch features for improved design workflow.",
+            "content_instructions": {
+                "role": "professional UI designer",
+                "topic": "Introduction to the UI design software we use and their features."
+            },
+            "icon": "logo_44",
             "children": [
                 {
-                    "id": "ui_design_software_figma_sketch_etc",
+                    "id": "2eb614d8-42ff-53b0-b58d-818c0c40efa6",
+                    "parent_id": "c92a3507-ea09-59b0-b046-7fcfb638a567",
                     "type": "module",
                     "title": "UI Design Software (Figma, Sketch, etc.)",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 25,
+                    "length_in_days": 1,
+                    "action": "Explore the features of Figma and Sketch.",
+                    "description": "Overview of Figma and Sketch features for improved design workflow.",
+                    "content_instructions": {
+                        "role": "professional UI designer",
+                        "topic": "Introduction to the UI design software we use and their features."
+                    },
                     "icon": "logo_32",
                     "children": [
                         {
-                            "id": "introduction_to_the_ui_design_software_we_use_and_their_features",
+                            "id": "7547da76-dae8-5644-b089-53f937152428",
+                            "parent_id": "2eb614d8-42ff-53b0-b58d-818c0c40efa6",
                             "type": "action",
-                            "end_of_day": 25,
                             "title": "Introduction to the UI design software we use and their features.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 25,
+                            "length_in_days": 1,
                             "action": "Explore the features of Figma and Sketch.",
                             "description": "Familiarizing yourself with our UI design software is essential for creating high-quality designs. Understanding the features of tools like Figma and Sketch will enhance your design workflow and collaboration.",
                             "content_instructions": {
@@ -710,17 +1143,29 @@
                     ]
                 },
                 {
-                    "id": "designing_for_responsive_layouts",
+                    "id": "24b27ffb-813d-5722-a520-2a7582fa4859",
+                    "parent_id": "c92a3507-ea09-59b0-b046-7fcfb638a567",
                     "type": "module",
                     "title": "Designing for Responsive Layouts",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 26,
+                    "length_in_days": 1,
+                    "action": "Create a responsive design mockup for a specific user flow.",
+                    "description": "Focus on creating adaptable designs for various devices.",
+                    "content_instructions": {
+                        "role": "professional responsive designer",
+                        "topic": "Learn how to design for responsive layouts across different devices"
+                    },
                     "icon": "logo_17",
                     "children": [
                         {
-                            "id": "learn_how_to_design_for_responsive_layouts_across_different_devices",
+                            "id": "538134ab-6146-5a86-b4b9-b02acfa47204",
+                            "parent_id": "24b27ffb-813d-5722-a520-2a7582fa4859",
                             "type": "action",
-                            "end_of_day": 26,
                             "title": "Learn how to design for responsive layouts across different devices.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 26,
+                            "length_in_days": 1,
                             "action": "Create a responsive design mockup for a specific user flow.",
                             "description": "Designing for responsive layouts is crucial for ensuring that our products are usable on various devices. This skill will enhance your ability to create flexible and adaptable designs.",
                             "content_instructions": {
@@ -732,17 +1177,29 @@
                     ]
                 },
                 {
-                    "id": "collaborating_on_design_files",
+                    "id": "4621df69-42d4-5561-8b9e-2d95d37208f4",
+                    "parent_id": "c92a3507-ea09-59b0-b046-7fcfb638a567",
                     "type": "module",
                     "title": "Collaborating on Design Files",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 27,
+                    "length_in_days": 1,
+                    "action": "Review collaboration tools and practices.",
+                    "description": "Best practices enhance collaboration on design files for team input and feedback.",
+                    "content_instructions": {
+                        "role": "professional collaboration expert",
+                        "topic": "Understand best practices for collaborating on design files within our team."
+                    },
                     "icon": "logo_26",
                     "children": [
                         {
-                            "id": "understand_best_practices_for_collaborating_on_design_files_within_our_team",
+                            "id": "82e9c69b-d929-544a-b8e1-d334093c8005",
+                            "parent_id": "4621df69-42d4-5561-8b9e-2d95d37208f4",
                             "type": "action",
-                            "end_of_day": 27,
                             "title": "Understand best practices for collaborating on design files within our team.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 27,
+                            "length_in_days": 1,
                             "action": "Review collaboration tools and practices.",
                             "description": "Effective collaboration on design files is essential for ensuring that team members can provide input and feedback seamlessly. Understanding best practices will enhance your collaborative efforts.",
                             "content_instructions": {
@@ -756,24 +1213,45 @@
             ]
         },
         {
-            "id": "user_testing_and_feedback_collection_at_our_company",
+            "id": "a1c2ce28-61c0-5dc4-8910-4007a2628eca",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "User Testing and Feedback Collection at Our Company",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 29,
-            "icon": "logo_38",
+            "length_in_days": 2,
+            "action": "Review examples of both testing methods.",
+            "description": "Understanding user testing methods and feedback collection enhances design iterations and user-centered approaches.",
+            "content_instructions": {
+                "role": "professional usability researcher",
+                "topic": "Overview of the differences between moderated and unmoderated testing"
+            },
+            "icon": "logo_5",
             "children": [
                 {
-                    "id": "moderated_vs_unmoderated_testing",
+                    "id": "5d7601f4-7f72-53a1-8b9f-8ca8d6d3a100",
+                    "parent_id": "a1c2ce28-61c0-5dc4-8910-4007a2628eca",
                     "type": "module",
                     "title": "Moderated vs Unmoderated Testing",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 28,
+                    "length_in_days": 1,
+                    "action": "Review examples of both testing methods.",
+                    "description": "Explore the key differences between moderated and unmoderated testing methods.",
+                    "content_instructions": {
+                        "role": "professional usability researcher",
+                        "topic": "Overview of the differences between moderated and unmoderated testing"
+                    },
                     "icon": "logo_38",
                     "children": [
                         {
-                            "id": "overview_of_the_differences_between_moderated_and_unmoderated_testing",
+                            "id": "5ebd311e-2d7f-587e-8f06-aeb7736765c3",
+                            "parent_id": "5d7601f4-7f72-53a1-8b9f-8ca8d6d3a100",
                             "type": "action",
-                            "end_of_day": 28,
                             "title": "Overview of the differences between moderated and unmoderated testing.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 28,
+                            "length_in_days": 1,
                             "action": "Review examples of both testing methods.",
                             "description": "Understanding the differences between moderated and unmoderated testing is crucial for selecting the appropriate method for gathering user feedback. This knowledge will enhance your testing strategies.",
                             "content_instructions": {
@@ -785,17 +1263,29 @@
                     ]
                 },
                 {
-                    "id": "gathering_and_synthesizing_feedback",
+                    "id": "b95362be-1e3d-5054-80a7-c6c6fb928c5a",
+                    "parent_id": "a1c2ce28-61c0-5dc4-8910-4007a2628eca",
                     "type": "module",
                     "title": "Gathering and Synthesizing Feedback",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 29,
+                    "length_in_days": 1,
+                    "action": "Participate in a feedback synthesis workshop.",
+                    "description": "Gathering and synthesizing feedback from user testing informs design iterations.",
+                    "content_instructions": {
+                        "role": "professional UX researcher",
+                        "topic": "Learn how to gather and synthesize feedback from user testing."
+                    },
                     "icon": "logo_29",
                     "children": [
                         {
-                            "id": "learn_how_to_gather_and_synthesize_feedback_from_user_testing",
+                            "id": "f7f6f0e4-20f4-5d0e-b4a3-a33fe4687d5f",
+                            "parent_id": "b95362be-1e3d-5054-80a7-c6c6fb928c5a",
                             "type": "action",
-                            "end_of_day": 29,
                             "title": "Learn how to gather and synthesize feedback from user testing.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 29,
+                            "length_in_days": 1,
                             "action": "Participate in a feedback synthesis workshop.",
                             "description": "Gathering and synthesizing feedback from user testing is essential for informing design iterations. This process will enhance your ability to create user-centered designs.",
                             "content_instructions": {
@@ -807,17 +1297,29 @@
                     ]
                 },
                 {
-                    "id": "iterating_on_design_based_on_feedback",
+                    "id": "9729458e-8e70-540a-9e36-3fab0d6ae386",
+                    "parent_id": "a1c2ce28-61c0-5dc4-8910-4007a2628eca",
                     "type": "module",
                     "title": "Iterating on Design Based on Feedback",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 29,
+                    "length_in_days": 1,
+                    "action": "Review past design iterations and their outcomes.",
+                    "description": "Iterating on designs based on feedback improves user experience and enhances design decision-making.",
+                    "content_instructions": {
+                        "role": "professional design lead",
+                        "topic": "Understand how to iterate on designs based on feedback from users and stakeholders."
+                    },
                     "icon": "logo_10",
                     "children": [
                         {
-                            "id": "understand_how_to_iterate_on_designs_based_on_feedback_from_users_and_stakeholders",
+                            "id": "c6baacb8-84fc-5e25-a6b5-d5a2aa3595a7",
+                            "parent_id": "9729458e-8e70-540a-9e36-3fab0d6ae386",
                             "type": "action",
-                            "end_of_day": 29,
                             "title": "Understand how to iterate on designs based on feedback from users and stakeholders.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 29,
+                            "length_in_days": 1,
                             "action": "Review past design iterations and their outcomes.",
                             "description": "Iterating on designs based on feedback is crucial for improving user experience. Understanding this process will enhance your design decision-making and effectiveness.",
                             "content_instructions": {
@@ -831,24 +1333,45 @@
             ]
         },
         {
-            "id": "our_design_review_and_approval_process",
+            "id": "c2805ebc-350b-50af-9b20-8ba9d6976e83",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Our Design Review and Approval Process",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 30,
-            "icon": "logo_40",
+            "length_in_days": 1,
+            "action": "Engage in the design review and approval process.",
+            "description": "An overview of the design review and approval process, highlighting critique sessions and stakeholder engagement.",
+            "content_instructions": {
+                "role": "professional design manager",
+                "topic": "Overview of the design review and approval process, including critique sessions and stakeholder feedback."
+            },
+            "icon": "logo_14",
             "children": [
                 {
-                    "id": "design_critique_sessions",
+                    "id": "7c3be148-a2c4-5583-bb59-777cfdd0cbd5",
+                    "parent_id": "c2805ebc-350b-50af-9b20-8ba9d6976e83",
                     "type": "module",
                     "title": "Design Critique Sessions",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 30,
+                    "length_in_days": 1,
+                    "action": "Attend a design critique session.",
+                    "description": "Participating in design critique sessions enhances design skills through constructive feedback.",
+                    "content_instructions": {
+                        "role": "professional design reviewer",
+                        "topic": "Learn how to participate in and contribute to design critique sessions"
+                    },
                     "icon": "logo_40",
                     "children": [
                         {
-                            "id": "learn_how_to_participate_in_and_contribute_to_design_critique_sessions",
+                            "id": "897b97b7-b3d7-5943-8067-c51662139b85",
+                            "parent_id": "7c3be148-a2c4-5583-bb59-777cfdd0cbd5",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Learn how to participate in and contribute to design critique sessions.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 30,
+                            "length_in_days": 1,
                             "action": "Attend a design critique session.",
                             "description": "Participating in design critique sessions is essential for receiving constructive feedback and improving your designs. This collaborative process will enhance your design skills.",
                             "content_instructions": {
@@ -860,17 +1383,29 @@
                     ]
                 },
                 {
-                    "id": "final_review_and_sign_off",
+                    "id": "d2e4f31a-51a3-5b11-881d-99fb764de304",
+                    "parent_id": "c2805ebc-350b-50af-9b20-8ba9d6976e83",
                     "type": "module",
                     "title": "Final Review and Sign-Off",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 30,
+                    "length_in_days": 1,
+                    "action": "Review the final design approval process.",
+                    "description": "Understanding the final review and sign-off process is crucial for meeting stakeholder expectations.",
+                    "content_instructions": {
+                        "role": "professional design manager",
+                        "topic": "Overview of the process for final design review and sign-off by stakeholders"
+                    },
                     "icon": "logo_21",
                     "children": [
                         {
-                            "id": "overview_of_the_process_for_final_design_review_and_sign_off_by_stakeholders",
+                            "id": "9cddc6f3-b9d9-52af-9a6b-82969547db97",
+                            "parent_id": "d2e4f31a-51a3-5b11-881d-99fb764de304",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Overview of the process for final design review and sign-off by stakeholders.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 30,
+                            "length_in_days": 1,
                             "action": "Review the final design approval process.",
                             "description": "Understanding the final review and sign-off process is crucial for ensuring that your designs meet stakeholder expectations. This knowledge will enhance your ability to deliver high-quality work.",
                             "content_instructions": {
@@ -882,17 +1417,29 @@
                     ]
                 },
                 {
-                    "id": "stakeholder_presentation",
+                    "id": "2d5d9be0-4903-57aa-86d7-d8ea5066fbcf",
+                    "parent_id": "c2805ebc-350b-50af-9b20-8ba9d6976e83",
                     "type": "module",
                     "title": "Stakeholder Presentation",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 30,
+                    "length_in_days": 0,
+                    "action": "Prepare a presentation for stakeholders on a recent design project.",
+                    "description": "Presenting designs to stakeholders helps gather feedback and ensures alignment on design decisions.",
+                    "content_instructions": {
+                        "role": "professional presentation coach",
+                        "topic": "Understand how to present designs to stakeholders and gather final feedback."
+                    },
                     "icon": "logo_2",
                     "children": [
                         {
-                            "id": "understand_how_to_present_designs_to_stakeholders_and_gather_final_feedback",
+                            "id": "be62c488-2d8c-5364-bec4-3f31feaaa829",
+                            "parent_id": "2d5d9be0-4903-57aa-86d7-d8ea5066fbcf",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Understand how to present designs to stakeholders and gather final feedback.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 30,
+                            "length_in_days": 0,
                             "action": "Prepare a presentation for stakeholders on a recent design project.",
                             "description": "Presenting designs to stakeholders is essential for gathering final feedback and ensuring alignment. This skill will enhance your ability to communicate design rationale effectively.",
                             "content_instructions": {
@@ -906,24 +1453,45 @@
             ]
         },
         {
-            "id": "ongoing_learning_and_design_trends_in_our_company",
+            "id": "1ce406d2-9f6a-5a5d-90d1-b73209f1e25e",
+            "parent_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "type": "section",
             "title": "Ongoing Learning and Design Trends in Our Company",
+            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
             "end_of_day": 31,
-            "icon": "logo_36",
+            "length_in_days": 1,
+            "action": "Sign up for upcoming design trend workshops and explore the design resources library.",
+            "description": "Engaging in design trend workshops and accessing resources fosters continuous professional development.",
+            "content_instructions": {
+                "role": "professional workshop facilitator",
+                "topic": "Learn about design trend workshops and opportunities for continuous learning."
+            },
+            "icon": "logo_44",
             "children": [
                 {
-                    "id": "design_trend_workshops",
+                    "id": "a1f40e2e-fe5e-5bfa-9da8-1706fba3a305",
+                    "parent_id": "1ce406d2-9f6a-5a5d-90d1-b73209f1e25e",
                     "type": "module",
                     "title": "Design Trend Workshops",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Sign up for upcoming design trend workshops.",
+                    "description": "Participating in design trend workshops helps enhance skills and stay updated on industry trends.",
+                    "content_instructions": {
+                        "role": "professional workshop facilitator",
+                        "topic": "Learn about design trend workshops and opportunities for continuous learning."
+                    },
                     "icon": "logo_36",
                     "children": [
                         {
-                            "id": "learn_about_design_trend_workshops_and_opportunities_for_continuous_learning",
+                            "id": "2b78a131-5182-5a9f-9b8a-074cba0f68e5",
+                            "parent_id": "a1f40e2e-fe5e-5bfa-9da8-1706fba3a305",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn about design trend workshops and opportunities for continuous learning.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Sign up for upcoming design trend workshops.",
                             "description": "Participating in design trend workshops is a valuable way to stay updated on industry trends and enhance your skills. These workshops provide insights into emerging design practices.",
                             "content_instructions": {
@@ -935,17 +1503,29 @@
                     ]
                 },
                 {
-                    "id": "access_to_design_resources",
+                    "id": "094c559a-bd41-5d77-bfaa-de3ae9e0f6c9",
+                    "parent_id": "1ce406d2-9f6a-5a5d-90d1-b73209f1e25e",
                     "type": "module",
                     "title": "Access to Design Resources",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Explore the design resources library.",
+                    "description": "Accessing design resources enhances design knowledge and skills for professional development.",
+                    "content_instructions": {
+                        "role": "professional learning manager",
+                        "topic": "Overview of the design resources available for ongoing professional development."
+                    },
                     "icon": "logo_22",
                     "children": [
                         {
-                            "id": "overview_of_the_design_resources_available_for_ongoing_professional_development",
+                            "id": "db02e03b-7815-55ff-aac3-266cd5889347",
+                            "parent_id": "094c559a-bd41-5d77-bfaa-de3ae9e0f6c9",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Overview of the design resources available for ongoing professional development.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Explore the design resources library.",
                             "description": "Accessing design resources is essential for continuous professional development. Familiarizing yourself with available resources will enhance your design knowledge and skills.",
                             "content_instructions": {
@@ -957,17 +1537,29 @@
                     ]
                 },
                 {
-                    "id": "continuous_feedback_and_growth",
+                    "id": "32fdd8f2-5ef0-5fbc-84fd-d0ad129ffddb",
+                    "parent_id": "1ce406d2-9f6a-5a5d-90d1-b73209f1e25e",
                     "type": "module",
                     "title": "Continuous Feedback and Growth",
+                    "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Participate in a feedback session with your manager.",
+                    "description": "Feedback loops are vital for designers' growth and skill enhancement.",
+                    "content_instructions": {
+                        "role": "professional development coach",
+                        "topic": "Understand the feedback loops in place to ensure continuous growth as a designer."
+                    },
                     "icon": "logo_40",
                     "children": [
                         {
-                            "id": "understand_the_feedback_loops_in_place_to_ensure_continuous_growth_as_a_designer",
+                            "id": "4c098d9e-8ab1-5bef-8433-32c1efa9b651",
+                            "parent_id": "32fdd8f2-5ef0-5fbc-84fd-d0ad129ffddb",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Understand the feedback loops in place to ensure continuous growth as a designer.",
+                            "root_id": "0dac46eb-504d-5fe5-bc7b-82c1d9f0102f",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Participate in a feedback session with your manager.",
                             "description": "Understanding the feedback loops in place is crucial for your growth as a designer. Engaging in regular feedback sessions will enhance your skills and ensure alignment with team goals.",
                             "content_instructions": {

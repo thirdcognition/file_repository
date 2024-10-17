@@ -2,6 +2,7 @@ import asyncio
 import json
 import os
 import textwrap
+from openai import APIConnectionError
 from pydantic import BaseModel, Field
 import yaml
 from dotenv import load_dotenv
@@ -12,6 +13,7 @@ from langchain_core.messages import (
     SystemMessage,
 )
 from langchain_core.prompts.chat import HumanMessagePromptTemplate
+from langchain_core.rate_limiters import InMemoryRateLimiter
 
 # Load environment variables from .env file
 load_dotenv()
@@ -62,6 +64,11 @@ prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
+rate_limiter = InMemoryRateLimiter(
+    requests_per_second=4,  # <-- Super slow! We can only make a request once every 10 seconds!!
+    check_every_n_seconds=0.1,  # Wake up every 100 ms to check whether allowed to make a request,
+    max_bucket_size=4,  # Controls the maximum burst size.
+)
 
 # Initialize Azure OpenAI
 llm = AzureChatOpenAI(
@@ -74,6 +81,7 @@ llm = AzureChatOpenAI(
     max_retries=2,
     verbose=True,
     temperature=0.1,
+    rate_limiter=rate_limiter
 )
 
 
@@ -142,26 +150,42 @@ async def invoke_chain(actions, journey, exclude_used_logos=False):
             ]
         )
 
-    response = await chain.ainvoke(
-        {
-            "content": "\n\n".join(
-                [
-                    textwrap.dedent(
-                        f"""
-                        Title: {action["description"].replace("\n", " ").strip()}
-                        Description:
-                        {action["content"]}
-                        Action: {action["action"].replace("\n", " ").strip()}
-                        """
-                    )
-                    for action in actions
-                ]
-            ),
-            "available_logos": available_logos,
-            "format_instructions": parser.get_format_instructions(),
-        }
-    )
+    max_retries = 3
+    retry_interval = 1  # seconds
+    response = None
+
+    for attempt in range(max_retries):
+        try:
+            response = await chain.ainvoke(
+                {
+                    "content": "\n\n".join(
+                        [
+                            textwrap.dedent(
+                                f"""
+                                Title: {action["description"].replace("\n", " ").strip()}
+                                Description:
+                                {action["content"]}
+                                Action: {action["action"].replace("\n", " ").strip()}
+                                """
+                            )
+                            for action in actions
+                        ]
+                    ),
+                    "available_logos": available_logos,
+                    "format_instructions": parser.get_format_instructions(),
+                }
+            )
+            break  # Exit the loop if the request was successful
+
+        except APIConnectionError as e:
+            if attempt < max_retries - 1:  # Not the last attempt
+                print(f"APIConnectionError: {e}. Retrying in {retry_interval} seconds...")
+                await asyncio.sleep(retry_interval)
+            else:
+                print("Max retries reached. Failed to get response.")
+                raise  # Re-raise the exception if max retries are reached
     return response
+
 
 async def invoke_chain_with_converted_item(converted_items):
     available_logos = "\n\n".join(
@@ -191,6 +215,7 @@ async def invoke_chain_with_converted_item(converted_items):
         }
     )
     return response
+
 
 async def process_logos(
     actions,
@@ -337,15 +362,16 @@ async def main():
         )
 
 
-asyncio.run(main())
+if __name__ == "__main__":
+    asyncio.run(main())
 
-print(f"All logos used: {', '.join(all_logos_used)}")
-print(f"Logos not used: {', '.join(set(logos.keys()) - all_logos_used)}")
+    print(f"All logos used: {', '.join(all_logos_used)}")
+    print(f"Logos not used: {', '.join(set(logos.keys()) - all_logos_used)}")
 
-# Perform a json dump
-response_json = json.dumps(templates, indent=2)  # .model_dump_json(indent=2)
-# print(response_json)
+    # Perform a json dump
+    response_json = json.dumps(templates, indent=2)  # .model_dump_json(indent=2)
+    # print(response_json)
 
-# Save templates into templates_new.json
-with open(os.path.join(files_dir, "templates_new.json"), "w") as file:
-    json.dump(templates, file, indent=2)
+    # Save templates into templates_new.json
+    with open(os.path.join(files_dir, "templates_new.json"), "w") as file:
+        json.dump(templates, file, indent=2)

@@ -1,928 +1,928 @@
 [
     {
-        "id": "engineering_development",
+        "key": "engineering_development",
         "title": "Engineering & Development",
         "children": [
             {
-                "id": "software_engineer",
+                "key": "software_engineer",
                 "title": "Software Engineer"
             },
             {
-                "id": "devops_engineer",
+                "key": "devops_engineer",
                 "title": "DevOps Engineer"
             },
             {
-                "id": "data_scientist",
+                "key": "data_scientist",
                 "title": "Data Scientist"
             },
             {
-                "id": "ux_ui_designer",
+                "key": "ux_ui_designer",
                 "title": "UX/UI Designer"
             },
             {
-                "id": "qa_engineer",
+                "key": "qa_engineer",
                 "title": "QA Engineer"
             },
             {
-                "id": "mobile_app_developer",
+                "key": "mobile_app_developer",
                 "title": "Mobile App Developer"
             },
             {
-                "id": "web_developer",
+                "key": "web_developer",
                 "title": "Web Developer"
             },
             {
-                "id": "embedded_systems_engineer",
+                "key": "embedded_systems_engineer",
                 "title": "Embedded Systems Engineer"
             },
             {
-                "id": "ai_ml_engineer",
+                "key": "ai_ml_engineer",
                 "title": "AI/ML Engineer"
             },
             {
-                "id": "blockchain_developer",
+                "key": "blockchain_developer",
                 "title": "Blockchain Developer"
             },
             {
-                "id": "game_developer",
+                "key": "game_developer",
                 "title": "Game Developer"
             },
             {
-                "id": "technical_architect",
+                "key": "technical_architect",
                 "title": "Technical Architect"
             },
             {
-                "id": "systems_engineer",
+                "key": "systems_engineer",
                 "title": "Systems Engineer"
             },
             {
-                "id": "front_end_developer",
+                "key": "front-end_developer",
                 "title": "Front-End Developer"
             },
             {
-                "id": "back_end_developer",
+                "key": "back-end_developer",
                 "title": "Back-End Developer"
             },
             {
-                "id": "full_stack_developer",
+                "key": "full_stack_developer",
                 "title": "Full Stack Developer"
             }
         ]
     },
     {
-        "id": "product_project_management",
+        "key": "product_project_management",
         "title": "Product & Project Management",
         "children": [
             {
-                "id": "product_manager",
+                "key": "product_manager",
                 "title": "Product Manager"
             },
             {
-                "id": "technical_program_manager",
+                "key": "technical_program_manager",
                 "title": "Technical Program Manager"
             },
             {
-                "id": "scrum_master",
+                "key": "scrum_master",
                 "title": "Scrum Master"
             },
             {
-                "id": "project_manager",
+                "key": "project_manager",
                 "title": "Project Manager"
             },
             {
-                "id": "portfolio_manager",
+                "key": "portfolio_manager",
                 "title": "Portfolio Manager"
             },
             {
-                "id": "agile_coach",
+                "key": "agile_coach",
                 "title": "Agile Coach"
             },
             {
-                "id": "business_analyst",
+                "key": "business_analyst",
                 "title": "Business Analyst"
             },
             {
-                "id": "user_researcher",
+                "key": "user_researcher",
                 "title": "User Researcher"
             },
             {
-                "id": "innovation_manager",
+                "key": "innovation_manager",
                 "title": "Innovation Manager"
             },
             {
-                "id": "risk_manager",
+                "key": "risk_manager",
                 "title": "Risk Manager"
             },
             {
-                "id": "product_owner",
+                "key": "product_owner",
                 "title": "Product Owner"
             },
             {
-                "id": "program_manager",
+                "key": "program_manager",
                 "title": "Program Manager"
             },
             {
-                "id": "service_delivery_manager",
+                "key": "service_delivery_manager",
                 "title": "Service Delivery Manager"
             },
             {
-                "id": "business_transformation_manager",
+                "key": "business_transformation_manager",
                 "title": "Business Transformation Manager"
             }
         ]
     },
     {
-        "id": "it_infrastructure",
+        "key": "it_infrastructure",
         "title": "IT & Infrastructure",
         "children": [
             {
-                "id": "it_support_specialist",
+                "key": "it_support_specialist",
                 "title": "IT Support Specialist"
             },
             {
-                "id": "cloud_engineer",
+                "key": "cloud_engineer",
                 "title": "Cloud Engineer"
             },
             {
-                "id": "systems_administrator",
+                "key": "systems_administrator",
                 "title": "Systems Administrator"
             },
             {
-                "id": "network_engineer",
+                "key": "network_engineer",
                 "title": "Network Engineer"
             },
             {
-                "id": "database_administrator",
+                "key": "database_administrator",
                 "title": "Database Administrator"
             },
             {
-                "id": "infrastructure_architect",
+                "key": "infrastructure_architect",
                 "title": "Infrastructure Architect"
             },
             {
-                "id": "it_asset_manager",
+                "key": "it_asset_manager",
                 "title": "IT Asset Manager"
             },
             {
-                "id": "it_project_coordinator",
+                "key": "it_project_coordinator",
                 "title": "IT Project Coordinator"
             },
             {
-                "id": "cloud_solutions_architect",
+                "key": "cloud_solutions_architect",
                 "title": "Cloud Solutions Architect"
             },
             {
-                "id": "help_desk_technician",
+                "key": "help_desk_technician",
                 "title": "Help Desk Technician"
             },
             {
-                "id": "data_center_technician",
+                "key": "data_center_technician",
                 "title": "Data Center Technician"
             },
             {
-                "id": "virtualization_engineer",
+                "key": "virtualization_engineer",
                 "title": "Virtualization Engineer"
             },
             {
-                "id": "enterprise_architect",
+                "key": "enterprise_architect",
                 "title": "Enterprise Architect"
             },
             {
-                "id": "cloud_security_engineer",
+                "key": "cloud_security_engineer",
                 "title": "Cloud Security Engineer"
             },
             {
-                "id": "server_administrator",
+                "key": "server_administrator",
                 "title": "Server Administrator"
             }
         ]
     },
     {
-        "id": "sales_marketing",
+        "key": "sales_marketing",
         "title": "Sales & Marketing",
         "children": [
             {
-                "id": "sales_engineer",
+                "key": "sales_engineer",
                 "title": "Sales Engineer"
             },
             {
-                "id": "digital_marketing_specialist",
+                "key": "digital_marketing_specialist",
                 "title": "Digital Marketing Specialist"
             },
             {
-                "id": "customer_success_manager",
+                "key": "customer_success_manager",
                 "title": "Customer Success Manager"
             },
             {
-                "id": "sales_operations_manager",
+                "key": "sales_operations_manager",
                 "title": "Sales Operations Manager"
             },
             {
-                "id": "account_executive",
+                "key": "account_executive",
                 "title": "Account Executive"
             },
             {
-                "id": "seo_specialist",
+                "key": "seo_specialist",
                 "title": "SEO Specialist"
             },
             {
-                "id": "content_strategist",
+                "key": "content_strategist",
                 "title": "Content Strategist"
             },
             {
-                "id": "social_media_manager",
+                "key": "social_media_manager",
                 "title": "Social Media Manager"
             },
             {
-                "id": "marketing_analyst",
+                "key": "marketing_analyst",
                 "title": "Marketing Analyst"
             },
             {
-                "id": "brand_manager",
+                "key": "brand_manager",
                 "title": "Brand Manager"
             },
             {
-                "id": "affiliate_marketing_manager",
+                "key": "affiliate_marketing_manager",
                 "title": "Affiliate Marketing Manager"
             },
             {
-                "id": "email_marketing_specialist",
+                "key": "email_marketing_specialist",
                 "title": "Email Marketing Specialist"
             },
             {
-                "id": "lead_generation_specialist",
+                "key": "lead_generation_specialist",
                 "title": "Lead Generation Specialist"
             },
             {
-                "id": "business_development_representative",
+                "key": "business_development_representative",
                 "title": "Business Development Representative"
             },
             {
-                "id": "salesforce_administrator",
+                "key": "salesforce_administrator",
                 "title": "Salesforce Administrator"
             }
         ]
     },
     {
-        "id": "finance_operations",
+        "key": "finance_operations",
         "title": "Finance & Operations",
         "children": [
             {
-                "id": "financial_analyst",
+                "key": "financial_analyst",
                 "title": "Financial Analyst"
             },
             {
-                "id": "hr_manager",
+                "key": "hr_manager",
                 "title": "HR Manager"
             },
             {
-                "id": "operations_manager",
+                "key": "operations_manager",
                 "title": "Operations Manager"
             },
             {
-                "id": "payroll_specialist",
+                "key": "payroll_specialist",
                 "title": "Payroll Specialist"
             },
             {
-                "id": "chief_financial_officer",
+                "key": "chief_financial_officer",
                 "title": "Chief Financial Officer"
             },
             {
-                "id": "financial_planner",
+                "key": "financial_planner",
                 "title": "Financial Planner"
             },
             {
-                "id": "risk_analyst",
+                "key": "risk_analyst",
                 "title": "Risk Analyst"
             },
             {
-                "id": "internal_auditor",
+                "key": "internal_auditor",
                 "title": "Internal Auditor"
             },
             {
-                "id": "tax_specialist",
+                "key": "tax_specialist",
                 "title": "Tax Specialist"
             },
             {
-                "id": "procurement_manager",
+                "key": "procurement_manager",
                 "title": "Procurement Manager"
             },
             {
-                "id": "supply_chain_manager",
+                "key": "supply_chain_manager",
                 "title": "Supply Chain Manager"
             },
             {
-                "id": "revenue_analyst",
+                "key": "revenue_analyst",
                 "title": "Revenue Analyst"
             },
             {
-                "id": "controller",
+                "key": "controller",
                 "title": "Controller"
             },
             {
-                "id": "chief_operations_officer",
+                "key": "chief_operations_officer",
                 "title": "Chief Operations Officer"
             },
             {
-                "id": "workforce_planning_analyst",
+                "key": "workforce_planning_analyst",
                 "title": "Workforce Planning Analyst"
             },
             {
-                "id": "compensation_and_benefits_manager",
+                "key": "compensation_and_benefits_manager",
                 "title": "Compensation and Benefits Manager"
             }
         ]
     },
     {
-        "id": "leadership",
+        "key": "leadership",
         "title": "Leadership",
         "children": [
             {
-                "id": "cto_chief_technology_officer",
+                "key": "cto_chief_technology_officer",
                 "title": "CTO (Chief Technology Officer)"
             },
             {
-                "id": "vp_of_engineering",
+                "key": "vp_of_engineering",
                 "title": "VP of Engineering"
             },
             {
-                "id": "chief_product_officer_cpo",
+                "key": "chief_product_officer_cpo",
                 "title": "Chief Product Officer (CPO)"
             },
             {
-                "id": "ceo_chief_executive_officer",
+                "key": "ceo_chief_executive_officer",
                 "title": "CEO (Chief Executive Officer)"
             },
             {
-                "id": "cfo_chief_financial_officer",
+                "key": "cfo_chief_financial_officer",
                 "title": "CFO (Chief Financial Officer)"
             },
             {
-                "id": "coo_chief_operations_officer",
+                "key": "coo_chief_operations_officer",
                 "title": "COO (Chief Operations Officer)"
             },
             {
-                "id": "chief_marketing_officer",
+                "key": "chief_marketing_officer",
                 "title": "Chief Marketing Officer"
             },
             {
-                "id": "chief_customer_officer",
+                "key": "chief_customer_officer",
                 "title": "Chief Customer Officer"
             },
             {
-                "id": "chief_information_officer",
+                "key": "chief_information_officer",
                 "title": "Chief Information Officer"
             },
             {
-                "id": "chief_compliance_officer",
+                "key": "chief_compliance_officer",
                 "title": "Chief Compliance Officer"
             },
             {
-                "id": "chief_data_officer",
+                "key": "chief_data_officer",
                 "title": "Chief Data Officer"
             },
             {
-                "id": "chief_human_resources_officer",
+                "key": "chief_human_resources_officer",
                 "title": "Chief Human Resources Officer"
             },
             {
-                "id": "chief_experience_officer",
+                "key": "chief_experience_officer",
                 "title": "Chief Experience Officer"
             },
             {
-                "id": "managing_director",
+                "key": "managing_director",
                 "title": "Managing Director"
             },
             {
-                "id": "general_manager",
+                "key": "general_manager",
                 "title": "General Manager"
             }
         ]
     },
     {
-        "id": "security_compliance",
+        "key": "security_compliance",
         "title": "Security & Compliance",
         "children": [
             {
-                "id": "cybersecurity_analyst",
+                "key": "cybersecurity_analyst",
                 "title": "Cybersecurity Analyst"
             },
             {
-                "id": "security_operations_manager",
+                "key": "security_operations_manager",
                 "title": "Security Operations Manager"
             },
             {
-                "id": "compliance_officer",
+                "key": "compliance_officer",
                 "title": "Compliance Officer"
             },
             {
-                "id": "information_security_manager",
+                "key": "information_security_manager",
                 "title": "Information Security Manager"
             },
             {
-                "id": "data_privacy_officer",
+                "key": "data_privacy_officer",
                 "title": "Data Privacy Officer"
             },
             {
-                "id": "governance_risk_compliance_analyst",
+                "key": "governance_risk_compliance_analyst",
                 "title": "Governance Risk & Compliance Analyst"
             },
             {
-                "id": "penetration_tester",
+                "key": "penetration_tester",
                 "title": "Penetration Tester"
             },
             {
-                "id": "vulnerability_management_analyst",
+                "key": "vulnerability_management_analyst",
                 "title": "Vulnerability Management Analyst"
             },
             {
-                "id": "it_auditor",
+                "key": "it_auditor",
                 "title": "IT Auditor"
             },
             {
-                "id": "fraud_investigator",
+                "key": "fraud_investigator",
                 "title": "Fraud Investigator"
             },
             {
-                "id": "risk_and_compliance_manager",
+                "key": "risk_and_compliance_manager",
                 "title": "Risk and Compliance Manager"
             },
             {
-                "id": "security_consultant",
+                "key": "security_consultant",
                 "title": "Security Consultant"
             },
             {
-                "id": "chief_information_security_officer",
+                "key": "chief_information_security_officer",
                 "title": "Chief Information Security Officer"
             },
             {
-                "id": "incident_response_analyst",
+                "key": "incident_response_analyst",
                 "title": "Incident Response Analyst"
             },
             {
-                "id": "threat_intelligence_analyst",
+                "key": "threat_intelligence_analyst",
                 "title": "Threat Intelligence Analyst"
             }
         ]
     },
     {
-        "id": "consulting_strategy",
+        "key": "consulting_strategy",
         "title": "Consulting & Strategy",
         "children": [
             {
-                "id": "management_consultant",
+                "key": "management_consultant",
                 "title": "Management Consultant"
             },
             {
-                "id": "strategy_consultant",
+                "key": "strategy_consultant",
                 "title": "Strategy Consultant"
             },
             {
-                "id": "operations_consultant",
+                "key": "operations_consultant",
                 "title": "Operations Consultant"
             },
             {
-                "id": "it_consultant",
+                "key": "it_consultant",
                 "title": "IT Consultant"
             },
             {
-                "id": "hr_consultant",
+                "key": "hr_consultant",
                 "title": "HR Consultant"
             },
             {
-                "id": "sustainability_consultant",
+                "key": "sustainability_consultant",
                 "title": "Sustainability Consultant"
             },
             {
-                "id": "financial_consultant",
+                "key": "financial_consultant",
                 "title": "Financial Consultant"
             },
             {
-                "id": "legal_consultant",
+                "key": "legal_consultant",
                 "title": "Legal Consultant"
             },
             {
-                "id": "innovation_consultant",
+                "key": "innovation_consultant",
                 "title": "Innovation Consultant"
             },
             {
-                "id": "digital_transformation_consultant",
+                "key": "digital_transformation_consultant",
                 "title": "Digital Transformation Consultant"
             },
             {
-                "id": "change_management_consultant",
+                "key": "change_management_consultant",
                 "title": "Change Management Consultant"
             },
             {
-                "id": "healthcare_consultant",
+                "key": "healthcare_consultant",
                 "title": "Healthcare Consultant"
             },
             {
-                "id": "m_a_consultant",
+                "key": "m_a_consultant",
                 "title": "M&A Consultant"
             },
             {
-                "id": "energy_consultant",
+                "key": "energy_consultant",
                 "title": "Energy Consultant"
             },
             {
-                "id": "public_sector_consultant",
+                "key": "public_sector_consultant",
                 "title": "Public Sector Consultant"
             }
         ]
     },
     {
-        "id": "human_resources_talent",
+        "key": "human_resources_talent",
         "title": "Human Resources & Talent",
         "children": [
             {
-                "id": "talent_acquisition_specialist",
+                "key": "talent_acquisition_specialist",
                 "title": "Talent Acquisition Specialist"
             },
             {
-                "id": "recruitment_consultant",
+                "key": "recruitment_consultant",
                 "title": "Recruitment Consultant"
             },
             {
-                "id": "hr_generalist",
+                "key": "hr_generalist",
                 "title": "HR Generalist"
             },
             {
-                "id": "employee_relations_manager",
+                "key": "employee_relations_manager",
                 "title": "Employee Relations Manager"
             },
             {
-                "id": "learning_and_development_manager",
+                "key": "learning_and_development_manager",
                 "title": "Learning and Development Manager"
             },
             {
-                "id": "compensation_analyst",
+                "key": "compensation_analyst",
                 "title": "Compensation Analyst"
             },
             {
-                "id": "hr_business_partner",
+                "key": "hr_business_partner",
                 "title": "HR Business Partner"
             },
             {
-                "id": "organizational_development_consultant",
+                "key": "organizational_development_consultant",
                 "title": "Organizational Development Consultant"
             },
             {
-                "id": "hris_analyst",
+                "key": "hris_analyst",
                 "title": "HRIS Analyst"
             },
             {
-                "id": "benefits_coordinator",
+                "key": "benefits_coordinator",
                 "title": "Benefits Coordinator"
             },
             {
-                "id": "hr_compliance_manager",
+                "key": "hr_compliance_manager",
                 "title": "HR Compliance Manager"
             },
             {
-                "id": "diversity_and_inclusion_specialist",
+                "key": "diversity_and_inclusion_specialist",
                 "title": "Diversity and Inclusion Specialist"
             },
             {
-                "id": "talent_development_specialist",
+                "key": "talent_development_specialist",
                 "title": "Talent Development Specialist"
             },
             {
-                "id": "chief_human_resources_officer_1",
+                "key": "chief_human_resources_officer",
                 "title": "Chief Human Resources Officer"
             },
             {
-                "id": "labor_relations_manager",
+                "key": "labor_relations_manager",
                 "title": "Labor Relations Manager"
             }
         ]
     },
     {
-        "id": "creative_design",
+        "key": "creative_design",
         "title": "Creative & Design",
         "children": [
             {
-                "id": "graphic_designer",
+                "key": "graphic_designer",
                 "title": "Graphic Designer"
             },
             {
-                "id": "art_director",
+                "key": "art_director",
                 "title": "Art Director"
             },
             {
-                "id": "creative_director",
+                "key": "creative_director",
                 "title": "Creative Director"
             },
             {
-                "id": "brand_designer",
+                "key": "brand_designer",
                 "title": "Brand Designer"
             },
             {
-                "id": "motion_graphics_designer",
+                "key": "motion_graphics_designer",
                 "title": "Motion Graphics Designer"
             },
             {
-                "id": "copywriter",
+                "key": "copywriter",
                 "title": "Copywriter"
             },
             {
-                "id": "ui_ux_designer",
+                "key": "ui_ux_designer",
                 "title": "UI/UX Designer"
             },
             {
-                "id": "user_interface_designer",
+                "key": "user_interface_designer",
                 "title": "User Interface Designer"
             },
             {
-                "id": "industrial_designer",
+                "key": "industrial_designer",
                 "title": "Industrial Designer"
             },
             {
-                "id": "visual_designer",
+                "key": "visual_designer",
                 "title": "Visual Designer"
             },
             {
-                "id": "interior_designer",
+                "key": "interior_designer",
                 "title": "Interior Designer"
             },
             {
-                "id": "web_designer",
+                "key": "web_designer",
                 "title": "Web Designer"
             },
             {
-                "id": "product_designer",
+                "key": "product_designer",
                 "title": "Product Designer"
             },
             {
-                "id": "multimedia_specialist",
+                "key": "multimedia_specialist",
                 "title": "Multimedia Specialist"
             },
             {
-                "id": "illustrator",
+                "key": "illustrator",
                 "title": "Illustrator"
             }
         ]
     },
     {
-        "id": "legal_regulatory",
+        "key": "legal_regulatory",
         "title": "Legal & Regulatory",
         "children": [
             {
-                "id": "corporate_lawyer",
+                "key": "corporate_lawyer",
                 "title": "Corporate Lawyer"
             },
             {
-                "id": "compliance_analyst",
+                "key": "compliance_analyst",
                 "title": "Compliance Analyst"
             },
             {
-                "id": "paralegal",
+                "key": "paralegal",
                 "title": "Paralegal"
             },
             {
-                "id": "legal_consultant_1",
+                "key": "legal_consultant",
                 "title": "Legal Consultant"
             },
             {
-                "id": "intellectual_property_lawyer",
+                "key": "intellectual_property_lawyer",
                 "title": "Intellectual Property Lawyer"
             },
             {
-                "id": "litigation_manager",
+                "key": "litigation_manager",
                 "title": "Litigation Manager"
             },
             {
-                "id": "legal_operations_manager",
+                "key": "legal_operations_manager",
                 "title": "Legal Operations Manager"
             },
             {
-                "id": "regulatory_affairs_specialist",
+                "key": "regulatory_affairs_specialist",
                 "title": "Regulatory Affairs Specialist"
             },
             {
-                "id": "contract_administrator",
+                "key": "contract_administrator",
                 "title": "Contract Administrator"
             },
             {
-                "id": "employment_lawyer",
+                "key": "employment_lawyer",
                 "title": "Employment Lawyer"
             },
             {
-                "id": "general_counsel",
+                "key": "general_counsel",
                 "title": "General Counsel"
             },
             {
-                "id": "chief_legal_officer",
+                "key": "chief_legal_officer",
                 "title": "Chief Legal Officer"
             },
             {
-                "id": "data_protection_officer",
+                "key": "data_protection_officer",
                 "title": "Data Protection Officer"
             },
             {
-                "id": "mergers_and_acquisitions_lawyer",
+                "key": "mergers_and_acquisitions_lawyer",
                 "title": "Mergers and Acquisitions Lawyer"
             },
             {
-                "id": "environmental_lawyer",
+                "key": "environmental_lawyer",
                 "title": "Environmental Lawyer"
             }
         ]
     },
     {
-        "id": "research_development",
+        "key": "research_development",
         "title": "Research & Development",
         "children": [
             {
-                "id": "r_d_scientist",
+                "key": "r_d_scientist",
                 "title": "R&D Scientist"
             },
             {
-                "id": "clinical_research_coordinator",
+                "key": "clinical_research_coordinator",
                 "title": "Clinical Research Coordinator"
             },
             {
-                "id": "lab_technician",
+                "key": "lab_technician",
                 "title": "Lab Technician"
             },
             {
-                "id": "innovation_researcher",
+                "key": "innovation_researcher",
                 "title": "Innovation Researcher"
             },
             {
-                "id": "product_development_scientist",
+                "key": "product_development_scientist",
                 "title": "Product Development Scientist"
             },
             {
-                "id": "pharmaceutical_researcher",
+                "key": "pharmaceutical_researcher",
                 "title": "Pharmaceutical Researcher"
             },
             {
-                "id": "medical_device_engineer",
+                "key": "medical_device_engineer",
                 "title": "Medical Device Engineer"
             },
             {
-                "id": "biotechnology_researcher",
+                "key": "biotechnology_researcher",
                 "title": "Biotechnology Researcher"
             },
             {
-                "id": "food_scientist",
+                "key": "food_scientist",
                 "title": "Food Scientist"
             },
             {
-                "id": "chemical_engineer",
+                "key": "chemical_engineer",
                 "title": "Chemical Engineer"
             },
             {
-                "id": "materials_scientist",
+                "key": "materials_scientist",
                 "title": "Materials Scientist"
             },
             {
-                "id": "research_analyst",
+                "key": "research_analyst",
                 "title": "Research Analyst"
             },
             {
-                "id": "healthcare_researcher",
+                "key": "healthcare_researcher",
                 "title": "Healthcare Researcher"
             },
             {
-                "id": "policy_analyst",
+                "key": "policy_analyst",
                 "title": "Policy Analyst"
             },
             {
-                "id": "clinical_data_manager",
+                "key": "clinical_data_manager",
                 "title": "Clinical Data Manager"
             }
         ]
     },
     {
-        "id": "education_training",
+        "key": "education_training",
         "title": "Education & Training",
         "children": [
             {
-                "id": "curriculum_designer",
+                "key": "curriculum_designer",
                 "title": "Curriculum Designer"
             },
             {
-                "id": "instructional_designer",
+                "key": "instructional_designer",
                 "title": "Instructional Designer"
             },
             {
-                "id": "training_coordinator",
+                "key": "training_coordinator",
                 "title": "Training Coordinator"
             },
             {
-                "id": "corporate_trainer",
+                "key": "corporate_trainer",
                 "title": "Corporate Trainer"
             },
             {
-                "id": "e_learning_specialist",
+                "key": "e-learning_specialist",
                 "title": "E-Learning Specialist"
             },
             {
-                "id": "training_and_development_manager",
+                "key": "training_and_development_manager",
                 "title": "Training and Development Manager"
             },
             {
-                "id": "education_consultant",
+                "key": "education_consultant",
                 "title": "Education Consultant"
             },
             {
-                "id": "learning_experience_designer",
+                "key": "learning_experience_designer",
                 "title": "Learning Experience Designer"
             },
             {
-                "id": "technical_trainer",
+                "key": "technical_trainer",
                 "title": "Technical Trainer"
             },
             {
-                "id": "academic_program_manager",
+                "key": "academic_program_manager",
                 "title": "Academic Program Manager"
             },
             {
-                "id": "faculty_development_specialist",
+                "key": "faculty_development_specialist",
                 "title": "Faculty Development Specialist"
             },
             {
-                "id": "university_professor",
+                "key": "university_professor",
                 "title": "University Professor"
             },
             {
-                "id": "school_principal",
+                "key": "school_principal",
                 "title": "School Principal"
             },
             {
-                "id": "education_policy_analyst",
+                "key": "education_policy_analyst",
                 "title": "Education Policy Analyst"
             },
             {
-                "id": "learning_technologist",
+                "key": "learning_technologist",
                 "title": "Learning Technologist"
             }
         ]
     },
     {
-        "id": "customer_service",
+        "key": "customer_service",
         "title": "Customer Service",
         "children": [
             {
-                "id": "customer_support_specialist",
+                "key": "customer_support_specialist",
                 "title": "Customer Support Specialist"
             },
             {
-                "id": "call_center_manager",
+                "key": "call_center_manager",
                 "title": "Call Center Manager"
             },
             {
-                "id": "technical_support_analyst",
+                "key": "technical_support_analyst",
                 "title": "Technical Support Analyst"
             },
             {
-                "id": "customer_experience_manager",
+                "key": "customer_experience_manager",
                 "title": "Customer Experience Manager"
             },
             {
-                "id": "service_desk_analyst",
+                "key": "service_desk_analyst",
                 "title": "Service Desk Analyst"
             },
             {
-                "id": "help_desk_manager",
+                "key": "help_desk_manager",
                 "title": "Help Desk Manager"
             },
             {
-                "id": "customer_satisfaction_manager",
+                "key": "customer_satisfaction_manager",
                 "title": "Customer Satisfaction Manager"
             },
             {
-                "id": "client_relations_manager",
+                "key": "client_relations_manager",
                 "title": "Client Relations Manager"
             },
             {
-                "id": "customer_service_trainer",
+                "key": "customer_service_trainer",
                 "title": "Customer Service Trainer"
             },
             {
-                "id": "customer_retention_specialist",
+                "key": "customer_retention_specialist",
                 "title": "Customer Retention Specialist"
             },
             {
-                "id": "customer_operations_manager",
+                "key": "customer_operations_manager",
                 "title": "Customer Operations Manager"
             },
             {
-                "id": "support_engineer",
+                "key": "support_engineer",
                 "title": "Support Engineer"
             },
             {
-                "id": "live_chat_support_agent",
+                "key": "live_chat_support_agent",
                 "title": "Live Chat Support Agent"
             },
             {
-                "id": "customer_insights_analyst",
+                "key": "customer_insights_analyst",
                 "title": "Customer Insights Analyst"
             },
             {
-                "id": "remote_support_technician",
+                "key": "remote_support_technician",
                 "title": "Remote Support Technician"
             }
         ]

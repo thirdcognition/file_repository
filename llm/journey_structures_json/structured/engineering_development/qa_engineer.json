@@ -1,29 +1,57 @@
 {
-    "id": "qa_engineer",
+    "id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
     "type": "journey",
     "title": "QA Engineer",
     "end_of_day": 31,
-    "icon": "logo_3",
+    "length_in_days": 31,
+    "action": "Engage in testing activities and collaborate with development teams to ensure software quality.",
+    "description": "Focuses on testing methodologies, collaboration, and continuous improvement in quality assurance.",
+    "content_instructions": {
+        "role": "professional QA engineer",
+        "topic": "Overview of the responsibilities and skills required for a QA Engineer."
+    },
+    "icon": "logo_5",
     "children": [
         {
-            "id": "introduction_to_the_company_team_4",
+            "id": "f1f0e682-31af-559a-b3a4-0b31ed21715b",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Introduction to the Company & Team",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 2,
-            "icon": "logo_3",
+            "length_in_days": 2,
+            "action": "Familiarize yourself with the company structure and team roles to enhance collaboration.",
+            "description": "An overview of the company structure and team dynamics to foster collaboration.",
+            "content_instructions": {
+                "role": "professional project manager",
+                "topic": "Overview of the company structure and team dynamics."
+            },
+            "icon": "logo_2",
             "children": [
                 {
-                    "id": "qa_team_structure",
+                    "id": "1330b15b-5632-5c6b-b1be-15b1ce6e9f07",
+                    "parent_id": "f1f0e682-31af-559a-b3a4-0b31ed21715b",
                     "type": "module",
                     "title": "QA Team Structure",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 1,
+                    "length_in_days": 1,
+                    "action": "Review the organizational chart of the QA team and familiarize yourself with each member's role.",
+                    "description": "Understanding the QA team structure aids in identifying roles and fostering collaboration.",
+                    "content_instructions": {
+                        "role": "professional QA manager",
+                        "topic": "Understand the structure of the QA team and individual roles"
+                    },
                     "icon": "logo_3",
                     "children": [
                         {
-                            "id": "understand_the_structure_of_the_qa_team_and_individual_roles",
+                            "id": "e0223380-1c72-5669-ad9e-73a1209da942",
+                            "parent_id": "1330b15b-5632-5c6b-b1be-15b1ce6e9f07",
                             "type": "action",
-                            "end_of_day": 1,
                             "title": "Understand the structure of the QA team and individual roles.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 1,
+                            "length_in_days": 1,
                             "action": "Review the organizational chart of the QA team and familiarize yourself with each member's role.",
                             "description": "The QA team is structured to ensure that all aspects of quality assurance are covered efficiently. Each member has distinct responsibilities, from manual testing to automation, which allows for specialization and expertise in various areas. Understanding this structure helps you know whom to approach for specific issues and fosters collaboration.\nBy knowing the roles within the team, you can better navigate your workflow and identify the right resources for assistance. This foundational knowledge is essential for building effective working relationships and contributing to the team's success.",
                             "content_instructions": {
@@ -35,17 +63,29 @@
                     ]
                 },
                 {
-                    "id": "meet_the_development_teams",
+                    "id": "fa9e1e5b-d83b-542e-8267-de36146c29e6",
+                    "parent_id": "f1f0e682-31af-559a-b3a4-0b31ed21715b",
                     "type": "module",
                     "title": "Meet the Development Teams",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 2,
+                    "length_in_days": 1,
+                    "action": "Schedule meetings with key members of the development teams to understand their processes.",
+                    "description": "Learn about the development teams' roles and workflows to enhance collaboration with QA.",
+                    "content_instructions": {
+                        "role": "professional project manager",
+                        "topic": "Introduction to the development teams you'll be working closely with."
+                    },
                     "icon": "logo_2",
                     "children": [
                         {
-                            "id": "introduction_to_the_development_teams_you_ll_be_working_closely_with",
+                            "id": "8048da52-bb0f-5570-ba3f-aa4bf4f9d77e",
+                            "parent_id": "fa9e1e5b-d83b-542e-8267-de36146c29e6",
                             "type": "action",
-                            "end_of_day": 2,
                             "title": "Introduction to the development teams you'll be working closely with.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 2,
+                            "length_in_days": 1,
                             "action": "Schedule meetings with key members of the development teams to understand their processes.",
                             "description": "Collaboration between QA and development teams is crucial for delivering high-quality products. During your introduction to the development teams, you will learn about their roles, workflows, and how they integrate with the QA process. This understanding will help you align your testing efforts with their development cycles.\nBuilding these relationships early on will facilitate better communication and collaboration, ensuring that quality is prioritized throughout the development lifecycle. Engaging with these teams will also provide insights into their challenges and expectations from the QA perspective.",
                             "content_instructions": {
@@ -57,17 +97,29 @@
                     ]
                 },
                 {
-                    "id": "cross_team_collaboration_processes",
+                    "id": "f31d2cda-caa6-54eb-ba89-6bee5b891b55",
+                    "parent_id": "f1f0e682-31af-559a-b3a4-0b31ed21715b",
                     "type": "module",
                     "title": "Cross-Team Collaboration Processes",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 2,
+                    "length_in_days": 1,
+                    "action": "Review the collaboration processes between QA and other teams, focusing on communication and workflow.",
+                    "description": "Collaboration processes between QA, development, product, and design teams for high-quality software delivery.",
+                    "content_instructions": {
+                        "role": "professional QA lead",
+                        "topic": "Overview of how QA collaborates with development, product, and design teams."
+                    },
                     "icon": "logo_6",
                     "children": [
                         {
-                            "id": "overview_of_how_qa_collaborates_with_development_product_and_design_teams",
+                            "id": "8c28f00b-6ad6-5ee8-9725-cd6979805c8c",
+                            "parent_id": "f31d2cda-caa6-54eb-ba89-6bee5b891b55",
                             "type": "action",
-                            "end_of_day": 2,
                             "title": "Overview of how QA collaborates with development, product, and design teams.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 2,
+                            "length_in_days": 1,
                             "action": "Review the collaboration processes between QA and other teams, focusing on communication and workflow.",
                             "description": "Effective collaboration between QA, development, product, and design teams is essential for delivering high-quality software. This module will cover the processes in place for communication, including regular meetings, shared documentation, and feedback loops. Understanding these processes will enable you to integrate seamlessly into the team.\nBy familiarizing yourself with these collaboration practices, you will be better equipped to contribute to discussions and ensure that quality is maintained at every stage of the product lifecycle. This knowledge is vital for fostering a culture of teamwork and shared responsibility for quality.",
                             "content_instructions": {
@@ -81,24 +133,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_qa_processes",
+            "id": "503d64c9-5de4-5320-8fbb-5369955ac0b7",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Familiarize with Our QA Processes",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 5,
+            "length_in_days": 3,
+            "action": "Review the QA processes and their significance in ensuring software quality.",
+            "description": "Overview of QA processes including testing lifecycle, bug reporting, and quality metrics.",
+            "content_instructions": {
+                "role": "professional QA analyst",
+                "topic": "Understand the full lifecycle of testing from planning to release."
+            },
             "icon": "logo_5",
             "children": [
                 {
-                    "id": "testing_lifecycle_overview",
+                    "id": "208efc49-fb88-51aa-b979-5b0bd0c98daf",
+                    "parent_id": "503d64c9-5de4-5320-8fbb-5369955ac0b7",
                     "type": "module",
                     "title": "Testing Lifecycle Overview",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 3,
+                    "length_in_days": 1,
+                    "action": "Review the stages of the testing lifecycle and how they fit into the overall development process.",
+                    "description": "Overview of the testing lifecycle stages: planning, design, execution, and closure.",
+                    "content_instructions": {
+                        "role": "professional QA analyst",
+                        "topic": "Understand the full lifecycle of testing from planning to release."
+                    },
                     "icon": "logo_5",
                     "children": [
                         {
-                            "id": "understand_the_full_lifecycle_of_testing_from_planning_to_release",
+                            "id": "6ea8669a-e9c8-557d-af6a-cda9220433a0",
+                            "parent_id": "208efc49-fb88-51aa-b979-5b0bd0c98daf",
                             "type": "action",
-                            "end_of_day": 3,
                             "title": "Understand the full lifecycle of testing from planning to release.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 3,
+                            "length_in_days": 1,
                             "action": "Review the stages of the testing lifecycle and how they fit into the overall development process.",
                             "description": "The testing lifecycle encompasses several key stages: planning, design, execution, and closure. Each stage is critical for ensuring that the final product meets quality standards. In this module, you'll learn about the importance of each phase and how they interconnect with development activities.\nBy understanding the testing lifecycle, you will be better prepared to plan your testing activities, manage your time effectively, and coordinate with other teams. This comprehensive view will enhance your ability to contribute to high-quality outcomes and streamline the testing process.",
                             "content_instructions": {
@@ -110,17 +183,29 @@
                     ]
                 },
                 {
-                    "id": "bug_reporting_standards",
+                    "id": "43692a46-5e8f-52cd-9276-1dd89570af5f",
+                    "parent_id": "503d64c9-5de4-5320-8fbb-5369955ac0b7",
                     "type": "module",
                     "title": "Bug Reporting Standards",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 4,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the bug reporting templates and standards used in the team.",
+                    "description": "Learn standards and templates for effective bug reporting, including necessary details and severity levels.",
+                    "content_instructions": {
+                        "role": "professional QA coordinator",
+                        "topic": "Learn the standards for reporting bugs and issues in the system."
+                    },
                     "icon": "logo_11",
                     "children": [
                         {
-                            "id": "learn_the_standards_for_reporting_bugs_and_issues_in_the_system",
+                            "id": "3cbda0c4-1a8d-544c-86db-3c753b0abf36",
+                            "parent_id": "43692a46-5e8f-52cd-9276-1dd89570af5f",
                             "type": "action",
-                            "end_of_day": 4,
                             "title": "Learn the standards for reporting bugs and issues in the system.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 4,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the bug reporting templates and standards used in the team.",
                             "description": "Effective bug reporting is crucial for ensuring that issues are understood and resolved promptly. In this module, you will learn about the standards and templates used for reporting bugs, including necessary details such as steps to reproduce, expected vs. actual results, and severity levels. Following these standards will help maintain clarity and efficiency in the bug resolution process.\nBy mastering these reporting standards, you will contribute to a more organized workflow, enabling developers to address issues quickly and accurately. This knowledge is essential for fostering a culture of quality and accountability.",
                             "content_instructions": {
@@ -132,17 +217,29 @@
                     ]
                 },
                 {
-                    "id": "defining_quality_metrics",
+                    "id": "904609fc-44ca-589b-9762-2d721ef52ed6",
+                    "parent_id": "503d64c9-5de4-5320-8fbb-5369955ac0b7",
                     "type": "module",
                     "title": "Defining Quality Metrics",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 5,
+                    "length_in_days": 1,
+                    "action": "Review the quality metrics tracked by the QA team and their significance.",
+                    "description": "Key quality metrics assess software performance and reliability, aiding in identifying improvement areas.",
+                    "content_instructions": {
+                        "role": "professional quality manager",
+                        "topic": "Overview of key quality metrics used to evaluate software performance"
+                    },
                     "icon": "logo_15",
                     "children": [
                         {
-                            "id": "overview_of_key_quality_metrics_used_to_evaluate_software_performance",
+                            "id": "44f1c6c1-4ca9-582b-b970-5e2395cd2fda",
+                            "parent_id": "904609fc-44ca-589b-9762-2d721ef52ed6",
                             "type": "action",
-                            "end_of_day": 5,
                             "title": "Overview of key quality metrics used to evaluate software performance.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 5,
+                            "length_in_days": 1,
                             "action": "Review the quality metrics tracked by the QA team and their significance.",
                             "description": "Quality metrics play a vital role in assessing the performance and reliability of software products. In this module, you'll learn about the key metrics tracked by the QA team, such as defect density, test coverage, and customer-reported issues. Understanding these metrics will help you gauge the quality of the software and identify areas for improvement.\nBy familiarizing yourself with these quality metrics, you will enhance your ability to contribute to quality assessments and ensure that the software meets both functional and non-functional requirements. This knowledge is crucial for driving continuous improvement in our products.",
                             "content_instructions": {
@@ -156,24 +253,45 @@
             ]
         },
         {
-            "id": "overview_of_our_testing_tools",
+            "id": "ecfdf12b-9bb6-5859-ab97-93426c3cdf23",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Overview of Our Testing Tools",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 7,
-            "icon": "logo_20",
+            "length_in_days": 2,
+            "action": "Explore the testing tools utilized by the QA team and their functionalities.",
+            "description": "An overview of the testing tools used by our QA team and their functionalities.",
+            "content_instructions": {
+                "role": "professional QA specialist",
+                "topic": "Overview of the testing tools utilized by our QA team."
+            },
+            "icon": "logo_5",
             "children": [
                 {
-                    "id": "automated_testing_tools",
+                    "id": "96f686c7-3703-599d-988e-7cd6d1969861",
+                    "parent_id": "ecfdf12b-9bb6-5859-ab97-93426c3cdf23",
                     "type": "module",
                     "title": "Automated Testing Tools",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 6,
+                    "length_in_days": 1,
+                    "action": "Explore the automated testing tools available and their functionalities.",
+                    "description": "Overview of automated testing tools and their role in enhancing testing efficiency.",
+                    "content_instructions": {
+                        "role": "professional automation engineer",
+                        "topic": "Introduction to the automated testing tools used by our QA team."
+                    },
                     "icon": "logo_20",
                     "children": [
                         {
-                            "id": "introduction_to_the_automated_testing_tools_used_by_our_qa_team",
+                            "id": "82617fbc-cced-5aec-991d-00d597bb1f96",
+                            "parent_id": "96f686c7-3703-599d-988e-7cd6d1969861",
                             "type": "action",
-                            "end_of_day": 6,
                             "title": "Introduction to the automated testing tools used by our QA team.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 6,
+                            "length_in_days": 1,
                             "action": "Explore the automated testing tools available and their functionalities.",
                             "description": "Automated testing tools are essential for improving efficiency and coverage in the testing process. In this module, you'll gain an overview of the tools used by our QA team, including their features and how they integrate into our development lifecycle. Understanding these tools will enable you to leverage automation effectively in your testing efforts.\nBy familiarizing yourself with these automated testing tools, you will be better equipped to create, execute, and maintain automated test scripts, contributing to the overall quality of our products. This knowledge is vital for enhancing testing efficiency and ensuring timely releases.",
                             "content_instructions": {
@@ -185,17 +303,29 @@
                     ]
                 },
                 {
-                    "id": "manual_testing_frameworks",
+                    "id": "db0219f5-ae75-5756-8145-c8ec833c227c",
+                    "parent_id": "ecfdf12b-9bb6-5859-ab97-93426c3cdf23",
                     "type": "module",
                     "title": "Manual Testing Frameworks",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 7,
+                    "length_in_days": 1,
+                    "action": "Review the manual testing frameworks used by the team and their application contexts.",
+                    "description": "Explore manual testing frameworks and their methodologies for effective software evaluation.",
+                    "content_instructions": {
+                        "role": "professional QA specialist",
+                        "topic": "Overview of the manual testing frameworks and when they are applied."
+                    },
                     "icon": "logo_8",
                     "children": [
                         {
-                            "id": "overview_of_the_manual_testing_frameworks_and_when_they_are_applied",
+                            "id": "39d7ca6e-d626-53e1-a6e4-2e12d54bbe83",
+                            "parent_id": "db0219f5-ae75-5756-8145-c8ec833c227c",
                             "type": "action",
-                            "end_of_day": 7,
                             "title": "Overview of the manual testing frameworks and when they are applied.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 7,
+                            "length_in_days": 1,
                             "action": "Review the manual testing frameworks used by the team and their application contexts.",
                             "description": "Manual testing frameworks provide a structured approach to conducting tests that require human observation and interpretation. In this module, you'll learn about the manual testing frameworks employed by our QA team, including their methodologies and when to apply them. Understanding these frameworks will help you determine the most effective testing approach for different scenarios.\nBy familiarizing yourself with these manual testing frameworks, you will enhance your ability to conduct thorough and effective testing, ensuring that all aspects of the software are evaluated. This knowledge is essential for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -207,17 +337,29 @@
                     ]
                 },
                 {
-                    "id": "test_reporting_tools",
+                    "id": "e18bb09b-b4a7-54ec-9614-78f2c32d0f45",
+                    "parent_id": "ecfdf12b-9bb6-5859-ab97-93426c3cdf23",
                     "type": "module",
                     "title": "Test Reporting Tools",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 7,
+                    "length_in_days": 1,
+                    "action": "Explore the test reporting tools utilized by the QA team and their functionalities.",
+                    "description": "Insight into tools for generating test reports and tracking software quality.",
+                    "content_instructions": {
+                        "role": "professional QA analyst",
+                        "topic": "Learn about the tools used for generating test reports and tracking results."
+                    },
                     "icon": "logo_33",
                     "children": [
                         {
-                            "id": "learn_about_the_tools_used_for_generating_test_reports_and_tracking_results",
+                            "id": "84a0c32d-82fb-5457-a84a-356a59609d3f",
+                            "parent_id": "e18bb09b-b4a7-54ec-9614-78f2c32d0f45",
                             "type": "action",
-                            "end_of_day": 7,
                             "title": "Learn about the tools used for generating test reports and tracking results.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 7,
+                            "length_in_days": 1,
                             "action": "Explore the test reporting tools utilized by the QA team and their functionalities.",
                             "description": "Test reporting tools are critical for documenting test results and tracking the quality of software products. In this module, you'll gain insight into the tools used by our QA team for generating test reports, including their features and how they facilitate communication with stakeholders. Understanding these tools will enable you to present test results effectively and contribute to informed decision-making.\nBy familiarizing yourself with these test reporting tools, you will enhance your ability to communicate quality metrics and findings clearly, supporting the overall quality assurance process. This knowledge is vital for fostering transparency and accountability in our testing efforts.",
                             "content_instructions": {
@@ -231,24 +373,45 @@
             ]
         },
         {
-            "id": "collaborating_with_our_development_teams_1",
+            "id": "d52b47a0-fb85-53ed-a792-d767fea04e6d",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Collaborating with Our Development Teams",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 9,
-            "icon": "logo_12",
+            "length_in_days": 2,
+            "action": "Attend test case review sessions to understand collaboration techniques.",
+            "description": "Collaboration between QA and developers enhances quality and fosters strong relationships.",
+            "content_instructions": {
+                "role": "professional QA lead",
+                "topic": "Learn how to collaborate with developers during test case review sessions."
+            },
+            "icon": "logo_2",
             "children": [
                 {
-                    "id": "agile_collaboration_and_standups",
+                    "id": "9ac45760-25bd-57d0-848e-18237d1d87b4",
+                    "parent_id": "d52b47a0-fb85-53ed-a792-d767fea04e6d",
                     "type": "module",
                     "title": "Agile Collaboration and Standups",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 8,
+                    "length_in_days": 1,
+                    "action": "Participate in Agile ceremonies to understand the QA role in the process.",
+                    "description": "QA's role in Agile ceremonies enhances collaboration and ensures quality throughout the development process.",
+                    "content_instructions": {
+                        "role": "professional Scrum Master",
+                        "topic": "Understand the role of QA in Agile ceremonies such as standups and retrospectives."
+                    },
                     "icon": "logo_12",
                     "children": [
                         {
-                            "id": "understand_the_role_of_qa_in_agile_ceremonies_such_as_standups_and_retrospectives",
+                            "id": "b46a0acb-d7fb-52de-8401-0246f47ee11b",
+                            "parent_id": "9ac45760-25bd-57d0-848e-18237d1d87b4",
                             "type": "action",
-                            "end_of_day": 8,
                             "title": "Understand the role of QA in Agile ceremonies such as standups and retrospectives.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 8,
+                            "length_in_days": 1,
                             "action": "Participate in Agile ceremonies to understand the QA role in the process.",
                             "description": "In Agile development, collaboration is key to success, and QA plays an integral role in various ceremonies, including daily standups and retrospectives. This module will provide insights into how QA contributes to these meetings, ensuring that quality considerations are integrated into the development process. Understanding your role in these ceremonies will enhance your ability to communicate effectively with your team.\nBy actively participating in Agile ceremonies, you will foster better collaboration, address potential issues early, and ensure that quality remains a priority throughout the development cycle. This knowledge is essential for promoting a culture of continuous improvement.",
                             "content_instructions": {
@@ -260,17 +423,29 @@
                     ]
                 },
                 {
-                    "id": "test_case_review_with_developers",
+                    "id": "5b7d102c-ccac-51d6-888f-fdbd8140a53c",
+                    "parent_id": "d52b47a0-fb85-53ed-a792-d767fea04e6d",
                     "type": "module",
                     "title": "Test Case Review with Developers",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 9,
+                    "length_in_days": 1,
+                    "action": "Attend test case review sessions to understand collaboration techniques.",
+                    "description": "Collaboration during test case reviews enhances quality and fosters strong relationships between QA and developers.",
+                    "content_instructions": {
+                        "role": "professional QA lead",
+                        "topic": "Learn how to collaborate with developers during test case review sessions."
+                    },
                     "icon": "logo_14",
                     "children": [
                         {
-                            "id": "learn_how_to_collaborate_with_developers_during_test_case_review_sessions",
+                            "id": "1b716b5c-a550-56f3-bf37-75e5b282d792",
+                            "parent_id": "5b7d102c-ccac-51d6-888f-fdbd8140a53c",
                             "type": "action",
-                            "end_of_day": 9,
                             "title": "Learn how to collaborate with developers during test case review sessions.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 9,
+                            "length_in_days": 1,
                             "action": "Attend test case review sessions to understand collaboration techniques.",
                             "description": "Test case reviews are a collaborative effort between QA and development teams, ensuring that test cases are thorough and effective. In this module, you'll learn about the techniques for conducting test case reviews, including best practices for providing feedback and incorporating developer insights. Understanding this collaboration will enhance the quality of test cases and improve overall testing effectiveness.\nBy participating in test case review sessions, you will establish strong working relationships with developers and contribute to a shared understanding of quality requirements. This knowledge is vital for fostering a collaborative environment focused on delivering high-quality software.",
                             "content_instructions": {
@@ -282,17 +457,29 @@
                     ]
                 },
                 {
-                    "id": "feedback_loop_for_test_results",
+                    "id": "edc815d8-6490-5fe0-9279-ae745ea4f844",
+                    "parent_id": "d52b47a0-fb85-53ed-a792-d767fea04e6d",
                     "type": "module",
                     "title": "Feedback Loop for Test Results",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 9,
+                    "length_in_days": 1,
+                    "action": "Review the feedback processes for communicating test results to developers.",
+                    "description": "Understanding feedback processes for test results enhances quality assurance and team alignment on quality objectives.",
+                    "content_instructions": {
+                        "role": "professional QA coordinator",
+                        "topic": "Overview of how test results are communicated and fed back into development."
+                    },
                     "icon": "logo_21",
                     "children": [
                         {
-                            "id": "overview_of_how_test_results_are_communicated_and_fed_back_into_development",
+                            "id": "038e1d67-f56c-5891-82e9-c792854a5e56",
+                            "parent_id": "edc815d8-6490-5fe0-9279-ae745ea4f844",
                             "type": "action",
-                            "end_of_day": 9,
                             "title": "Overview of how test results are communicated and fed back into development.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 9,
+                            "length_in_days": 1,
                             "action": "Review the feedback processes for communicating test results to developers.",
                             "description": "Effective communication of test results is crucial for maintaining a high standard of quality. In this module, you'll learn about the processes for providing feedback on test results, including how to document findings and communicate issues to developers. Understanding these feedback loops will help ensure that quality concerns are addressed promptly and effectively.\nBy mastering the feedback processes for test results, you will enhance your ability to contribute to the overall quality assurance process and foster a culture of accountability and continuous improvement. This knowledge is essential for ensuring that all team members are aligned on quality objectives.",
                             "content_instructions": {
@@ -306,24 +493,45 @@
             ]
         },
         {
-            "id": "our_bug_tracking_and_issue_resolution_process",
+            "id": "055cb5e4-3bec-5dac-8c7a-7da18fda42fa",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Our Bug Tracking and Issue Resolution Process",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 12,
-            "icon": "logo_38",
+            "length_in_days": 3,
+            "action": "Familiarize yourself with the bug tracking and issue resolution processes.",
+            "description": "An overview of the processes for tracking bugs, prioritizing issues, and resolving reported problems.",
+            "content_instructions": {
+                "role": "professional QA manager",
+                "topic": "Comprehensive overview of bug tracking, prioritization, escalation, and issue triage processes."
+            },
+            "icon": "logo_15",
             "children": [
                 {
-                    "id": "jira_ticketing_system",
+                    "id": "b9be9875-b955-565d-a5e3-9d1406ae4b38",
+                    "parent_id": "055cb5e4-3bec-5dac-8c7a-7da18fda42fa",
                     "type": "module",
                     "title": "JIRA Ticketing System",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 10,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the JIRA system and its functionalities for bug tracking.",
+                    "description": "Learn to navigate JIRA for bug tracking and issue management.",
+                    "content_instructions": {
+                        "role": "professional JIRA administrator",
+                        "topic": "Learn how to navigate and use the JIRA ticketing system for bug tracking."
+                    },
                     "icon": "logo_38",
                     "children": [
                         {
-                            "id": "learn_how_to_navigate_and_use_the_jira_ticketing_system_for_bug_tracking",
+                            "id": "66fd8138-89e0-573b-877e-3fee1693b503",
+                            "parent_id": "b9be9875-b955-565d-a5e3-9d1406ae4b38",
                             "type": "action",
-                            "end_of_day": 10,
                             "title": "Learn how to navigate and use the JIRA ticketing system for bug tracking.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 10,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the JIRA system and its functionalities for bug tracking.",
                             "description": "JIRA is a powerful tool for tracking bugs and managing issues within our projects. In this module, you'll learn how to navigate the JIRA system, create tickets, update statuses, and track the progress of bug resolutions. Understanding how to use JIRA effectively will enhance your ability to manage bugs and collaborate with your team.\nBy mastering the JIRA ticketing system, you will contribute to a more organized workflow, enabling timely resolutions and improved communication among team members. This knowledge is vital for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -335,17 +543,29 @@
                     ]
                 },
                 {
-                    "id": "bug_prioritization_and_escalation",
+                    "id": "4dd927ba-de50-56d3-bd9f-62748e000223",
+                    "parent_id": "055cb5e4-3bec-5dac-8c7a-7da18fda42fa",
                     "type": "module",
                     "title": "Bug Prioritization and Escalation",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 11,
+                    "length_in_days": 1,
+                    "action": "Review the criteria for prioritizing bugs and the escalation process for critical issues.",
+                    "description": "Learn about prioritizing bugs based on severity, impact, and customer feedback.",
+                    "content_instructions": {
+                        "role": "professional QA manager",
+                        "topic": "Understand how bugs are prioritized and escalated for resolution"
+                    },
                     "icon": "logo_10",
                     "children": [
                         {
-                            "id": "understand_how_bugs_are_prioritized_and_escalated_for_resolution",
+                            "id": "ef62849b-26d2-52c7-8d87-185471145707",
+                            "parent_id": "4dd927ba-de50-56d3-bd9f-62748e000223",
                             "type": "action",
-                            "end_of_day": 11,
                             "title": "Understand how bugs are prioritized and escalated for resolution.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 11,
+                            "length_in_days": 1,
                             "action": "Review the criteria for prioritizing bugs and the escalation process for critical issues.",
                             "description": "Prioritizing bugs is essential for ensuring that critical issues are addressed promptly. In this module, you'll learn about the criteria used to prioritize bugs, including severity, impact, and customer feedback. Additionally, you'll understand the escalation process for critical bugs that require immediate attention. This knowledge will help you navigate the bug resolution process effectively.\nBy mastering the prioritization and escalation processes, you will enhance your ability to manage issues efficiently, ensuring that the most critical bugs are resolved in a timely manner. This knowledge is vital for maintaining the quality and reliability of our products.",
                             "content_instructions": {
@@ -357,17 +577,29 @@
                     ]
                 },
                 {
-                    "id": "issue_triage_process",
+                    "id": "af34425d-4266-5f53-8b81-d5c1f3fd679d",
+                    "parent_id": "055cb5e4-3bec-5dac-8c7a-7da18fda42fa",
                     "type": "module",
                     "title": "Issue Triage Process",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 12,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the issue triage process and its importance in quality assurance.",
+                    "description": "Learn the steps for triaging issues, including severity assessment and resolution determination.",
+                    "content_instructions": {
+                        "role": "professional QA analyst",
+                        "topic": "Overview of the process for triaging and resolving reported issues"
+                    },
                     "icon": "logo_37",
                     "children": [
                         {
-                            "id": "overview_of_the_process_for_triaging_and_resolving_reported_issues",
+                            "id": "4f8ef3c5-615f-5edb-bae3-1b8e7847330b",
+                            "parent_id": "af34425d-4266-5f53-8b81-d5c1f3fd679d",
                             "type": "action",
-                            "end_of_day": 12,
                             "title": "Overview of the process for triaging and resolving reported issues.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 12,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the issue triage process and its importance in quality assurance.",
                             "description": "The issue triage process is critical for managing reported issues efficiently. In this module, you'll learn about the steps involved in triaging issues, including assessing severity, categorizing bugs, and determining the appropriate resolution path. Understanding this process will enable you to contribute to timely and effective issue resolution.\nBy mastering the issue triage process, you will enhance your ability to manage reported issues effectively, ensuring that the QA team can maintain high standards of quality. This knowledge is vital for fostering a proactive approach to quality assurance.",
                             "content_instructions": {
@@ -381,24 +613,45 @@
             ]
         },
         {
-            "id": "introduction_to_our_testing_framework_and_automation",
+            "id": "69e3381f-281b-5981-accb-efdffb771032",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Introduction to Our Testing Framework and Automation",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 15,
-            "icon": "logo_7",
+            "length_in_days": 3,
+            "action": "Explore the framework and its role in enhancing testing processes.",
+            "description": "An overview of our testing framework, focusing on automation and its components.",
+            "content_instructions": {
+                "role": "professional automation engineer",
+                "topic": "Overview of the testing framework and its role in automation."
+            },
+            "icon": "logo_5",
             "children": [
                 {
-                    "id": "selenium_and_test_automation",
+                    "id": "c440bdca-c73c-5b95-a71f-b61bf97379e3",
+                    "parent_id": "69e3381f-281b-5981-accb-efdffb771032",
                     "type": "module",
                     "title": "Selenium and Test Automation",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 13,
+                    "length_in_days": 1,
+                    "action": "Explore the Selenium framework and its functionalities for test automation.",
+                    "description": "Learn about Selenium's features and its role in automating web application testing.",
+                    "content_instructions": {
+                        "role": "professional automation engineer",
+                        "topic": "Introduction to the Selenium framework and its use in automated testing"
+                    },
                     "icon": "logo_7",
                     "children": [
                         {
-                            "id": "introduction_to_the_selenium_framework_and_its_use_in_automated_testing",
+                            "id": "73d374e9-9fcf-5ff0-a1a1-bdefab2df610",
+                            "parent_id": "c440bdca-c73c-5b95-a71f-b61bf97379e3",
                             "type": "action",
-                            "end_of_day": 13,
                             "title": "Introduction to the Selenium framework and its use in automated testing.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 13,
+                            "length_in_days": 1,
                             "action": "Explore the Selenium framework and its functionalities for test automation.",
                             "description": "Selenium is a widely used framework for automating web applications for testing purposes. In this module, you'll learn about the features of Selenium, how it integrates with our testing processes, and best practices for writing automated tests. Understanding this framework will enable you to leverage automation effectively in your QA efforts.\nBy familiarizing yourself with Selenium, you will enhance your ability to create and execute automated test scripts, contributing to improved testing efficiency and coverage. This knowledge is vital for ensuring that our software products meet high-quality standards.",
                             "content_instructions": {
@@ -410,17 +663,29 @@
                     ]
                 },
                 {
-                    "id": "regression_testing_suite",
+                    "id": "19cfab2f-acbb-58af-8968-2c87e83fd563",
+                    "parent_id": "69e3381f-281b-5981-accb-efdffb771032",
                     "type": "module",
                     "title": "Regression Testing Suite",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 14,
+                    "length_in_days": 1,
+                    "action": "Review the regression testing suite and understand its maintenance processes.",
+                    "description": "A collection of test cases to verify that recent changes haven't affected existing features.",
+                    "content_instructions": {
+                        "role": "professional QA lead",
+                        "topic": "Overview of the regression testing suite and how it's maintained."
+                    },
                     "icon": "logo_46",
                     "children": [
                         {
-                            "id": "overview_of_the_regression_testing_suite_and_how_it_s_maintained",
+                            "id": "b35b5105-858f-5d85-b60e-99bd23c76a9c",
+                            "parent_id": "19cfab2f-acbb-58af-8968-2c87e83fd563",
                             "type": "action",
-                            "end_of_day": 14,
                             "title": "Overview of the regression testing suite and how it's maintained.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 14,
+                            "length_in_days": 1,
                             "action": "Review the regression testing suite and understand its maintenance processes.",
                             "description": "The regression testing suite is a collection of test cases designed to verify that recent changes have not adversely affected existing features. In this module, you'll learn about the components of the regression suite, how it's structured, and the processes for maintaining it. Understanding this suite is essential for ensuring ongoing software quality as new features are developed.\nBy familiarizing yourself with the regression testing suite, you will enhance your ability to contribute to quality assurance and ensure that all features continue to function correctly after updates. This knowledge is vital for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -432,17 +697,29 @@
                     ]
                 },
                 {
-                    "id": "automated_test_reporting",
+                    "id": "318aecde-900f-519c-852d-371b3623598c",
+                    "parent_id": "69e3381f-281b-5981-accb-efdffb771032",
                     "type": "module",
                     "title": "Automated Test Reporting",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 15,
+                    "length_in_days": 1,
+                    "action": "Explore the reporting mechanisms for automated test results.",
+                    "description": "Understanding automated test reporting enhances analysis and decision-making in software quality.",
+                    "content_instructions": {
+                        "role": "professional QA analyst",
+                        "topic": "Learn how automated test results are reported and analyzed."
+                    },
                     "icon": "logo_34",
                     "children": [
                         {
-                            "id": "learn_how_automated_test_results_are_reported_and_analyzed",
+                            "id": "b14e07e1-ef5f-5f68-8cb6-34f611353384",
+                            "parent_id": "318aecde-900f-519c-852d-371b3623598c",
                             "type": "action",
-                            "end_of_day": 15,
                             "title": "Learn how automated test results are reported and analyzed.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 15,
+                            "length_in_days": 1,
                             "action": "Explore the reporting mechanisms for automated test results.",
                             "description": "Automated test reporting is crucial for understanding the outcomes of automated testing efforts. In this module, you'll learn about the tools and processes used for reporting automated test results, including how to interpret the data and communicate findings to stakeholders. Understanding these reporting mechanisms will enable you to provide valuable insights into the quality of our software products.\nBy mastering automated test reporting, you will enhance your ability to analyze test results and contribute to informed decision-making regarding software quality. This knowledge is vital for fostering transparency and accountability in our testing efforts.",
                             "content_instructions": {
@@ -456,24 +733,45 @@
             ]
         },
         {
-            "id": "manual_vs_automated_testing_at_our_company",
+            "id": "ee095861-2e5c-5933-ad9a-35e9b887b017",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Manual vs. Automated Testing at Our Company",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 17,
-            "icon": "logo_9",
+            "length_in_days": 2,
+            "action": "Review scenarios where manual or automated testing is most effective.",
+            "description": "Criteria for selecting manual or automated testing based on complexity, frequency, and resources.",
+            "content_instructions": {
+                "role": "professional QA strategist",
+                "topic": "Understand when to use manual vs automated testing in our processes"
+            },
+            "icon": "logo_15",
             "children": [
                 {
-                    "id": "defining_manual_vs_automated_scenarios",
+                    "id": "9d192fdd-f3a0-51ec-b586-5a6256d0ede6",
+                    "parent_id": "ee095861-2e5c-5933-ad9a-35e9b887b017",
                     "type": "module",
                     "title": "Defining Manual vs Automated Scenarios",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 16,
+                    "length_in_days": 1,
+                    "action": "Review scenarios where manual or automated testing is most effective.",
+                    "description": "Learn to choose between manual and automated testing based on complexity, frequency, and resources.",
+                    "content_instructions": {
+                        "role": "professional QA strategist",
+                        "topic": "Understand when to use manual vs automated testing in our processes"
+                    },
                     "icon": "logo_9",
                     "children": [
                         {
-                            "id": "understand_when_to_use_manual_vs_automated_testing_in_our_processes",
+                            "id": "b8e0b449-1941-59ef-93fe-5eb3eb5b2ef4",
+                            "parent_id": "9d192fdd-f3a0-51ec-b586-5a6256d0ede6",
                             "type": "action",
-                            "end_of_day": 16,
                             "title": "Understand when to use manual vs automated testing in our processes.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 16,
+                            "length_in_days": 1,
                             "action": "Review scenarios where manual or automated testing is most effective.",
                             "description": "Choosing between manual and automated testing is crucial for optimizing our testing efforts. In this module, you'll learn about the criteria for selecting the appropriate testing approach based on factors such as complexity, frequency of execution, and resource availability. Understanding these criteria will help you make informed decisions in your testing strategy.\nBy mastering the distinctions between manual and automated testing, you will enhance your ability to allocate resources effectively and ensure that testing is conducted efficiently. This knowledge is vital for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -485,17 +783,29 @@
                     ]
                 },
                 {
-                    "id": "when_to_use_each_testing_approach",
+                    "id": "72625791-fef7-5db0-ae52-3537f43b841b",
+                    "parent_id": "ee095861-2e5c-5933-ad9a-35e9b887b017",
                     "type": "module",
                     "title": "When to Use Each Testing Approach",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 17,
+                    "length_in_days": 1,
+                    "action": "Review case studies to understand when to apply manual vs automated testing.",
+                    "description": "Explore criteria for manual vs automated testing through case studies.",
+                    "content_instructions": {
+                        "role": "professional QA consultant",
+                        "topic": "Learn the criteria for selecting the appropriate testing approach for a given task."
+                    },
                     "icon": "logo_16",
                     "children": [
                         {
-                            "id": "learn_the_criteria_for_selecting_the_appropriate_testing_approach_for_a_given_task",
+                            "id": "f47ca190-c1f3-54bc-8e87-88295ccdc1fa",
+                            "parent_id": "72625791-fef7-5db0-ae52-3537f43b841b",
                             "type": "action",
-                            "end_of_day": 17,
                             "title": "Learn the criteria for selecting the appropriate testing approach for a given task.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 17,
+                            "length_in_days": 1,
                             "action": "Review case studies to understand when to apply manual vs automated testing.",
                             "description": "Selecting the right testing approach is essential for achieving optimal results. In this module, you'll explore various case studies that illustrate when to use manual testing versus automated testing. Understanding these scenarios will help you apply the most effective approach based on project requirements and constraints.\nBy analyzing these case studies, you will enhance your decision-making skills and ensure that testing is conducted effectively and efficiently. This knowledge is vital for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -507,17 +817,29 @@
                     ]
                 },
                 {
-                    "id": "balancing_speed_and_thoroughness",
+                    "id": "12b48807-045e-58b8-a9b1-8671cf1c59a8",
+                    "parent_id": "ee095861-2e5c-5933-ad9a-35e9b887b017",
                     "type": "module",
                     "title": "Balancing Speed and Thoroughness",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 17,
+                    "length_in_days": 1,
+                    "action": "Review strategies for ensuring both speed and thoroughness in testing processes.",
+                    "description": "Strategies for balancing speed and thoroughness in testing to ensure quality software delivery.",
+                    "content_instructions": {
+                        "role": "professional QA lead",
+                        "topic": "Overview of strategies for balancing speed and thoroughness in testing."
+                    },
                     "icon": "logo_4",
                     "children": [
                         {
-                            "id": "overview_of_strategies_for_balancing_speed_and_thoroughness_in_testing",
+                            "id": "08a12bd0-41b2-5438-8d34-e6c3399d81c3",
+                            "parent_id": "12b48807-045e-58b8-a9b1-8671cf1c59a8",
                             "type": "action",
-                            "end_of_day": 17,
                             "title": "Overview of strategies for balancing speed and thoroughness in testing.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 17,
+                            "length_in_days": 1,
                             "action": "Review strategies for ensuring both speed and thoroughness in testing processes.",
                             "description": "Balancing speed and thoroughness in testing is crucial for delivering quality software on time. In this module, you'll learn about strategies for achieving this balance, including risk-based testing, prioritizing test cases, and leveraging automation effectively. Understanding these strategies will help you optimize your testing efforts and meet project deadlines without compromising quality.\nBy mastering these balancing strategies, you will enhance your ability to deliver high-quality software efficiently. This knowledge is vital for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -531,24 +853,45 @@
             ]
         },
         {
-            "id": "security_testing_in_our_company",
+            "id": "6fecbb9b-caf7-59a6-b6d4-ea2e5dab951b",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Security Testing in Our Company",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 20,
+            "length_in_days": 3,
+            "action": "Review the security testing methodologies and their significance in our security framework.",
+            "description": "Overview of security testing methods, including penetration testing and vulnerability assessments.",
+            "content_instructions": {
+                "role": "professional security analyst",
+                "topic": "Introduction to security testing and its importance in validating our security measures."
+            },
             "icon": "logo_13",
             "children": [
                 {
-                    "id": "penetration_testing_overview",
+                    "id": "0da3b199-6d38-5dca-96a6-d2aec1a5ad08",
+                    "parent_id": "6fecbb9b-caf7-59a6-b6d4-ea2e5dab951b",
                     "type": "module",
                     "title": "Penetration Testing Overview",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 18,
+                    "length_in_days": 1,
+                    "action": "Review the basics of penetration testing and its role in ensuring security.",
+                    "description": "Learn about penetration testing, its methodologies, and its role in validating security.",
+                    "content_instructions": {
+                        "role": "professional security analyst",
+                        "topic": "Introduction to penetration testing and its importance in security validation"
+                    },
                     "icon": "logo_13",
                     "children": [
                         {
-                            "id": "introduction_to_penetration_testing_and_its_importance_in_security_validation",
+                            "id": "fbc83407-1aba-5a4d-bc3e-f22fa1cbbc1c",
+                            "parent_id": "0da3b199-6d38-5dca-96a6-d2aec1a5ad08",
                             "type": "action",
-                            "end_of_day": 18,
                             "title": "Introduction to penetration testing and its importance in security validation.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 18,
+                            "length_in_days": 1,
                             "action": "Review the basics of penetration testing and its role in ensuring security.",
                             "description": "Penetration testing is a simulated cyber attack on a system to evaluate its security. In this module, you'll learn about the principles of penetration testing, the methodologies used, and its importance in validating the security of our products. Understanding penetration testing will enable you to identify vulnerabilities and contribute to enhancing our security posture.\nBy familiarizing yourself with penetration testing, you will enhance your ability to identify security weaknesses and contribute to the overall safety of our software products. This knowledge is vital for maintaining customer trust and compliance with security standards.",
                             "content_instructions": {
@@ -560,17 +903,29 @@
                     ]
                 },
                 {
-                    "id": "vulnerability_assessment_tools",
+                    "id": "b9053eea-22c3-5d8f-91e2-c39a9759ae89",
+                    "parent_id": "6fecbb9b-caf7-59a6-b6d4-ea2e5dab951b",
                     "type": "module",
                     "title": "Vulnerability Assessment Tools",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 19,
+                    "length_in_days": 1,
+                    "action": "Explore the vulnerability assessment tools available and their functionalities.",
+                    "description": "Explore tools for identifying and managing security weaknesses in our infrastructure.",
+                    "content_instructions": {
+                        "role": "professional cybersecurity expert",
+                        "topic": "Learn about the tools used for vulnerability assessment in our infrastructure."
+                    },
                     "icon": "logo_18",
                     "children": [
                         {
-                            "id": "learn_about_the_tools_used_for_vulnerability_assessment_in_our_infrastructure",
+                            "id": "87b322bb-501f-58f6-8dc0-1607bedfea78",
+                            "parent_id": "b9053eea-22c3-5d8f-91e2-c39a9759ae89",
                             "type": "action",
-                            "end_of_day": 19,
                             "title": "Learn about the tools used for vulnerability assessment in our infrastructure.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 19,
+                            "length_in_days": 1,
                             "action": "Explore the vulnerability assessment tools available and their functionalities.",
                             "description": "Vulnerability assessment tools are essential for identifying and managing security weaknesses in our systems. In this module, you'll learn about the tools we use for vulnerability assessments, how they function, and best practices for conducting assessments. Understanding these tools will enable you to proactively identify and address vulnerabilities in our infrastructure.\nBy mastering vulnerability assessment tools, you will enhance your ability to contribute to the security of our products and ensure compliance with industry standards. This knowledge is vital for maintaining the integrity and safety of our software.",
                             "content_instructions": {
@@ -582,17 +937,29 @@
                     ]
                 },
                 {
-                    "id": "ensuring_secure_development_practices",
+                    "id": "3103e71f-4a9c-5d0c-b61b-d7655b990d86",
+                    "parent_id": "6fecbb9b-caf7-59a6-b6d4-ea2e5dab951b",
                     "type": "module",
                     "title": "Ensuring Secure Development Practices",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 20,
+                    "length_in_days": 1,
+                    "action": "Review the secure development practices and how QA integrates into them.",
+                    "description": "Learn how QA supports secure coding standards and testing practices in development.",
+                    "content_instructions": {
+                        "role": "professional security officer",
+                        "topic": "Understand how QA contributes to ensuring secure development practices."
+                    },
                     "icon": "logo_41",
                     "children": [
                         {
-                            "id": "understand_how_qa_contributes_to_ensuring_secure_development_practices",
+                            "id": "ba7d4430-19ee-56c5-8af9-79fc48409ce9",
+                            "parent_id": "3103e71f-4a9c-5d0c-b61b-d7655b990d86",
                             "type": "action",
-                            "end_of_day": 20,
                             "title": "Understand how QA contributes to ensuring secure development practices.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 20,
+                            "length_in_days": 1,
                             "action": "Review the secure development practices and how QA integrates into them.",
                             "description": "Ensuring secure development practices is a shared responsibility among all teams, including QA. In this module, you'll learn about the secure coding standards, testing practices, and how QA contributes to maintaining security throughout the development lifecycle. Understanding these practices will enable you to identify security issues early and ensure that our products are developed securely.\nBy familiarizing yourself with secure development practices, you will enhance your ability to contribute to the security of our software and protect customer data. This knowledge is vital for maintaining high-quality standards and compliance with security regulations.",
                             "content_instructions": {
@@ -606,24 +973,45 @@
             ]
         },
         {
-            "id": "performance_and_load_testing_at_our_company",
+            "id": "20f771d4-65b8-5593-b8fb-3b3f2c04a7b7",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Performance and Load Testing at Our Company",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 23,
+            "length_in_days": 3,
+            "action": "Review performance testing scenarios, load testing tools, and optimization techniques.",
+            "description": "Explore performance and load testing practices, tools, and optimization techniques to enhance application performance.",
+            "content_instructions": {
+                "role": "professional performance engineer",
+                "topic": "Overview of performance and load testing practices at our company"
+            },
             "icon": "logo_25",
             "children": [
                 {
-                    "id": "performance_test_scenarios",
+                    "id": "231f594b-c259-51b6-88bb-1524084fb63b",
+                    "parent_id": "20f771d4-65b8-5593-b8fb-3b3f2c04a7b7",
                     "type": "module",
                     "title": "Performance Test Scenarios",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 21,
+                    "length_in_days": 1,
+                    "action": "Review common performance test scenarios and their significance.",
+                    "description": "Explore various performance test scenarios to enhance application performance.",
+                    "content_instructions": {
+                        "role": "professional performance engineer",
+                        "topic": "Learn about the scenarios used in performance testing."
+                    },
                     "icon": "logo_25",
                     "children": [
                         {
-                            "id": "learn_about_the_scenarios_used_in_performance_testing",
+                            "id": "6b7a2095-f286-596e-81b9-4a688296dbe8",
+                            "parent_id": "231f594b-c259-51b6-88bb-1524084fb63b",
                             "type": "action",
-                            "end_of_day": 21,
                             "title": "Learn about the scenarios used in performance testing.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 21,
+                            "length_in_days": 1,
                             "action": "Review common performance test scenarios and their significance.",
                             "description": "Performance testing is critical for ensuring that applications respond quickly and can handle expected user loads. In this module, you'll learn about various performance test scenarios, including load testing, stress testing, and endurance testing. Understanding these scenarios will help you identify potential performance bottlenecks and ensure that our applications meet user expectations.\nBy familiarizing yourself with performance test scenarios, you will enhance your ability to contribute to performance testing efforts and ensure that our products deliver a seamless user experience. This knowledge is vital for maintaining high-quality standards in our software.",
                             "content_instructions": {
@@ -635,17 +1023,29 @@
                     ]
                 },
                 {
-                    "id": "load_testing_tools_and_metrics",
+                    "id": "5804075d-9346-5e0a-826d-8c2de57b0faa",
+                    "parent_id": "20f771d4-65b8-5593-b8fb-3b3f2c04a7b7",
                     "type": "module",
                     "title": "Load Testing Tools and Metrics",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 22,
+                    "length_in_days": 1,
+                    "action": "Explore the load testing tools available and the metrics they track.",
+                    "description": "Learn about load testing tools, metrics they track, and how to interpret results for application performance.",
+                    "content_instructions": {
+                        "role": "professional load testing engineer",
+                        "topic": "Overview of the tools and metrics used for load testing and performance analysis"
+                    },
                     "icon": "logo_19",
                     "children": [
                         {
-                            "id": "overview_of_the_tools_and_metrics_used_for_load_testing_and_performance_analysis",
+                            "id": "899e889f-8090-5c63-bbf0-037d00a9418c",
+                            "parent_id": "5804075d-9346-5e0a-826d-8c2de57b0faa",
                             "type": "action",
-                            "end_of_day": 22,
                             "title": "Overview of the tools and metrics used for load testing and performance analysis.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 22,
+                            "length_in_days": 1,
                             "action": "Explore the load testing tools available and the metrics they track.",
                             "description": "Load testing tools are essential for simulating user traffic and measuring application performance under various conditions. In this module, you'll learn about the load testing tools we use, the metrics they track, and how to interpret the results. Understanding these tools and metrics will enable you to assess application performance effectively.\nBy mastering load testing tools and metrics, you will enhance your ability to identify performance issues and contribute to optimizing our applications. This knowledge is vital for ensuring that our products perform well under load and meet user expectations.",
                             "content_instructions": {
@@ -657,17 +1057,29 @@
                     ]
                 },
                 {
-                    "id": "performance_optimization_techniques",
+                    "id": "4ed89293-9ab9-511b-950d-92d4bd741fd8",
+                    "parent_id": "20f771d4-65b8-5593-b8fb-3b3f2c04a7b7",
                     "type": "module",
                     "title": "Performance Optimization Techniques",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 23,
+                    "length_in_days": 1,
+                    "action": "Review performance optimization techniques and their implementation.",
+                    "description": "Learn techniques for optimizing system performance based on testing results.",
+                    "content_instructions": {
+                        "role": "professional performance optimization specialist",
+                        "topic": "Learn the techniques used to optimize system performance based on testing results."
+                    },
                     "icon": "logo_17",
                     "children": [
                         {
-                            "id": "learn_the_techniques_used_to_optimize_system_performance_based_on_testing_results",
+                            "id": "bb22af94-6734-5c92-ba5f-0b45cf801777",
+                            "parent_id": "4ed89293-9ab9-511b-950d-92d4bd741fd8",
                             "type": "action",
-                            "end_of_day": 23,
                             "title": "Learn the techniques used to optimize system performance based on testing results.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 23,
+                            "length_in_days": 1,
                             "action": "Review performance optimization techniques and their implementation.",
                             "description": "Optimizing system performance is essential for delivering high-quality software. In this module, you'll learn about various techniques for optimizing performance based on testing results, including code optimization, database tuning, and caching strategies. Understanding these techniques will enable you to contribute to enhancing application performance effectively.\nBy familiarizing yourself with performance optimization techniques, you will enhance your ability to identify and implement improvements that lead to better user experiences. This knowledge is vital for maintaining high-quality standards in our software.",
                             "content_instructions": {
@@ -681,24 +1093,45 @@
             ]
         },
         {
-            "id": "version_control_in_our_qa_process",
+            "id": "2d12c43f-91a5-59f1-87e7-0fc12477263d",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Version Control in Our QA Process",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 25,
-            "icon": "logo_22",
+            "length_in_days": 2,
+            "action": "Review the versioning practices for test cases and their importance.",
+            "description": "Explore practices for versioning test cases and managing test repositories effectively.",
+            "content_instructions": {
+                "role": "professional QA manager",
+                "topic": "Understand how test cases are versioned and maintained."
+            },
+            "icon": "logo_10",
             "children": [
                 {
-                    "id": "test_case_versioning",
+                    "id": "669e018a-1966-51c5-9144-bd305a010e94",
+                    "parent_id": "2d12c43f-91a5-59f1-87e7-0fc12477263d",
                     "type": "module",
                     "title": "Test Case Versioning",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 24,
+                    "length_in_days": 1,
+                    "action": "Review the versioning practices for test cases and their importance.",
+                    "description": "Learn about practices for versioning test cases and documenting changes.",
+                    "content_instructions": {
+                        "role": "professional QA manager",
+                        "topic": "Understand how test cases are versioned and maintained."
+                    },
                     "icon": "logo_22",
                     "children": [
                         {
-                            "id": "understand_how_test_cases_are_versioned_and_maintained",
+                            "id": "da7613b4-5ee6-54e9-95be-2aa9f47555e4",
+                            "parent_id": "669e018a-1966-51c5-9144-bd305a010e94",
                             "type": "action",
-                            "end_of_day": 24,
                             "title": "Understand how test cases are versioned and maintained.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 24,
+                            "length_in_days": 1,
                             "action": "Review the versioning practices for test cases and their importance.",
                             "description": "Versioning test cases is crucial for maintaining clarity and consistency in our testing efforts. In this module, you'll learn about the practices for versioning test cases, including how to document changes and track different versions over time. Understanding these practices will help ensure that all team members are aligned on the latest testing requirements.\nBy mastering test case versioning, you will enhance your ability to manage test cases effectively and contribute to the overall quality assurance process. This knowledge is vital for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -710,17 +1143,29 @@
                     ]
                 },
                 {
-                    "id": "managing_test_repositories",
+                    "id": "fee0509e-c991-569c-8dca-6fab87f2ebc3",
+                    "parent_id": "2d12c43f-91a5-59f1-87e7-0fc12477263d",
                     "type": "module",
                     "title": "Managing Test Repositories",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 25,
+                    "length_in_days": 1,
+                    "action": "Review the processes for managing test repositories and their significance.",
+                    "description": "Learn best practices for organizing and maintaining test repositories for consistency.",
+                    "content_instructions": {
+                        "role": "professional QA coordinator",
+                        "topic": "Learn about managing test repositories and ensuring consistency."
+                    },
                     "icon": "logo_26",
                     "children": [
                         {
-                            "id": "learn_about_managing_test_repositories_and_ensuring_consistency",
+                            "id": "0f5a25dc-8310-58b2-8194-b2e54cd1ec71",
+                            "parent_id": "fee0509e-c991-569c-8dca-6fab87f2ebc3",
                             "type": "action",
-                            "end_of_day": 25,
                             "title": "Learn about managing test repositories and ensuring consistency.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 25,
+                            "length_in_days": 1,
                             "action": "Review the processes for managing test repositories and their significance.",
                             "description": "Managing test repositories is essential for ensuring that all test cases are organized, accessible, and up-to-date. In this module, you'll learn about the best practices for managing test repositories, including how to structure repositories and ensure consistency across test cases. Understanding these processes will help you contribute to a more efficient and effective testing workflow.\nBy mastering test repository management, you will enhance your ability to maintain high-quality standards in our testing efforts. This knowledge is vital for ensuring that all team members can access and utilize the latest testing resources.",
                             "content_instructions": {
@@ -732,17 +1177,29 @@
                     ]
                 },
                 {
-                    "id": "tracking_changes_in_test_frameworks",
+                    "id": "20817e5d-6d00-5dd8-b4c2-c1cc6e6ef34a",
+                    "parent_id": "2d12c43f-91a5-59f1-87e7-0fc12477263d",
                     "type": "module",
                     "title": "Tracking Changes in Test Frameworks",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 25,
+                    "length_in_days": 1,
+                    "action": "Review the processes for tracking changes in test frameworks and their importance.",
+                    "description": "Learn about documenting changes in test frameworks, including version updates and new features.",
+                    "content_instructions": {
+                        "role": "professional QA lead",
+                        "topic": "Overview of how changes in test frameworks are tracked and implemented."
+                    },
                     "icon": "logo_32",
                     "children": [
                         {
-                            "id": "overview_of_how_changes_in_test_frameworks_are_tracked_and_implemented",
+                            "id": "435bf63d-11f8-5cca-80c3-ad9de56c203a",
+                            "parent_id": "20817e5d-6d00-5dd8-b4c2-c1cc6e6ef34a",
                             "type": "action",
-                            "end_of_day": 25,
                             "title": "Overview of how changes in test frameworks are tracked and implemented.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 25,
+                            "length_in_days": 1,
                             "action": "Review the processes for tracking changes in test frameworks and their importance.",
                             "description": "Tracking changes in test frameworks is crucial for ensuring that our testing efforts remain effective and up-to-date. In this module, you'll learn about the processes for documenting changes in test frameworks, including version updates, new features, and deprecated functionalities. Understanding these processes will help you ensure that our testing practices evolve in line with technological advancements.\nBy mastering change tracking in test frameworks, you will enhance your ability to contribute to continuous improvement in our testing practices. This knowledge is vital for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -756,24 +1213,45 @@
             ]
         },
         {
-            "id": "continuous_testing_in_our_ci_cd_pipeline",
+            "id": "9de6e2f1-c800-5fb0-9a5a-74e5700ec4a2",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Continuous Testing in Our CI/CD Pipeline",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 28,
-            "icon": "logo_23",
+            "length_in_days": 3,
+            "action": "Review the integration points for testing within the CI process.",
+            "description": "Integrating testing into the CI/CD pipeline ensures high-quality software through automated triggers and monitoring.",
+            "content_instructions": {
+                "role": "professional DevOps engineer",
+                "topic": "Learn how testing is integrated into the continuous integration (CI) process."
+            },
+            "icon": "logo_5",
             "children": [
                 {
-                    "id": "integration_of_testing_into_ci",
+                    "id": "1929ee8b-ac90-5e8f-9d7a-d75c5928963d",
+                    "parent_id": "9de6e2f1-c800-5fb0-9a5a-74e5700ec4a2",
                     "type": "module",
                     "title": "Integration of Testing into CI",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 26,
+                    "length_in_days": 1,
+                    "action": "Review the integration points for testing within the CI process.",
+                    "description": "Learn about integrating testing into the CI pipeline for maintaining software quality.",
+                    "content_instructions": {
+                        "role": "professional DevOps engineer",
+                        "topic": "Learn how testing is integrated into the continuous integration (CI) process."
+                    },
                     "icon": "logo_23",
                     "children": [
                         {
-                            "id": "learn_how_testing_is_integrated_into_the_continuous_integration_ci_process",
+                            "id": "7faf06c2-96f2-5d97-bb2f-e8c21c9290e8",
+                            "parent_id": "1929ee8b-ac90-5e8f-9d7a-d75c5928963d",
                             "type": "action",
-                            "end_of_day": 26,
                             "title": "Learn how testing is integrated into the continuous integration (CI) process.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 26,
+                            "length_in_days": 1,
                             "action": "Review the integration points for testing within the CI process.",
                             "description": "Integrating testing into the continuous integration (CI) process is essential for maintaining high-quality software. In this module, you'll learn about the points at which testing is integrated into the CI pipeline, including automated tests, manual tests, and how results are reported. Understanding this integration will help you ensure that quality is maintained throughout the development process.\nBy mastering the integration of testing into CI, you will enhance your ability to contribute to a robust development workflow and ensure that all code changes are thoroughly tested before deployment. This knowledge is vital for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -785,17 +1263,29 @@
                     ]
                 },
                 {
-                    "id": "automated_test_triggers",
+                    "id": "b4a502d2-ccf2-5f0d-a47a-9df44fbd190a",
+                    "parent_id": "9de6e2f1-c800-5fb0-9a5a-74e5700ec4a2",
                     "type": "module",
                     "title": "Automated Test Triggers",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 27,
+                    "length_in_days": 1,
+                    "action": "Review the automated triggers used for executing tests in the CI/CD pipeline.",
+                    "description": "Learn about triggers that initiate automated tests in CI/CD pipelines.",
+                    "content_instructions": {
+                        "role": "professional CI/CD engineer",
+                        "topic": "Overview of automated triggers for running tests during CI/CD pipelines"
+                    },
                     "icon": "logo_28",
                     "children": [
                         {
-                            "id": "overview_of_automated_triggers_for_running_tests_during_ci_cd_pipelines",
+                            "id": "ffcbcdb8-2086-5877-b5b1-8bece4c72393",
+                            "parent_id": "b4a502d2-ccf2-5f0d-a47a-9df44fbd190a",
                             "type": "action",
-                            "end_of_day": 27,
                             "title": "Overview of automated triggers for running tests during CI/CD pipelines.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 27,
+                            "length_in_days": 1,
                             "action": "Review the automated triggers used for executing tests in the CI/CD pipeline.",
                             "description": "Automated test triggers are essential for ensuring that tests are executed at the right times during the CI/CD pipeline. In this module, you'll learn about the various triggers used to initiate automated tests, including code commits, pull requests, and scheduled tests. Understanding these triggers will help you ensure that testing is seamlessly integrated into the development process.\nBy mastering automated test triggers, you will enhance your ability to contribute to a smooth CI/CD workflow and ensure that quality is prioritized throughout the development lifecycle. This knowledge is vital for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -807,17 +1297,29 @@
                     ]
                 },
                 {
-                    "id": "pipeline_monitoring_for_failures",
+                    "id": "be690ff5-3238-5fab-ac00-6d54833c316e",
+                    "parent_id": "9de6e2f1-c800-5fb0-9a5a-74e5700ec4a2",
                     "type": "module",
                     "title": "Pipeline Monitoring for Failures",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 28,
+                    "length_in_days": 1,
+                    "action": "Review the monitoring tools and techniques for identifying failures in the CI/CD pipeline.",
+                    "description": "Learn tools and techniques for monitoring CI/CD pipelines and addressing test failures effectively.",
+                    "content_instructions": {
+                        "role": "professional DevOps specialist",
+                        "topic": "Understand how to monitor pipelines and troubleshoot test failures"
+                    },
                     "icon": "logo_24",
                     "children": [
                         {
-                            "id": "understand_how_to_monitor_pipelines_and_troubleshoot_test_failures",
+                            "id": "00c1e010-9a09-5eba-9faf-0e89a21d7e4c",
+                            "parent_id": "be690ff5-3238-5fab-ac00-6d54833c316e",
                             "type": "action",
-                            "end_of_day": 28,
                             "title": "Understand how to monitor pipelines and troubleshoot test failures.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 28,
+                            "length_in_days": 1,
                             "action": "Review the monitoring tools and techniques for identifying failures in the CI/CD pipeline.",
                             "description": "Monitoring the CI/CD pipeline is essential for identifying and addressing issues promptly. In this module, you'll learn about the tools and techniques used for monitoring the pipeline, including logging, alerting, and reporting mechanisms for test failures. Understanding these monitoring practices will help you ensure that quality is maintained throughout the development process.\nBy mastering pipeline monitoring, you will enhance your ability to troubleshoot issues effectively and contribute to a robust CI/CD workflow. This knowledge is vital for maintaining high-quality standards in our products.",
                             "content_instructions": {
@@ -831,24 +1333,45 @@
             ]
         },
         {
-            "id": "ongoing_learning_and_development_resources_at_our_company_2",
+            "id": "9551503f-7405-5785-bbcd-2074a7fbbf46",
+            "parent_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
+            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
             "end_of_day": 31,
-            "icon": "logo_36",
+            "length_in_days": 3,
+            "action": "Explore the certification programs and resources available to support your development.",
+            "description": "Resources for continuous learning, including certifications, knowledge sharing, and workshops for QA professionals.",
+            "content_instructions": {
+                "role": "professional learning and development manager",
+                "topic": "Learn about available certifications and resources for QA professionals"
+            },
+            "icon": "logo_16",
             "children": [
                 {
-                    "id": "qa_certifications_and_resources",
+                    "id": "0ee486ae-fd84-5cd4-9be7-d022a996e030",
+                    "parent_id": "9551503f-7405-5785-bbcd-2074a7fbbf46",
                     "type": "module",
                     "title": "QA Certifications and Resources",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 29,
+                    "length_in_days": 1,
+                    "action": "Explore the certification programs and resources available to support your development.",
+                    "description": "Explore various certifications and resources for QA professionals to enhance skills and support development.",
+                    "content_instructions": {
+                        "role": "professional learning and development manager",
+                        "topic": "Learn about available certifications and resources for QA professionals"
+                    },
                     "icon": "logo_36",
                     "children": [
                         {
-                            "id": "learn_about_available_certifications_and_resources_for_qa_professionals",
+                            "id": "0ef24006-0a36-5764-9c3e-5a5c8c04c2bc",
+                            "parent_id": "0ee486ae-fd84-5cd4-9be7-d022a996e030",
                             "type": "action",
-                            "end_of_day": 29,
                             "title": "Learn about available certifications and resources for QA professionals.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 29,
+                            "length_in_days": 1,
                             "action": "Explore the certification programs and resources available to support your development.",
                             "description": "Continuous learning is essential in the field of quality assurance. In this module, you'll learn about the various certifications available for QA professionals, including industry-recognized programs and internal training resources. Understanding these resources will help you identify opportunities for professional growth and development.\nBy exploring these certifications and resources, you will enhance your skills and stay updated on industry trends, contributing to your effectiveness as a QA professional. This knowledge is vital for fostering a culture of continuous improvement within our team.",
                             "content_instructions": {
@@ -860,17 +1383,29 @@
                     ]
                 },
                 {
-                    "id": "qa_team_knowledge_sharing",
+                    "id": "a7739ac5-3d9b-5c31-bc17-b803fe2e1bb1",
+                    "parent_id": "9551503f-7405-5785-bbcd-2074a7fbbf46",
                     "type": "module",
                     "title": "QA Team Knowledge Sharing",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 30,
+                    "length_in_days": 1,
+                    "action": "Engage in knowledge-sharing sessions and contribute your insights.",
+                    "description": "Explore knowledge-sharing practices in the QA team to enhance collaboration and learning.",
+                    "content_instructions": {
+                        "role": "professional facilitator",
+                        "topic": "Overview of internal knowledge-sharing practices within the QA team"
+                    },
                     "icon": "logo_40",
                     "children": [
                         {
-                            "id": "overview_of_internal_knowledge_sharing_practices_within_the_qa_team",
+                            "id": "79ab6f14-e184-5a7f-bf5c-b470e8c2303a",
+                            "parent_id": "a7739ac5-3d9b-5c31-bc17-b803fe2e1bb1",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Overview of internal knowledge-sharing practices within the QA team.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 30,
+                            "length_in_days": 1,
                             "action": "Engage in knowledge-sharing sessions and contribute your insights.",
                             "description": "Knowledge sharing is a vital practice within our QA team, fostering collaboration and continuous learning. In this module, you'll learn about the various knowledge-sharing practices we employ, including regular meetings, documentation, and collaborative tools. Understanding these practices will enable you to contribute effectively and leverage the collective knowledge of the team.\nBy actively participating in knowledge-sharing sessions, you will enhance your understanding and contribute to the growth of the team. This knowledge is vital for fostering a culture of openness and collaboration.",
                             "content_instructions": {
@@ -882,17 +1417,29 @@
                     ]
                 },
                 {
-                    "id": "internal_qa_workshops",
+                    "id": "332b004a-ea31-5fce-88b3-ca940e57f113",
+                    "parent_id": "9551503f-7405-5785-bbcd-2074a7fbbf46",
                     "type": "module",
                     "title": "Internal QA Workshops",
+                    "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Participate in internal workshops to develop your QA skills.",
+                    "description": "Workshops provide QA professionals with opportunities to enhance skills and learn new techniques.",
+                    "content_instructions": {
+                        "role": "professional training coordinator",
+                        "topic": "Learn about internal workshops designed to enhance QA skills and techniques."
+                    },
                     "icon": "logo_29",
                     "children": [
                         {
-                            "id": "learn_about_internal_workshops_designed_to_enhance_qa_skills_and_techniques",
+                            "id": "aea8c2cb-9de1-5857-9a6c-59cb09af7a8a",
+                            "parent_id": "332b004a-ea31-5fce-88b3-ca940e57f113",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn about internal workshops designed to enhance QA skills and techniques.",
+                            "root_id": "c5433d34-1fc2-5477-9cfb-c0d59c6d02d8",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Participate in internal workshops to develop your QA skills.",
                             "description": "Internal workshops are a great opportunity for QA professionals to enhance their skills and learn new techniques. In this module, you'll learn about the various workshops offered, their formats, and how to participate. Understanding these opportunities will help you take advantage of the resources available for your professional development.\nBy engaging in internal QA workshops, you will expand your skill set and contribute to the overall quality of our products. This knowledge is vital for fostering a culture of continuous improvement and professional growth.",
                             "content_instructions": {

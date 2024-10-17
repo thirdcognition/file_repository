@@ -1,29 +1,57 @@
 {
-    "id": "technical_program_manager",
+    "id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
     "type": "journey",
     "title": "Technical Program Manager",
     "end_of_day": 31,
-    "icon": "logo_1",
+    "length_in_days": 31,
+    "action": "Understand the key responsibilities and skills necessary for a Technical Program Manager.",
+    "description": "Focuses on managing technical programs, ensuring alignment with business objectives and stakeholder needs.",
+    "content_instructions": {
+        "role": "professional program director",
+        "topic": "Overview of the responsibilities and skills required for a Technical Program Manager."
+    },
+    "icon": "logo_3",
     "children": [
         {
-            "id": "introduction_to_the_company_team_6",
+            "id": "70d254aa-d65b-5cae-a0af-c2cad90adef5",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Introduction to the Company & Team",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 3,
-            "icon": "logo_1",
+            "length_in_days": 3,
+            "action": "Familiarize yourself with the company and team dynamics.",
+            "description": "Overview of the company and team structure, emphasizing their contributions to program success.",
+            "content_instructions": {
+                "role": "professional HR manager",
+                "topic": "Introduction to the leadership team and their role in program success"
+            },
+            "icon": "logo_2",
             "children": [
                 {
-                    "id": "meet_the_leadership_team_1",
+                    "id": "c05d1924-9ccb-5e8b-9ae6-f7e51cdbdbdf",
+                    "parent_id": "70d254aa-d65b-5cae-a0af-c2cad90adef5",
                     "type": "module",
                     "title": "Meet the Leadership Team",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 1,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the leadership team and understand their roles and responsibilities.",
+                    "description": "Learn about the leadership team's vision and mission for program alignment.",
+                    "content_instructions": {
+                        "role": "professional HR manager",
+                        "topic": "Introduction to the leadership team and their role in program success"
+                    },
                     "icon": "logo_1",
                     "children": [
                         {
-                            "id": "introduction_to_the_leadership_team_and_their_role_in_program_success",
+                            "id": "3ec76dfe-759d-53b7-b528-0a25ed926681",
+                            "parent_id": "c05d1924-9ccb-5e8b-9ae6-f7e51cdbdbdf",
                             "type": "action",
-                            "end_of_day": 1,
                             "title": "Introduction to the leadership team and their role in program success.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 1,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the leadership team and understand their roles and responsibilities.",
                             "description": "The leadership team is instrumental in guiding the company's strategic direction and ensuring successful program outcomes. Each leader has a distinct area of expertise, and understanding their roles will help you navigate the organizational structure effectively. By knowing who to approach for support or guidance, you can foster better collaboration and communication.\nIn this session, you will learn about the vision and mission of the leadership team, which will provide you with insights into how your program aligns with the company's strategic goals. This knowledge is essential for making informed decisions and contributing effectively to program success.",
                             "content_instructions": {
@@ -35,17 +63,29 @@
                     ]
                 },
                 {
-                    "id": "understanding_program_goals",
+                    "id": "1c3b8f80-48cd-54b1-96e6-99abb39308ce",
+                    "parent_id": "70d254aa-d65b-5cae-a0af-c2cad90adef5",
                     "type": "module",
                     "title": "Understanding Program Goals",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 2,
+                    "length_in_days": 1,
+                    "action": "Review the program goals and identify how they align with the broader company objectives.",
+                    "description": "Aligning program goals with company objectives enhances collaboration and guides decision-making.",
+                    "content_instructions": {
+                        "role": "professional program director",
+                        "topic": "Overview of program goals and their alignment with company objectives"
+                    },
                     "icon": "logo_4",
                     "children": [
                         {
-                            "id": "overview_of_program_goals_and_their_alignment_with_company_objectives",
+                            "id": "76797f14-2f10-58f3-b2c9-150d1214734e",
+                            "parent_id": "1c3b8f80-48cd-54b1-96e6-99abb39308ce",
                             "type": "action",
-                            "end_of_day": 2,
                             "title": "Overview of program goals and their alignment with company objectives.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 2,
+                            "length_in_days": 1,
                             "action": "Review the program goals and identify how they align with the broader company objectives.",
                             "description": "Understanding the goals of your program is crucial for ensuring that your work contributes to the company's overall success. These goals serve as a roadmap for your activities and decision-making processes, guiding you in prioritizing tasks and resources effectively.\nBy aligning your program goals with the company's objectives, you will enhance collaboration across teams and ensure that everyone is working toward a common vision. This alignment is essential for maximizing impact and achieving desired outcomes in your role as a Technical Program Manager.",
                             "content_instructions": {
@@ -57,17 +97,29 @@
                     ]
                 },
                 {
-                    "id": "key_program_stakeholders",
+                    "id": "b7c31b9b-1f06-58ce-912f-09e7b88f1692",
+                    "parent_id": "70d254aa-d65b-5cae-a0af-c2cad90adef5",
                     "type": "module",
                     "title": "Key Program Stakeholders",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 3,
+                    "length_in_days": 1,
+                    "action": "Identify key stakeholders and understand their roles in the program.",
+                    "description": "Overview of key stakeholders and their roles in program management.",
+                    "content_instructions": {
+                        "role": "professional stakeholder engagement specialist",
+                        "topic": "Introduction to key stakeholders involved in the program and their responsibilities."
+                    },
                     "icon": "logo_2",
                     "children": [
                         {
-                            "id": "introduction_to_key_stakeholders_involved_in_the_program_and_their_responsibilities",
+                            "id": "fec9720f-f2a3-5ba0-9df4-bd8b5dbca9ce",
+                            "parent_id": "b7c31b9b-1f06-58ce-912f-09e7b88f1692",
                             "type": "action",
-                            "end_of_day": 3,
                             "title": "Introduction to key stakeholders involved in the program and their responsibilities.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 3,
+                            "length_in_days": 1,
                             "action": "Identify key stakeholders and understand their roles in the program.",
                             "description": "Stakeholders play a vital role in the success of any program, and understanding their interests and responsibilities is essential for effective program management. This module will introduce you to key stakeholders, including team members, department heads, and external partners, and outline their roles and contributions to the program.\nBy engaging with stakeholders early on, you will establish relationships that foster collaboration and support. This understanding will also help you manage expectations and facilitate communication, ensuring that everyone is aligned and informed throughout the program lifecycle.",
                             "content_instructions": {
@@ -81,24 +133,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_program_objectives",
+            "id": "04f36321-812c-5cc6-8135-e562aa96a0fa",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Familiarize with Our Program Objectives",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 6,
-            "icon": "logo_11",
+            "length_in_days": 3,
+            "action": "Explore the strategic objectives of the program and their connection to business goals.",
+            "description": "Understanding program objectives is crucial for aligning with business goals and ensuring organizational success.",
+            "content_instructions": {
+                "role": "professional strategic planner",
+                "topic": "Learn about the strategic objectives of the program and how they align with broader business goals."
+            },
+            "icon": "logo_1",
             "children": [
                 {
-                    "id": "key_deliverables_and_milestones",
+                    "id": "b793438c-f059-5554-95ae-b2578d96feff",
+                    "parent_id": "04f36321-812c-5cc6-8135-e562aa96a0fa",
                     "type": "module",
                     "title": "Key Deliverables and Milestones",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 4,
+                    "length_in_days": 1,
+                    "action": "Review the program's deliverables and milestones, and understand their significance.",
+                    "description": "Focus on deliverables and milestones to manage timelines and communicate progress effectively.",
+                    "content_instructions": {
+                        "role": "professional project manager",
+                        "topic": "Understand the key deliverables and milestones of the program"
+                    },
                     "icon": "logo_11",
                     "children": [
                         {
-                            "id": "understand_the_key_deliverables_and_milestones_of_the_program",
+                            "id": "8d0c11e4-7afe-50e8-8be7-174365076af2",
+                            "parent_id": "b793438c-f059-5554-95ae-b2578d96feff",
                             "type": "action",
-                            "end_of_day": 4,
                             "title": "Understand the key deliverables and milestones of the program.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 4,
+                            "length_in_days": 1,
                             "action": "Review the program's deliverables and milestones, and understand their significance.",
                             "description": "Key deliverables and milestones are critical components of program management, as they provide tangible goals to work toward and measure progress. This module will guide you through the specific deliverables expected from your program and the milestones that indicate progress.\nUnderstanding these elements is essential for managing timelines and ensuring that your program remains on track. By familiarizing yourself with the deliverables and milestones, you will be better equipped to communicate progress to stakeholders and make informed decisions about resource allocation and adjustments as needed.",
                             "content_instructions": {
@@ -110,17 +183,29 @@
                     ]
                 },
                 {
-                    "id": "strategic_program_objectives",
+                    "id": "cc03cebf-990a-5466-a115-333675eeadcd",
+                    "parent_id": "04f36321-812c-5cc6-8135-e562aa96a0fa",
                     "type": "module",
                     "title": "Strategic Program Objectives",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 5,
+                    "length_in_days": 1,
+                    "action": "Explore the strategic objectives of the program and their connection to business goals.",
+                    "description": "Understand how program objectives align with business goals for organizational success.",
+                    "content_instructions": {
+                        "role": "professional strategic planner",
+                        "topic": "Learn about the strategic objectives of the program and how they align with broader business goals."
+                    },
                     "icon": "logo_17",
                     "children": [
                         {
-                            "id": "learn_about_the_strategic_objectives_of_the_program_and_how_they_align_with_broader_business_goals",
+                            "id": "d4fca6d9-5b91-574a-940d-70b83b6db0a7",
+                            "parent_id": "cc03cebf-990a-5466-a115-333675eeadcd",
                             "type": "action",
-                            "end_of_day": 5,
                             "title": "Learn about the strategic objectives of the program and how they align with broader business goals.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 5,
+                            "length_in_days": 1,
                             "action": "Explore the strategic objectives of the program and their connection to business goals.",
                             "description": "Strategic objectives provide a framework for guiding program activities and ensuring alignment with the company's mission and vision. This module will help you understand how your program's strategic objectives contribute to the overall success of the organization.\nBy aligning your program with broader business goals, you will enhance your ability to prioritize initiatives and allocate resources effectively. This alignment is crucial for driving impact and ensuring that your program delivers value to the organization and its stakeholders.",
                             "content_instructions": {
@@ -132,17 +217,29 @@
                     ]
                 },
                 {
-                    "id": "alignment_with_business_goals",
+                    "id": "540d17a8-65a5-5ceb-b9b9-f7fe42511c82",
+                    "parent_id": "04f36321-812c-5cc6-8135-e562aa96a0fa",
                     "type": "module",
                     "title": "Alignment with Business Goals",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 6,
+                    "length_in_days": 1,
+                    "action": "Review the alignment between program objectives and the company's long-term business goals.",
+                    "description": "Aligning program objectives with long-term business goals enhances organizational success and stakeholder communication.",
+                    "content_instructions": {
+                        "role": "professional business analyst",
+                        "topic": "Overview of how the program objectives are aligned with the company's long-term business goals"
+                    },
                     "icon": "logo_27",
                     "children": [
                         {
-                            "id": "overview_of_how_the_program_objectives_are_aligned_with_the_company_s_long_term_business_goals",
+                            "id": "d99f3fc4-50d3-51d4-98eb-b4313d15b42a",
+                            "parent_id": "540d17a8-65a5-5ceb-b9b9-f7fe42511c82",
                             "type": "action",
-                            "end_of_day": 6,
                             "title": "Overview of how the program objectives are aligned with the company's long-term business goals.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 6,
+                            "length_in_days": 1,
                             "action": "Review the alignment between program objectives and the company's long-term business goals.",
                             "description": "Understanding how your program objectives align with the company's long-term business goals is essential for ensuring that your efforts contribute to the organization's success. This module will provide insights into the strategic priorities of the company and how your program fits into this larger context.\nBy maintaining this alignment, you will be better positioned to advocate for your program and secure necessary resources, as well as communicate its value to stakeholders. This understanding is crucial for driving successful outcomes and ensuring sustained support for your initiatives.",
                             "content_instructions": {
@@ -156,24 +253,45 @@
             ]
         },
         {
-            "id": "agile_project_management_at_our_company",
+            "id": "91891dff-bbec-543c-8ebc-ae43532b0955",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Agile Project Management at Our Company",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 9,
+            "length_in_days": 3,
+            "action": "Learn about the application of Agile principles within program management.",
+            "description": "Agile principles enhance program management practices and stakeholder value through flexibility and collaboration.",
+            "content_instructions": {
+                "role": "professional Agile coach",
+                "topic": "Understand how Agile principles are applied at the program level."
+            },
             "icon": "logo_12",
             "children": [
                 {
-                    "id": "agile_program_management_overview",
+                    "id": "37837f82-1eb3-55a3-81c2-5046d3e7d01d",
+                    "parent_id": "91891dff-bbec-543c-8ebc-ae43532b0955",
                     "type": "module",
                     "title": "Agile Program Management Overview",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 7,
+                    "length_in_days": 1,
+                    "action": "Learn about the application of Agile principles within program management.",
+                    "description": "Explore how Agile principles enhance program management practices and stakeholder value.",
+                    "content_instructions": {
+                        "role": "professional Agile coach",
+                        "topic": "Understand how Agile principles are applied at the program level."
+                    },
                     "icon": "logo_12",
                     "children": [
                         {
-                            "id": "understand_how_agile_principles_are_applied_at_the_program_level",
+                            "id": "5c34324e-1300-52c4-9914-469abee91baf",
+                            "parent_id": "37837f82-1eb3-55a3-81c2-5046d3e7d01d",
                             "type": "action",
-                            "end_of_day": 7,
                             "title": "Understand how Agile principles are applied at the program level.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 7,
+                            "length_in_days": 1,
                             "action": "Learn about the application of Agile principles within program management.",
                             "description": "Agile principles emphasize flexibility, collaboration, and customer-centricity, and applying these principles at the program level can enhance overall effectiveness. This module will introduce you to the core Agile concepts and how they are integrated into our program management practices.\nBy understanding Agile methodologies, you will be better equipped to adapt to changing requirements, foster collaboration among teams, and ensure that your program delivers value to stakeholders. This understanding is crucial for navigating the complexities of modern program management.",
                             "content_instructions": {
@@ -185,17 +303,29 @@
                     ]
                 },
                 {
-                    "id": "tracking_agile_metrics",
+                    "id": "3f65b27f-b8e4-5fd1-b244-303e1af5f907",
+                    "parent_id": "91891dff-bbec-543c-8ebc-ae43532b0955",
                     "type": "module",
                     "title": "Tracking Agile Metrics",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 8,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the key metrics used to measure progress in Agile projects.",
+                    "description": "Explore key metrics like velocity, burn-up charts, and cycle time for Agile project assessment.",
+                    "content_instructions": {
+                        "role": "professional metrics analyst",
+                        "topic": "Learn the metrics used to track progress in Agile projects"
+                    },
                     "icon": "logo_5",
                     "children": [
                         {
-                            "id": "learn_the_metrics_used_to_track_progress_in_agile_projects",
+                            "id": "e9c73e2f-e953-5abb-8d0d-08d9c3fbf0e2",
+                            "parent_id": "3f65b27f-b8e4-5fd1-b244-303e1af5f907",
                             "type": "action",
-                            "end_of_day": 8,
                             "title": "Learn the metrics used to track progress in Agile projects.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 8,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the key metrics used to measure progress in Agile projects.",
                             "description": "Tracking metrics is essential for assessing the performance and progress of Agile projects. This module will guide you through the key metrics used in our Agile practices, including velocity, burn-up and burn-down charts, and cycle time.\nBy understanding these metrics, you will be able to evaluate the effectiveness of your program and make informed decisions about adjustments and improvements. This knowledge is crucial for maintaining transparency and accountability in your program management efforts.",
                             "content_instructions": {
@@ -207,17 +337,29 @@
                     ]
                 },
                 {
-                    "id": "program_increment_pi_planning",
+                    "id": "d3e35dc9-f912-50fc-a191-3f1b2957bd92",
+                    "parent_id": "91891dff-bbec-543c-8ebc-ae43532b0955",
                     "type": "module",
                     "title": "Program Increment (PI) Planning",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 9,
+                    "length_in_days": 1,
+                    "action": "Learn about the PI planning process and its significance in Agile program management.",
+                    "description": "Overview of the PI planning process, its objectives, key participants, and outcomes.",
+                    "content_instructions": {
+                        "role": "professional Agile facilitator",
+                        "topic": "Overview of how Program Increment (PI) planning is conducted."
+                    },
                     "icon": "logo_14",
                     "children": [
                         {
-                            "id": "overview_of_how_program_increment_pi_planning_is_conducted",
+                            "id": "8908d336-342d-5797-b402-10e7c89c52db",
+                            "parent_id": "d3e35dc9-f912-50fc-a191-3f1b2957bd92",
                             "type": "action",
-                            "end_of_day": 9,
                             "title": "Overview of how Program Increment (PI) planning is conducted.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 9,
+                            "length_in_days": 1,
                             "action": "Learn about the PI planning process and its significance in Agile program management.",
                             "description": "Program Increment (PI) planning is a critical event in Agile frameworks, particularly in Scaled Agile Framework (SAFe) environments. This module will provide an overview of the PI planning process, including its objectives, key participants, and outcomes.\nBy engaging in PI planning, you will ensure that all teams are aligned on priorities and objectives for the upcoming increment. This understanding is essential for fostering collaboration and ensuring that your program remains on track to achieve its goals.",
                             "content_instructions": {
@@ -231,24 +373,45 @@
             ]
         },
         {
-            "id": "collaborating_with_our_engineering_and_product_teams_1",
+            "id": "90346f0d-d3c6-504c-b308-825c9d2df4d2",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Collaborating with Our Engineering and Product Teams",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 12,
+            "length_in_days": 3,
+            "action": "Understand the collaboration dynamics between program management, engineering, and product teams.",
+            "description": "Collaboration among program management, engineering, and product teams is vital for project success.",
+            "content_instructions": {
+                "role": "professional collaboration expert",
+                "topic": "Learn how the program management team collaborates with engineering and product teams."
+            },
             "icon": "logo_6",
             "children": [
                 {
-                    "id": "inter_team_collaboration",
+                    "id": "10191f8b-f9a8-5d8b-97d6-81a4b38d3ff9",
+                    "parent_id": "90346f0d-d3c6-504c-b308-825c9d2df4d2",
                     "type": "module",
                     "title": "Inter-team Collaboration",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 10,
+                    "length_in_days": 1,
+                    "action": "Understand the collaboration dynamics between program management, engineering, and product teams.",
+                    "description": "Collaboration between program management, engineering, and product teams is crucial for project success.",
+                    "content_instructions": {
+                        "role": "professional collaboration expert",
+                        "topic": "Learn how the program management team collaborates with engineering and product teams."
+                    },
                     "icon": "logo_6",
                     "children": [
                         {
-                            "id": "learn_how_the_program_management_team_collaborates_with_engineering_and_product_teams",
+                            "id": "7feb0ae1-0b88-5180-b87b-5eea46770646",
+                            "parent_id": "10191f8b-f9a8-5d8b-97d6-81a4b38d3ff9",
                             "type": "action",
-                            "end_of_day": 10,
                             "title": "Learn how the program management team collaborates with engineering and product teams.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 10,
+                            "length_in_days": 1,
                             "action": "Understand the collaboration dynamics between program management, engineering, and product teams.",
                             "description": "Effective collaboration between program management, engineering, and product teams is crucial for delivering successful projects. This module will explore the collaboration dynamics and communication strategies that facilitate teamwork across these functions.\nBy understanding these dynamics, you will enhance your ability to foster collaboration and ensure that all teams are aligned on project goals. This knowledge is vital for driving successful outcomes and maintaining strong relationships among stakeholders.",
                             "content_instructions": {
@@ -260,17 +423,29 @@
                     ]
                 },
                 {
-                    "id": "synchronizing_program_and_product_roadmaps",
+                    "id": "0fc21f18-ba8f-5385-bb20-83afb0987589",
+                    "parent_id": "90346f0d-d3c6-504c-b308-825c9d2df4d2",
                     "type": "module",
                     "title": "Synchronizing Program and Product Roadmaps",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 11,
+                    "length_in_days": 1,
+                    "action": "Review the process for aligning program and product roadmaps.",
+                    "description": "Guidance on aligning program and product roadmaps for common objectives and stakeholder value.",
+                    "content_instructions": {
+                        "role": "professional product manager",
+                        "topic": "Understand the process of synchronizing the program and product roadmaps to ensure alignment."
+                    },
                     "icon": "logo_47",
                     "children": [
                         {
-                            "id": "understand_the_process_of_synchronizing_the_program_and_product_roadmaps_to_ensure_alignment",
+                            "id": "50a81e0f-ff3d-537d-96ee-7f5b4c4de1ee",
+                            "parent_id": "0fc21f18-ba8f-5385-bb20-83afb0987589",
                             "type": "action",
-                            "end_of_day": 11,
                             "title": "Understand the process of synchronizing the program and product roadmaps to ensure alignment.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 11,
+                            "length_in_days": 1,
                             "action": "Review the process for aligning program and product roadmaps.",
                             "description": "Synchronizing program and product roadmaps is essential for ensuring that both teams are working toward common objectives. This module will guide you through the process of aligning these roadmaps, including key considerations and best practices.\nBy mastering this process, you will be able to facilitate discussions between teams and ensure that everyone is aware of priorities and timelines. This understanding is crucial for maintaining alignment and ensuring that your program delivers value to stakeholders.",
                             "content_instructions": {
@@ -282,17 +457,29 @@
                     ]
                 },
                 {
-                    "id": "managing_cross_functional_dependencies",
+                    "id": "cdac9cb3-6910-5e88-a4e1-463ef0d95c82",
+                    "parent_id": "90346f0d-d3c6-504c-b308-825c9d2df4d2",
                     "type": "module",
                     "title": "Managing Cross-functional Dependencies",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 12,
+                    "length_in_days": 1,
+                    "action": "Learn about the strategies for identifying and managing cross-functional dependencies.",
+                    "description": "Overview of strategies for managing dependencies and enhancing collaboration across teams.",
+                    "content_instructions": {
+                        "role": "professional dependency manager",
+                        "topic": "Overview of managing cross-functional dependencies across teams"
+                    },
                     "icon": "logo_3",
                     "children": [
                         {
-                            "id": "overview_of_managing_cross_functional_dependencies_across_teams",
+                            "id": "a0993d61-eec2-512b-a821-49f25d5cb6d4",
+                            "parent_id": "cdac9cb3-6910-5e88-a4e1-463ef0d95c82",
                             "type": "action",
-                            "end_of_day": 12,
                             "title": "Overview of managing cross-functional dependencies across teams.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 12,
+                            "length_in_days": 1,
                             "action": "Learn about the strategies for identifying and managing cross-functional dependencies.",
                             "description": "Managing cross-functional dependencies is a critical aspect of program management, as it ensures that all teams are aligned and working together effectively. This module will provide an overview of strategies for identifying and managing these dependencies, including communication practices and tools.\nBy understanding how to manage cross-functional dependencies, you will enhance collaboration and minimize potential roadblocks in your program. This knowledge is vital for ensuring that your program remains on track and delivers successful outcomes.",
                             "content_instructions": {
@@ -306,24 +493,45 @@
             ]
         },
         {
-            "id": "our_risk_management_and_mitigation_strategies",
+            "id": "46e54371-3019-582f-9cbf-50ed4abdf8c5",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Our Risk Management and Mitigation Strategies",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 15,
-            "icon": "logo_8",
+            "length_in_days": 3,
+            "action": "Review the risk identification process and its significance.",
+            "description": "Strategies for identifying, mitigating, and planning for program risks.",
+            "content_instructions": {
+                "role": "professional risk manager",
+                "topic": "Learn about the process of identifying potential risks in the program."
+            },
+            "icon": "logo_3",
             "children": [
                 {
-                    "id": "identifying_program_risks",
+                    "id": "b32925a1-674e-5483-8896-fac2a3373799",
+                    "parent_id": "46e54371-3019-582f-9cbf-50ed4abdf8c5",
                     "type": "module",
                     "title": "Identifying Program Risks",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 13,
+                    "length_in_days": 1,
+                    "action": "Review the risk identification process and its significance.",
+                    "description": "Guidance on identifying potential risks in program management to enhance proactive management.",
+                    "content_instructions": {
+                        "role": "professional risk manager",
+                        "topic": "Learn about the process of identifying potential risks in the program."
+                    },
                     "icon": "logo_8",
                     "children": [
                         {
-                            "id": "learn_about_the_process_of_identifying_potential_risks_in_the_program",
+                            "id": "5a6d8579-36e0-508e-b690-e0c607438555",
+                            "parent_id": "b32925a1-674e-5483-8896-fac2a3373799",
                             "type": "action",
-                            "end_of_day": 13,
                             "title": "Learn about the process of identifying potential risks in the program.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 13,
+                            "length_in_days": 1,
                             "action": "Review the risk identification process and its significance.",
                             "description": "Identifying potential risks is a crucial step in program management, as it allows you to proactively address challenges before they impact your program. This module will guide you through the risk identification process, including tools and techniques for spotting risks early on.\nBy mastering this process, you will enhance your ability to manage uncertainties and ensure that your program remains on track. This understanding is vital for fostering a culture of risk awareness and proactive management.",
                             "content_instructions": {
@@ -335,17 +543,29 @@
                     ]
                 },
                 {
-                    "id": "risk_mitigation_plans",
+                    "id": "4444fd19-3a01-5435-ba14-1243b9042080",
+                    "parent_id": "46e54371-3019-582f-9cbf-50ed4abdf8c5",
                     "type": "module",
                     "title": "Risk Mitigation Plans",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 14,
+                    "length_in_days": 1,
+                    "action": "Learn how to develop effective risk mitigation plans.",
+                    "description": "Overview of strategies for developing risk mitigation plans to manage program risks effectively.",
+                    "content_instructions": {
+                        "role": "professional program analyst",
+                        "topic": "Understand the strategies for mitigating program risks"
+                    },
                     "icon": "logo_13",
                     "children": [
                         {
-                            "id": "understand_the_strategies_for_mitigating_program_risks",
+                            "id": "93a418bb-6c41-5ad5-8641-7593cb042675",
+                            "parent_id": "4444fd19-3a01-5435-ba14-1243b9042080",
                             "type": "action",
-                            "end_of_day": 14,
                             "title": "Understand the strategies for mitigating program risks.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 14,
+                            "length_in_days": 1,
                             "action": "Learn how to develop effective risk mitigation plans.",
                             "description": "Developing risk mitigation plans is essential for addressing identified risks and minimizing their impact on your program. This module will provide an overview of strategies for creating effective mitigation plans, including prioritization and resource allocation.\nBy understanding how to develop and implement these plans, you will enhance your ability to manage risks effectively and ensure that your program remains on track. This knowledge is crucial for maintaining stakeholder confidence and delivering successful outcomes.",
                             "content_instructions": {
@@ -357,17 +577,29 @@
                     ]
                 },
                 {
-                    "id": "escalation_and_contingency_planning",
+                    "id": "826ca617-0819-5c29-9f65-70ad8d14f0d5",
+                    "parent_id": "46e54371-3019-582f-9cbf-50ed4abdf8c5",
                     "type": "module",
                     "title": "Escalation and Contingency Planning",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 15,
+                    "length_in_days": 1,
+                    "action": "Learn about the escalation and contingency planning processes.",
+                    "description": "Guidance on managing high-impact risks through escalation paths and contingency planning.",
+                    "content_instructions": {
+                        "role": "professional contingency planner",
+                        "topic": "Overview of escalation paths and contingency planning for high-impact risks."
+                    },
                     "icon": "logo_21",
                     "children": [
                         {
-                            "id": "overview_of_escalation_paths_and_contingency_planning_for_high_impact_risks",
+                            "id": "7540784d-3265-50de-8dd3-def00f3062c7",
+                            "parent_id": "826ca617-0819-5c29-9f65-70ad8d14f0d5",
                             "type": "action",
-                            "end_of_day": 15,
                             "title": "Overview of escalation paths and contingency planning for high-impact risks.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 15,
+                            "length_in_days": 1,
                             "action": "Learn about the escalation and contingency planning processes.",
                             "description": "Having clear escalation paths and contingency plans in place is essential for effectively managing high-impact risks. This module will guide you through the processes for escalating issues and developing contingency plans to address potential challenges.\nBy mastering these processes, you will enhance your ability to respond to unexpected events and ensure that your program remains resilient. This understanding is vital for maintaining program stability and delivering successful outcomes.",
                             "content_instructions": {
@@ -381,24 +613,45 @@
             ]
         },
         {
-            "id": "tools_and_software_for_project_management_at_our_company",
+            "id": "00ebcd63-8c3b-54e3-a05a-c13abbd35d9e",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Tools and Software for Project Management at Our Company",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 18,
-            "icon": "logo_23",
+            "length_in_days": 3,
+            "action": "Familiarize yourself with the tools and software for project management at our company.",
+            "description": "Overview of tools for project management, including JIRA, Confluence, and dashboards for tracking and collaboration.",
+            "content_instructions": {
+                "role": "professional project management software trainer",
+                "topic": "Overview of tools and software used for project management, including JIRA, Confluence, and dashboards."
+            },
+            "icon": "logo_3",
             "children": [
                 {
-                    "id": "jira_and_confluence_for_program_tracking",
+                    "id": "eb79d875-9bf3-5f06-88e8-3eb45b3ae72e",
+                    "parent_id": "00ebcd63-8c3b-54e3-a05a-c13abbd35d9e",
                     "type": "module",
                     "title": "JIRA and Confluence for Program Tracking",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 16,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with JIRA and Confluence for program tracking.",
+                    "description": "Overview of JIRA and Confluence for tracking program progress and team collaboration.",
+                    "content_instructions": {
+                        "role": "professional project management software trainer",
+                        "topic": "Introduction to how JIRA and Confluence are used for tracking program progress."
+                    },
                     "icon": "logo_23",
                     "children": [
                         {
-                            "id": "introduction_to_how_jira_and_confluence_are_used_for_tracking_program_progress",
+                            "id": "08dd3ad7-1cbf-52f9-bde8-2758027f06a4",
+                            "parent_id": "eb79d875-9bf3-5f06-88e8-3eb45b3ae72e",
                             "type": "action",
-                            "end_of_day": 16,
                             "title": "Introduction to how JIRA and Confluence are used for tracking program progress.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 16,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with JIRA and Confluence for program tracking.",
                             "description": "JIRA and Confluence are essential tools for tracking program progress and facilitating collaboration among teams. This module will provide an overview of how these tools are used within our organization, including best practices for managing tasks and documentation.\nBy mastering these tools, you will enhance your ability to track progress effectively and ensure that all team members are aligned on project goals. This knowledge is crucial for maintaining transparency and accountability in your program management efforts.",
                             "content_instructions": {
@@ -410,17 +663,29 @@
                     ]
                 },
                 {
-                    "id": "project_management_dashboards",
+                    "id": "4a3f66b7-d03b-57c9-b2a9-846831086067",
+                    "parent_id": "00ebcd63-8c3b-54e3-a05a-c13abbd35d9e",
                     "type": "module",
                     "title": "Project Management Dashboards",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 17,
+                    "length_in_days": 1,
+                    "action": "Explore the project management dashboards and their functionalities.",
+                    "description": "Dashboards offer insights into project progress and key performance metrics.",
+                    "content_instructions": {
+                        "role": "professional data analyst",
+                        "topic": "Learn about the dashboards used to visualize project progress and key metrics."
+                    },
                     "icon": "logo_33",
                     "children": [
                         {
-                            "id": "learn_about_the_dashboards_used_to_visualize_project_progress_and_key_metrics",
+                            "id": "14c207d0-3871-57af-9414-3abf4dd91576",
+                            "parent_id": "4a3f66b7-d03b-57c9-b2a9-846831086067",
                             "type": "action",
-                            "end_of_day": 17,
                             "title": "Learn about the dashboards used to visualize project progress and key metrics.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 17,
+                            "length_in_days": 1,
                             "action": "Explore the project management dashboards and their functionalities.",
                             "description": "Project management dashboards provide valuable insights into project progress and key performance metrics. This module will guide you through the various dashboards available within our organization and how to interpret the data presented.\nBy understanding how to leverage these dashboards, you will enhance your ability to monitor project health and make informed decisions based on real-time data. This knowledge is essential for maintaining oversight and ensuring successful program outcomes.",
                             "content_instructions": {
@@ -432,17 +697,29 @@
                     ]
                 },
                 {
-                    "id": "collaboration_and_communication_tools",
+                    "id": "9ec15f88-0350-53f3-9618-0f108a2eb366",
+                    "parent_id": "00ebcd63-8c3b-54e3-a05a-c13abbd35d9e",
                     "type": "module",
                     "title": "Collaboration and Communication Tools",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 18,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the collaboration and communication tools used in the organization.",
+                    "description": "Overview of key tools for effective cross-team communication and collaboration.",
+                    "content_instructions": {
+                        "role": "professional communication specialist",
+                        "topic": "Overview of tools used for cross-team communication and collaboration"
+                    },
                     "icon": "logo_45",
                     "children": [
                         {
-                            "id": "overview_of_tools_used_for_cross_team_communication_and_collaboration",
+                            "id": "e96440b2-5bf1-577c-b44b-7a011e3a1324",
+                            "parent_id": "9ec15f88-0350-53f3-9618-0f108a2eb366",
                             "type": "action",
-                            "end_of_day": 18,
                             "title": "Overview of tools used for cross-team communication and collaboration.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 18,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the collaboration and communication tools used in the organization.",
                             "description": "Effective communication and collaboration are essential for program success, and our organization utilizes various tools to facilitate these processes. This module will provide an overview of the key collaboration and communication tools available to you and how to use them effectively.\nBy mastering these tools, you will enhance your ability to engage with stakeholders and ensure that all team members are informed and aligned. This knowledge is crucial for fostering a collaborative culture and driving successful program outcomes.",
                             "content_instructions": {
@@ -456,24 +733,45 @@
             ]
         },
         {
-            "id": "tracking_progress_and_reporting_at_our_company",
+            "id": "e5b42873-b2af-5d49-b32b-3c08cb02d442",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Tracking Progress and Reporting at Our Company",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 21,
-            "icon": "logo_37",
+            "length_in_days": 3,
+            "action": "Learn how to track progress and report to stakeholders.",
+            "description": "Guidance on tracking progress and reporting to stakeholders effectively.",
+            "content_instructions": {
+                "role": "professional program manager",
+                "topic": "Strategies for tracking progress and reporting to stakeholders"
+            },
+            "icon": "logo_4",
             "children": [
                 {
-                    "id": "program_status_reports",
+                    "id": "c863ece6-0f53-5234-8ff1-a53f407c4238",
+                    "parent_id": "e5b42873-b2af-5d49-b32b-3c08cb02d442",
                     "type": "module",
                     "title": "Program Status Reports",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 19,
+                    "length_in_days": 1,
+                    "action": "Understand the process for creating program status reports.",
+                    "description": "Guidance on compiling and presenting program status reports for effective stakeholder communication.",
+                    "content_instructions": {
+                        "role": "professional reporting analyst",
+                        "topic": "Learn how to create and present program status reports to stakeholders."
+                    },
                     "icon": "logo_37",
                     "children": [
                         {
-                            "id": "learn_how_to_create_and_present_program_status_reports_to_stakeholders",
+                            "id": "bf870175-9f47-5ffc-a6cf-437c6f3d46e1",
+                            "parent_id": "c863ece6-0f53-5234-8ff1-a53f407c4238",
                             "type": "action",
-                            "end_of_day": 19,
                             "title": "Learn how to create and present program status reports to stakeholders.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 19,
+                            "length_in_days": 1,
                             "action": "Understand the process for creating program status reports.",
                             "description": "Creating and presenting program status reports is a key responsibility for program managers. This module will guide you through the process of compiling and presenting these reports, including essential components and best practices.\nBy mastering this process, you will enhance your ability to communicate progress and challenges effectively to stakeholders. This knowledge is crucial for maintaining transparency and ensuring that all parties are informed about program status.",
                             "content_instructions": {
@@ -485,17 +783,29 @@
                     ]
                 },
                 {
-                    "id": "burnup_and_burndown_charts",
+                    "id": "961eb48b-03a0-5d41-83a9-a865fe208a61",
+                    "parent_id": "e5b42873-b2af-5d49-b32b-3c08cb02d442",
                     "type": "module",
                     "title": "Burnup and Burndown Charts",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 20,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with burnup and burndown charts and their significance.",
+                    "description": "Learn to interpret burnup and burndown charts for monitoring project health and performance.",
+                    "content_instructions": {
+                        "role": "professional Agile coach",
+                        "topic": "Understand how burnup and burndown charts are used to track progress."
+                    },
                     "icon": "logo_31",
                     "children": [
                         {
-                            "id": "understand_how_burnup_and_burndown_charts_are_used_to_track_progress",
+                            "id": "6d2bc407-8472-5f7d-b235-9c8255d2dc69",
+                            "parent_id": "961eb48b-03a0-5d41-83a9-a865fe208a61",
                             "type": "action",
-                            "end_of_day": 20,
                             "title": "Understand how burnup and burndown charts are used to track progress.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 20,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with burnup and burndown charts and their significance.",
                             "description": "Burnup and burndown charts are valuable tools for tracking progress in Agile projects. This module will explain how to interpret these charts and use them to monitor project health and performance.\nBy understanding how to leverage these charts, you will enhance your ability to communicate progress to stakeholders and make informed decisions about resource allocation and adjustments. This knowledge is essential for maintaining oversight and ensuring successful program outcomes.",
                             "content_instructions": {
@@ -507,17 +817,29 @@
                     ]
                 },
                 {
-                    "id": "stakeholder_progress_updates",
+                    "id": "1899b8a0-f8e0-520a-8747-bbdc5289e5ae",
+                    "parent_id": "e5b42873-b2af-5d49-b32b-3c08cb02d442",
                     "type": "module",
                     "title": "Stakeholder Progress Updates",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 21,
+                    "length_in_days": 1,
+                    "action": "Learn about the process for providing progress updates to stakeholders.",
+                    "description": "Guidance on best practices for delivering progress updates to stakeholders.",
+                    "content_instructions": {
+                        "role": "professional communications manager",
+                        "topic": "Overview of how progress updates are communicated to stakeholders"
+                    },
                     "icon": "logo_16",
                     "children": [
                         {
-                            "id": "overview_of_how_progress_updates_are_communicated_to_stakeholders",
+                            "id": "ae3cfe04-86b9-5f31-87d5-5d6190420abd",
+                            "parent_id": "1899b8a0-f8e0-520a-8747-bbdc5289e5ae",
                             "type": "action",
-                            "end_of_day": 21,
                             "title": "Overview of how progress updates are communicated to stakeholders.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 21,
+                            "length_in_days": 1,
                             "action": "Learn about the process for providing progress updates to stakeholders.",
                             "description": "Communicating progress updates to stakeholders is a critical aspect of program management. This module will guide you through the best practices for delivering these updates, including frequency, format, and key content to include.\nBy mastering this process, you will enhance your ability to keep stakeholders informed and engaged, fostering trust and collaboration. This knowledge is crucial for maintaining transparency and ensuring that all parties are aligned on program status.",
                             "content_instructions": {
@@ -531,24 +853,45 @@
             ]
         },
         {
-            "id": "stakeholder_management_and_communication_in_our_company",
+            "id": "056c37b0-68f1-5a6a-84f1-dc27cebafab6",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Stakeholder Management and Communication in Our Company",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 24,
-            "icon": "logo_32",
+            "length_in_days": 3,
+            "action": "Understand the process for creating stakeholder communication plans.",
+            "description": "Guidance on stakeholder management, communication plans, program briefings, and expectation alignment.",
+            "content_instructions": {
+                "role": "professional communication strategist",
+                "topic": "Learn how to develop and execute stakeholder communication plans."
+            },
+            "icon": "logo_23",
             "children": [
                 {
-                    "id": "stakeholder_communication_plans",
+                    "id": "21c773bb-2c98-577e-a639-629569d4f961",
+                    "parent_id": "056c37b0-68f1-5a6a-84f1-dc27cebafab6",
                     "type": "module",
                     "title": "Stakeholder Communication Plans",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 22,
+                    "length_in_days": 1,
+                    "action": "Understand the process for creating stakeholder communication plans.",
+                    "description": "Guidance on developing stakeholder communication plans, focusing on objectives, audiences, and methods.",
+                    "content_instructions": {
+                        "role": "professional communication strategist",
+                        "topic": "Learn how to develop and execute stakeholder communication plans."
+                    },
                     "icon": "logo_32",
                     "children": [
                         {
-                            "id": "learn_how_to_develop_and_execute_stakeholder_communication_plans",
+                            "id": "d851a933-e750-59aa-802e-40e27f015976",
+                            "parent_id": "21c773bb-2c98-577e-a639-629569d4f961",
                             "type": "action",
-                            "end_of_day": 22,
                             "title": "Learn how to develop and execute stakeholder communication plans.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 22,
+                            "length_in_days": 1,
                             "action": "Understand the process for creating stakeholder communication plans.",
                             "description": "Developing effective stakeholder communication plans is essential for ensuring that all parties are informed and engaged throughout the program lifecycle. This module will guide you through the key components of these plans, including objectives, audiences, and communication methods.\nBy mastering this process, you will enhance your ability to manage stakeholder expectations and foster collaboration. This knowledge is crucial for maintaining strong relationships and ensuring program success.",
                             "content_instructions": {
@@ -560,17 +903,29 @@
                     ]
                 },
                 {
-                    "id": "regular_program_briefings",
+                    "id": "2addcd1c-d0ab-538e-b6be-01f0d8b50298",
+                    "parent_id": "056c37b0-68f1-5a6a-84f1-dc27cebafab6",
                     "type": "module",
                     "title": "Regular Program Briefings",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 23,
+                    "length_in_days": 1,
+                    "action": "Learn about the structure and frequency of program briefings.",
+                    "description": "Overview of the structure and frequency of program briefings for stakeholder engagement.",
+                    "content_instructions": {
+                        "role": "professional meeting facilitator",
+                        "topic": "Understand the frequency and structure of regular program briefings with stakeholders."
+                    },
                     "icon": "logo_26",
                     "children": [
                         {
-                            "id": "understand_the_frequency_and_structure_of_regular_program_briefings_with_stakeholders",
+                            "id": "d0532270-79ad-544b-990e-65c5baace074",
+                            "parent_id": "2addcd1c-d0ab-538e-b6be-01f0d8b50298",
                             "type": "action",
-                            "end_of_day": 23,
                             "title": "Understand the frequency and structure of regular program briefings with stakeholders.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 23,
+                            "length_in_days": 1,
                             "action": "Learn about the structure and frequency of program briefings.",
                             "description": "Regular program briefings are essential for keeping stakeholders informed about program status and developments. This module will provide an overview of the structure and frequency of these briefings, as well as best practices for conducting them effectively.\nBy mastering this process, you will enhance your ability to engage stakeholders and ensure that everyone is aligned on program goals. This knowledge is crucial for maintaining transparency and fostering collaboration.",
                             "content_instructions": {
@@ -582,17 +937,29 @@
                     ]
                 },
                 {
-                    "id": "managing_stakeholder_expectations",
+                    "id": "b90f618c-f8eb-56bf-88b6-33e93445c202",
+                    "parent_id": "056c37b0-68f1-5a6a-84f1-dc27cebafab6",
                     "type": "module",
                     "title": "Managing Stakeholder Expectations",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 24,
+                    "length_in_days": 1,
+                    "action": "Learn about the strategies for managing stakeholder expectations.",
+                    "description": "Strategies for managing stakeholder expectations through communication and engagement techniques.",
+                    "content_instructions": {
+                        "role": "professional stakeholder engagement manager",
+                        "topic": "Overview of strategies for managing and aligning stakeholder expectations"
+                    },
                     "icon": "logo_40",
                     "children": [
                         {
-                            "id": "overview_of_strategies_for_managing_and_aligning_stakeholder_expectations",
+                            "id": "190563fa-9267-5a1e-8f04-581845be39e3",
+                            "parent_id": "b90f618c-f8eb-56bf-88b6-33e93445c202",
                             "type": "action",
-                            "end_of_day": 24,
                             "title": "Overview of strategies for managing and aligning stakeholder expectations.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 24,
+                            "length_in_days": 1,
                             "action": "Learn about the strategies for managing stakeholder expectations.",
                             "description": "Managing stakeholder expectations is a critical aspect of program management, as it ensures that all parties are aligned and satisfied with program outcomes. This module will guide you through strategies for effectively managing these expectations, including communication practices and engagement techniques.\nBy mastering this process, you will enhance your ability to foster positive relationships with stakeholders and ensure that their needs are met. This knowledge is crucial for maintaining trust and collaboration throughout the program lifecycle.",
                             "content_instructions": {
@@ -606,24 +973,45 @@
             ]
         },
         {
-            "id": "resource_allocation_and_budgeting_at_our_company",
+            "id": "5a312904-0b36-579d-852c-8f275d0dad30",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Resource Allocation and Budgeting at Our Company",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 27,
-            "icon": "logo_19",
+            "length_in_days": 3,
+            "action": "Understand the resource allocation process and its significance.",
+            "description": "Guidance on resource allocation, budgeting, and rebalancing for effective program management.",
+            "content_instructions": {
+                "role": "professional resource manager",
+                "topic": "Learn about resource allocation and managing team capacity across multiple teams"
+            },
+            "icon": "logo_25",
             "children": [
                 {
-                    "id": "allocating_resources_across_teams",
+                    "id": "ec2fa0f9-a6c4-530b-b040-ed266f5f7935",
+                    "parent_id": "5a312904-0b36-579d-852c-8f275d0dad30",
                     "type": "module",
                     "title": "Allocating Resources Across Teams",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 25,
+                    "length_in_days": 1,
+                    "action": "Understand the resource allocation process and its significance.",
+                    "description": "Guidance on resource allocation and managing team capacity for program success.",
+                    "content_instructions": {
+                        "role": "professional resource manager",
+                        "topic": "Learn about resource allocation and managing team capacity across multiple teams"
+                    },
                     "icon": "logo_19",
                     "children": [
                         {
-                            "id": "learn_about_resource_allocation_and_managing_team_capacity_across_multiple_teams",
+                            "id": "dce63011-78d3-52df-a280-06512b15e312",
+                            "parent_id": "ec2fa0f9-a6c4-530b-b040-ed266f5f7935",
                             "type": "action",
-                            "end_of_day": 25,
                             "title": "Learn about resource allocation and managing team capacity across multiple teams.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 25,
+                            "length_in_days": 1,
                             "action": "Understand the resource allocation process and its significance.",
                             "description": "Effective resource allocation is essential for ensuring that teams have the capacity to deliver on program objectives. This module will guide you through the resource allocation process, including key considerations and best practices for managing team capacity across multiple teams.\nBy mastering this process, you will enhance your ability to optimize resource utilization and ensure that your program remains on track. This knowledge is crucial for maintaining program efficiency and delivering successful outcomes.",
                             "content_instructions": {
@@ -635,17 +1023,29 @@
                     ]
                 },
                 {
-                    "id": "program_budgeting_and_forecasting",
+                    "id": "b06b7afc-2482-57b9-85b7-be433282753c",
+                    "parent_id": "5a312904-0b36-579d-852c-8f275d0dad30",
                     "type": "module",
                     "title": "Program Budgeting and Forecasting",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 26,
+                    "length_in_days": 1,
+                    "action": "Review the budgeting and forecasting process for your program.",
+                    "description": "Guidance on budgeting and forecasting processes for program management.",
+                    "content_instructions": {
+                        "role": "professional financial analyst",
+                        "topic": "Understand the process for budgeting and forecasting for program needs"
+                    },
                     "icon": "logo_38",
                     "children": [
                         {
-                            "id": "understand_the_process_for_budgeting_and_forecasting_for_program_needs",
+                            "id": "1141eb76-0f54-5c28-932b-c7b73afd3a50",
+                            "parent_id": "b06b7afc-2482-57b9-85b7-be433282753c",
                             "type": "action",
-                            "end_of_day": 26,
                             "title": "Understand the process for budgeting and forecasting for program needs.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 26,
+                            "length_in_days": 1,
                             "action": "Review the budgeting and forecasting process for your program.",
                             "description": "Budgeting and forecasting are critical components of program management, as they ensure that resources are allocated effectively to meet program needs. This module will guide you through the budgeting and forecasting process, including key considerations and best practices.\nBy mastering this process, you will enhance your ability to manage program finances and ensure that your program remains within budget. This knowledge is crucial for maintaining stakeholder confidence and delivering successful outcomes.",
                             "content_instructions": {
@@ -657,17 +1057,29 @@
                     ]
                 },
                 {
-                    "id": "resource_adjustments_and_rebalancing",
+                    "id": "5a46aa03-7073-5c6c-8589-3a350e38d22f",
+                    "parent_id": "5a312904-0b36-579d-852c-8f275d0dad30",
                     "type": "module",
                     "title": "Resource Adjustments and Rebalancing",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 27,
+                    "length_in_days": 1,
+                    "action": "Learn about the strategies for adjusting and rebalancing resources.",
+                    "description": "Overview of strategies for managing resource adjustments and rebalancing efforts.",
+                    "content_instructions": {
+                        "role": "professional change manager",
+                        "topic": "Overview of how resources are rebalanced based on shifting priorities."
+                    },
                     "icon": "logo_25",
                     "children": [
                         {
-                            "id": "overview_of_how_resources_are_rebalanced_based_on_shifting_priorities",
+                            "id": "c4db22fa-439e-53ed-9e38-3b17ea0f55b0",
+                            "parent_id": "5a46aa03-7073-5c6c-8589-3a350e38d22f",
                             "type": "action",
-                            "end_of_day": 27,
                             "title": "Overview of how resources are rebalanced based on shifting priorities.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 27,
+                            "length_in_days": 1,
                             "action": "Learn about the strategies for adjusting and rebalancing resources.",
                             "description": "Adjusting and rebalancing resources is essential for responding to shifting priorities and ensuring that your program remains on track. This module will provide an overview of strategies for effectively managing resource adjustments and rebalancing efforts.\nBy mastering this process, you will enhance your ability to adapt to changing circumstances and ensure that your program continues to deliver value. This knowledge is crucial for maintaining program agility and responsiveness.",
                             "content_instructions": {
@@ -681,24 +1093,45 @@
             ]
         },
         {
-            "id": "our_project_metrics_and_kpis",
+            "id": "be34f2e6-40e6-5b7b-bdb0-fb2a91aec87c",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Our Project Metrics and KPIs",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 30,
-            "icon": "logo_18",
+            "length_in_days": 3,
+            "action": "Review the key metrics and KPIs for assessing program performance.",
+            "description": "Key metrics and KPIs for evaluating program success, health, and delivery quality.",
+            "content_instructions": {
+                "role": "professional performance analyst",
+                "topic": "Learn about the key metrics used to measure program success."
+            },
+            "icon": "logo_3",
             "children": [
                 {
-                    "id": "measuring_program_success",
+                    "id": "55d8a901-c137-5810-8245-3e6d59f07325",
+                    "parent_id": "be34f2e6-40e6-5b7b-bdb0-fb2a91aec87c",
                     "type": "module",
                     "title": "Measuring Program Success",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 28,
+                    "length_in_days": 1,
+                    "action": "Review the key metrics for measuring program success.",
+                    "description": "Explore key metrics for evaluating program success, focusing on qualitative and quantitative measures.",
+                    "content_instructions": {
+                        "role": "professional performance analyst",
+                        "topic": "Learn about the key metrics used to measure program success."
+                    },
                     "icon": "logo_18",
                     "children": [
                         {
-                            "id": "learn_about_the_key_metrics_used_to_measure_program_success",
+                            "id": "760912ad-1f05-5103-8c40-f8f54bffa00d",
+                            "parent_id": "55d8a901-c137-5810-8245-3e6d59f07325",
                             "type": "action",
-                            "end_of_day": 28,
                             "title": "Learn about the key metrics used to measure program success.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 28,
+                            "length_in_days": 1,
                             "action": "Review the key metrics for measuring program success.",
                             "description": "Measuring program success is essential for assessing performance and ensuring that objectives are met. This module will guide you through the key metrics used to evaluate program success, including qualitative and quantitative measures.\nBy understanding these metrics, you will enhance your ability to track progress and make informed decisions about program adjustments. This knowledge is crucial for maintaining accountability and ensuring successful outcomes.",
                             "content_instructions": {
@@ -710,17 +1143,29 @@
                     ]
                 },
                 {
-                    "id": "tracking_program_health",
+                    "id": "5f81f5de-264b-574b-914c-b354798de05f",
+                    "parent_id": "be34f2e6-40e6-5b7b-bdb0-fb2a91aec87c",
                     "type": "module",
                     "title": "Tracking Program Health",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 29,
+                    "length_in_days": 1,
+                    "action": "Learn about the KPIs used to assess program health.",
+                    "description": "Overview of key performance indicators (KPIs) for assessing program health and performance.",
+                    "content_instructions": {
+                        "role": "professional KPI analyst",
+                        "topic": "Understand how to track the overall health of the program using defined KPIs"
+                    },
                     "icon": "logo_20",
                     "children": [
                         {
-                            "id": "understand_how_to_track_the_overall_health_of_the_program_using_defined_kpis",
+                            "id": "6a0686d0-d48c-5aef-8ad4-3265b073108d",
+                            "parent_id": "5f81f5de-264b-574b-914c-b354798de05f",
                             "type": "action",
-                            "end_of_day": 29,
                             "title": "Understand how to track the overall health of the program using defined KPIs.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 29,
+                            "length_in_days": 1,
                             "action": "Learn about the KPIs used to assess program health.",
                             "description": "Tracking program health is essential for ensuring that your program remains on track and delivers value. This module will provide an overview of the key performance indicators (KPIs) used to assess program health and performance.\nBy mastering this process, you will enhance your ability to monitor program status and make informed decisions about resource allocation and adjustments. This knowledge is crucial for maintaining program efficiency and effectiveness.",
                             "content_instructions": {
@@ -732,17 +1177,29 @@
                     ]
                 },
                 {
-                    "id": "kpis_for_delivery_and_quality",
+                    "id": "8a4964e4-3748-5bc1-8654-2f61848e3587",
+                    "parent_id": "be34f2e6-40e6-5b7b-bdb0-fb2a91aec87c",
                     "type": "module",
                     "title": "KPIs for Delivery and Quality",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 30,
+                    "length_in_days": 1,
+                    "action": "Review the KPIs for assessing delivery timelines and quality.",
+                    "description": "Overview of key performance indicators for evaluating delivery timelines and quality metrics.",
+                    "content_instructions": {
+                        "role": "professional quality assurance manager",
+                        "topic": "Overview of KPIs used to measure delivery timelines and quality"
+                    },
                     "icon": "logo_10",
                     "children": [
                         {
-                            "id": "overview_of_kpis_used_to_measure_delivery_timelines_and_quality",
+                            "id": "a194eb39-3c36-50f6-84f6-e9ceb6c1f6df",
+                            "parent_id": "8a4964e4-3748-5bc1-8654-2f61848e3587",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Overview of KPIs used to measure delivery timelines and quality.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 30,
+                            "length_in_days": 1,
                             "action": "Review the KPIs for assessing delivery timelines and quality.",
                             "description": "Measuring delivery timelines and quality is critical for ensuring that your program meets stakeholder expectations. This module will guide you through the key performance indicators (KPIs) used to evaluate delivery timelines and quality metrics.\nBy understanding these KPIs, you will enhance your ability to track performance and make informed decisions about program adjustments. This knowledge is crucial for maintaining accountability and ensuring successful outcomes.",
                             "content_instructions": {
@@ -756,24 +1213,45 @@
             ]
         },
         {
-            "id": "change_management_processes_at_our_company",
+            "id": "9748e8b4-f8c9-524f-9433-349f5a2d76ff",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Change Management Processes at Our Company",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 30,
-            "icon": "logo_22",
+            "length_in_days": 3,
+            "action": "Understand the processes for managing scope changes, conducting impact analysis, and securing stakeholder sign-offs.",
+            "description": "Guidance on managing scope changes, assessing impacts, and securing stakeholder approvals.",
+            "content_instructions": {
+                "role": "professional change manager",
+                "topic": "Learn how to manage scope changes within the program."
+            },
+            "icon": "logo_3",
             "children": [
                 {
-                    "id": "managing_scope_changes",
+                    "id": "02121ba4-7a57-5f47-be1c-9871f8c596ab",
+                    "parent_id": "9748e8b4-f8c9-524f-9433-349f5a2d76ff",
                     "type": "module",
                     "title": "Managing Scope Changes",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 30,
+                    "length_in_days": 3,
+                    "action": "Understand the process for managing scope changes.",
+                    "description": "Guidance on managing scope changes to keep programs aligned with objectives.",
+                    "content_instructions": {
+                        "role": "professional change manager",
+                        "topic": "Learn how to manage scope changes within the program."
+                    },
                     "icon": "logo_22",
                     "children": [
                         {
-                            "id": "learn_how_to_manage_scope_changes_within_the_program",
+                            "id": "37a080e0-24c2-587b-92e9-3ddd06dd9096",
+                            "parent_id": "02121ba4-7a57-5f47-be1c-9871f8c596ab",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Learn how to manage scope changes within the program.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 30,
+                            "length_in_days": 3,
                             "action": "Understand the process for managing scope changes.",
                             "description": "Managing scope changes is essential for ensuring that your program remains focused and aligned with objectives. This module will guide you through the process of managing scope changes, including best practices for assessing impact and securing approvals.\nBy mastering this process, you will enhance your ability to navigate changes effectively and ensure that your program remains on track. This knowledge is crucial for maintaining stakeholder confidence and delivering successful outcomes.",
                             "content_instructions": {
@@ -785,17 +1263,29 @@
                     ]
                 },
                 {
-                    "id": "change_impact_analysis",
+                    "id": "1ebc7abb-ffc1-51e2-a00c-bd2f03b78f8c",
+                    "parent_id": "9748e8b4-f8c9-524f-9433-349f5a2d76ff",
                     "type": "module",
                     "title": "Change Impact Analysis",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 30,
+                    "length_in_days": 0,
+                    "action": "Learn about the process for conducting change impact analysis.",
+                    "description": "Learn to assess how changes affect program objectives, timelines, and resources.",
+                    "content_instructions": {
+                        "role": "professional impact analyst",
+                        "topic": "Understand how to assess the impact of changes on program objectives and timelines."
+                    },
                     "icon": "logo_46",
                     "children": [
                         {
-                            "id": "understand_how_to_assess_the_impact_of_changes_on_program_objectives_and_timelines",
+                            "id": "367332a8-1fce-563a-986e-e4b84b333520",
+                            "parent_id": "1ebc7abb-ffc1-51e2-a00c-bd2f03b78f8c",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Understand how to assess the impact of changes on program objectives and timelines.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 30,
+                            "length_in_days": 0,
                             "action": "Learn about the process for conducting change impact analysis.",
                             "description": "Conducting change impact analysis is essential for understanding how changes may affect your program. This module will guide you through the process of assessing the impact of changes on program objectives, timelines, and resources.\nBy mastering this process, you will enhance your ability to make informed decisions about change management and ensure that your program remains on track. This knowledge is crucial for maintaining accountability and ensuring successful outcomes.",
                             "content_instructions": {
@@ -807,17 +1297,29 @@
                     ]
                 },
                 {
-                    "id": "stakeholder_sign_offs",
+                    "id": "394c5923-57e4-5de6-a3db-ba3060b63c95",
+                    "parent_id": "9748e8b4-f8c9-524f-9433-349f5a2d76ff",
                     "type": "module",
                     "title": "Stakeholder Sign-offs",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 30,
+                    "length_in_days": 0,
+                    "action": "Learn about the process for securing stakeholder sign-offs for changes.",
+                    "description": "Guidance on securing stakeholder sign-offs for changes in the management process.",
+                    "content_instructions": {
+                        "role": "professional change management consultant",
+                        "topic": "Overview of the sign-off process for changes from key stakeholders"
+                    },
                     "icon": "logo_35",
                     "children": [
                         {
-                            "id": "overview_of_the_sign_off_process_for_changes_from_key_stakeholders",
+                            "id": "7ee0486e-7f84-5b91-a073-6a5514ff08a2",
+                            "parent_id": "394c5923-57e4-5de6-a3db-ba3060b63c95",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Overview of the sign-off process for changes from key stakeholders.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 30,
+                            "length_in_days": 0,
                             "action": "Learn about the process for securing stakeholder sign-offs for changes.",
                             "description": "Securing stakeholder sign-offs is a critical step in the change management process, ensuring that all parties are aligned and informed. This module will guide you through the process of obtaining sign-offs for changes, including best practices for communication and documentation.\nBy mastering this process, you will enhance your ability to navigate change management effectively and ensure that your program remains on track. This knowledge is crucial for maintaining stakeholder confidence and delivering successful outcomes.",
                             "content_instructions": {
@@ -831,24 +1333,45 @@
             ]
         },
         {
-            "id": "ongoing_learning_and_development_resources_at_our_company_3",
+            "id": "d90dd0b3-2fef-56cb-8ef4-573a9ada9905",
+            "parent_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "type": "section",
             "title": "Ongoing Learning and Development Resources at Our Company",
+            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
             "end_of_day": 31,
-            "icon": "logo_36",
+            "length_in_days": 1,
+            "action": "Explore the certifications and training programs available to support your growth.",
+            "description": "Resources for program managers to enhance skills through certifications, conferences, and knowledge-sharing.",
+            "content_instructions": {
+                "role": "professional development coordinator",
+                "topic": "Learn about available certifications and training programs for program managers."
+            },
+            "icon": "logo_16",
             "children": [
                 {
-                    "id": "certifications_and_training_programs",
+                    "id": "82266f53-51bc-5c8e-a509-59d3c6168275",
+                    "parent_id": "d90dd0b3-2fef-56cb-8ef4-573a9ada9905",
                     "type": "module",
                     "title": "Certifications and Training Programs",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Explore the certifications and training programs available to support your growth.",
+                    "description": "Overview of certifications and training programs for program managers to enhance skills and knowledge.",
+                    "content_instructions": {
+                        "role": "professional development coordinator",
+                        "topic": "Learn about available certifications and training programs for program managers."
+                    },
                     "icon": "logo_36",
                     "children": [
                         {
-                            "id": "learn_about_available_certifications_and_training_programs_for_program_managers",
+                            "id": "061d9b9c-9d5d-56f1-b57a-f5c96d04a44f",
+                            "parent_id": "82266f53-51bc-5c8e-a509-59d3c6168275",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn about available certifications and training programs for program managers.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Explore the certifications and training programs available to support your growth.",
                             "description": "Ongoing learning and development are essential for your success as a program manager. This module will provide an overview of available certifications and training programs that can enhance your skills and knowledge in program management.\nBy exploring these resources, you will identify opportunities for professional growth that align with your career goals. Engaging with these programs will empower you to stay updated on industry trends and continuously improve your skills.",
                             "content_instructions": {
@@ -860,17 +1383,29 @@
                     ]
                 },
                 {
-                    "id": "program_management_conferences",
+                    "id": "bd172383-b4ed-5572-9253-4b8cc04a4669",
+                    "parent_id": "d90dd0b3-2fef-56cb-8ef4-573a9ada9905",
                     "type": "module",
                     "title": "Program Management Conferences",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Learn about industry conferences and networking opportunities to enhance your career.",
+                    "description": "Overview of conferences and events for program managers to enhance networking and professional growth.",
+                    "content_instructions": {
+                        "role": "professional conference coordinator",
+                        "topic": "Overview of industry conferences and networking opportunities for program managers"
+                    },
                     "icon": "logo_2",
                     "children": [
                         {
-                            "id": "overview_of_industry_conferences_and_networking_opportunities_for_program_managers",
+                            "id": "350d87eb-f61b-554d-8c1f-17f59c433a70",
+                            "parent_id": "bd172383-b4ed-5572-9253-4b8cc04a4669",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Overview of industry conferences and networking opportunities for program managers.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Learn about industry conferences and networking opportunities to enhance your career.",
                             "description": "Participating in industry conferences is a valuable opportunity for program managers to network, share knowledge, and stay updated on best practices. This module will provide an overview of relevant conferences and events that can enhance your professional development.\nBy engaging in these opportunities, you will expand your network and gain insights that can contribute to your success as a program manager. This knowledge is crucial for fostering connections and staying informed about industry trends.",
                             "content_instructions": {
@@ -882,17 +1417,29 @@
                     ]
                 },
                 {
-                    "id": "internal_knowledge_sharing_sessions_1",
+                    "id": "b215c8e6-3f86-5ecb-85fa-d657a2d661fe",
+                    "parent_id": "d90dd0b3-2fef-56cb-8ef4-573a9ada9905",
                     "type": "module",
                     "title": "Internal Knowledge Sharing Sessions",
+                    "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Learn about the importance of participating in internal knowledge-sharing sessions.",
+                    "description": "Internal knowledge-sharing sessions enhance collaboration and support continuous learning among team members.",
+                    "content_instructions": {
+                        "role": "professional knowledge manager",
+                        "topic": "Understand how internal knowledge-sharing sessions help with continuous development."
+                    },
                     "icon": "logo_7",
                     "children": [
                         {
-                            "id": "understand_how_internal_knowledge_sharing_sessions_help_with_continuous_development",
+                            "id": "1baa8aec-d843-53c5-add0-1631bdea561e",
+                            "parent_id": "b215c8e6-3f86-5ecb-85fa-d657a2d661fe",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Understand how internal knowledge-sharing sessions help with continuous development.",
+                            "root_id": "65de5565-d5cb-58e1-94a8-49df4ca29a95",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Learn about the importance of participating in internal knowledge-sharing sessions.",
                             "description": "Internal knowledge-sharing sessions are a vital part of our culture, fostering collaboration and continuous learning among team members. This module will provide insights into how these sessions contribute to your professional growth and the overall success of the program.\nBy actively engaging in knowledge-sharing sessions, you will enhance your understanding and contribute to the collective growth of the team. This practice promotes a culture of openness and collaboration, ultimately leading to more innovative solutions and better outcomes.",
                             "content_instructions": {

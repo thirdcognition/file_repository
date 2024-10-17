@@ -1,29 +1,57 @@
 {
-    "id": "cybersecurity_analyst",
+    "id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
     "type": "journey",
     "title": "Cybersecurity Analyst",
     "end_of_day": 31,
-    "icon": "logo_2",
+    "length_in_days": 31,
+    "action": "Learn about the techniques and methodologies for effective threat detection and analysis.",
+    "description": "Role focused on identifying and analyzing security threats to protect the organization.",
+    "content_instructions": {
+        "role": "professional security analyst",
+        "topic": "Overview of threat detection and analysis processes within the organization."
+    },
+    "icon": "logo_13",
     "children": [
         {
-            "id": "introduction_to_the_company_team_19",
+            "id": "30b6212c-eec9-5651-9245-8a6764fd0c2f",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Introduction to the Company & Team",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 3,
+            "length_in_days": 3,
+            "action": "Familiarize yourself with the members of the cybersecurity team and their specific roles.",
+            "description": "An overview of the cybersecurity team and their specialized roles in protecting the organization.",
+            "content_instructions": {
+                "role": "professional HR manager",
+                "topic": "Introduction to the cybersecurity team members and their roles"
+            },
             "icon": "logo_2",
             "children": [
                 {
-                    "id": "meet_the_security_team",
+                    "id": "281984a7-db22-5f04-a352-752aec20cf4b",
+                    "parent_id": "30b6212c-eec9-5651-9245-8a6764fd0c2f",
                     "type": "module",
                     "title": "Meet the Security Team",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 1,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the members of the cybersecurity team and their specific roles.",
+                    "description": "Overview of the cybersecurity team and their specialized roles in protecting the organization.",
+                    "content_instructions": {
+                        "role": "professional HR manager",
+                        "topic": "Introduction to the cybersecurity team members and their roles"
+                    },
                     "icon": "logo_2",
                     "children": [
                         {
-                            "id": "introduction_to_the_cybersecurity_team_members_and_their_roles",
+                            "id": "538ceb55-eff5-5938-8795-80ac3334615f",
+                            "parent_id": "281984a7-db22-5f04-a352-752aec20cf4b",
                             "type": "action",
-                            "end_of_day": 1,
                             "title": "Introduction to the cybersecurity team members and their roles.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 1,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the members of the cybersecurity team and their specific roles.",
                             "description": "The cybersecurity team is composed of skilled professionals who specialize in various aspects of security, including incident response, threat analysis, and compliance. Each member brings unique expertise that contributes to protecting the organization from cyber threats. Understanding who does what will help you know whom to approach for specific concerns or queries.\nGetting to know your team members not only fosters collaboration but also builds a supportive environment where everyone feels valued. Engaging with your colleagues early on will help you integrate into the team and establish relationships that can enhance your work experience.",
                             "content_instructions": {
@@ -35,17 +63,29 @@
                     ]
                 },
                 {
-                    "id": "overview_of_cybersecurity_leadership",
+                    "id": "7b46b4a8-ff29-54cc-bdfc-a0ddf986416e",
+                    "parent_id": "30b6212c-eec9-5651-9245-8a6764fd0c2f",
                     "type": "module",
                     "title": "Overview of Cybersecurity Leadership",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 2,
+                    "length_in_days": 1,
+                    "action": "Review the roles and responsibilities of the cybersecurity leadership team.",
+                    "description": "Insight into the cybersecurity leadership team's roles and their impact on security strategy.",
+                    "content_instructions": {
+                        "role": "professional cybersecurity strategist",
+                        "topic": "Learn about the cybersecurity leadership team and their responsibilities."
+                    },
                     "icon": "logo_3",
                     "children": [
                         {
-                            "id": "learn_about_the_cybersecurity_leadership_team_and_their_responsibilities",
+                            "id": "456ab42c-5e25-5980-9ebc-b0e4c91bcf8c",
+                            "parent_id": "7b46b4a8-ff29-54cc-bdfc-a0ddf986416e",
                             "type": "action",
-                            "end_of_day": 2,
                             "title": "Learn about the cybersecurity leadership team and their responsibilities.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 2,
+                            "length_in_days": 1,
                             "action": "Review the roles and responsibilities of the cybersecurity leadership team.",
                             "description": "The cybersecurity leadership team plays a pivotal role in shaping the organization's security strategy. They are responsible for defining policies, overseeing compliance, and ensuring that security measures are effectively implemented. Understanding their roles will give you insight into the strategic direction of the cybersecurity efforts within the organization.\nBy knowing the leadership team, you will also understand their expectations and how they align with your work. This awareness will help you navigate the organization more effectively and contribute to discussions about security initiatives.",
                             "content_instructions": {
@@ -57,17 +97,29 @@
                     ]
                 },
                 {
-                    "id": "introduction_to_key_security_stakeholders",
+                    "id": "c75a5cac-9716-5503-801b-18cfb0a893ce",
+                    "parent_id": "30b6212c-eec9-5651-9245-8a6764fd0c2f",
                     "type": "module",
                     "title": "Introduction to Key Security Stakeholders",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 3,
+                    "length_in_days": 1,
+                    "action": "Identify key stakeholders in cybersecurity, including external partners and vendors.",
+                    "description": "Key stakeholders in cybersecurity include internal teams and external partners like vendors and consultants.",
+                    "content_instructions": {
+                        "role": "professional stakeholder manager",
+                        "topic": "Overview of the key security stakeholders, including external partners and vendors"
+                    },
                     "icon": "logo_6",
                     "children": [
                         {
-                            "id": "overview_of_the_key_security_stakeholders_including_external_partners_and_vendors",
+                            "id": "3ef983b5-c7df-57e4-8dae-43f774e9c219",
+                            "parent_id": "c75a5cac-9716-5503-801b-18cfb0a893ce",
                             "type": "action",
-                            "end_of_day": 3,
                             "title": "Overview of the key security stakeholders, including external partners and vendors.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 3,
+                            "length_in_days": 1,
                             "action": "Identify key stakeholders in cybersecurity, including external partners and vendors.",
                             "description": "Key stakeholders in cybersecurity include not only internal team members but also external partners and vendors who play a role in the organization's security posture. These may include security service providers, compliance consultants, and technology vendors. Understanding these relationships is essential for effective collaboration and risk management.\nBy recognizing who the key stakeholders are, you will be better equipped to engage with them on security initiatives and understand how their contributions impact the organization's overall security strategy. This knowledge will enhance your ability to work effectively across teams and with external partners.",
                             "content_instructions": {
@@ -81,24 +133,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_security_policies",
+            "id": "c48112ee-ed74-5ef2-8ae6-bf1477df2bff",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Familiarize with Our Security Policies",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 6,
+            "length_in_days": 3,
+            "action": "Review the company's security policies and understand their importance.",
+            "description": "Company security policies protect assets and ensure compliance with regulations.",
+            "content_instructions": {
+                "role": "professional compliance officer",
+                "topic": "Learn about the company's security policies and how they protect critical assets."
+            },
             "icon": "logo_13",
             "children": [
                 {
-                    "id": "company_security_policies_overview",
+                    "id": "47ce3518-a174-5e37-8cd0-798ebc9a0546",
+                    "parent_id": "c48112ee-ed74-5ef2-8ae6-bf1477df2bff",
                     "type": "module",
                     "title": "Company Security Policies Overview",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 4,
+                    "length_in_days": 1,
+                    "action": "Review the company's security policies and understand their importance.",
+                    "description": "Understanding security policies is vital for protecting assets and ensuring compliance.",
+                    "content_instructions": {
+                        "role": "professional compliance officer",
+                        "topic": "Learn about the company's security policies and how they protect critical assets."
+                    },
                     "icon": "logo_13",
                     "children": [
                         {
-                            "id": "learn_about_the_company_s_security_policies_and_how_they_protect_critical_assets",
+                            "id": "b49ffe68-0ec8-52dd-bcb0-ff6f70ea646d",
+                            "parent_id": "47ce3518-a174-5e37-8cd0-798ebc9a0546",
                             "type": "action",
-                            "end_of_day": 4,
                             "title": "Learn about the company's security policies and how they protect critical assets.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 4,
+                            "length_in_days": 1,
                             "action": "Review the company's security policies and understand their importance.",
                             "description": "Company security policies are designed to protect critical assets and ensure compliance with regulations. These policies outline the procedures and protocols that every employee must follow to maintain a secure environment. Familiarizing yourself with these policies is crucial for understanding your responsibilities in safeguarding the organization's information.\nBy adhering to these policies, you contribute to a culture of security awareness and help mitigate risks. Understanding the rationale behind each policy will also empower you to make informed decisions in your daily activities, ensuring that you align with the organization's security objectives.",
                             "content_instructions": {
@@ -110,17 +183,29 @@
                     ]
                 },
                 {
-                    "id": "compliance_with_industry_standards_2",
+                    "id": "7db259c5-b4e6-51ff-b691-9c4c9e6766f6",
+                    "parent_id": "c48112ee-ed74-5ef2-8ae6-bf1477df2bff",
                     "type": "module",
                     "title": "Compliance with Industry Standards",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 5,
+                    "length_in_days": 1,
+                    "action": "Review the industry standards relevant to our organization and their implications.",
+                    "description": "Understanding GDPR and CCPA is vital for protecting customer data and maintaining compliance.",
+                    "content_instructions": {
+                        "role": "professional compliance analyst",
+                        "topic": "Understand the importance of complying with industry standards such as GDPR and CCPA."
+                    },
                     "icon": "logo_35",
                     "children": [
                         {
-                            "id": "understand_the_importance_of_complying_with_industry_standards_such_as_gdpr_and_ccpa",
+                            "id": "cbdc211d-1336-5173-8342-1d12ea60cdc8",
+                            "parent_id": "7db259c5-b4e6-51ff-b691-9c4c9e6766f6",
                             "type": "action",
-                            "end_of_day": 5,
                             "title": "Understand the importance of complying with industry standards such as GDPR and CCPA.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 5,
+                            "length_in_days": 1,
                             "action": "Review the industry standards relevant to our organization and their implications.",
                             "description": "Compliance with industry standards such as GDPR and CCPA is crucial for protecting customer data and avoiding legal repercussions. These regulations set forth guidelines on how personal data should be collected, processed, and stored. Understanding these standards will help you recognize the importance of data protection and the role you play in maintaining compliance.\nBy familiarizing yourself with these regulations, you will be better equipped to identify potential compliance issues and contribute to the organization's efforts in safeguarding customer information. This knowledge is essential for fostering trust with clients and ensuring the organization's reputation is upheld.",
                             "content_instructions": {
@@ -132,17 +217,29 @@
                     ]
                 },
                 {
-                    "id": "security_best_practices_at_our_company",
+                    "id": "9f103828-d3f2-5dd3-93ba-30740aa5a12d",
+                    "parent_id": "c48112ee-ed74-5ef2-8ae6-bf1477df2bff",
                     "type": "module",
                     "title": "Security Best Practices at Our Company",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 6,
+                    "length_in_days": 1,
+                    "action": "Learn about the best practices for maintaining security within the organization.",
+                    "description": "Overview of practices to minimize risks and protect organizational assets.",
+                    "content_instructions": {
+                        "role": "professional security consultant",
+                        "topic": "Overview of security best practices followed at the company to minimize risks"
+                    },
                     "icon": "logo_21",
                     "children": [
                         {
-                            "id": "overview_of_security_best_practices_followed_at_the_company_to_minimize_risks",
+                            "id": "6a0804ab-d8d9-5c38-b145-edf1bc203616",
+                            "parent_id": "9f103828-d3f2-5dd3-93ba-30740aa5a12d",
                             "type": "action",
-                            "end_of_day": 6,
                             "title": "Overview of security best practices followed at the company to minimize risks.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 6,
+                            "length_in_days": 1,
                             "action": "Learn about the best practices for maintaining security within the organization.",
                             "description": "Security best practices are essential for minimizing risks and protecting the organization's assets. These practices include regular training, secure coding standards, and incident reporting protocols. Understanding these best practices will equip you with the knowledge needed to contribute to a secure working environment.\nBy adopting these practices, you not only protect yourself but also contribute to a culture of security within the organization. Engaging with these practices will enhance your ability to identify vulnerabilities and take proactive measures to mitigate risks.",
                             "content_instructions": {
@@ -156,24 +253,45 @@
             ]
         },
         {
-            "id": "overview_of_our_security_tools_and_software",
+            "id": "2cbbdf1e-c59f-54fd-8232-074c4adba64f",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Overview of Our Security Tools and Software",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 9,
-            "icon": "logo_5",
+            "length_in_days": 3,
+            "action": "Familiarize yourself with the security monitoring tools in use.",
+            "description": "Security tools enhance visibility and response to potential threats across the organization.",
+            "content_instructions": {
+                "role": "professional security analyst",
+                "topic": "Learn about the tools used to monitor the security posture of the company."
+            },
+            "icon": "logo_13",
             "children": [
                 {
-                    "id": "security_monitoring_tools",
+                    "id": "6bcc608d-5b7d-5673-8fd7-23cb2046abee",
+                    "parent_id": "2cbbdf1e-c59f-54fd-8232-074c4adba64f",
                     "type": "module",
                     "title": "Security Monitoring Tools",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 7,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the security monitoring tools in use.",
+                    "description": "Understanding security monitoring tools enhances visibility and response to potential threats.",
+                    "content_instructions": {
+                        "role": "professional security analyst",
+                        "topic": "Learn about the tools used to monitor the security posture of the company."
+                    },
                     "icon": "logo_5",
                     "children": [
                         {
-                            "id": "learn_about_the_tools_used_to_monitor_the_security_posture_of_the_company",
+                            "id": "f57b33d3-735e-53de-a5dd-1a91918944cd",
+                            "parent_id": "6bcc608d-5b7d-5673-8fd7-23cb2046abee",
                             "type": "action",
-                            "end_of_day": 7,
                             "title": "Learn about the tools used to monitor the security posture of the company.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 7,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the security monitoring tools in use.",
                             "description": "Security monitoring tools are critical for maintaining visibility into the organization's security posture. These tools help detect anomalies, track incidents, and ensure compliance with security policies. Understanding how these tools work will enable you to respond effectively to potential threats and vulnerabilities.\nBy engaging with these tools, you will enhance your ability to monitor security events and contribute to the overall security strategy. Familiarity with these tools will also empower you to collaborate effectively with other teams, ensuring a comprehensive approach to security management.",
                             "content_instructions": {
@@ -185,17 +303,29 @@
                     ]
                 },
                 {
-                    "id": "intrusion_detection_systems_ids",
+                    "id": "f1b17fd4-1805-5b25-b054-aed70addfa70",
+                    "parent_id": "2cbbdf1e-c59f-54fd-8232-074c4adba64f",
                     "type": "module",
                     "title": "Intrusion Detection Systems (IDS)",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 8,
+                    "length_in_days": 1,
+                    "action": "Learn about the functionality and importance of IDS in our security infrastructure.",
+                    "description": "Intrusion Detection Systems monitor network traffic to identify potential security breaches.",
+                    "content_instructions": {
+                        "role": "professional network security engineer",
+                        "topic": "Understand how Intrusion Detection Systems (IDS) are used to identify potential security breaches."
+                    },
                     "icon": "logo_41",
                     "children": [
                         {
-                            "id": "understand_how_intrusion_detection_systems_ids_are_used_to_identify_potential_security_breaches",
+                            "id": "258b5368-8339-5b9f-85c0-7ed2c6ac739a",
+                            "parent_id": "f1b17fd4-1805-5b25-b054-aed70addfa70",
                             "type": "action",
-                            "end_of_day": 8,
                             "title": "Understand how Intrusion Detection Systems (IDS) are used to identify potential security breaches.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 8,
+                            "length_in_days": 1,
                             "action": "Learn about the functionality and importance of IDS in our security infrastructure.",
                             "description": "Intrusion Detection Systems (IDS) play a vital role in identifying potential security breaches by monitoring network traffic and system activities. These systems analyze patterns and detect suspicious behavior, alerting the security team to potential threats. Understanding how IDS work is essential for effectively responding to incidents and protecting the organization's assets.\nBy familiarizing yourself with IDS, you will enhance your ability to identify and mitigate potential security risks. This knowledge will also support your contributions to the organization's overall security strategy, ensuring that you are well-equipped to handle emerging threats.",
                             "content_instructions": {
@@ -207,17 +337,29 @@
                     ]
                 },
                 {
-                    "id": "vulnerability_management_software",
+                    "id": "019445ac-4e95-5dfc-910e-c3a9d4f5c591",
+                    "parent_id": "2cbbdf1e-c59f-54fd-8232-074c4adba64f",
                     "type": "module",
                     "title": "Vulnerability Management Software",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 9,
+                    "length_in_days": 1,
+                    "action": "Explore the vulnerability management tools used to assess and address security risks.",
+                    "description": "Vulnerability management software identifies and mitigates security risks, ensuring timely resolution of vulnerabilities.",
+                    "content_instructions": {
+                        "role": "professional vulnerability analyst",
+                        "topic": "Overview of vulnerability management software and its role in identifying and mitigating risks"
+                    },
                     "icon": "logo_11",
                     "children": [
                         {
-                            "id": "overview_of_vulnerability_management_software_and_its_role_in_identifying_and_mitigating_risks",
+                            "id": "36afb1c6-a1a1-5d59-b744-83984906504d",
+                            "parent_id": "019445ac-4e95-5dfc-910e-c3a9d4f5c591",
                             "type": "action",
-                            "end_of_day": 9,
                             "title": "Overview of vulnerability management software and its role in identifying and mitigating risks.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 9,
+                            "length_in_days": 1,
                             "action": "Explore the vulnerability management tools used to assess and address security risks.",
                             "description": "Vulnerability management software is essential for identifying and mitigating security risks within the organization. These tools help scan systems for vulnerabilities, prioritize them based on severity, and track remediation efforts. Understanding how to utilize these tools is crucial for maintaining a strong security posture and ensuring compliance with industry standards.\nBy engaging with vulnerability management software, you will enhance your ability to proactively address security risks and contribute to the organization's efforts in maintaining a secure environment. This knowledge is vital for ensuring that vulnerabilities are identified and resolved in a timely manner.",
                             "content_instructions": {
@@ -231,24 +373,45 @@
             ]
         },
         {
-            "id": "our_incident_response_procedures",
+            "id": "403b3a95-8786-57af-83a8-7f9ab06779ea",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Our Incident Response Procedures",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 12,
-            "icon": "logo_24",
+            "length_in_days": 3,
+            "action": "Review the incident detection and response protocols in place.",
+            "description": "Protocols for detecting, documenting, and reviewing security incidents to enhance organizational security.",
+            "content_instructions": {
+                "role": "professional incident response coordinator",
+                "topic": "Learn the protocols for detecting and responding to security incidents in real-time."
+            },
+            "icon": "logo_21",
             "children": [
                 {
-                    "id": "incident_detection_and_response_protocols",
+                    "id": "67c6d628-cc83-5387-bec5-4fa8f7464f2b",
+                    "parent_id": "403b3a95-8786-57af-83a8-7f9ab06779ea",
                     "type": "module",
                     "title": "Incident Detection and Response Protocols",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 10,
+                    "length_in_days": 1,
+                    "action": "Review the incident detection and response protocols in place.",
+                    "description": "Protocols for timely and effective action during security incidents.",
+                    "content_instructions": {
+                        "role": "professional incident response coordinator",
+                        "topic": "Learn the protocols for detecting and responding to security incidents in real-time."
+                    },
                     "icon": "logo_24",
                     "children": [
                         {
-                            "id": "learn_the_protocols_for_detecting_and_responding_to_security_incidents_in_real_time",
+                            "id": "bd8f1be0-ae8c-5070-8da6-1f694d735156",
+                            "parent_id": "67c6d628-cc83-5387-bec5-4fa8f7464f2b",
                             "type": "action",
-                            "end_of_day": 10,
                             "title": "Learn the protocols for detecting and responding to security incidents in real-time.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 10,
+                            "length_in_days": 1,
                             "action": "Review the incident detection and response protocols in place.",
                             "description": "Incident detection and response protocols are critical for ensuring timely and effective action during security incidents. These protocols outline the steps to be taken when a potential breach is identified, including escalation procedures and communication plans. Understanding these protocols is essential for minimizing the impact of security incidents and protecting the organization's assets.\nBy familiarizing yourself with these protocols, you will enhance your ability to respond effectively to incidents and contribute to the organization's overall security strategy. This knowledge will empower you to act swiftly and decisively when faced with security threats.",
                             "content_instructions": {
@@ -260,17 +423,29 @@
                     ]
                 },
                 {
-                    "id": "documenting_and_reporting_incidents",
+                    "id": "71bea406-0488-5b62-aadf-e5bb45ac4198",
+                    "parent_id": "403b3a95-8786-57af-83a8-7f9ab06779ea",
                     "type": "module",
                     "title": "Documenting and Reporting Incidents",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 11,
+                    "length_in_days": 1,
+                    "action": "Review the documentation and reporting processes for security incidents.",
+                    "description": "Understanding the documentation process is vital for analyzing incidents and informing stakeholders.",
+                    "content_instructions": {
+                        "role": "professional documentation specialist",
+                        "topic": "Understand how security incidents are documented and reported to relevant stakeholders."
+                    },
                     "icon": "logo_37",
                     "children": [
                         {
-                            "id": "understand_how_security_incidents_are_documented_and_reported_to_relevant_stakeholders",
+                            "id": "9fcc4376-321c-5942-a931-0c9661faaf67",
+                            "parent_id": "71bea406-0488-5b62-aadf-e5bb45ac4198",
                             "type": "action",
-                            "end_of_day": 11,
                             "title": "Understand how security incidents are documented and reported to relevant stakeholders.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 11,
+                            "length_in_days": 1,
                             "action": "Review the documentation and reporting processes for security incidents.",
                             "description": "Documenting and reporting security incidents are crucial for ensuring transparency and accountability within the organization. Proper documentation helps in analyzing incidents, identifying trends, and improving future responses. Understanding the documentation process is essential for maintaining a thorough record of incidents and ensuring that relevant stakeholders are informed.\nBy familiarizing yourself with these processes, you will enhance your ability to contribute to post-incident reviews and support continuous improvement efforts. This knowledge is vital for ensuring that the organization learns from incidents and strengthens its security posture.",
                             "content_instructions": {
@@ -282,17 +457,29 @@
                     ]
                 },
                 {
-                    "id": "post_incident_reviews_and_improvements",
+                    "id": "a61ceb39-f82a-585d-942d-4319c32ecda0",
+                    "parent_id": "403b3a95-8786-57af-83a8-7f9ab06779ea",
                     "type": "module",
                     "title": "Post-Incident Reviews and Improvements",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 12,
+                    "length_in_days": 1,
+                    "action": "Learn about the process of conducting post-incident reviews.",
+                    "description": "Post-incident reviews analyze security incidents to identify improvement opportunities and enhance future responses.",
+                    "content_instructions": {
+                        "role": "professional security analyst",
+                        "topic": "Overview of how post-incident reviews are conducted to improve future responses."
+                    },
                     "icon": "logo_12",
                     "children": [
                         {
-                            "id": "overview_of_how_post_incident_reviews_are_conducted_to_improve_future_responses",
+                            "id": "7edce87a-a2e3-5527-945f-9640eb39e3d3",
+                            "parent_id": "a61ceb39-f82a-585d-942d-4319c32ecda0",
                             "type": "action",
-                            "end_of_day": 12,
                             "title": "Overview of how post-incident reviews are conducted to improve future responses.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 12,
+                            "length_in_days": 1,
                             "action": "Learn about the process of conducting post-incident reviews.",
                             "description": "Post-incident reviews are essential for analyzing security incidents and identifying opportunities for improvement. These reviews involve assessing the response to the incident, identifying gaps in processes, and making recommendations for future enhancements. Understanding how to conduct these reviews is crucial for fostering a culture of continuous improvement within the organization.\nBy participating in post-incident reviews, you will contribute to strengthening the organization's security posture and ensuring that lessons learned are integrated into future practices. This knowledge is vital for promoting a proactive approach to security management.",
                             "content_instructions": {
@@ -306,24 +493,45 @@
             ]
         },
         {
-            "id": "threat_detection_and_analysis_in_our_company",
+            "id": "c67dfe5e-9654-5bec-b555-a4efdb3561aa",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Threat Detection and Analysis in Our Company",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 15,
-            "icon": "logo_8",
+            "length_in_days": 3,
+            "action": "Learn about the techniques and methodologies for effective threat detection and analysis.",
+            "description": "Overview of threat detection and analysis processes within the organization.",
+            "content_instructions": {
+                "role": "professional security analyst",
+                "topic": "Overview of threat detection and analysis processes within the organization."
+            },
+            "icon": "logo_13",
             "children": [
                 {
-                    "id": "proactive_threat_hunting",
+                    "id": "0518b4a6-5464-5c3e-8703-2262db6afc14",
+                    "parent_id": "c67dfe5e-9654-5bec-b555-a4efdb3561aa",
                     "type": "module",
                     "title": "Proactive Threat Hunting",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 13,
+                    "length_in_days": 1,
+                    "action": "Explore the techniques and tools used for proactive threat hunting.",
+                    "description": "Proactively search for security threats and vulnerabilities to enhance organizational security.",
+                    "content_instructions": {
+                        "role": "professional threat hunter",
+                        "topic": "Learn how to proactively hunt for potential security threats and vulnerabilities."
+                    },
                     "icon": "logo_8",
                     "children": [
                         {
-                            "id": "learn_how_to_proactively_hunt_for_potential_security_threats_and_vulnerabilities",
+                            "id": "cb035b6f-41da-534a-88cb-01a002a15d3f",
+                            "parent_id": "0518b4a6-5464-5c3e-8703-2262db6afc14",
                             "type": "action",
-                            "end_of_day": 13,
                             "title": "Learn how to proactively hunt for potential security threats and vulnerabilities.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 13,
+                            "length_in_days": 1,
                             "action": "Explore the techniques and tools used for proactive threat hunting.",
                             "description": "Proactive threat hunting involves actively searching for potential security threats before they can cause harm. This approach requires a deep understanding of the organization's environment, as well as knowledge of common attack vectors. Familiarizing yourself with threat hunting techniques and tools is essential for enhancing the organization's security posture.\nBy engaging in proactive threat hunting, you will contribute to identifying vulnerabilities and mitigating risks before they can be exploited. This knowledge is vital for fostering a proactive security culture and ensuring the organization remains one step ahead of potential threats.",
                             "content_instructions": {
@@ -335,17 +543,29 @@
                     ]
                 },
                 {
-                    "id": "analyzing_security_threats_and_vulnerabilities",
+                    "id": "4f02367b-defa-5345-8110-3d9150c49a72",
+                    "parent_id": "c67dfe5e-9654-5bec-b555-a4efdb3561aa",
                     "type": "module",
                     "title": "Analyzing Security Threats and Vulnerabilities",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 14,
+                    "length_in_days": 1,
+                    "action": "Review the methodologies used for threat and vulnerability analysis.",
+                    "description": "Analyzing security threats and vulnerabilities involves identifying threats, assessing impacts, and prioritizing risks.",
+                    "content_instructions": {
+                        "role": "professional security analyst",
+                        "topic": "Understand the process of analyzing and assessing security threats and vulnerabilities"
+                    },
                     "icon": "logo_18",
                     "children": [
                         {
-                            "id": "understand_the_process_of_analyzing_and_assessing_security_threats_and_vulnerabilities",
+                            "id": "7abb5b78-44ec-529b-a0e6-6698994a1033",
+                            "parent_id": "4f02367b-defa-5345-8110-3d9150c49a72",
                             "type": "action",
-                            "end_of_day": 14,
                             "title": "Understand the process of analyzing and assessing security threats and vulnerabilities.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 14,
+                            "length_in_days": 1,
                             "action": "Review the methodologies used for threat and vulnerability analysis.",
                             "description": "Analyzing security threats and vulnerabilities is a critical aspect of cybersecurity. This process involves identifying potential threats, assessing their impact, and determining the likelihood of occurrence. Understanding how to conduct thorough analyses will enable you to prioritize risks and develop effective mitigation strategies.\nBy engaging in threat and vulnerability analysis, you will enhance your ability to make informed decisions regarding security measures and contribute to the organization's overall security strategy. This knowledge is essential for ensuring that security resources are allocated effectively.",
                             "content_instructions": {
@@ -357,17 +577,29 @@
                     ]
                 },
                 {
-                    "id": "responding_to_emerging_threats",
+                    "id": "81a3460b-e357-57be-98ec-40789880a335",
+                    "parent_id": "c67dfe5e-9654-5bec-b555-a4efdb3561aa",
                     "type": "module",
                     "title": "Responding to Emerging Threats",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 15,
+                    "length_in_days": 1,
+                    "action": "Learn about the procedures for responding to new and emerging threats.",
+                    "description": "Understanding the organization's response to evolving cybersecurity threats is crucial for maintaining security.",
+                    "content_instructions": {
+                        "role": "professional threat response coordinator",
+                        "topic": "Overview of how the company responds to emerging threats in the cybersecurity landscape."
+                    },
                     "icon": "logo_10",
                     "children": [
                         {
-                            "id": "overview_of_how_the_company_responds_to_emerging_threats_in_the_cybersecurity_landscape",
+                            "id": "26fd53d7-849a-5ab5-9df9-b9aa2f29c4a1",
+                            "parent_id": "81a3460b-e357-57be-98ec-40789880a335",
                             "type": "action",
-                            "end_of_day": 15,
                             "title": "Overview of how the company responds to emerging threats in the cybersecurity landscape.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 15,
+                            "length_in_days": 1,
                             "action": "Learn about the procedures for responding to new and emerging threats.",
                             "description": "The cybersecurity landscape is constantly evolving, with new threats emerging regularly. Understanding how the organization responds to these threats is crucial for maintaining a strong security posture. This involves staying informed about the latest trends, technologies, and attack methods, as well as having established protocols for rapid response.\nBy engaging with emerging threat response procedures, you will enhance your ability to react swiftly and effectively to new risks. This knowledge is vital for ensuring that the organization remains resilient in the face of evolving threats.",
                             "content_instructions": {
@@ -381,24 +613,45 @@
             ]
         },
         {
-            "id": "security_audits_and_compliance_at_our_company",
+            "id": "5ad0a68f-e6b9-510c-a570-efcd1b044380",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Security Audits and Compliance at Our Company",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 18,
-            "icon": "logo_30",
+            "length_in_days": 3,
+            "action": "Review the processes for conducting security audits.",
+            "description": "Regular security audits assess security measures and ensure compliance with industry standards.",
+            "content_instructions": {
+                "role": "professional compliance auditor",
+                "topic": "Learn how regular security audits are conducted to ensure compliance and security."
+            },
+            "icon": "logo_13",
             "children": [
                 {
-                    "id": "conducting_regular_security_audits",
+                    "id": "c22a5bce-4604-504c-9ba0-55b783d6ef0f",
+                    "parent_id": "5ad0a68f-e6b9-510c-a570-efcd1b044380",
                     "type": "module",
                     "title": "Conducting Regular Security Audits",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 16,
+                    "length_in_days": 1,
+                    "action": "Review the processes for conducting security audits.",
+                    "description": "Regular security audits assess the effectiveness of security measures and ensure compliance with standards.",
+                    "content_instructions": {
+                        "role": "professional compliance auditor",
+                        "topic": "Learn how regular security audits are conducted to ensure compliance and security."
+                    },
                     "icon": "logo_30",
                     "children": [
                         {
-                            "id": "learn_how_regular_security_audits_are_conducted_to_ensure_compliance_and_security",
+                            "id": "392fc214-d207-55a0-8f07-da38f0557cc3",
+                            "parent_id": "c22a5bce-4604-504c-9ba0-55b783d6ef0f",
                             "type": "action",
-                            "end_of_day": 16,
                             "title": "Learn how regular security audits are conducted to ensure compliance and security.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 16,
+                            "length_in_days": 1,
                             "action": "Review the processes for conducting security audits.",
                             "description": "Regular security audits are essential for assessing the effectiveness of the organization's security measures and ensuring compliance with industry standards. These audits involve reviewing policies, procedures, and technical controls to identify areas for improvement. Understanding how to conduct audits is crucial for maintaining a robust security posture.\nBy participating in security audits, you will enhance your ability to identify vulnerabilities and contribute to the organization's compliance efforts. This knowledge is vital for ensuring that security practices are continuously improved and aligned with regulatory requirements.",
                             "content_instructions": {
@@ -410,17 +663,29 @@
                     ]
                 },
                 {
-                    "id": "ensuring_compliance_with_gdpr_ccpa_and_other_regulations",
+                    "id": "9acd0a55-c490-5008-9e96-9e9c6314df3f",
+                    "parent_id": "5ad0a68f-e6b9-510c-a570-efcd1b044380",
                     "type": "module",
                     "title": "Ensuring Compliance with GDPR, CCPA, and other Regulations",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 17,
+                    "length_in_days": 1,
+                    "action": "Review the compliance processes related to data protection regulations.",
+                    "description": "Understanding compliance with GDPR and CCPA is crucial for protecting customer data and meeting legal requirements.",
+                    "content_instructions": {
+                        "role": "professional compliance officer",
+                        "topic": "Understand the steps taken to ensure compliance with regulations such as GDPR and CCPA."
+                    },
                     "icon": "logo_42",
                     "children": [
                         {
-                            "id": "understand_the_steps_taken_to_ensure_compliance_with_regulations_such_as_gdpr_and_ccpa",
+                            "id": "4ba2e66a-cdeb-5d76-886b-d3857cfd3c37",
+                            "parent_id": "9acd0a55-c490-5008-9e96-9e9c6314df3f",
                             "type": "action",
-                            "end_of_day": 17,
                             "title": "Understand the steps taken to ensure compliance with regulations such as GDPR and CCPA.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 17,
+                            "length_in_days": 1,
                             "action": "Review the compliance processes related to data protection regulations.",
                             "description": "Ensuring compliance with regulations such as GDPR and CCPA is critical for protecting customer data and avoiding legal penalties. This involves implementing policies and procedures that align with these regulations, as well as conducting regular assessments to ensure adherence. Understanding these compliance requirements is essential for your role in safeguarding sensitive information.\nBy familiarizing yourself with compliance processes, you will enhance your ability to contribute to the organization's data protection efforts. This knowledge is vital for fostering a culture of compliance and ensuring that the organization meets its legal obligations.",
                             "content_instructions": {
@@ -432,17 +697,29 @@
                     ]
                 },
                 {
-                    "id": "internal_and_external_audit_processes_1",
+                    "id": "aab1e91b-d681-5dbf-975c-9ba76b77ece1",
+                    "parent_id": "5ad0a68f-e6b9-510c-a570-efcd1b044380",
                     "type": "module",
                     "title": "Internal and External Audit Processes",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 18,
+                    "length_in_days": 1,
+                    "action": "Learn about the internal and external audit processes and their significance.",
+                    "description": "Internal and external audits assess the organization's cybersecurity posture and compliance.",
+                    "content_instructions": {
+                        "role": "professional audit coordinator",
+                        "topic": "Overview of the internal and external audit processes for cybersecurity"
+                    },
                     "icon": "logo_14",
                     "children": [
                         {
-                            "id": "overview_of_the_internal_and_external_audit_processes_for_cybersecurity",
+                            "id": "7a6b5bc4-a9bc-5fcc-8a88-ca5e57eac58a",
+                            "parent_id": "aab1e91b-d681-5dbf-975c-9ba76b77ece1",
                             "type": "action",
-                            "end_of_day": 18,
                             "title": "Overview of the internal and external audit processes for cybersecurity.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 18,
+                            "length_in_days": 1,
                             "action": "Learn about the internal and external audit processes and their significance.",
                             "description": "Internal and external audits play a crucial role in assessing the organization's cybersecurity posture. Internal audits provide a self-assessment of security practices, while external audits offer an independent evaluation. Understanding these processes is essential for ensuring that the organization meets its security and compliance objectives.\nBy engaging with audit processes, you will enhance your ability to contribute to ongoing security improvements and ensure that the organization remains accountable to stakeholders. This knowledge is vital for promoting transparency and trust in the organization's security practices.",
                             "content_instructions": {
@@ -456,24 +733,45 @@
             ]
         },
         {
-            "id": "collaborating_with_our_it_and_development_teams",
+            "id": "7358a6b6-f0c8-51a7-a44d-d9ee264c8d4d",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Collaborating with Our IT and Development Teams",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 21,
-            "icon": "logo_19",
+            "length_in_days": 3,
+            "action": "Learn about the processes for communicating security requirements.",
+            "description": "Collaboration between IT and development teams is crucial for integrating security into projects.",
+            "content_instructions": {
+                "role": "professional security liaison",
+                "topic": "Overview of how security requirements are communicated to IT and development teams."
+            },
+            "icon": "logo_3",
             "children": [
                 {
-                    "id": "securing_devops_pipelines",
+                    "id": "0dd522b6-8e9a-5ec8-840b-238513a42a78",
+                    "parent_id": "7358a6b6-f0c8-51a7-a44d-d9ee264c8d4d",
                     "type": "module",
                     "title": "Securing DevOps Pipelines",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 19,
+                    "length_in_days": 1,
+                    "action": "Review the processes for securing DevOps pipelines.",
+                    "description": "Understanding how to secure DevOps pipelines minimizes vulnerabilities and protects organizational assets.",
+                    "content_instructions": {
+                        "role": "professional DevOps security engineer",
+                        "topic": "Learn how to secure DevOps pipelines to ensure that code and infrastructure are protected."
+                    },
                     "icon": "logo_19",
                     "children": [
                         {
-                            "id": "learn_how_to_secure_devops_pipelines_to_ensure_that_code_and_infrastructure_are_protected",
+                            "id": "818f0b71-76df-5b29-bf38-2f23f1cec849",
+                            "parent_id": "0dd522b6-8e9a-5ec8-840b-238513a42a78",
                             "type": "action",
-                            "end_of_day": 19,
                             "title": "Learn how to secure DevOps pipelines to ensure that code and infrastructure are protected.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 19,
+                            "length_in_days": 1,
                             "action": "Review the processes for securing DevOps pipelines.",
                             "description": "Securing DevOps pipelines is essential for ensuring that code and infrastructure are protected throughout the development lifecycle. This involves implementing security measures at each stage of the pipeline, from code integration to deployment. Understanding how to secure these pipelines is crucial for minimizing vulnerabilities and protecting the organization's assets.\nBy engaging with DevOps security practices, you will enhance your ability to contribute to secure development processes and ensure that security is integrated into every aspect of the pipeline. This knowledge is vital for fostering a culture of security within the development teams.",
                             "content_instructions": {
@@ -485,17 +783,29 @@
                     ]
                 },
                 {
-                    "id": "ensuring_secure_software_development",
+                    "id": "56a749c0-8b73-5895-9dcd-7f32d893fac2",
+                    "parent_id": "7358a6b6-f0c8-51a7-a44d-d9ee264c8d4d",
                     "type": "module",
                     "title": "Ensuring Secure Software Development",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 20,
+                    "length_in_days": 1,
+                    "action": "Review the practices for ensuring secure software development.",
+                    "description": "The cybersecurity team ensures secure software development through code reviews, training, and collaboration with development teams.",
+                    "content_instructions": {
+                        "role": "professional software security consultant",
+                        "topic": "Understand the role of the cybersecurity team in ensuring secure software development practices."
+                    },
                     "icon": "logo_15",
                     "children": [
                         {
-                            "id": "understand_the_role_of_the_cybersecurity_team_in_ensuring_secure_software_development_practices",
+                            "id": "72b4d596-b6fb-5a1e-940d-21d1a5ea4161",
+                            "parent_id": "56a749c0-8b73-5895-9dcd-7f32d893fac2",
                             "type": "action",
-                            "end_of_day": 20,
                             "title": "Understand the role of the cybersecurity team in ensuring secure software development practices.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 20,
+                            "length_in_days": 1,
                             "action": "Review the practices for ensuring secure software development.",
                             "description": "The cybersecurity team plays a vital role in ensuring that secure software development practices are followed throughout the organization. This includes conducting code reviews, providing training on secure coding practices, and collaborating with development teams to address vulnerabilities. Understanding this role is essential for fostering a culture of security within the organization.\nBy engaging with secure software development practices, you will enhance your ability to contribute to the organization's security efforts and ensure that security is prioritized in the development lifecycle. This knowledge is vital for promoting secure coding practices and minimizing risks.",
                             "content_instructions": {
@@ -507,17 +817,29 @@
                     ]
                 },
                 {
-                    "id": "communicating_security_requirements_to_teams",
+                    "id": "ea17de28-026e-584d-a3ce-edd24e9683d8",
+                    "parent_id": "7358a6b6-f0c8-51a7-a44d-d9ee264c8d4d",
                     "type": "module",
                     "title": "Communicating Security Requirements to Teams",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 21,
+                    "length_in_days": 1,
+                    "action": "Learn about the processes for communicating security requirements.",
+                    "description": "Communication of security requirements is vital for integrating security into projects and fostering collaboration.",
+                    "content_instructions": {
+                        "role": "professional security liaison",
+                        "topic": "Overview of how security requirements are communicated to IT and development teams."
+                    },
                     "icon": "logo_23",
                     "children": [
                         {
-                            "id": "overview_of_how_security_requirements_are_communicated_to_it_and_development_teams",
+                            "id": "34b5e3fd-9b84-506c-973b-c418971d5901",
+                            "parent_id": "ea17de28-026e-584d-a3ce-edd24e9683d8",
                             "type": "action",
-                            "end_of_day": 21,
                             "title": "Overview of how security requirements are communicated to IT and development teams.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 21,
+                            "length_in_days": 1,
                             "action": "Learn about the processes for communicating security requirements.",
                             "description": "Effective communication of security requirements to IT and development teams is crucial for ensuring that security is integrated into all projects. This involves clearly defining requirements, providing training, and establishing feedback loops to address concerns. Understanding these communication processes is essential for fostering collaboration and ensuring that security is prioritized.",
                             "content_instructions": {
@@ -531,24 +853,45 @@
             ]
         },
         {
-            "id": "our_risk_management_and_mitigation_strategies_1",
+            "id": "bb33f979-0393-5e3b-be51-1a615ce9bbd1",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Our Risk Management and Mitigation Strategies",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 24,
-            "icon": "logo_27",
+            "length_in_days": 3,
+            "action": "Review the processes for identifying and prioritizing cybersecurity risks.",
+            "description": "Strategies for risk management and mitigation in cybersecurity to protect organizational assets.",
+            "content_instructions": {
+                "role": "professional risk manager",
+                "topic": "Learn how to identify and prioritize risks in the company's cybersecurity framework."
+            },
+            "icon": "logo_13",
             "children": [
                 {
-                    "id": "risk_identification_and_prioritization",
+                    "id": "6a24ff90-36fc-57f8-bd9a-92ba93dc16be",
+                    "parent_id": "bb33f979-0393-5e3b-be51-1a615ce9bbd1",
                     "type": "module",
                     "title": "Risk Identification and Prioritization",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 22,
+                    "length_in_days": 1,
+                    "action": "Review the processes for identifying and prioritizing cybersecurity risks.",
+                    "description": "Understanding risk identification and prioritization enhances decision-making in cybersecurity.",
+                    "content_instructions": {
+                        "role": "professional risk manager",
+                        "topic": "Learn how to identify and prioritize risks in the company's cybersecurity framework."
+                    },
                     "icon": "logo_27",
                     "children": [
                         {
-                            "id": "learn_how_to_identify_and_prioritize_risks_in_the_company_s_cybersecurity_framework",
+                            "id": "e78c88a4-5c55-5d7b-92b9-983affb24fb9",
+                            "parent_id": "6a24ff90-36fc-57f8-bd9a-92ba93dc16be",
                             "type": "action",
-                            "end_of_day": 22,
                             "title": "Learn how to identify and prioritize risks in the company's cybersecurity framework.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 22,
+                            "length_in_days": 1,
                             "action": "Review the processes for identifying and prioritizing cybersecurity risks.",
                             "description": "Identifying and prioritizing risks is a critical aspect of the cybersecurity framework. This process involves assessing potential threats, evaluating their impact, and determining the likelihood of occurrence. Understanding how to effectively identify and prioritize risks is essential for developing mitigation strategies and protecting the organization's assets.\nBy engaging with risk identification and prioritization processes, you will enhance your ability to make informed decisions regarding security measures and contribute to the organization's overall security strategy. This knowledge is vital for ensuring that resources are allocated effectively to address the most significant risks.",
                             "content_instructions": {
@@ -560,17 +903,29 @@
                     ]
                 },
                 {
-                    "id": "developing_mitigation_strategies",
+                    "id": "28ee0656-25d1-5371-914e-09dfd484532d",
+                    "parent_id": "bb33f979-0393-5e3b-be51-1a615ce9bbd1",
                     "type": "module",
                     "title": "Developing Mitigation Strategies",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 23,
+                    "length_in_days": 1,
+                    "action": "Review the processes for developing effective mitigation strategies.",
+                    "description": "Focus on developing strategies to minimize security risks and enhance organizational protection.",
+                    "content_instructions": {
+                        "role": "professional security strategist",
+                        "topic": "Understand how mitigation strategies are developed to minimize the impact of security risks."
+                    },
                     "icon": "logo_4",
                     "children": [
                         {
-                            "id": "understand_how_mitigation_strategies_are_developed_to_minimize_the_impact_of_security_risks",
+                            "id": "dac75baf-2fba-5ead-9ea8-7d5bea8e6da3",
+                            "parent_id": "28ee0656-25d1-5371-914e-09dfd484532d",
                             "type": "action",
-                            "end_of_day": 23,
                             "title": "Understand how mitigation strategies are developed to minimize the impact of security risks.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 23,
+                            "length_in_days": 1,
                             "action": "Review the processes for developing effective mitigation strategies.",
                             "description": "Developing effective mitigation strategies is essential for minimizing the impact of security risks on the organization. This involves identifying appropriate controls, implementing policies, and continuously monitoring effectiveness. Understanding how to develop these strategies is crucial for protecting the organization's assets and ensuring compliance with industry standards.\nBy engaging with mitigation strategy development processes, you will enhance your ability to contribute to the organization's risk management efforts and ensure that security measures are effective. This knowledge is vital for fostering a proactive approach to risk management.",
                             "content_instructions": {
@@ -582,17 +937,29 @@
                     ]
                 },
                 {
-                    "id": "regular_risk_assessments",
+                    "id": "01d4a6c7-05ed-5469-9fb0-7a12fe7596e3",
+                    "parent_id": "bb33f979-0393-5e3b-be51-1a615ce9bbd1",
                     "type": "module",
                     "title": "Regular Risk Assessments",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 24,
+                    "length_in_days": 1,
+                    "action": "Learn about the processes for conducting regular risk assessments.",
+                    "description": "Regular risk assessments evaluate controls, identify new risks, and recommend improvements for cybersecurity.",
+                    "content_instructions": {
+                        "role": "professional risk assessor",
+                        "topic": "Overview of how regular risk assessments are conducted to ensure ongoing protection."
+                    },
                     "icon": "logo_16",
                     "children": [
                         {
-                            "id": "overview_of_how_regular_risk_assessments_are_conducted_to_ensure_ongoing_protection",
+                            "id": "65640470-5ecc-5d4e-8a9c-9316b481be71",
+                            "parent_id": "01d4a6c7-05ed-5469-9fb0-7a12fe7596e3",
                             "type": "action",
-                            "end_of_day": 24,
                             "title": "Overview of how regular risk assessments are conducted to ensure ongoing protection.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 24,
+                            "length_in_days": 1,
                             "action": "Learn about the processes for conducting regular risk assessments.",
                             "description": "Conducting regular risk assessments is essential for ensuring ongoing protection against cybersecurity threats. These assessments involve evaluating the effectiveness of existing controls, identifying new risks, and making recommendations for improvements. Understanding how to conduct these assessments is crucial for maintaining a robust security posture and ensuring compliance with industry standards.\nBy participating in regular risk assessments, you will enhance your ability to contribute to the organization's risk management efforts and ensure that security practices are continuously improved. This knowledge is vital for fostering a culture of proactive risk management.",
                             "content_instructions": {
@@ -606,24 +973,45 @@
             ]
         },
         {
-            "id": "our_vulnerability_assessments_and_penetration_testing",
+            "id": "cfc41c42-efe7-5437-97b6-8b059829b16a",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Our Vulnerability Assessments and Penetration Testing",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 27,
-            "icon": "logo_9",
+            "length_in_days": 3,
+            "action": "Review the methodologies used for conducting penetration tests.",
+            "description": "Vulnerability assessments and penetration testing identify and address security weaknesses in organizational systems.",
+            "content_instructions": {
+                "role": "professional penetration tester",
+                "topic": "Learn the steps involved in conducting penetration tests to identify vulnerabilities."
+            },
+            "icon": "logo_13",
             "children": [
                 {
-                    "id": "conducting_penetration_tests",
+                    "id": "5b435b8c-5ed7-5039-bbed-72d69a822125",
+                    "parent_id": "cfc41c42-efe7-5437-97b6-8b059829b16a",
                     "type": "module",
                     "title": "Conducting Penetration Tests",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 25,
+                    "length_in_days": 1,
+                    "action": "Review the methodologies used for conducting penetration tests.",
+                    "description": "Steps for conducting penetration tests to identify vulnerabilities in organizational systems.",
+                    "content_instructions": {
+                        "role": "professional penetration tester",
+                        "topic": "Learn the steps involved in conducting penetration tests to identify vulnerabilities."
+                    },
                     "icon": "logo_9",
                     "children": [
                         {
-                            "id": "learn_the_steps_involved_in_conducting_penetration_tests_to_identify_vulnerabilities",
+                            "id": "c3280232-1982-571e-9631-0e984ac0dafa",
+                            "parent_id": "5b435b8c-5ed7-5039-bbed-72d69a822125",
                             "type": "action",
-                            "end_of_day": 25,
                             "title": "Learn the steps involved in conducting penetration tests to identify vulnerabilities.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 25,
+                            "length_in_days": 1,
                             "action": "Review the methodologies used for conducting penetration tests.",
                             "description": "Conducting penetration tests is a critical component of identifying vulnerabilities within the organization's systems. This process involves simulating attacks to assess the effectiveness of security controls and uncover potential weaknesses. Understanding how to conduct these tests is essential for proactively addressing vulnerabilities and strengthening the organization's security posture.\nBy engaging with penetration testing methodologies, you will enhance your ability to identify and mitigate risks effectively. This knowledge is vital for ensuring that the organization remains resilient against potential threats.",
                             "content_instructions": {
@@ -635,17 +1023,29 @@
                     ]
                 },
                 {
-                    "id": "assessing_system_vulnerabilities",
+                    "id": "0644c6ed-dfd2-5e9d-9806-63b0c16ebe12",
+                    "parent_id": "cfc41c42-efe7-5437-97b6-8b059829b16a",
                     "type": "module",
                     "title": "Assessing System Vulnerabilities",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 26,
+                    "length_in_days": 1,
+                    "action": "Review the processes for assessing and addressing system vulnerabilities.",
+                    "description": "Understanding system vulnerabilities helps protect assets and ensures compliance with industry standards.",
+                    "content_instructions": {
+                        "role": "professional vulnerability analyst",
+                        "topic": "Understand how system vulnerabilities are assessed and addressed."
+                    },
                     "icon": "logo_20",
                     "children": [
                         {
-                            "id": "understand_how_system_vulnerabilities_are_assessed_and_addressed",
+                            "id": "c09ba43b-0900-5851-88c1-adfa43fe7451",
+                            "parent_id": "0644c6ed-dfd2-5e9d-9806-63b0c16ebe12",
                             "type": "action",
-                            "end_of_day": 26,
                             "title": "Understand how system vulnerabilities are assessed and addressed.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 26,
+                            "length_in_days": 1,
                             "action": "Review the processes for assessing and addressing system vulnerabilities.",
                             "description": "Assessing system vulnerabilities is essential for maintaining a secure environment. This process involves identifying weaknesses in systems, evaluating their potential impact, and prioritizing remediation efforts. Understanding how to effectively assess vulnerabilities is crucial for protecting the organization's assets and ensuring compliance with industry standards.\nBy engaging with vulnerability assessment processes, you will enhance your ability to contribute to the organization's risk management efforts and ensure that vulnerabilities are addressed in a timely manner. This knowledge is vital for fostering a culture of security awareness.",
                             "content_instructions": {
@@ -657,17 +1057,29 @@
                     ]
                 },
                 {
-                    "id": "addressing_critical_security_gaps",
+                    "id": "63b1bf3f-0c88-52e1-ace0-8e8c700c9fbe",
+                    "parent_id": "cfc41c42-efe7-5437-97b6-8b059829b16a",
                     "type": "module",
                     "title": "Addressing Critical Security Gaps",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 27,
+                    "length_in_days": 1,
+                    "action": "Learn about the processes for identifying and mitigating critical security gaps.",
+                    "description": "Identifying and addressing critical security gaps is vital for maintaining organizational security.",
+                    "content_instructions": {
+                        "role": "professional security consultant",
+                        "topic": "Overview of how critical security gaps are identified and mitigated."
+                    },
                     "icon": "logo_22",
                     "children": [
                         {
-                            "id": "overview_of_how_critical_security_gaps_are_identified_and_mitigated",
+                            "id": "76fa6230-20dd-58aa-90e7-c2589403bfaa",
+                            "parent_id": "63b1bf3f-0c88-52e1-ace0-8e8c700c9fbe",
                             "type": "action",
-                            "end_of_day": 27,
                             "title": "Overview of how critical security gaps are identified and mitigated.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 27,
+                            "length_in_days": 1,
                             "action": "Learn about the processes for identifying and mitigating critical security gaps.",
                             "description": "Identifying and addressing critical security gaps is essential for maintaining the organization's security posture. This process involves evaluating existing controls, assessing their effectiveness, and implementing necessary changes. Understanding how to address these gaps is crucial for ensuring that the organization remains resilient against potential threats.\nBy engaging with security gap mitigation processes, you will enhance your ability to contribute to the organization's risk management efforts and ensure that critical vulnerabilities are addressed promptly. This knowledge is vital for fostering a culture of continuous improvement in security practices.",
                             "content_instructions": {
@@ -681,24 +1093,45 @@
             ]
         },
         {
-            "id": "data_security_and_privacy_regulations_in_our_company",
+            "id": "6faa88ad-8102-5d97-869b-f46349da99fa",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Data Security and Privacy Regulations in Our Company",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 30,
-            "icon": "logo_43",
+            "length_in_days": 3,
+            "action": "Review the processes for ensuring compliance with data privacy laws.",
+            "description": "Understanding compliance with data privacy laws is crucial for protecting customer information.",
+            "content_instructions": {
+                "role": "professional compliance officer",
+                "topic": "Learn about the company's approach to complying with data privacy laws and regulations."
+            },
+            "icon": "logo_13",
             "children": [
                 {
-                    "id": "complying_with_data_privacy_laws",
+                    "id": "8f026940-4fde-532c-9e28-ff2f21caee35",
+                    "parent_id": "6faa88ad-8102-5d97-869b-f46349da99fa",
                     "type": "module",
                     "title": "Complying with Data Privacy Laws",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 28,
+                    "length_in_days": 1,
+                    "action": "Review the processes for ensuring compliance with data privacy laws.",
+                    "description": "Understanding compliance with data privacy laws is crucial for protecting customer information.",
+                    "content_instructions": {
+                        "role": "professional compliance officer",
+                        "topic": "Learn about the company's approach to complying with data privacy laws and regulations."
+                    },
                     "icon": "logo_43",
                     "children": [
                         {
-                            "id": "learn_about_the_company_s_approach_to_complying_with_data_privacy_laws_and_regulations",
+                            "id": "a8af2686-7f91-5cfa-9c31-cc20b06bd27e",
+                            "parent_id": "8f026940-4fde-532c-9e28-ff2f21caee35",
                             "type": "action",
-                            "end_of_day": 28,
                             "title": "Learn about the company's approach to complying with data privacy laws and regulations.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 28,
+                            "length_in_days": 1,
                             "action": "Review the processes for ensuring compliance with data privacy laws.",
                             "description": "Complying with data privacy laws is essential for protecting customer information and avoiding legal repercussions. This involves implementing policies and procedures that align with regulations such as GDPR and CCPA, as well as conducting regular assessments to ensure adherence. Understanding these compliance requirements is crucial for your role in safeguarding sensitive information.\nBy familiarizing yourself with compliance processes, you will enhance your ability to contribute to the organization's data protection efforts. This knowledge is vital for fostering a culture of compliance and ensuring that the organization meets its legal obligations.",
                             "content_instructions": {
@@ -710,17 +1143,29 @@
                     ]
                 },
                 {
-                    "id": "data_encryption_and_protection_standards",
+                    "id": "8d7cdc0d-ee67-5ca8-8eda-b2ee5535c6fe",
+                    "parent_id": "6faa88ad-8102-5d97-869b-f46349da99fa",
                     "type": "module",
                     "title": "Data Encryption and Protection Standards",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 29,
+                    "length_in_days": 1,
+                    "action": "Review the standards for data encryption and protection.",
+                    "description": "Understanding data encryption standards is vital for protecting sensitive information and ensuring compliance.",
+                    "content_instructions": {
+                        "role": "professional data protection officer",
+                        "topic": "Understand the data encryption and protection standards used to secure sensitive information."
+                    },
                     "icon": "logo_26",
                     "children": [
                         {
-                            "id": "understand_the_data_encryption_and_protection_standards_used_to_secure_sensitive_information",
+                            "id": "2ba449d3-0562-57fc-82d5-b0b6ddb9aab6",
+                            "parent_id": "8d7cdc0d-ee67-5ca8-8eda-b2ee5535c6fe",
                             "type": "action",
-                            "end_of_day": 29,
                             "title": "Understand the data encryption and protection standards used to secure sensitive information.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 29,
+                            "length_in_days": 1,
                             "action": "Review the standards for data encryption and protection.",
                             "description": "Data encryption and protection standards are crucial for ensuring the confidentiality and integrity of sensitive information. These standards outline the methods and technologies used to encrypt data, as well as best practices for managing encryption keys. Understanding these standards is essential for protecting customer data and complying with industry regulations.\nBy engaging with data protection standards, you will enhance your ability to contribute to the organization's data security efforts and ensure that sensitive information is adequately protected. This knowledge is vital for fostering a culture of security awareness and compliance.",
                             "content_instructions": {
@@ -732,17 +1177,29 @@
                     ]
                 },
                 {
-                    "id": "managing_data_breaches",
+                    "id": "5a2dea41-603f-5eec-8549-3a7016601f04",
+                    "parent_id": "6faa88ad-8102-5d97-869b-f46349da99fa",
                     "type": "module",
                     "title": "Managing Data Breaches",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 30,
+                    "length_in_days": 1,
+                    "action": "Learn about the processes for managing and reporting data breaches.",
+                    "description": "Understanding data breach management is crucial for compliance and protecting organizational reputation.",
+                    "content_instructions": {
+                        "role": "professional incident response coordinator",
+                        "topic": "Overview of how data breaches are managed and reported to regulatory authorities."
+                    },
                     "icon": "logo_28",
                     "children": [
                         {
-                            "id": "overview_of_how_data_breaches_are_managed_and_reported_to_regulatory_authorities",
+                            "id": "73ad6aa3-86ec-5396-81c0-883e10042e8a",
+                            "parent_id": "5a2dea41-603f-5eec-8549-3a7016601f04",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Overview of how data breaches are managed and reported to regulatory authorities.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 30,
+                            "length_in_days": 1,
                             "action": "Learn about the processes for managing and reporting data breaches.",
                             "description": "Managing data breaches is critical for minimizing the impact of security incidents and ensuring compliance with regulatory requirements. This process involves identifying breaches, assessing their impact, and notifying affected parties and regulatory authorities. Understanding how to effectively manage data breaches is essential for protecting the organization's reputation and maintaining customer trust.\nBy engaging with data breach management processes, you will enhance your ability to contribute to the organization's incident response efforts and ensure that breaches are addressed promptly and effectively. This knowledge is vital for fostering a culture of accountability and transparency.",
                             "content_instructions": {
@@ -756,24 +1213,45 @@
             ]
         },
         {
-            "id": "disaster_recovery_and_business_continuity_at_our_company",
+            "id": "2be00fc5-eeca-5b91-8d74-f71c5662c007",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Disaster Recovery and Business Continuity at Our Company",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 31,
-            "icon": "logo_1",
+            "length_in_days": 1,
+            "action": "Review the disaster recovery plans and their importance.",
+            "description": "Overview of disaster recovery and business continuity strategies to maintain operations during crises.",
+            "content_instructions": {
+                "role": "professional disaster recovery specialist",
+                "topic": "Learn about the disaster recovery plans in place to ensure business continuity."
+            },
+            "icon": "logo_21",
             "children": [
                 {
-                    "id": "disaster_recovery_planning",
+                    "id": "857460b8-3bdd-552d-a663-e0ef0a58cc90",
+                    "parent_id": "2be00fc5-eeca-5b91-8d74-f71c5662c007",
                     "type": "module",
                     "title": "Disaster Recovery Planning",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Review the disaster recovery plans and their importance.",
+                    "description": "Understanding disaster recovery plans is crucial for minimizing downtime and protecting organizational assets.",
+                    "content_instructions": {
+                        "role": "professional disaster recovery specialist",
+                        "topic": "Learn about the disaster recovery plans in place to ensure business continuity."
+                    },
                     "icon": "logo_1",
                     "children": [
                         {
-                            "id": "learn_about_the_disaster_recovery_plans_in_place_to_ensure_business_continuity",
+                            "id": "7df61ee2-54dc-56a2-b26e-22e9f284189c",
+                            "parent_id": "857460b8-3bdd-552d-a663-e0ef0a58cc90",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn about the disaster recovery plans in place to ensure business continuity.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Review the disaster recovery plans and their importance.",
                             "description": "Disaster recovery planning is essential for ensuring business continuity in the event of a security incident or other disruptive event. These plans outline the steps to be taken to recover critical systems and data, as well as the roles and responsibilities of team members during a disaster. Understanding these plans is crucial for minimizing downtime and protecting the organization's assets.\nBy engaging with disaster recovery planning processes, you will enhance your ability to contribute to the organization's resilience and ensure that critical operations can continue during crises. This knowledge is vital for fostering a culture of preparedness and accountability.",
                             "content_instructions": {
@@ -785,17 +1263,29 @@
                     ]
                 },
                 {
-                    "id": "simulating_disaster_scenarios",
+                    "id": "96f07c99-ca9f-5510-8799-75b915518927",
+                    "parent_id": "2be00fc5-eeca-5b91-8d74-f71c5662c007",
                     "type": "module",
                     "title": "Simulating Disaster Scenarios",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Participate in disaster simulation exercises.",
+                    "description": "Simulating disaster scenarios enhances preparedness and identifies gaps in response plans.",
+                    "content_instructions": {
+                        "role": "professional emergency management coordinator",
+                        "topic": "Understand the importance of simulating disaster scenarios to prepare for real incidents."
+                    },
                     "icon": "logo_17",
                     "children": [
                         {
-                            "id": "understand_the_importance_of_simulating_disaster_scenarios_to_prepare_for_real_incidents",
+                            "id": "915debc1-7ff8-59b1-a86f-53542ed302d1",
+                            "parent_id": "96f07c99-ca9f-5510-8799-75b915518927",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Understand the importance of simulating disaster scenarios to prepare for real incidents.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Participate in disaster simulation exercises.",
                             "description": "Simulating disaster scenarios is a critical component of disaster recovery planning, allowing teams to practice their response to potential incidents. These exercises help identify gaps in plans, improve communication, and enhance overall preparedness. Understanding the importance of these simulations is essential for ensuring that the organization is ready to respond effectively to real incidents.\nBy engaging in disaster simulations, you will enhance your ability to contribute to the organization's resilience and ensure that critical operations can continue during crises. This knowledge is vital for fostering a culture of preparedness and continuous improvement.",
                             "content_instructions": {
@@ -807,17 +1297,29 @@
                     ]
                 },
                 {
-                    "id": "ensuring_business_continuity_during_crises",
+                    "id": "46e97f62-e922-5263-a2ef-020ba74bd34a",
+                    "parent_id": "2be00fc5-eeca-5b91-8d74-f71c5662c007",
                     "type": "module",
                     "title": "Ensuring Business Continuity During Crises",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Learn about the processes for ensuring business continuity during crises.",
+                    "description": "Overview of procedures for maintaining operations and communication during crises.",
+                    "content_instructions": {
+                        "role": "professional business continuity planner",
+                        "topic": "Overview of how the company ensures business continuity during crises"
+                    },
                     "icon": "logo_32",
                     "children": [
                         {
-                            "id": "overview_of_how_the_company_ensures_business_continuity_during_crises",
+                            "id": "56a17d69-4ad3-57b6-a126-7cac41a841ed",
+                            "parent_id": "46e97f62-e922-5263-a2ef-020ba74bd34a",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Overview of how the company ensures business continuity during crises.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Learn about the processes for ensuring business continuity during crises.",
                             "description": "Ensuring business continuity during crises is essential for maintaining operations and protecting the organization's reputation. This involves establishing procedures for critical functions, communicating with stakeholders, and coordinating response efforts. Understanding these processes is crucial for minimizing disruptions and ensuring that the organization can continue to serve its customers during challenging times.\nBy engaging with business continuity processes, you will enhance your ability to contribute to the organization's resilience and ensure that critical operations can continue during crises. This knowledge is vital for fostering a culture of preparedness and accountability.",
                             "content_instructions": {
@@ -831,24 +1333,45 @@
             ]
         },
         {
-            "id": "ongoing_learning_and_certification_opportunities_at_our_company_2",
+            "id": "336d4dbd-0ea6-5eec-a11b-2186d253167f",
+            "parent_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "type": "section",
             "title": "Ongoing Learning and Certification Opportunities at Our Company",
+            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
             "end_of_day": 31,
-            "icon": "logo_36",
+            "length_in_days": 1,
+            "action": "Explore the certification programs and continuous learning opportunities available to you.",
+            "description": "Explore various cybersecurity certifications and continuous learning programs to enhance your skills.",
+            "content_instructions": {
+                "role": "professional certification advisor",
+                "topic": "Learn about the available cybersecurity certifications and training opportunities."
+            },
+            "icon": "logo_16",
             "children": [
                 {
-                    "id": "pursuing_cybersecurity_certifications",
+                    "id": "1cb160de-b758-5724-a426-79533ffcceb8",
+                    "parent_id": "336d4dbd-0ea6-5eec-a11b-2186d253167f",
                     "type": "module",
                     "title": "Pursuing Cybersecurity Certifications",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Explore the certification programs available to enhance your skills.",
+                    "description": "Explore various cybersecurity certifications to enhance skills and advance your career.",
+                    "content_instructions": {
+                        "role": "professional certification advisor",
+                        "topic": "Learn about the available cybersecurity certifications and training opportunities."
+                    },
                     "icon": "logo_36",
                     "children": [
                         {
-                            "id": "learn_about_the_available_cybersecurity_certifications_and_training_opportunities",
+                            "id": "eda3c73a-2db7-5df0-9529-5ae218d282d2",
+                            "parent_id": "1cb160de-b758-5724-a426-79533ffcceb8",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn about the available cybersecurity certifications and training opportunities.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Explore the certification programs available to enhance your skills.",
                             "description": "Pursuing cybersecurity certifications is an excellent way to enhance your skills and demonstrate your expertise in the field. Various certification programs are available, covering topics such as ethical hacking, incident response, and compliance. Understanding these opportunities is crucial for your professional growth and career advancement.\nBy exploring certification programs, you will identify opportunities for development that align with your career goals. Engaging with these programs will empower you to stay updated on industry trends and continuously improve your skills.",
                             "content_instructions": {
@@ -860,17 +1383,29 @@
                     ]
                 },
                 {
-                    "id": "continuous_learning_programs_2",
+                    "id": "e7907d7f-c33d-54e6-94d8-98db9d919492",
+                    "parent_id": "336d4dbd-0ea6-5eec-a11b-2186d253167f",
                     "type": "module",
                     "title": "Continuous Learning Programs",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Explore the continuous learning programs available to you.",
+                    "description": "Programs help cybersecurity professionals stay updated on trends, technologies, and best practices.",
+                    "content_instructions": {
+                        "role": "professional learning coordinator",
+                        "topic": "Understand the continuous learning programs in place to keep security professionals up to date."
+                    },
                     "icon": "logo_7",
                     "children": [
                         {
-                            "id": "understand_the_continuous_learning_programs_in_place_to_keep_security_professionals_up_to_date",
+                            "id": "25d2e2ea-ebee-5320-82c1-a21bad01bbdb",
+                            "parent_id": "e7907d7f-c33d-54e6-94d8-98db9d919492",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Understand the continuous learning programs in place to keep security professionals up to date.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Explore the continuous learning programs available to you.",
                             "description": "Continuous learning programs are vital for keeping cybersecurity professionals up to date with the latest trends, technologies, and best practices. These programs may include workshops, webinars, and online courses designed to enhance your knowledge and skills. Understanding these programs is essential for your ongoing professional development.\nBy engaging with continuous learning opportunities, you will stay informed about emerging threats and innovations in the cybersecurity landscape. This knowledge is vital for ensuring that you remain a valuable asset to the organization.",
                             "content_instructions": {
@@ -882,17 +1417,29 @@
                     ]
                 },
                 {
-                    "id": "staying_updated_on_emerging_threats",
+                    "id": "866d47af-28ab-5c03-be64-6045074ad3db",
+                    "parent_id": "336d4dbd-0ea6-5eec-a11b-2186d253167f",
                     "type": "module",
                     "title": "Staying Updated on Emerging Threats",
+                    "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Learn about the resources available for staying informed on emerging threats.",
+                    "description": "Understanding resources for staying informed about cybersecurity threats is crucial for professionals.",
+                    "content_instructions": {
+                        "role": "professional threat intelligence analyst",
+                        "topic": "Overview of how to stay updated on emerging cybersecurity threats and trends"
+                    },
                     "icon": "logo_25",
                     "children": [
                         {
-                            "id": "overview_of_how_to_stay_updated_on_emerging_cybersecurity_threats_and_trends",
+                            "id": "bf1c4825-bc95-5a02-9aa0-73a9065af19c",
+                            "parent_id": "866d47af-28ab-5c03-be64-6045074ad3db",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Overview of how to stay updated on emerging cybersecurity threats and trends.",
+                            "root_id": "a3400fe0-216a-59a1-a16d-6c08c91289ff",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Learn about the resources available for staying informed on emerging threats.",
                             "description": "Staying updated on emerging cybersecurity threats and trends is essential for maintaining a proactive security posture. This involves leveraging resources such as threat intelligence feeds, industry publications, and professional networks to stay informed about the latest developments. Understanding how to access and utilize these resources is crucial for enhancing your effectiveness as a cybersecurity professional.\nBy engaging with these resources, you will enhance your ability to identify and respond to emerging threats. This knowledge is vital for ensuring that the organization remains resilient against potential risks.",
                             "content_instructions": {

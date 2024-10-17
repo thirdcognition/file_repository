@@ -1,29 +1,57 @@
 {
-    "id": "chief_product_officer_cpo",
+    "id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
     "type": "journey",
     "title": "Chief Product Officer (CPO)",
     "end_of_day": 31,
-    "icon": "logo_2",
+    "length_in_days": 31,
+    "action": "Explore the key responsibilities and objectives of the Chief Product Officer role.",
+    "description": "The CPO oversees product strategy, aligning initiatives with business goals and fostering team collaboration.",
+    "content_instructions": {
+        "role": "professional executive coach",
+        "topic": "Learn about the responsibilities and key objectives of the CPO role in driving product strategy."
+    },
+    "icon": "logo_4",
     "children": [
         {
-            "id": "introduction_to_the_company_team_18",
+            "id": "e4a86d67-2d47-5a83-82cd-6040d7387d97",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Introduction to the Company & Team",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 3,
+            "length_in_days": 3,
+            "action": "Familiarize yourself with the company structure and the product team's roles.",
+            "description": "Overview of the company and product team structure, emphasizing roles and collaboration.",
+            "content_instructions": {
+                "role": "professional organizational development consultant",
+                "topic": "Introduction to the product leadership team and their responsibilities."
+            },
             "icon": "logo_2",
             "children": [
                 {
-                    "id": "meet_the_product_leadership",
+                    "id": "a90c8a4c-4930-5543-8b21-0b8e9dfb0231",
+                    "parent_id": "e4a86d67-2d47-5a83-82cd-6040d7387d97",
                     "type": "module",
                     "title": "Meet the Product Leadership",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 1,
+                    "length_in_days": 1,
+                    "action": "Familiarize yourself with the product leadership team and their individual responsibilities.",
+                    "description": "Overview of the product leadership team's roles and how they guide product initiatives.",
+                    "content_instructions": {
+                        "role": "professional organizational development consultant",
+                        "topic": "Introduction to the product leadership team and their responsibilities."
+                    },
                     "icon": "logo_2",
                     "children": [
                         {
-                            "id": "introduction_to_the_product_leadership_team_and_their_responsibilities",
+                            "id": "343c10a6-1e9b-5169-809a-759753eaeaef",
+                            "parent_id": "a90c8a4c-4930-5543-8b21-0b8e9dfb0231",
                             "type": "action",
-                            "end_of_day": 1,
                             "title": "Introduction to the product leadership team and their responsibilities.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 1,
+                            "length_in_days": 1,
                             "action": "Familiarize yourself with the product leadership team and their individual responsibilities.",
                             "description": "The product leadership team is crucial in guiding the overall direction of our product initiatives. Each member plays a unique role that contributes to the strategic planning and execution of our product vision. Understanding the responsibilities of your colleagues will allow you to navigate the team dynamics more effectively and identify who to approach for specific queries or collaborations.\nBy knowing your leadership team, you will gain insights into their experiences, expertise, and expectations, which will help you align your objectives with the broader organizational goals.",
                             "content_instructions": {
@@ -35,17 +63,29 @@
                     ]
                 },
                 {
-                    "id": "introduction_to_product_team_structure",
+                    "id": "f0b15782-58ff-5e1d-a8a9-21ad2633c72f",
+                    "parent_id": "e4a86d67-2d47-5a83-82cd-6040d7387d97",
                     "type": "module",
                     "title": "Introduction to Product Team Structure",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 2,
+                    "length_in_days": 1,
+                    "action": "Review the organizational structure of the product team and identify key roles.",
+                    "description": "Overview of product team roles and their contributions to product development.",
+                    "content_instructions": {
+                        "role": "professional HR analyst",
+                        "topic": "Overview of the structure of the product team and key roles"
+                    },
                     "icon": "logo_3",
                     "children": [
                         {
-                            "id": "overview_of_the_structure_of_the_product_team_and_key_roles",
+                            "id": "a9b6c39c-4de1-51cb-9480-a394027401fd",
+                            "parent_id": "f0b15782-58ff-5e1d-a8a9-21ad2633c72f",
                             "type": "action",
-                            "end_of_day": 2,
                             "title": "Overview of the structure of the product team and key roles.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 2,
+                            "length_in_days": 1,
                             "action": "Review the organizational structure of the product team and identify key roles.",
                             "description": "Understanding the organizational structure of the product team is essential for effective collaboration and communication. Each role within the team has specific responsibilities and contributions to the product development lifecycle. Familiarity with this structure will help you know who to collaborate with on different aspects of product management, from ideation to execution.\nBy reviewing the key roles and their functions, you will not only enhance your ability to work within the team but also better understand how your role as CPO fits into the bigger picture of our organizational strategy.",
                             "content_instructions": {
@@ -57,17 +97,29 @@
                     ]
                 },
                 {
-                    "id": "understanding_the_cpo_s_role",
+                    "id": "d527d975-10c7-5412-a492-853bcba10c32",
+                    "parent_id": "e4a86d67-2d47-5a83-82cd-6040d7387d97",
                     "type": "module",
                     "title": "Understanding the CPO's Role",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 3,
+                    "length_in_days": 1,
+                    "action": "Explore the key responsibilities and objectives of the Chief Product Officer role.",
+                    "description": "Explore the pivotal responsibilities of the Chief Product Officer in shaping product strategy.",
+                    "content_instructions": {
+                        "role": "professional executive coach",
+                        "topic": "Learn about the responsibilities and key objectives of the CPO role in driving product strategy."
+                    },
                     "icon": "logo_4",
                     "children": [
                         {
-                            "id": "learn_about_the_responsibilities_and_key_objectives_of_the_cpo_role_in_driving_product_strategy",
+                            "id": "419272e7-60cf-5e43-ac8a-b5a46dd8df58",
+                            "parent_id": "d527d975-10c7-5412-a492-853bcba10c32",
                             "type": "action",
-                            "end_of_day": 3,
                             "title": "Learn about the responsibilities and key objectives of the CPO role in driving product strategy.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 3,
+                            "length_in_days": 1,
                             "action": "Explore the key responsibilities and objectives of the Chief Product Officer role.",
                             "description": "The Chief Product Officer plays a pivotal role in shaping the product strategy and vision for the company. This position involves aligning product goals with the overall business strategy, overseeing product development, and fostering innovation. Understanding the nuances of this role will help you navigate your responsibilities effectively and contribute to the long-term success of our products.\nBy grasping the key objectives and expectations associated with the CPO role, you will be better positioned to lead your team, engage stakeholders, and drive product initiatives that resonate with customer needs and market trends.",
                             "content_instructions": {
@@ -81,24 +133,45 @@
             ]
         },
         {
-            "id": "familiarize_with_our_product_strategy_and_vision",
+            "id": "3c171640-4898-5bee-be86-a1addea5610c",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Familiarize with Our Product Strategy and Vision",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 6,
-            "icon": "logo_1",
+            "length_in_days": 3,
+            "action": "Explore the alignment between product vision and the broader company strategy.",
+            "description": "Understanding product vision alignment with company strategy is crucial for achieving business goals.",
+            "content_instructions": {
+                "role": "professional strategic planner",
+                "topic": "Understand how the product vision aligns with the overall company strategy"
+            },
+            "icon": "logo_17",
             "children": [
                 {
-                    "id": "product_vision_alignment_with_company_strategy",
+                    "id": "2019e828-3072-50ba-92e4-d693f6e284fb",
+                    "parent_id": "3c171640-4898-5bee-be86-a1addea5610c",
                     "type": "module",
                     "title": "Product Vision Alignment with Company Strategy",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 4,
+                    "length_in_days": 1,
+                    "action": "Explore the alignment between product vision and the broader company strategy.",
+                    "description": "Understanding product vision alignment with company strategy is crucial for achieving business goals.",
+                    "content_instructions": {
+                        "role": "professional strategic planner",
+                        "topic": "Understand how the product vision aligns with the overall company strategy"
+                    },
                     "icon": "logo_1",
                     "children": [
                         {
-                            "id": "understand_how_the_product_vision_aligns_with_the_overall_company_strategy",
+                            "id": "2d20c8f5-a8a4-51b2-b1e5-aceb05be3795",
+                            "parent_id": "2019e828-3072-50ba-92e4-d693f6e284fb",
                             "type": "action",
-                            "end_of_day": 4,
                             "title": "Understand how the product vision aligns with the overall company strategy.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 4,
+                            "length_in_days": 1,
                             "action": "Explore the alignment between product vision and the broader company strategy.",
                             "description": "A clear understanding of how the product vision aligns with the company's overall strategy is essential for any Chief Product Officer. This alignment ensures that product initiatives contribute directly to the company's goals and objectives, creating a cohesive approach to achieving success. It involves analyzing market trends, customer feedback, and internal capabilities to craft a vision that not only excites stakeholders but also drives tangible results.\nBy grasping this alignment, you will be empowered to make informed decisions that support the company's mission, engage your team effectively, and advocate for the necessary resources and support to execute the product vision successfully.",
                             "content_instructions": {
@@ -110,17 +183,29 @@
                     ]
                 },
                 {
-                    "id": "product_roadmap_and_innovation_planning",
+                    "id": "9fe5f16d-7e61-5c29-a83b-4468d66ca216",
+                    "parent_id": "3c171640-4898-5bee-be86-a1addea5610c",
                     "type": "module",
                     "title": "Product Roadmap and Innovation Planning",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 5,
+                    "length_in_days": 1,
+                    "action": "Review the processes involved in creating a product roadmap that emphasizes innovation.",
+                    "description": "Strategic exercise outlining vision and direction for product initiatives, balancing innovation and execution.",
+                    "content_instructions": {
+                        "role": "professional product strategist",
+                        "topic": "Learn how the product roadmap is built with a focus on innovation and long-term growth."
+                    },
                     "icon": "logo_47",
                     "children": [
                         {
-                            "id": "learn_how_the_product_roadmap_is_built_with_a_focus_on_innovation_and_long_term_growth",
+                            "id": "0ed1175b-3eef-52e9-af89-5a6fece4a616",
+                            "parent_id": "9fe5f16d-7e61-5c29-a83b-4468d66ca216",
                             "type": "action",
-                            "end_of_day": 5,
                             "title": "Learn how the product roadmap is built with a focus on innovation and long-term growth.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 5,
+                            "length_in_days": 1,
                             "action": "Review the processes involved in creating a product roadmap that emphasizes innovation.",
                             "description": "Building a product roadmap is a strategic exercise that outlines the vision, direction, and progress of product initiatives over time. It requires a balance between innovation and practical execution, ensuring that the team is not only addressing current market needs but also anticipating future opportunities. Understanding how to create and maintain an effective roadmap will enable you to prioritize initiatives, allocate resources wisely, and communicate progress to stakeholders effectively.\nBy mastering the art of roadmap planning, you will be in a position to lead your team towards achieving long-term growth while fostering a culture of innovation and adaptability.",
                             "content_instructions": {
@@ -132,17 +217,29 @@
                     ]
                 },
                 {
-                    "id": "defining_long_term_product_goals",
+                    "id": "65b6f717-5f63-5109-ac96-fc28fbd8138d",
+                    "parent_id": "3c171640-4898-5bee-be86-a1addea5610c",
                     "type": "module",
                     "title": "Defining Long-Term Product Goals",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 6,
+                    "length_in_days": 1,
+                    "action": "Learn the methods for setting and communicating long-term product goals.",
+                    "description": "Long-term product goals guide strategy and align teams to deliver customer value.",
+                    "content_instructions": {
+                        "role": "professional business strategist",
+                        "topic": "Overview of how long-term product goals are set and communicated"
+                    },
                     "icon": "logo_17",
                     "children": [
                         {
-                            "id": "overview_of_how_long_term_product_goals_are_set_and_communicated",
+                            "id": "297541d1-d1c5-51ec-a397-639caa7267d9",
+                            "parent_id": "65b6f717-5f63-5109-ac96-fc28fbd8138d",
                             "type": "action",
-                            "end_of_day": 6,
                             "title": "Overview of how long-term product goals are set and communicated.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 6,
+                            "length_in_days": 1,
                             "action": "Learn the methods for setting and communicating long-term product goals.",
                             "description": "Setting long-term product goals is a critical responsibility for the Chief Product Officer. These goals guide the product strategy and help the team stay focused on delivering value to customers. It involves analyzing market trends, understanding customer needs, and aligning with the overall business strategy to define achievable yet ambitious objectives. Communicating these goals effectively to the team and stakeholders is equally essential to ensure alignment and commitment.\nBy mastering this process, you will not only clarify the direction for your product team but also inspire and motivate them to pursue ambitious yet attainable goals that contribute to the company's success.",
                             "content_instructions": {
@@ -156,24 +253,45 @@
             ]
         },
         {
-            "id": "collaborating_with_our_engineering_and_marketing_teams",
+            "id": "0a767515-9f62-5687-9623-ba223139c055",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Collaborating with Our Engineering and Marketing Teams",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 9,
+            "length_in_days": 3,
+            "action": "Explore the collaboration dynamics between product and engineering teams.",
+            "description": "Collaboration with engineering and marketing teams is crucial for product development success.",
+            "content_instructions": {
+                "role": "professional product development manager",
+                "topic": "Learn how product and engineering teams collaborate to ensure seamless product development."
+            },
             "icon": "logo_6",
             "children": [
                 {
-                    "id": "product_engineering_collaboration",
+                    "id": "3c00de21-bb67-5fbf-bb83-5cf217e4674a",
+                    "parent_id": "0a767515-9f62-5687-9623-ba223139c055",
                     "type": "module",
                     "title": "Product-Engineering Collaboration",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 7,
+                    "length_in_days": 1,
+                    "action": "Explore the collaboration dynamics between product and engineering teams.",
+                    "description": "Collaboration between product and engineering teams enhances product development and innovation.",
+                    "content_instructions": {
+                        "role": "professional product development manager",
+                        "topic": "Learn how product and engineering teams collaborate to ensure seamless product development."
+                    },
                     "icon": "logo_6",
                     "children": [
                         {
-                            "id": "learn_how_product_and_engineering_teams_collaborate_to_ensure_seamless_product_development",
+                            "id": "eec19978-bfdf-51fb-99be-0cba5e5b80c7",
+                            "parent_id": "3c00de21-bb67-5fbf-bb83-5cf217e4674a",
                             "type": "action",
-                            "end_of_day": 7,
                             "title": "Learn how product and engineering teams collaborate to ensure seamless product development.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 7,
+                            "length_in_days": 1,
                             "action": "Explore the collaboration dynamics between product and engineering teams.",
                             "description": "Collaboration between product and engineering teams is vital for the successful development and launch of products. This partnership fosters a shared understanding of customer needs, technical constraints, and market opportunities. As CPO, facilitating this collaboration involves creating a culture of open communication, aligning goals, and ensuring that both teams work towards common objectives. By effectively bridging the gap between product management and engineering, you will enhance the team's ability to innovate and respond to changing market demands.\nBy understanding the dynamics of this collaboration, you will be better equipped to navigate challenges, advocate for resources, and drive initiatives that lead to successful product outcomes.",
                             "content_instructions": {
@@ -185,17 +303,29 @@
                     ]
                 },
                 {
-                    "id": "supporting_product_marketing_strategies",
+                    "id": "6870f305-fb1f-5d3c-ba1a-847ab9375d5e",
+                    "parent_id": "0a767515-9f62-5687-9623-ba223139c055",
                     "type": "module",
                     "title": "Supporting Product Marketing Strategies",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 8,
+                    "length_in_days": 1,
+                    "action": "Review how product marketing strategies are supported and developed.",
+                    "description": "The CPO shapes product marketing strategies and collaborates with teams to align messaging with customer needs.",
+                    "content_instructions": {
+                        "role": "professional marketing strategist",
+                        "topic": "Understand the role of the CPO in supporting marketing strategies for product promotion."
+                    },
                     "icon": "logo_14",
                     "children": [
                         {
-                            "id": "understand_the_role_of_the_cpo_in_supporting_marketing_strategies_for_product_promotion",
+                            "id": "fe154966-feff-5316-bf22-8fa14feded20",
+                            "parent_id": "6870f305-fb1f-5d3c-ba1a-847ab9375d5e",
                             "type": "action",
-                            "end_of_day": 8,
                             "title": "Understand the role of the CPO in supporting marketing strategies for product promotion.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 8,
+                            "length_in_days": 1,
                             "action": "Review how product marketing strategies are supported and developed.",
                             "description": "The Chief Product Officer plays a crucial role in shaping and supporting product marketing strategies. This involves understanding target audiences, competitive positioning, and market dynamics to develop effective marketing plans. As CPO, you need to collaborate closely with marketing teams to ensure that product messaging aligns with customer needs and business objectives. By actively supporting marketing initiatives, you can help amplify product visibility and drive customer engagement, ultimately contributing to the product's success in the market.\nBy mastering this role, you will enable your team to effectively communicate the value of products and leverage marketing strategies that resonate with customers and stakeholders.",
                             "content_instructions": {
@@ -207,17 +337,29 @@
                     ]
                 },
                 {
-                    "id": "cross_functional_team_coordination",
+                    "id": "449ca1a7-e9a2-52a4-a38e-50a21a3ed685",
+                    "parent_id": "0a767515-9f62-5687-9623-ba223139c055",
                     "type": "module",
                     "title": "Cross-functional Team Coordination",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 9,
+                    "length_in_days": 1,
+                    "action": "Learn the best practices for coordinating cross-functional teams.",
+                    "description": "Coordination among teams is vital for product success, aligning efforts across departments.",
+                    "content_instructions": {
+                        "role": "professional project coordinator",
+                        "topic": "Overview of how cross-functional teams are coordinated to ensure product success."
+                    },
                     "icon": "logo_45",
                     "children": [
                         {
-                            "id": "overview_of_how_cross_functional_teams_are_coordinated_to_ensure_product_success",
+                            "id": "ebd92c15-2820-5ae3-9334-cdf7477c4e9d",
+                            "parent_id": "449ca1a7-e9a2-52a4-a38e-50a21a3ed685",
                             "type": "action",
-                            "end_of_day": 9,
                             "title": "Overview of how cross-functional teams are coordinated to ensure product success.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 9,
+                            "length_in_days": 1,
                             "action": "Learn the best practices for coordinating cross-functional teams.",
                             "description": "Coordinating cross-functional teams is essential for achieving product success. This involves aligning the efforts of various departments, including product, engineering, design, and marketing, to work together effectively towards common goals. As CPO, it is your responsibility to facilitate communication, foster collaboration, and resolve conflicts that may arise during the product development process. Implementing structured processes for regular updates and feedback loops can significantly enhance team collaboration and ensure that everyone is working towards the same objectives.\nBy mastering cross-functional coordination, you will foster a culture of teamwork and collaboration that contributes to more efficient product development and successful launches.",
                             "content_instructions": {
@@ -231,24 +373,45 @@
             ]
         },
         {
-            "id": "our_product_roadmaps_and_prioritization_process",
+            "id": "91759778-5d38-5b41-8d10-c9b7e956e275",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Our Product Roadmaps and Prioritization Process",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 12,
-            "icon": "logo_5",
+            "length_in_days": 3,
+            "action": "Review the process for building and communicating the product roadmap.",
+            "description": "A strategic overview of product roadmaps, prioritization, and balancing innovation with customer needs.",
+            "content_instructions": {
+                "role": "professional product manager",
+                "topic": "Learn how the product roadmap is built and communicated to stakeholders."
+            },
+            "icon": "logo_4",
             "children": [
                 {
-                    "id": "building_and_communicating_the_product_roadmap",
+                    "id": "e8d78ff0-a379-599f-9112-d04394357bb3",
+                    "parent_id": "91759778-5d38-5b41-8d10-c9b7e956e275",
                     "type": "module",
                     "title": "Building and Communicating the Product Roadmap",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 10,
+                    "length_in_days": 1,
+                    "action": "Review the process for building and communicating the product roadmap.",
+                    "description": "Strategic approach to product roadmap development and stakeholder communication.",
+                    "content_instructions": {
+                        "role": "professional product manager",
+                        "topic": "Learn how the product roadmap is built and communicated to stakeholders."
+                    },
                     "icon": "logo_5",
                     "children": [
                         {
-                            "id": "learn_how_the_product_roadmap_is_built_and_communicated_to_stakeholders",
+                            "id": "53a447bc-80a7-5e90-83da-e9e177df1b30",
+                            "parent_id": "e8d78ff0-a379-599f-9112-d04394357bb3",
                             "type": "action",
-                            "end_of_day": 10,
                             "title": "Learn how the product roadmap is built and communicated to stakeholders.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 10,
+                            "length_in_days": 1,
                             "action": "Review the process for building and communicating the product roadmap.",
                             "description": "Building a product roadmap is a strategic endeavor that outlines the vision and direction of product initiatives over time. It requires careful consideration of market trends, customer needs, and internal capabilities. As CPO, effectively communicating the roadmap to stakeholders ensures alignment and clarity regarding product priorities and objectives. This involves presenting the roadmap in a way that highlights key milestones, expected outcomes, and resource allocation, making it easier for stakeholders to understand and support product initiatives.\nBy mastering this process, you will enhance transparency and foster trust among stakeholders, ultimately contributing to the successful execution of the product strategy.",
                             "content_instructions": {
@@ -260,17 +423,29 @@
                     ]
                 },
                 {
-                    "id": "setting_priorities_and_managing_backlogs",
+                    "id": "edf0de9e-975f-5ecf-b3fc-a80fe0c0b193",
+                    "parent_id": "91759778-5d38-5b41-8d10-c9b7e956e275",
                     "type": "module",
                     "title": "Setting Priorities and Managing Backlogs",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 11,
+                    "length_in_days": 1,
+                    "action": "Explore the methods for setting priorities and managing product backlogs.",
+                    "description": "Prioritizing features and managing backlogs are key for product development success.",
+                    "content_instructions": {
+                        "role": "professional project manager",
+                        "topic": "Understand how priorities are set and backlogs are managed for optimal product development."
+                    },
                     "icon": "logo_12",
                     "children": [
                         {
-                            "id": "understand_how_priorities_are_set_and_backlogs_are_managed_for_optimal_product_development",
+                            "id": "9fda5a85-3320-52a6-9ace-8ccfea73b326",
+                            "parent_id": "edf0de9e-975f-5ecf-b3fc-a80fe0c0b193",
                             "type": "action",
-                            "end_of_day": 11,
                             "title": "Understand how priorities are set and backlogs are managed for optimal product development.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 11,
+                            "length_in_days": 1,
                             "action": "Explore the methods for setting priorities and managing product backlogs.",
                             "description": "Setting priorities and managing product backlogs are crucial responsibilities for the Chief Product Officer. These tasks involve evaluating customer feedback, market conditions, and business objectives to determine which features and initiatives should be prioritized. Managing the backlog effectively ensures that the team focuses on delivering maximum value and aligns with the overall product strategy. Techniques such as prioritization frameworks and regular backlog reviews can help maintain clarity and focus, enabling the team to work efficiently and effectively.\nBy mastering these practices, you will empower your team to deliver impactful features that resonate with customers and drive business success.",
                             "content_instructions": {
@@ -282,17 +457,29 @@
                     ]
                 },
                 {
-                    "id": "balancing_innovation_with_customer_needs",
+                    "id": "4db104b7-bf41-5a9d-9479-7466d0eb4c77",
+                    "parent_id": "91759778-5d38-5b41-8d10-c9b7e956e275",
                     "type": "module",
                     "title": "Balancing Innovation with Customer Needs",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 12,
+                    "length_in_days": 1,
+                    "action": "Learn the strategies for balancing innovation with customer requirements.",
+                    "description": "Balancing innovation with customer needs is vital for product management success.",
+                    "content_instructions": {
+                        "role": "professional innovation manager",
+                        "topic": "Overview of how innovation is balanced with customer needs and market demands."
+                    },
                     "icon": "logo_23",
                     "children": [
                         {
-                            "id": "overview_of_how_innovation_is_balanced_with_customer_needs_and_market_demands",
+                            "id": "581d63cf-08c2-54a7-be96-74025b494a90",
+                            "parent_id": "4db104b7-bf41-5a9d-9479-7466d0eb4c77",
                             "type": "action",
-                            "end_of_day": 12,
                             "title": "Overview of how innovation is balanced with customer needs and market demands.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 12,
+                            "length_in_days": 1,
                             "action": "Learn the strategies for balancing innovation with customer requirements.",
                             "description": "Balancing innovation with customer needs is a critical aspect of product management. As CPO, you must ensure that the product development efforts not only address current customer demands but also anticipate future trends and opportunities. This involves fostering a culture of innovation while actively seeking and incorporating customer feedback into the product development process. By leveraging data analytics and market research, you can identify emerging trends and align product initiatives with customer expectations, thus ensuring that your products remain competitive and relevant.\nBy mastering this balance, you will enhance your team's ability to innovate while delivering products that truly meet customer needs and drive business success.",
                             "content_instructions": {
@@ -306,24 +493,45 @@
             ]
         },
         {
-            "id": "our_customer_feedback_and_market_research_process",
+            "id": "cd64726a-d359-5e27-97af-24f14c641e0c",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Our Customer Feedback and Market Research Process",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 15,
-            "icon": "logo_11",
+            "length_in_days": 3,
+            "action": "Explore the methods for collecting and analyzing customer feedback.",
+            "description": "A comprehensive approach to gathering and utilizing customer insights for product enhancement.",
+            "content_instructions": {
+                "role": "professional customer insights analyst",
+                "topic": "Learn how customer feedback is collected, analyzed, and integrated into product development."
+            },
+            "icon": "logo_4",
             "children": [
                 {
-                    "id": "collecting_and_analyzing_customer_feedback",
+                    "id": "9e0c6608-97a1-57b6-8cf7-6db1245ee055",
+                    "parent_id": "cd64726a-d359-5e27-97af-24f14c641e0c",
                     "type": "module",
                     "title": "Collecting and Analyzing Customer Feedback",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 13,
+                    "length_in_days": 1,
+                    "action": "Explore the methods for collecting and analyzing customer feedback.",
+                    "description": "Understanding customer feedback collection and analysis is crucial for product development success.",
+                    "content_instructions": {
+                        "role": "professional customer insights analyst",
+                        "topic": "Learn how customer feedback is collected, analyzed, and integrated into product development."
+                    },
                     "icon": "logo_11",
                     "children": [
                         {
-                            "id": "learn_how_customer_feedback_is_collected_analyzed_and_integrated_into_product_development",
+                            "id": "a0cd635a-3755-53d8-a982-c3acadd5a311",
+                            "parent_id": "9e0c6608-97a1-57b6-8cf7-6db1245ee055",
                             "type": "action",
-                            "end_of_day": 13,
                             "title": "Learn how customer feedback is collected, analyzed, and integrated into product development.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 13,
+                            "length_in_days": 1,
                             "action": "Explore the methods for collecting and analyzing customer feedback.",
                             "description": "Collecting and analyzing customer feedback is essential for informing product development and ensuring that offerings align with customer expectations. Various methods such as surveys, interviews, and user testing can be employed to gather valuable insights. As CPO, you will need to establish processes for systematically analyzing this feedback and integrating it into product iterations. This feedback loop enables continuous improvement and helps your team prioritize features that resonate with users.\nBy mastering these practices, you will empower your team to create products that not only meet but exceed customer expectations, driving satisfaction and loyalty.",
                             "content_instructions": {
@@ -335,17 +543,29 @@
                     ]
                 },
                 {
-                    "id": "conducting_market_research",
+                    "id": "3668cefd-b094-560f-8e36-f5083e352a50",
+                    "parent_id": "cd64726a-d359-5e27-97af-24f14c641e0c",
                     "type": "module",
                     "title": "Conducting Market Research",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 14,
+                    "length_in_days": 1,
+                    "action": "Review the methods and tools for conducting effective market research.",
+                    "description": "Market research informs product decisions by analyzing trends, preferences, and competitor strategies.",
+                    "content_instructions": {
+                        "role": "professional market research analyst",
+                        "topic": "Understand the process of conducting market research to inform product decisions"
+                    },
                     "icon": "logo_8",
                     "children": [
                         {
-                            "id": "understand_the_process_of_conducting_market_research_to_inform_product_decisions",
+                            "id": "b2554fd3-19ad-59f1-9dbd-743424b081d9",
+                            "parent_id": "3668cefd-b094-560f-8e36-f5083e352a50",
                             "type": "action",
-                            "end_of_day": 14,
                             "title": "Understand the process of conducting market research to inform product decisions.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 14,
+                            "length_in_days": 1,
                             "action": "Review the methods and tools for conducting effective market research.",
                             "description": "Conducting market research is vital for understanding the competitive landscape and identifying opportunities for innovation. As CPO, you will need to employ various research methodologies, including qualitative and quantitative studies, to gather insights about market trends, customer preferences, and competitor strategies. This knowledge will guide product decisions and help your team stay ahead of the competition. Effective market research also involves synthesizing findings into actionable strategies that can inform the product roadmap and development priorities.\nBy mastering this process, you will enhance your team's ability to make informed product decisions that are rooted in data and aligned with market demands.",
                             "content_instructions": {
@@ -357,17 +577,29 @@
                     ]
                 },
                 {
-                    "id": "integrating_feedback_into_product_development",
+                    "id": "b221e7ea-d70b-545b-95e3-da8a65554358",
+                    "parent_id": "cd64726a-d359-5e27-97af-24f14c641e0c",
                     "type": "module",
                     "title": "Integrating Feedback into Product Development",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 15,
+                    "length_in_days": 1,
+                    "action": "Learn how to integrate customer feedback into the product development cycle.",
+                    "description": "Incorporating customer feedback into product development enhances user satisfaction and drives continuous improvement.",
+                    "content_instructions": {
+                        "role": "professional product development facilitator",
+                        "topic": "Overview of how customer feedback is incorporated into product iterations."
+                    },
                     "icon": "logo_32",
                     "children": [
                         {
-                            "id": "overview_of_how_customer_feedback_is_incorporated_into_product_iterations",
+                            "id": "5dd2267d-765c-5c7d-8bae-7eb767acd154",
+                            "parent_id": "b221e7ea-d70b-545b-95e3-da8a65554358",
                             "type": "action",
-                            "end_of_day": 15,
                             "title": "Overview of how customer feedback is incorporated into product iterations.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 15,
+                            "length_in_days": 1,
                             "action": "Learn how to integrate customer feedback into the product development cycle.",
                             "description": "Integrating customer feedback into product development is essential for creating products that truly meet user needs. This process involves not only collecting feedback but also analyzing it to identify patterns and actionable insights. As CPO, you will need to establish clear channels for integrating this feedback into the product development cycle, ensuring that your team understands the importance of customer insights in shaping product features and enhancements. Regular feedback reviews and collaboration with cross-functional teams can facilitate this integration, making it a part of the development culture.\nBy mastering this integration process, you will foster a product culture that values customer input and drives continuous improvement, ultimately resulting in higher customer satisfaction and loyalty.",
                             "content_instructions": {
@@ -381,24 +613,45 @@
             ]
         },
         {
-            "id": "stakeholder_communication_and_management_in_our_company",
+            "id": "7f99f8d5-5489-5e8c-9445-c0aca2337cbe",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Stakeholder Communication and Management in Our Company",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 18,
-            "icon": "logo_16",
+            "length_in_days": 3,
+            "action": "Explore best practices for engaging stakeholders and managing their expectations.",
+            "description": "Strategies for engaging stakeholders and managing their expectations during product development.",
+            "content_instructions": {
+                "role": "professional stakeholder engagement consultant",
+                "topic": "Learn strategies for managing stakeholder expectations during the product development process."
+            },
+            "icon": "logo_23",
             "children": [
                 {
-                    "id": "managing_stakeholder_expectations_1",
+                    "id": "421c043c-ba58-55b7-910d-a4854e9d363f",
+                    "parent_id": "7f99f8d5-5489-5e8c-9445-c0aca2337cbe",
                     "type": "module",
                     "title": "Managing Stakeholder Expectations",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 16,
+                    "length_in_days": 1,
+                    "action": "Explore best practices for engaging stakeholders and managing their expectations.",
+                    "description": "Strategies for engaging stakeholders and managing their expectations during product development.",
+                    "content_instructions": {
+                        "role": "professional stakeholder engagement consultant",
+                        "topic": "Learn strategies for managing stakeholder expectations during the product development process."
+                    },
                     "icon": "logo_16",
                     "children": [
                         {
-                            "id": "learn_strategies_for_managing_stakeholder_expectations_during_the_product_development_process",
+                            "id": "e362bf3d-4aac-59c4-a395-8f1d1082a2ce",
+                            "parent_id": "421c043c-ba58-55b7-910d-a4854e9d363f",
                             "type": "action",
-                            "end_of_day": 16,
                             "title": "Learn strategies for managing stakeholder expectations during the product development process.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 16,
+                            "length_in_days": 1,
                             "action": "Explore best practices for engaging stakeholders and managing their expectations.",
                             "description": "Effectively managing stakeholder expectations is crucial for the success of any product initiative. As CPO, you will be responsible for maintaining open lines of communication with stakeholders, providing regular updates on product progress, and setting realistic expectations regarding deliverables and timelines. Understanding their needs and concerns will help you build trust and ensure alignment throughout the development process. Employing strategies such as regular check-ins, transparent reporting, and soliciting feedback can enhance your stakeholder engagement efforts.\nBy mastering these strategies, you will create a supportive environment where stakeholders feel informed and valued, ultimately leading to smoother product development and successful outcomes.",
                             "content_instructions": {
@@ -410,17 +663,29 @@
                     ]
                 },
                 {
-                    "id": "communicating_product_strategy_to_executives",
+                    "id": "cbc8aac6-684d-5abe-b5a1-c8f335b4376a",
+                    "parent_id": "7f99f8d5-5489-5e8c-9445-c0aca2337cbe",
                     "type": "module",
                     "title": "Communicating Product Strategy to Executives",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 17,
+                    "length_in_days": 1,
+                    "action": "Review best practices for presenting product strategies to executives.",
+                    "description": "Communicating product strategy to executives involves aligning with business goals and presenting key objectives.",
+                    "content_instructions": {
+                        "role": "professional executive communication coach",
+                        "topic": "Understand how to effectively communicate the product strategy to executive leadership."
+                    },
                     "icon": "logo_33",
                     "children": [
                         {
-                            "id": "understand_how_to_effectively_communicate_the_product_strategy_to_executive_leadership",
+                            "id": "91dbd682-c768-50d8-9493-bde5e9eb2c7f",
+                            "parent_id": "cbc8aac6-684d-5abe-b5a1-c8f335b4376a",
                             "type": "action",
-                            "end_of_day": 17,
                             "title": "Understand how to effectively communicate the product strategy to executive leadership.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 17,
+                            "length_in_days": 1,
                             "action": "Review best practices for presenting product strategies to executives.",
                             "description": "Effectively communicating the product strategy to executive leadership is essential for securing buy-in and support for product initiatives. This involves presenting the strategy in a clear and compelling manner, highlighting key objectives, anticipated outcomes, and resource requirements. As CPO, you must tailor your communication to resonate with executive priorities and ensure alignment with the overall business strategy. Utilizing data, visuals, and storytelling techniques can enhance your presentations and make your strategic vision more relatable.\nBy mastering this communication, you will foster stronger relationships with executive leadership and position your product initiatives for success.",
                             "content_instructions": {
@@ -432,17 +697,29 @@
                     ]
                 },
                 {
-                    "id": "aligning_stakeholders_on_product_vision",
+                    "id": "c6f96408-2953-5618-a8a2-446a92114498",
+                    "parent_id": "7f99f8d5-5489-5e8c-9445-c0aca2337cbe",
                     "type": "module",
                     "title": "Aligning Stakeholders on Product Vision",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 18,
+                    "length_in_days": 1,
+                    "action": "Learn strategies for aligning stakeholders with the product vision.",
+                    "description": "Engaging stakeholders early ensures alignment with the product vision and roadmap.",
+                    "content_instructions": {
+                        "role": "professional team alignment facilitator",
+                        "topic": "Overview of how stakeholders are aligned with the product vision and roadmap."
+                    },
                     "icon": "logo_26",
                     "children": [
                         {
-                            "id": "overview_of_how_stakeholders_are_aligned_with_the_product_vision_and_roadmap",
+                            "id": "78a5a83d-c025-54f8-a903-0c8c02a0d706",
+                            "parent_id": "c6f96408-2953-5618-a8a2-446a92114498",
                             "type": "action",
-                            "end_of_day": 18,
                             "title": "Overview of how stakeholders are aligned with the product vision and roadmap.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 18,
+                            "length_in_days": 1,
                             "action": "Learn strategies for aligning stakeholders with the product vision.",
                             "description": "Aligning stakeholders with the product vision is crucial for ensuring that everyone is working towards common goals. This involves engaging stakeholders early in the product development process, soliciting their feedback, and addressing any concerns that may arise. As CPO, you must create an inclusive environment where stakeholders feel valued and invested in the product's success. Regular workshops, vision presentations, and collaborative planning sessions can help foster this alignment and ensure that stakeholders understand the product roadmap and its implications.\nBy mastering these alignment strategies, you will facilitate smoother collaboration and enhance the likelihood of successful product outcomes.",
                             "content_instructions": {
@@ -456,24 +733,45 @@
             ]
         },
         {
-            "id": "our_product_metrics_and_kpis_1",
+            "id": "a89a08f6-0238-588b-8944-1d6d797a8b15",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Our Product Metrics and KPIs",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 21,
-            "icon": "logo_25",
+            "length_in_days": 3,
+            "action": "Explore the key success metrics and how they inform product decisions.",
+            "description": "Key metrics and KPIs are vital for assessing product performance and guiding strategic decisions.",
+            "content_instructions": {
+                "role": "professional data analyst",
+                "topic": "Learn about the key metrics used to track product success and performance."
+            },
+            "icon": "logo_4",
             "children": [
                 {
-                    "id": "tracking_product_success_metrics",
+                    "id": "350e2fd7-a9c2-5133-958d-f4b4e5d2255b",
+                    "parent_id": "a89a08f6-0238-588b-8944-1d6d797a8b15",
                     "type": "module",
                     "title": "Tracking Product Success Metrics",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 19,
+                    "length_in_days": 1,
+                    "action": "Explore the key success metrics and how they inform product decisions.",
+                    "description": "Understanding key metrics is crucial for evaluating product performance and guiding strategic decisions.",
+                    "content_instructions": {
+                        "role": "professional data analyst",
+                        "topic": "Learn about the key metrics used to track product success and performance."
+                    },
                     "icon": "logo_25",
                     "children": [
                         {
-                            "id": "learn_about_the_key_metrics_used_to_track_product_success_and_performance",
+                            "id": "ed3d0a3a-5594-5249-adba-400b62914d44",
+                            "parent_id": "350e2fd7-a9c2-5133-958d-f4b4e5d2255b",
                             "type": "action",
-                            "end_of_day": 19,
                             "title": "Learn about the key metrics used to track product success and performance.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 19,
+                            "length_in_days": 1,
                             "action": "Explore the key success metrics and how they inform product decisions.",
                             "description": "Tracking product success metrics is essential for understanding how well a product is performing in the market. As CPO, you will need to define key performance indicators (KPIs) that align with your product goals and provide actionable insights. These metrics can include user adoption rates, customer satisfaction scores, revenue growth, and more. Regularly reviewing these metrics will allow you to make informed decisions and pivot strategies as needed to ensure continued success.\nBy mastering the tracking of these success metrics, you will empower your team to focus on delivering value and achieving measurable outcomes.",
                             "content_instructions": {
@@ -485,17 +783,29 @@
                     ]
                 },
                 {
-                    "id": "kpis_for_customer_satisfaction_and_usage",
+                    "id": "b0076cfe-d6ff-5208-ba8c-be1370e843ee",
+                    "parent_id": "a89a08f6-0238-588b-8944-1d6d797a8b15",
                     "type": "module",
                     "title": "KPIs for Customer Satisfaction and Usage",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 20,
+                    "length_in_days": 1,
+                    "action": "Review the key KPIs that gauge customer satisfaction and product engagement.",
+                    "description": "Key metrics include NPS, CSAT, and session duration for assessing user satisfaction.",
+                    "content_instructions": {
+                        "role": "professional customer experience manager",
+                        "topic": "Understand the KPIs used to measure customer satisfaction and product usage."
+                    },
                     "icon": "logo_27",
                     "children": [
                         {
-                            "id": "understand_the_kpis_used_to_measure_customer_satisfaction_and_product_usage",
+                            "id": "21d61a2f-0238-52cb-b447-63bcf8e3feaa",
+                            "parent_id": "b0076cfe-d6ff-5208-ba8c-be1370e843ee",
                             "type": "action",
-                            "end_of_day": 20,
                             "title": "Understand the KPIs used to measure customer satisfaction and product usage.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 20,
+                            "length_in_days": 1,
                             "action": "Review the key KPIs that gauge customer satisfaction and product engagement.",
                             "description": "Understanding KPIs for customer satisfaction and product usage is critical for driving improvements and ensuring that products meet user needs. These KPIs can include metrics such as Net Promoter Score (NPS), Customer Satisfaction Score (CSAT), and average session duration. As CPO, you will be responsible for defining these metrics and ensuring they are tracked consistently. Analyzing these KPIs will provide valuable insights into user behavior and satisfaction, allowing you to make data-driven decisions that enhance product offerings.\nBy mastering this understanding, you will be better positioned to advocate for changes that improve customer experience and drive product adoption.",
                             "content_instructions": {
@@ -507,17 +817,29 @@
                     ]
                 },
                 {
-                    "id": "product_innovation_metrics",
+                    "id": "947424e1-db75-56ab-a967-97c3b1701a08",
+                    "parent_id": "a89a08f6-0238-588b-8944-1d6d797a8b15",
                     "type": "module",
                     "title": "Product Innovation Metrics",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 21,
+                    "length_in_days": 1,
+                    "action": "Explore the metrics that indicate innovation and growth within product lines.",
+                    "description": "Metrics for assessing innovation impact and product growth strategies.",
+                    "content_instructions": {
+                        "role": "professional product growth strategist",
+                        "topic": "Overview of the metrics used to track innovation and product growth"
+                    },
                     "icon": "logo_31",
                     "children": [
                         {
-                            "id": "overview_of_the_metrics_used_to_track_innovation_and_product_growth",
+                            "id": "f41448af-edde-52f0-bdc7-8dc65e087e47",
+                            "parent_id": "947424e1-db75-56ab-a967-97c3b1701a08",
                             "type": "action",
-                            "end_of_day": 21,
                             "title": "Overview of the metrics used to track innovation and product growth.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 21,
+                            "length_in_days": 1,
                             "action": "Explore the metrics that indicate innovation and growth within product lines.",
                             "description": "Tracking innovation and growth metrics is essential for assessing the impact of new product initiatives and enhancements. These metrics can include the rate of new feature adoption, the number of innovative ideas generated, and revenue generated from new products. As CPO, you will need to establish a framework for measuring innovation outcomes and ensuring that the team is held accountable for driving growth. Regularly reviewing these metrics will facilitate informed discussions about future product directions and strategic investments.\nBy mastering these innovation metrics, you will ensure that your product initiatives align with business growth objectives and foster a culture of continuous improvement.",
                             "content_instructions": {
@@ -531,24 +853,45 @@
             ]
         },
         {
-            "id": "agile_product_development_at_our_company",
+            "id": "31a5448f-c23e-5681-b7ad-0be19a6c00db",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Agile Product Development at Our Company",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 24,
-            "icon": "logo_46",
+            "length_in_days": 3,
+            "action": "Explore Agile practices, review collaboration dynamics, and learn to leverage product performance data.",
+            "description": "Implement Agile practices, collaborate with Scrum teams, and utilize data for continuous product improvement.",
+            "content_instructions": {
+                "role": "Chief Product Officer",
+                "topic": "Implement Agile practices, collaborate with Scrum teams, and leverage data for product iterations."
+            },
+            "icon": "logo_12",
             "children": [
                 {
-                    "id": "ensuring_agile_development_practices",
+                    "id": "87042ef2-22fd-53c5-91ac-65ffa8bd9591",
+                    "parent_id": "31a5448f-c23e-5681-b7ad-0be19a6c00db",
                     "type": "module",
                     "title": "Ensuring Agile Development Practices",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 22,
+                    "length_in_days": 1,
+                    "action": "Explore the Agile practices that guide product development.",
+                    "description": "Implement Agile practices to enhance product team responsiveness and adaptability.",
+                    "content_instructions": {
+                        "role": "professional Agile coach",
+                        "topic": "Learn how Agile development practices are implemented across product teams."
+                    },
                     "icon": "logo_46",
                     "children": [
                         {
-                            "id": "learn_how_agile_development_practices_are_implemented_across_product_teams",
+                            "id": "c968b630-5111-5544-9b46-579b9541c866",
+                            "parent_id": "87042ef2-22fd-53c5-91ac-65ffa8bd9591",
                             "type": "action",
-                            "end_of_day": 22,
                             "title": "Learn how Agile development practices are implemented across product teams.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 22,
+                            "length_in_days": 1,
                             "action": "Explore the Agile practices that guide product development.",
                             "description": "Implementing Agile development practices is essential for fostering a responsive and adaptive product development environment. As CPO, you will need to ensure that the product teams are equipped with the necessary frameworks, such as Scrum or Kanban, and understand how to apply Agile principles in their daily workflows. This involves promoting collaboration, encouraging iterative development, and valuing customer feedback. By creating a culture that embraces Agile methodologies, you will enhance the team's ability to deliver products that meet changing market demands and customer needs.\nBy mastering these practices, you will empower your teams to be more flexible and innovative, leading to successful product outcomes.",
                             "content_instructions": {
@@ -560,17 +903,29 @@
                     ]
                 },
                 {
-                    "id": "collaborating_with_scrum_teams",
+                    "id": "5bc1966b-3d9c-56fc-89f6-2fd8ea05b5a7",
+                    "parent_id": "31a5448f-c23e-5681-b7ad-0be19a6c00db",
                     "type": "module",
                     "title": "Collaborating with Scrum Teams",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 23,
+                    "length_in_days": 1,
+                    "action": "Review the collaboration dynamics between the CPO and Scrum teams.",
+                    "description": "Collaboration with Scrum teams ensures continuous product delivery aligned with customer needs.",
+                    "content_instructions": {
+                        "role": "professional Scrum Master",
+                        "topic": "Understand how the CPO collaborates with Scrum teams to ensure continuous product delivery."
+                    },
                     "icon": "logo_40",
                     "children": [
                         {
-                            "id": "understand_how_the_cpo_collaborates_with_scrum_teams_to_ensure_continuous_product_delivery",
+                            "id": "c2226675-2d87-5eee-8242-8c29c7374d5e",
+                            "parent_id": "5bc1966b-3d9c-56fc-89f6-2fd8ea05b5a7",
                             "type": "action",
-                            "end_of_day": 23,
                             "title": "Understand how the CPO collaborates with Scrum teams to ensure continuous product delivery.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 23,
+                            "length_in_days": 1,
                             "action": "Review the collaboration dynamics between the CPO and Scrum teams.",
                             "description": "Collaboration with Scrum teams is essential for ensuring that product delivery is continuous and aligned with customer needs. As CPO, you will need to engage with Scrum teams to facilitate communication, provide guidance on product priorities, and help resolve any impediments to progress. Understanding the Scrum framework and actively participating in Scrum ceremonies will enable you to support the teams effectively and ensure that they stay focused on delivering value to customers. By fostering a collaborative environment, you will enhance the effectiveness of Scrum practices and contribute to the successful delivery of products.\nBy mastering this collaboration, you will empower your teams to work more efficiently and achieve their goals.",
                             "content_instructions": {
@@ -582,17 +937,29 @@
                     ]
                 },
                 {
-                    "id": "iterating_based_on_product_performance",
+                    "id": "56bfe037-7835-54b9-8bbf-575c679fe4d3",
+                    "parent_id": "31a5448f-c23e-5681-b7ad-0be19a6c00db",
                     "type": "module",
                     "title": "Iterating Based on Product Performance",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 24,
+                    "length_in_days": 1,
+                    "action": "Learn how to leverage product performance data for iterative improvements.",
+                    "description": "Utilizing product performance data to enhance offerings and drive continuous improvement.",
+                    "content_instructions": {
+                        "role": "professional data-driven product manager",
+                        "topic": "Overview of how product performance data is used to inform product iterations."
+                    },
                     "icon": "logo_28",
                     "children": [
                         {
-                            "id": "overview_of_how_product_performance_data_is_used_to_inform_product_iterations",
+                            "id": "a6cf87c1-acd0-57ce-a536-0eafa43e6e1e",
+                            "parent_id": "56bfe037-7835-54b9-8bbf-575c679fe4d3",
                             "type": "action",
-                            "end_of_day": 24,
                             "title": "Overview of how product performance data is used to inform product iterations.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 24,
+                            "length_in_days": 1,
                             "action": "Learn how to leverage product performance data for iterative improvements.",
                             "description": "Leveraging product performance data is essential for driving iterative improvements and optimizing product offerings. As CPO, you will need to analyze data related to user engagement, feature usage, and customer feedback to identify areas for enhancement. This data-driven approach allows you to make informed decisions that align with user needs and market demands. Regularly reviewing performance metrics and integrating insights into the product development cycle will facilitate continuous improvement and innovation.\nBy mastering this iterative process, you will ensure that your products evolve in response to customer feedback and performance metrics, leading to higher satisfaction and engagement.",
                             "content_instructions": {
@@ -606,24 +973,45 @@
             ]
         },
         {
-            "id": "team_management_and_structure_at_our_company",
+            "id": "6544bfa8-465c-5651-97e5-41927af93a70",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Team Management and Structure at Our Company",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 27,
-            "icon": "logo_18",
+            "length_in_days": 3,
+            "action": "Review the strategies for structuring product teams effectively.",
+            "description": "Effective team management enhances collaboration and drives innovation within product teams.",
+            "content_instructions": {
+                "role": "professional team structure consultant",
+                "topic": "Learn how product teams are structured for efficient collaboration and innovation."
+            },
+            "icon": "logo_2",
             "children": [
                 {
-                    "id": "structuring_product_teams",
+                    "id": "842c13c9-90f4-52e0-ba60-691c07ad05b7",
+                    "parent_id": "6544bfa8-465c-5651-97e5-41927af93a70",
                     "type": "module",
                     "title": "Structuring Product Teams",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 25,
+                    "length_in_days": 1,
+                    "action": "Review the strategies for structuring product teams effectively.",
+                    "description": "Effective structuring of product teams fosters collaboration and drives innovation.",
+                    "content_instructions": {
+                        "role": "professional team structure consultant",
+                        "topic": "Learn how product teams are structured for efficient collaboration and innovation."
+                    },
                     "icon": "logo_18",
                     "children": [
                         {
-                            "id": "learn_how_product_teams_are_structured_for_efficient_collaboration_and_innovation",
+                            "id": "e9de90da-7e6b-5574-bd08-1b1b8a29601e",
+                            "parent_id": "842c13c9-90f4-52e0-ba60-691c07ad05b7",
                             "type": "action",
-                            "end_of_day": 25,
                             "title": "Learn how product teams are structured for efficient collaboration and innovation.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 25,
+                            "length_in_days": 1,
                             "action": "Review the strategies for structuring product teams effectively.",
                             "description": "Structuring product teams effectively is crucial for fostering collaboration and driving innovation. As CPO, you will need to assess team dynamics, skill sets, and project requirements to determine the best structure for your teams. This involves creating cross-functional teams that encourage collaboration between product management, design, and engineering, as well as ensuring clear roles and responsibilities. By optimizing team structures, you can enhance communication, streamline workflows, and drive successful product outcomes.\nBy mastering this structuring process, you will empower your teams to work together more effectively and innovate continuously.",
                             "content_instructions": {
@@ -635,17 +1023,29 @@
                     ]
                 },
                 {
-                    "id": "promoting_cross_functional_collaboration",
+                    "id": "82d1f62b-aae5-55a2-b2d8-336d6d5d0ea6",
+                    "parent_id": "6544bfa8-465c-5651-97e5-41927af93a70",
                     "type": "module",
                     "title": "Promoting Cross-functional Collaboration",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 26,
+                    "length_in_days": 1,
+                    "action": "Explore best practices for promoting cross-functional collaboration.",
+                    "description": "Fostering collaboration enhances innovation and aligns teams towards common objectives.",
+                    "content_instructions": {
+                        "role": "professional collaboration facilitator",
+                        "topic": "Understand how to foster cross-functional collaboration across product, engineering, and marketing teams."
+                    },
                     "icon": "logo_21",
                     "children": [
                         {
-                            "id": "understand_how_to_foster_cross_functional_collaboration_across_product_engineering_and_marketing_teams",
+                            "id": "cdda30d9-f721-5986-b306-f35c437e358c",
+                            "parent_id": "82d1f62b-aae5-55a2-b2d8-336d6d5d0ea6",
                             "type": "action",
-                            "end_of_day": 26,
                             "title": "Understand how to foster cross-functional collaboration across product, engineering, and marketing teams.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 26,
+                            "length_in_days": 1,
                             "action": "Explore best practices for promoting cross-functional collaboration.",
                             "description": "Promoting cross-functional collaboration is essential for successful product development. As CPO, you will need to create an environment that encourages open communication, shared goals, and mutual respect among different teams. This involves organizing joint workshops, regular check-ins, and collaborative planning sessions to ensure that all teams are aligned and working towards common objectives. By fostering this collaboration, you can enhance innovation and ensure that all perspectives are considered in the product development process.\nBy mastering these collaboration practices, you will create a unified team culture that drives successful product outcomes.",
                             "content_instructions": {
@@ -657,17 +1057,29 @@
                     ]
                 },
                 {
-                    "id": "developing_product_leadership",
+                    "id": "6eb9c850-68c3-502e-b424-0a51de41e904",
+                    "parent_id": "6544bfa8-465c-5651-97e5-41927af93a70",
                     "type": "module",
                     "title": "Developing Product Leadership",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 27,
+                    "length_in_days": 1,
+                    "action": "Learn the strategies for nurturing leadership within product teams.",
+                    "description": "Leadership development in product teams is vital for long-term success and sustainability.",
+                    "content_instructions": {
+                        "role": "professional leadership development coach",
+                        "topic": "Overview of how leadership is developed within the product team for long-term success."
+                    },
                     "icon": "logo_49",
                     "children": [
                         {
-                            "id": "overview_of_how_leadership_is_developed_within_the_product_team_for_long_term_success",
+                            "id": "f81a650d-10da-5968-b515-233efd211084",
+                            "parent_id": "6eb9c850-68c3-502e-b424-0a51de41e904",
                             "type": "action",
-                            "end_of_day": 27,
                             "title": "Overview of how leadership is developed within the product team for long-term success.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 27,
+                            "length_in_days": 1,
                             "action": "Learn the strategies for nurturing leadership within product teams.",
                             "description": "Developing leadership within product teams is crucial for ensuring long-term success and sustainability. As CPO, you will need to identify potential leaders within your teams and provide them with opportunities for growth, mentorship, and skill development. This involves creating a culture of feedback, encouraging ownership of projects, and providing access to leadership training and resources. By nurturing leadership skills, you can empower your team members to take initiative and drive product success.\nBy mastering these development strategies, you will cultivate a strong leadership pipeline that contributes to the overall effectiveness and innovation of your product teams.",
                             "content_instructions": {
@@ -681,24 +1093,45 @@
             ]
         },
         {
-            "id": "our_resource_allocation_and_budgeting_process",
+            "id": "45b321b2-092d-5b9d-bfb1-14c2d4942534",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Our Resource Allocation and Budgeting Process",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 30,
-            "icon": "logo_38",
+            "length_in_days": 3,
+            "action": "Review the processes involved in managing product budgets and resource allocation.",
+            "description": "Overview of resource allocation and budgeting for product development and innovation projects.",
+            "content_instructions": {
+                "role": "Chief Product Officer",
+                "topic": "Learn about managing budgets for product development and innovation projects."
+            },
+            "icon": "logo_25",
             "children": [
                 {
-                    "id": "managing_product_budgets",
+                    "id": "623fb0e8-5763-5981-8f5d-7064d9b9acd7",
+                    "parent_id": "45b321b2-092d-5b9d-bfb1-14c2d4942534",
                     "type": "module",
                     "title": "Managing Product Budgets",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 28,
+                    "length_in_days": 1,
+                    "action": "Review the processes involved in managing product budgets effectively.",
+                    "description": "Focus on budget allocation, expense tracking, and aligning spending with strategic objectives.",
+                    "content_instructions": {
+                        "role": "professional financial analyst",
+                        "topic": "Learn about managing budgets for product development and innovation projects."
+                    },
                     "icon": "logo_38",
                     "children": [
                         {
-                            "id": "learn_about_managing_budgets_for_product_development_and_innovation_projects",
+                            "id": "074896e2-78b9-5709-b054-8de05aaa3009",
+                            "parent_id": "623fb0e8-5763-5981-8f5d-7064d9b9acd7",
                             "type": "action",
-                            "end_of_day": 28,
                             "title": "Learn about managing budgets for product development and innovation projects.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 28,
+                            "length_in_days": 1,
                             "action": "Review the processes involved in managing product budgets effectively.",
                             "description": "Managing product budgets is a critical responsibility for the Chief Product Officer. This involves allocating resources to various initiatives, tracking expenses, and ensuring that spending aligns with strategic objectives. As CPO, you will need to establish clear budget guidelines, conduct regular reviews, and communicate budgetary needs to stakeholders. By mastering budget management, you can ensure that your product initiatives are adequately funded and aligned with the company's overall goals.\nBy understanding these budget management processes, you will enhance your ability to advocate for necessary resources and drive successful product outcomes.",
                             "content_instructions": {
@@ -710,17 +1143,29 @@
                     ]
                 },
                 {
-                    "id": "allocating_resources_for_r_d",
+                    "id": "311a0f8c-6df9-5fc0-abd5-e72af42d7d44",
+                    "parent_id": "45b321b2-092d-5b9d-bfb1-14c2d4942534",
                     "type": "module",
                     "title": "Allocating Resources for R&D",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 29,
+                    "length_in_days": 1,
+                    "action": "Explore the strategies for allocating resources to R&D projects.",
+                    "description": "Resource allocation for R&D is crucial for innovation and aligning with business goals.",
+                    "content_instructions": {
+                        "role": "professional R&D manager",
+                        "topic": "Understand how resources are allocated for R&D initiatives and innovation."
+                    },
                     "icon": "logo_19",
                     "children": [
                         {
-                            "id": "understand_how_resources_are_allocated_for_r_d_initiatives_and_innovation",
+                            "id": "11e4f80c-d926-57cf-affe-0f5ada1bc7fa",
+                            "parent_id": "311a0f8c-6df9-5fc0-abd5-e72af42d7d44",
                             "type": "action",
-                            "end_of_day": 29,
                             "title": "Understand how resources are allocated for R&D initiatives and innovation.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 29,
+                            "length_in_days": 1,
                             "action": "Explore the strategies for allocating resources to R&D projects.",
                             "description": "Allocating resources for research and development (R&D) initiatives is essential for fostering innovation and keeping pace with market trends. As CPO, you will need to evaluate potential R&D projects, assess their alignment with business goals, and allocate resources accordingly. This involves balancing short-term needs with long-term strategic objectives, ensuring that your teams have the necessary support to explore new ideas and drive product innovation. Regularly reviewing resource allocation strategies will help maintain alignment with evolving business priorities.\nBy mastering this resource allocation process, you will empower your teams to innovate effectively and contribute to the company's success.",
                             "content_instructions": {
@@ -732,17 +1177,29 @@
                     ]
                 },
                 {
-                    "id": "monitoring_product_development_costs",
+                    "id": "37e66081-3635-51ba-955f-cab62941eb42",
+                    "parent_id": "45b321b2-092d-5b9d-bfb1-14c2d4942534",
                     "type": "module",
                     "title": "Monitoring Product Development Costs",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 30,
+                    "length_in_days": 1,
+                    "action": "Learn the methods for monitoring and managing product development costs.",
+                    "description": "Tracking product development costs ensures projects remain within budget and deliver value.",
+                    "content_instructions": {
+                        "role": "professional financial controller",
+                        "topic": "Overview of how product development costs are tracked and managed"
+                    },
                     "icon": "logo_37",
                     "children": [
                         {
-                            "id": "overview_of_how_product_development_costs_are_tracked_and_managed",
+                            "id": "03a0ee1b-2edd-5bb2-b384-91689dcc6f5f",
+                            "parent_id": "37e66081-3635-51ba-955f-cab62941eb42",
                             "type": "action",
-                            "end_of_day": 30,
                             "title": "Overview of how product development costs are tracked and managed.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 30,
+                            "length_in_days": 1,
                             "action": "Learn the methods for monitoring and managing product development costs.",
                             "description": "Monitoring product development costs is essential for ensuring that projects stay within budget and deliver value. As CPO, you will need to establish processes for tracking expenses, analyzing cost variances, and reporting on budget performance. This involves collaborating with finance teams to implement robust tracking systems and regularly reviewing cost data to identify potential savings or areas of concern. By mastering these cost management strategies, you can ensure that your product initiatives are financially viable and aligned with the company's overall strategy.\nBy understanding these monitoring practices, you will enhance your ability to manage product development costs effectively and contribute to successful product outcomes.",
                             "content_instructions": {
@@ -756,24 +1213,45 @@
             ]
         },
         {
-            "id": "our_product_launch_strategy",
+            "id": "3592c633-914f-57b7-9d39-d63adf1b30a4",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Our Product Launch Strategy",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 31,
-            "icon": "logo_22",
+            "length_in_days": 1,
+            "action": "Review the comprehensive strategy for planning and executing product launches.",
+            "description": "A strategy for planning, coordinating, and iterating on product launches to ensure market success.",
+            "content_instructions": {
+                "role": "Chief Product Officer",
+                "topic": "Comprehensive overview of our product launch strategy."
+            },
+            "icon": "logo_4",
             "children": [
                 {
-                    "id": "planning_and_executing_product_launches",
+                    "id": "2d5fd488-ae29-5592-8881-3fa99c506553",
+                    "parent_id": "3592c633-914f-57b7-9d39-d63adf1b30a4",
                     "type": "module",
                     "title": "Planning and Executing Product Launches",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Review the processes for planning and executing product launches.",
+                    "description": "Understand the steps for successful product launches, including coordination and performance monitoring.",
+                    "content_instructions": {
+                        "role": "professional product launch manager",
+                        "topic": "Learn the steps involved in planning and executing successful product launches."
+                    },
                     "icon": "logo_22",
                     "children": [
                         {
-                            "id": "learn_the_steps_involved_in_planning_and_executing_successful_product_launches",
+                            "id": "7f951de7-9be2-5636-9a3c-4fc461819c9c",
+                            "parent_id": "2d5fd488-ae29-5592-8881-3fa99c506553",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn the steps involved in planning and executing successful product launches.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Review the processes for planning and executing effective product launches.",
                             "description": "Planning and executing product launches is a critical responsibility for the Chief Product Officer. This involves coordinating efforts across multiple teams, including product, marketing, and sales, to ensure a successful introduction to the market. Key steps include defining launch objectives, developing communication strategies, and monitoring performance post-launch to gather feedback. By mastering these launch processes, you will facilitate a smooth transition from development to market and enhance the chances of product success.\nBy understanding these steps, you will position your products for successful market entry and customer adoption.",
                             "content_instructions": {
@@ -785,17 +1263,29 @@
                     ]
                 },
                 {
-                    "id": "coordinating_cross_functional_launch_teams",
+                    "id": "04137acf-151d-5011-bc58-b382701cc66c",
+                    "parent_id": "3592c633-914f-57b7-9d39-d63adf1b30a4",
                     "type": "module",
                     "title": "Coordinating Cross-Functional Launch Teams",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Explore best practices for coordinating cross-functional teams during launches.",
+                    "description": "Coordination among teams is crucial for successful product launches through communication and collaboration.",
+                    "content_instructions": {
+                        "role": "professional launch coordinator",
+                        "topic": "Understand how cross-functional teams are coordinated during product launches."
+                    },
                     "icon": "logo_10",
                     "children": [
                         {
-                            "id": "understand_how_cross_functional_teams_are_coordinated_during_product_launches",
+                            "id": "e61cf986-d509-5748-9109-fc040468fa5e",
+                            "parent_id": "04137acf-151d-5011-bc58-b382701cc66c",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Understand how cross-functional teams are coordinated during product launches.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Explore best practices for coordinating cross-functional teams during launches.",
                             "description": "Coordinating cross-functional teams during product launches is essential for ensuring alignment and effective execution. As CPO, you will need to establish clear communication channels, set shared objectives, and foster collaboration among teams to drive successful launches. Regular check-ins, collaborative planning sessions, and post-launch reviews can enhance team coordination and ensure that everyone is on the same page. By mastering these coordination practices, you will facilitate seamless collaboration and drive successful product outcomes.\nBy understanding these best practices, you will empower your teams to work together effectively and achieve launch success.",
                             "content_instructions": {
@@ -807,17 +1297,29 @@
                     ]
                 },
                 {
-                    "id": "post_launch_feedback_and_iteration",
+                    "id": "b8815263-719a-58fa-a99d-3d02380b5063",
+                    "parent_id": "3592c633-914f-57b7-9d39-d63adf1b30a4",
                     "type": "module",
                     "title": "Post-Launch Feedback and Iteration",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Learn how to gather and analyze post-launch feedback for product iterations.",
+                    "description": "Post-launch feedback collection drives product improvement and aligns offerings with customer needs.",
+                    "content_instructions": {
+                        "role": "professional product feedback analyst",
+                        "topic": "Overview of how post-launch feedback is collected and used to iterate on the product."
+                    },
                     "icon": "logo_29",
                     "children": [
                         {
-                            "id": "overview_of_how_post_launch_feedback_is_collected_and_used_to_iterate_on_the_product",
+                            "id": "f97b98bb-5886-5086-a221-cdce7696c646",
+                            "parent_id": "b8815263-719a-58fa-a99d-3d02380b5063",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Overview of how post-launch feedback is collected and used to iterate on the product.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Learn how to gather and analyze post-launch feedback for product iterations.",
                             "description": "Collecting and analyzing post-launch feedback is essential for driving continuous improvement and ensuring that products meet customer needs. As CPO, you will need to establish processes for gathering feedback from various sources, including customer surveys, user testing, and sales data. This feedback should then be analyzed and integrated into product iterations to enhance features and address any issues that may arise. By mastering this feedback loop, you will foster a culture of continuous improvement and ensure that your products evolve based on user input.\nBy understanding these feedback processes, you will enhance your team's ability to respond to customer needs and drive product success.",
                             "content_instructions": {
@@ -831,24 +1333,45 @@
             ]
         },
         {
-            "id": "ongoing_learning_and_industry_trends_in_our_company_6",
+            "id": "7314a253-de53-5e69-bfc8-b21df19ccf07",
+            "parent_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "type": "section",
             "title": "Ongoing Learning and Industry Trends in Our Company",
+            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
             "end_of_day": 31,
-            "icon": "logo_36",
+            "length_in_days": 1,
+            "action": "Explore resources for staying informed about product management trends.",
+            "description": "Staying informed about product management trends is vital for relevance and innovation.",
+            "content_instructions": {
+                "role": "professional product management educator",
+                "topic": "Learn how to stay updated with the latest trends in product management and innovation."
+            },
+            "icon": "logo_16",
             "children": [
                 {
-                    "id": "staying_updated_with_product_management_trends",
+                    "id": "6785b0b0-f064-5452-acba-823e1a003a77",
+                    "parent_id": "7314a253-de53-5e69-bfc8-b21df19ccf07",
                     "type": "module",
                     "title": "Staying Updated with Product Management Trends",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 31,
+                    "length_in_days": 1,
+                    "action": "Explore resources for staying informed about product management trends.",
+                    "description": "Engage with industry publications and networks to stay informed about product management trends.",
+                    "content_instructions": {
+                        "role": "professional product management educator",
+                        "topic": "Learn how to stay updated with the latest trends in product management and innovation."
+                    },
                     "icon": "logo_36",
                     "children": [
                         {
-                            "id": "learn_how_to_stay_updated_with_the_latest_trends_in_product_management_and_innovation",
+                            "id": "783b0556-73de-5664-99ef-13d49e09c199",
+                            "parent_id": "6785b0b0-f064-5452-acba-823e1a003a77",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Learn how to stay updated with the latest trends in product management and innovation.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 31,
+                            "length_in_days": 1,
                             "action": "Explore resources for staying informed about product management trends.",
                             "description": "Staying updated with the latest trends in product management is crucial for ensuring that your strategies remain relevant and effective. This involves actively engaging with industry publications, attending conferences, and participating in professional networks to gather insights on emerging trends, best practices, and innovative approaches. As CPO, fostering a culture of continuous learning within your team will enhance your collective ability to respond to market changes and drive product innovation.\nBy mastering these practices, you will position yourself and your team as industry leaders who are well-informed and proactive in adapting to new developments.",
                             "content_instructions": {
@@ -860,17 +1383,29 @@
                     ]
                 },
                 {
-                    "id": "product_management_certifications_and_training",
+                    "id": "852a4435-6ce8-534d-a4b5-21518badd548",
+                    "parent_id": "7314a253-de53-5e69-bfc8-b21df19ccf07",
                     "type": "module",
                     "title": "Product Management Certifications and Training",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Review the certifications and training programs available for professional development.",
+                    "description": "Overview of training programs and certifications for product managers to enhance skills and career growth.",
+                    "content_instructions": {
+                        "role": "professional development coordinator",
+                        "topic": "Overview of certifications and training opportunities available for product managers."
+                    },
                     "icon": "logo_7",
                     "children": [
                         {
-                            "id": "overview_of_certifications_and_training_opportunities_available_for_product_managers",
+                            "id": "7f620f6d-1205-56bf-99c0-1e5de39a6523",
+                            "parent_id": "852a4435-6ce8-534d-a4b5-21518badd548",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Overview of certifications and training opportunities available for product managers.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Review the certifications and training programs available for professional development.",
                             "description": "Engaging in certifications and training programs is essential for personal and professional growth in product management. As CPO, you will need to identify relevant programs that align with your career goals and those of your team members. These programs can range from formal certifications in Agile methodologies to training in data analysis and user experience design. By prioritizing continuous education, you will enhance your team's skills and ensure they are equipped to tackle the evolving challenges of product management.\nBy mastering these educational opportunities, you will foster a culture of growth and development that contributes to the success of your product initiatives.",
                             "content_instructions": {
@@ -882,17 +1417,29 @@
                     ]
                 },
                 {
-                    "id": "attending_industry_conferences_and_workshops",
+                    "id": "eb86ae2e-9490-567d-b92e-1c662ffff5e8",
+                    "parent_id": "7314a253-de53-5e69-bfc8-b21df19ccf07",
                     "type": "module",
                     "title": "Attending Industry Conferences and Workshops",
+                    "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
                     "end_of_day": 31,
+                    "length_in_days": 0,
+                    "action": "Learn about the benefits of participating in industry events.",
+                    "description": "Attending industry conferences enhances knowledge and expands professional networks.",
+                    "content_instructions": {
+                        "role": "professional conference organizer",
+                        "topic": "Understand the value of attending industry conferences and workshops for continued learning."
+                    },
                     "icon": "logo_16",
                     "children": [
                         {
-                            "id": "understand_the_value_of_attending_industry_conferences_and_workshops_for_continued_learning",
+                            "id": "c617b99a-2271-5adb-a48a-baaac7c09e65",
+                            "parent_id": "eb86ae2e-9490-567d-b92e-1c662ffff5e8",
                             "type": "action",
-                            "end_of_day": 31,
                             "title": "Understand the value of attending industry conferences and workshops for continued learning.",
+                            "root_id": "da2fb91f-ce38-52e7-8e31-68fd87cd2a28",
+                            "end_of_day": 31,
+                            "length_in_days": 0,
                             "action": "Learn about the benefits of participating in industry events.",
                             "description": "Attending industry conferences and workshops is a valuable opportunity for networking, learning, and sharing insights with peers. As CPO, participating in these events allows you to stay informed about the latest trends, tools, and strategies in product management. It also provides a platform to connect with other professionals, share experiences, and explore potential collaborations. By prioritizing attendance at these events, you will enhance your knowledge and broaden your professional network, ultimately benefiting your product initiatives and the organization as a whole.\nBy understanding these benefits, you will encourage your team to actively engage in industry events and foster a culture of continuous learning and professional development.",
                             "content_instructions": {
