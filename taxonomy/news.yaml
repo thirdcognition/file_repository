@@ -98,11 +98,11 @@ plants:
 politics:
   title: Politics
   definition:
-    The activities and functions of a governing body, the administration
-    of its internal and external affairs, and the political issues that governments
-    confront. Includes governance of political entities at all levels (country, state,
-    city, etc.), and all government branches (executive, judicial, legislative, military,
-    law enforcement). Also includes international governing bodies such as the UN.
+    The governance and administration of political entities at all levels,
+    including countries, states, and cities. Encompasses the functions of government
+    branches (executive, judicial, legislative, military, law enforcement) and international
+    organizations like the UN. Also includes the challenges and issues faced by governments
+    in managing internal and external affairs.
 religion:
   title: Religion
   definition:
@@ -3416,6 +3416,13 @@ intellectual_property:
   definition:
     Any intangible asset that is a product of human intellect and creativity.
     Examples include software, literary and art work, music, invention, etc.
+international_politics:
+  title: International Politics
+  parent: politics
+  definition:
+    The interactions, policies, and relationships between nations and international
+    organizations. Includes diplomacy, treaties, global governance, and the resolution
+    of conflicts on a global scale.
 international_agreements:
   title: International agreements
   parent: politics
