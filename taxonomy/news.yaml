@@ -21,12 +21,30 @@ climate_and_environment:
 crime:
   title: Crime
   definition: Acts that violate established laws.
+culture:
+  title: Culture
+  definition:
+    The shared beliefs, practices, arts, and social behaviors of a particular
+    society or group. Includes topics related to traditions, customs, and the influence
+    of cultural movements on society.
+economy:
+  title: Economy
+  definition:
+    All production, consumption, commercial, industrial and financial activities
+    affecting regions and countries as a whole.
 education:
   title: Education
   definition:
     The processes of teaching and learning in an institutional setting,
     including all topics related to the establishment and management of educational
     institutions.
+entertainment:
+  title: Entertainment
+  definition:
+    All forms of visual and performing arts, design arts, books and literature,
+    film and television, music, and popular entertainment. Refers primarily to the
+    art and entertainment itself and to those who create, perform, or interpret it.
+    For business contexts, see "Media and entertainment industry".
 general_news:
   title: General news
   definition:
@@ -65,13 +83,6 @@ law_and_order:
     The activities, processes and institutions involved in the enforcement
     and interpretation of civil or international law, including court proceedings,
     police, and criminal punishment.
-lifestyle:
-  title: Lifestyle
-  parent: culture
-  definition:
-    The way a person lives, including interests, attitudes, personal and
-    domestic style, values, relationships, hobbies, recreation, travel, personal care
-    and grooming, and day-to-day activities.
 local_news:
   title: Local News
   definition:
@@ -1772,12 +1783,6 @@ cultural_preservation:
   definition:
     Efforts to preserve cultural artifacts, including buildings, art, crafts,
     language, folklore, traditions, and collective memory.
-culture:
-  title: Culture
-  definition:
-    The shared beliefs, practices, arts, and social behaviors of a particular
-    society or group. Includes topics related to traditions, customs, and the influence
-    of cultural movements on society.
 curling:
   title: Curling
   parent: sports
@@ -2216,12 +2221,6 @@ economic_policy:
   definition:
     The actions of a national, state or local government to influence its
     economy. Includes policy creation and implementation of economic policy.
-economy:
-  title: Economy
-  parent: business
-  definition:
-    All production, consumption, commercial, industrial and financial activities
-    affecting regions and countries as a whole.
 education_costs:
   title: Education costs
   parent: education
@@ -2307,13 +2306,6 @@ engineering:
   definition:
     The application of scientific and mathematical principles to design,
     build, and maintain structures, machines, and systems.
-entertainment:
-  title: Entertainment
-  definition:
-    All forms of visual and performing arts, design arts, books and literature,
-    film and television, music, and popular entertainment. Refers primarily to the
-    art and entertainment itself and to those who create, perform, or interpret it.
-    For business contexts, see "Media and entertainment industry".
 entrepreneurship:
   title: Entrepreneurship
   parent: business
@@ -3694,6 +3686,13 @@ liberalism:
     humans and the autonomy of the individual and favoring civil and political liberties,
     government by law with the consent of the governed, and protection from arbitrary
     authority.
+lifestyle:
+  title: Lifestyle
+  parent: culture
+  definition:
+    The way a person lives, including interests, attitudes, personal and
+    domestic style, values, relationships, hobbies, recreation, travel, personal care
+    and grooming, and day-to-day activities.
 lions:
   title: Lions
   parent: animals

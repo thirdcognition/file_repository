@@ -122,12 +122,12 @@ def alert_missing_parents(data):
 
 # Example usage
 file_path = "../../taxonomy/news.yaml"
-# read_with_callback(file_path, sort)
+read_with_callback(file_path, sort)
 # file_path = "../../taxonomy/news-ed-ed.yaml"
 # read_with_callback(file_path, alert_missing_parents)
-read_with_callback(
-    file_path,
-    lambda data: split_and_save_categories(
-        data, output_dir="../../taxonomy/categories"
-    ),
-)
+# read_with_callback(
+#     file_path,
+#     lambda data: split_and_save_categories(
+#         data, output_dir="../../taxonomy/categories"
+#     ),
+# )
