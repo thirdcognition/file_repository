@@ -1,6 +1,6 @@
 # File repository
-For storing different files, information and data, e.g. llm structures, prompts etc.
 
+For storing different files, information and data, e.g. llm structures, prompts etc.
 
 ## Folder structure
 
